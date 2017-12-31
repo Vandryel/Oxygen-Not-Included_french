@@ -50,7 +50,7 @@ msgid ""
 msgstr ""
 "Cette porte a accordé des autorisations d'accès d'urgence\n"
 "------------------\n"
-"Tout les Duplicants peuvent passer jusqu'à ce que l'électricité soit remit"
+"Tous les Duplicants peuvent passer jusqu'à ce que l'électricité soit remit"
 
 #. STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NAME"
@@ -86,7 +86,7 @@ msgstr "Attribué à : Public"
 #. STRINGS.BUILDING.STATUSITEMS.ASSIGNEDPUBLIC.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ASSIGNEDPUBLIC.TOOLTIP"
 msgid "Any Duplicant can use this amenity"
-msgstr "Tout les Duplicant peuvent utiliser cet équipement"
+msgstr "Tous les Duplicant peuvent utiliser cet équipement"
 
 #. STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.NAME"
@@ -4614,7 +4614,7 @@ msgid ""
 "night, every cycle."
 msgstr ""
 "Les Senseurs Horaires s'assure que le système s'allume toujours en même "
-"temps la nuit ou le jour, tout les cycles."
+"temps la nuit ou le jour, tous les cycles."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICTIMEOFDAYSENSOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICTIMEOFDAYSENSOR.EFFECT"
@@ -9988,7 +9988,7 @@ msgid ""
 "------------------\n"
 "Each time they vomit, they will release {1} and lose calories"
 msgstr ""
-"Ce Duplicant vomira approximativement tout les {0}\n"
+"Ce Duplicant vomira approximativement tous les {0}\n"
 "------------------\n"
 "Chaque fois qu'il vomit, il relâchera {1} et perdra des calories"
 
@@ -10251,7 +10251,7 @@ msgid ""
 "------------------\n"
 "Each time they cough, they will release {1}"
 msgstr ""
-"Ce Duplicant toussera approximativement tout les {0}\n"
+"Ce Duplicant toussera approximativement tous les {0}\n"
 "------------------\n"
 "Chaque fois qu'il tousse, il relâchera {1}"
 
@@ -12752,7 +12752,7 @@ msgstr "Inhale {ConsumptionRate} O<sub>2</sub>"
 #. STRINGS.DUPLICANTS.STATUSITEMS.BREATHINGO2.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BREATHINGO2.TOOLTIP"
 msgid "Duplicants require oxygen to live"
-msgstr "Tout les Duplicants ont besoin d'oxygène pour vivre"
+msgstr "Tous les Duplicants ont besoin d'oxygène pour vivre"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BUILDDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BUILDDELIVERSTATUS.NAME"
@@ -12976,7 +12976,7 @@ msgid ""
 "• <style=\"produced\">+2</style> to all Attributes"
 msgstr ""
 "Ce Duplicant est motivé pour démarrer la journée\n"
-"• <style=\"produced\">+2</style> à tout les Attributs"
+"• <style=\"produced\">+2</style> à tous les Attributs"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EATDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EATDELIVERSTATUS.NAME"
@@ -13006,7 +13006,7 @@ msgstr "Exhale {EmittingRate} CO<sub>2</sub>"
 #. STRINGS.DUPLICANTS.STATUSITEMS.EMITTINGCO2.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EMITTINGCO2.TOOLTIP"
 msgid "Duplicants breathe out carbon dioxide"
-msgstr "Tout les Duplicants expirent du dioxyde de carbone"
+msgstr "Tous les Duplicants expirent du dioxyde de carbone"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EMPTYING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EMPTYING.NAME"
@@ -13474,7 +13474,7 @@ msgid ""
 "• <style=\"produced\">+2</style> to all Attributes"
 msgstr ""
 "Ce Duplicant est passionné par la nuit\n"
-"• <style=\"produced\">+2</style> à tout les Attributs"
+"• <style=\"produced\">+2</style> à tous les Attributs"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOISEMAJOR.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOISEMAJOR.NAME"
@@ -14559,7 +14559,7 @@ msgid ""
 "• Morning: <style=\"produced\">{0}</style> bonus to all skills\n"
 "• Evening: Bonuses removed"
 msgstr ""
-"• Matin: Ajoute <style=\"produced\">{0}</style> à tout les talents\n"
+"• Matin: Ajoute <style=\"produced\">{0}</style> à tous les talents\n"
 "• Soir: Bonus supprimés"
 
 #. STRINGS.DUPLICANTS.TRAITS.EARLYBIRD.NAME
@@ -18742,7 +18742,7 @@ msgid ""
 "Thank-you and have fun!\n"
 "-Admin"
 msgstr ""
-"A tout les employés;\n"
+"A tous les employés;\n"
 "\n"
 "L'installation est heureuse d'annoncer qu'à partir de cette semaine, tous "
 "les vendredis seront maintenant des Vendredi Décontractés!\n"
@@ -28328,7 +28328,7 @@ msgstr ""
 "La machine a tenté de modifier ce Duplicant, mais il n'y a pas "
 "d'amélioration à la perfection.\n"
 "\n"
-"<b>{0}</b>  a déjà tout les talents!"
+"<b>{0}</b>  a déjà tous les talents!"
 
 #. STRINGS.UI.GENESHUFFLERMESSAGE.BODY_SUCCESS
 msgctxt "STRINGS.UI.GENESHUFFLERMESSAGE.BODY_SUCCESS"
