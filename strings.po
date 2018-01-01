@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2018-01-01 18:21+0100\n"
+"PO-Revision-Date: 2018-01-01 19:15+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
@@ -7543,7 +7543,8 @@ msgstr "    •Fertilisation"
 #. STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.TOOLTIP"
 msgid "Growth will resume when fertilization requirements are met"
-msgstr "La croissance reprendra quand le besoin de fertilisant sera satisfait"
+msgstr ""
+"La croissance reprendra quand les besoins en fertilisant seront satisfaits"
 
 #. STRINGS.CREATURES.STATUSITEMS.NEEDSIRRIGATION.LINE_ITEM
 msgctxt "STRINGS.CREATURES.STATUSITEMS.NEEDSIRRIGATION.LINE_ITEM"
@@ -7562,7 +7563,7 @@ msgstr "    • Irrigation"
 #. STRINGS.CREATURES.STATUSITEMS.NEEDSIRRIGATION.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.NEEDSIRRIGATION.TOOLTIP"
 msgid "Growth will resume when liquid requirements are met"
-msgstr "La croissance reprendra quand le besoin de liquide sera satisfait"
+msgstr "La croissance reprendra quand les besoins en liquide seront satisfaits"
 
 #. STRINGS.CREATURES.STATUSITEMS.NORMAL_YIELD.LINE_ITEM
 msgctxt "STRINGS.CREATURES.STATUSITEMS.NORMAL_YIELD.LINE_ITEM"
@@ -7580,7 +7581,7 @@ msgid ""
 "Comfortable conditions allowed this plant to produce a better yield\n"
 "{Effects}"
 msgstr ""
-"De meilleurs condition ont permis à cette plante d'avoir un meilleur "
+"De meilleures conditions ont permis à cette plante d'avoir un meilleur "
 "rendement\n"
 "{Effects}"
 
@@ -7598,7 +7599,7 @@ msgid ""
 msgstr ""
 "Cette créature se sent bien dans la pression atmosphérique actuelle\n"
 "\n"
-"Idéal: {0} - {1}"
+"Amplitude Idéale: {0} - {1}"
 
 #. STRINGS.CREATURES.STATUSITEMS.PERFECTTEMPERATURE.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.PERFECTTEMPERATURE.NAME"
@@ -7614,7 +7615,7 @@ msgid ""
 msgstr ""
 "Cette créature se sent bien avec la température actuelle\n"
 "\n"
-"Idéal: {0} - {1}"
+"Amplitude Idéale: {0} - {1}"
 
 #. STRINGS.CREATURES.STATUSITEMS.PLANTDEATH.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.PLANTDEATH.NAME"
@@ -7644,24 +7645,24 @@ msgstr "Récolte prête"
 #. STRINGS.CREATURES.STATUSITEMS.READYFORHARVEST.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.READYFORHARVEST.TOOLTIP"
 msgid "This plant can be harvested for materials"
-msgstr "Les matériaux de cette plante peuvent être récoltés"
+msgstr "Cette plante peut être récoltée pour ses matériaux"
 
 #. STRINGS.CREATURES.STATUSITEMS.RECEPTACLEINOPERATIONAL.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.RECEPTACLEINOPERATIONAL.NAME"
 msgid "    • Farm plot inoperable"
-msgstr "    • Jardinière inopérable"
+msgstr "    • Parcelle agricole inexploitable"
 
 #. STRINGS.CREATURES.STATUSITEMS.RECEPTACLEINOPERATIONAL.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.RECEPTACLEINOPERATIONAL.TOOLTIP"
 msgid "This farm plot cannot grow plants in its current state"
 msgstr ""
-"Cette parcelle agricole ne peut pas faire pousser de plante dans son état "
-"actuel"
+"Cette parcelle agricole ne permet pas de faire pousser de plante "
+"dans son état actuel"
 
 #. STRINGS.CREATURES.STATUSITEMS.RECEPTACLEOPERATIONAL.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.RECEPTACLEOPERATIONAL.NAME"
 msgid "Farm plot operational"
-msgstr "Parcelle agricole est opérationnelle"
+msgstr "Parcelle agricole opérationnelle"
 
 #. STRINGS.CREATURES.STATUSITEMS.RECEPTACLEOPERATIONAL.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.RECEPTACLEOPERATIONAL.TOOLTIP"
@@ -7677,8 +7678,8 @@ msgstr "Réfrigéré"
 msgctxt "STRINGS.CREATURES.STATUSITEMS.REFRIGERATED.TOOLTIP"
 msgid "Ideal temperature storage is slowing this food's decay rate"
 msgstr ""
-"La température idéale de ce stockage ralentie la détérioration de la "
-"nourriture"
+"La température idéale de ce rangement ralentit la dégradation de "
+"la nourriture"
 
 #. STRINGS.CREATURES.STATUSITEMS.SCALDING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SCALDING.NAME"
@@ -7722,7 +7723,7 @@ msgstr "Pourri"
 #. STRINGS.CREATURES.STATUSITEMS.SPOILED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SPOILED.TOOLTIP"
 msgid "This food has putrefied and should not be consumed"
-msgstr "Cette nourriture est moisie et ne devrait pas être consommée"
+msgstr "Cette nourriture a pourri et ne devrait pas être consommée"
 
 #. STRINGS.CREATURES.STATUSITEMS.STALE.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.STALE.NAME"
@@ -7735,7 +7736,7 @@ msgid ""
 "This food is still edible but will soon expire\n"
 "{RotTooltip}"
 msgstr ""
-"Cette nourriture reste comestible mais plus pour longtemps\n"
+"Cette nourriture est encore comestible mais plus pour longtemps\n"
 "{RotTooltip}"
 
 #. STRINGS.CREATURES.STATUSITEMS.STERILIZINGATMOSPHERE.NAME
@@ -7771,7 +7772,7 @@ msgstr "Cette créature ne peut pas respirer"
 #. STRINGS.CREATURES.STATUSITEMS.TIRED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.TIRED.NAME"
 msgid "Fatigued"
-msgstr "Fatigué"
+msgstr "Épuisé"
 
 #. STRINGS.CREATURES.STATUSITEMS.TIRED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.TIRED.TOOLTIP"
@@ -7786,7 +7787,7 @@ msgstr "Piégé"
 #. STRINGS.CREATURES.STATUSITEMS.TRAPPED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.TRAPPED.TOOLTIP"
 msgid "This creature is contained and cannot move"
-msgstr "Cette créature est enfermé et ne peut plus bougé"
+msgstr "Cette créature est enfermée et ne peut plus bouger"
 
 #. STRINGS.CREATURES.STATUSITEMS.UNREFRIGERATED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.UNREFRIGERATED.NAME"
@@ -7840,7 +7841,7 @@ msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGATMOSPHERE.TOOLTIP"
 msgid ""
 "Growth will resume when submersed in one of the following gases: {elements}"
 msgstr ""
-"La croissance reprendra lors de l'immersion dans l'un des gaz suivants: "
+"La croissance reprendra après immersion dans un des gaz suivants: "
 "{elements}"
 
 #. STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZER.LINE_ITEM
@@ -7854,13 +7855,14 @@ msgid "    • Fertilization"
 msgstr "    • Fertilisation"
 
 #. STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZER.TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZER.TOOLTIP"
 msgid ""
 "This farm is storing materials that are not suitable for this plant\n"
 "------------------\n"
 "Empty this building's storage to remove the unusable materials"
 msgstr ""
-"Cette ferme stocke des matériaux qui ne conviennent pas à cette plante\n"
+"Cette ferme stocke des matériaux qui ne conviennent pas pour cette plante\n"
 "------------------\n"
 "Videz le stockage de cette structure pour enlever les matériaux inutilisables"
 
@@ -7971,17 +7973,18 @@ msgstr "Détermine la vitesse de déplacement des Duplicants."
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.NAME"
 msgid "Athletics"
-msgstr "Athlétisme"
+msgstr "Athlétiques"
 
+# Pourrait être "Coursier" également. A voir avec le contexte.
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.PROFESSION_NAME"
 msgid "Runner"
-msgstr "Sprinter"
+msgstr "Coureur"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.SPEEDMODIFIER"
 msgid "{0} Runspeed"
-msgstr "{0} Vitesse de déplacement"
+msgstr "{0} Vitesse de course"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.BASE_VALUE
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BASE_VALUE"
@@ -7995,9 +7998,10 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.BLADDERDELTA.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BLADDERDELTA.NAME"
 msgid "Bladder Change"
-msgstr "Evolution de la Vessie"
+msgstr "Volume de la Vessie"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.BOTANIST.DESC
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BOTANIST.DESC"
 msgid "Determines a Duplicant's farming aptitude."
 msgstr "Détermine la vitesse agricole des Duplicants."
@@ -8029,12 +8033,12 @@ msgstr "Respiration"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CALORIESDELTA.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CALORIESDELTA.NAME"
 msgid "Calories Change Rate"
-msgstr "Taux d'Evolution Calorique"
+msgstr "Taux d'Évolution Calorique"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.DESC"
 msgid "Determines a Duplicant's building speed."
-msgstr "Détermine la vitesse de construction des Duplicants."
+msgstr "Détermine la vitesse de construction d'un Duplicant."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.NAME"
@@ -8055,7 +8059,7 @@ msgstr "{0}  Vitesse de Construction"
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.DESC"
 msgid "Determines how quickly a Duplicant cooks <style=\"food\">Food</style>."
 msgstr ""
-"Détermine à quelle vitesse un Duplicant cuisine de la <style=\"food"
+"Détermine à quelle vitesse à laquelle un Duplicant cuisine de la <style=\"food"
 "\">Nourriture</style>."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.NAME
@@ -8080,7 +8084,7 @@ msgid ""
 "\">Stress</style> and their opinion of their surroundings."
 msgstr ""
 "Le <style=\"decor\">Décor</style> détermine le <style=\"decor\">Stress</"
-"style> du Duplicant et leur opinion sur leurs environnements."
+"style> du Duplicant et leur opinion sur leur environnement."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECOR.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECOR.NAME"
@@ -8099,17 +8103,17 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECOREXPECTATION.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECOREXPECTATION.NAME"
 msgid "Decor Expectation"
-msgstr "Esthetisme"
+msgstr "Esthétisme"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECORRADIUS.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECORRADIUS.DESC"
 msgid "Distance of a item's <style=\"decor\">Decor</style> effect."
-msgstr "Distance d'effet d'un objet de <style=\"decor\">Décor</style>."
+msgstr "Distance d'effet d'un objet de <style=\"decor\">Décoration</style>."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECORRADIUS.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECORRADIUS.NAME"
 msgid "Decor Radius"
-msgstr "Rayon de Decor"
+msgstr "Rayon de Décor"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.DESC"
@@ -8137,13 +8141,14 @@ msgid ""
 "The bonus granted by this building is increased when a Duplicant is "
 "available to provide aid"
 msgstr ""
-"Le bonus accordé par ce bâtiment est augmenté lorsqu'un duplicateur est "
+"Le bonus accordé par ce bâtiment est augmenté lorsqu'un Duplicant est "
 "disponible pour fournir de l'aide"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DISEASECURESPEED.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DISEASECURESPEED.NAME"
 msgid "<style=\"disease\">Disease</style> Recovery Speed Bonus"
-msgstr "<style =\"disease\"> Maladie </style> Bonus de vitesse de récupération"
+msgstr ""
+"Bonus de vitesse de récupération d'une <style =\"disease\">Maladie</style>"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DOCTOREDLEVEL.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DOCTOREDLEVEL.DESC"
@@ -8154,14 +8159,14 @@ msgid ""
 "This effect reduces Disease symptoms"
 msgstr ""
 "Les Duplicants qui reçoivent un traitement dans un lit médical ou une "
-"chambre pharmaceutique obtiendront l'effet «soins reçu»\n"
+"chambre pharmaceutique obtiendront l'effet « Soins Reçus »\n"
 "\n"
 "Cet effet réduit les symptômes de la maladie"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DOCTOREDLEVEL.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DOCTOREDLEVEL.NAME"
 msgid "<style=\"misc\">Aid Received</style> Effect"
-msgstr "<style=\"misc\">Soin Reçu</style> Effect"
+msgstr "Effet <style=\"misc\">Soins Reçus</style>"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.FATALTEMPERATURE.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.FATALTEMPERATURE.DESC"
@@ -8170,7 +8175,7 @@ msgid ""
 "functionality and take damage"
 msgstr ""
 "Un bâtiment à <style=\"heat\">température</style> de fusion perdra ses "
-"fonctionnalités et prendra des dégâts"
+"fonctionnalités et subira des dommages"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.FATALTEMPERATURE.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.FATALTEMPERATURE.NAME"
@@ -8183,14 +8188,14 @@ msgid ""
 "Not meeting a Duplicant's <style=\"food\">Food</style> expectations will "
 "increase their <style=\"stress\">Stress</style>."
 msgstr ""
-"Les Duplicants qui ne remplissent pas leurs besoin de <style=\"food"
+"Les Duplicants qui ne remplissent pas leurs besoins en <style=\"food"
 "\">Nourriture</style> verront leur <style=\"stress\">Stress</style> "
 "augmenter."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.FOODEXPECTATION.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.FOODEXPECTATION.NAME"
 msgid "Food Quality Expectation"
-msgstr "Attente en Qualité Alimentaire"
+msgstr "Attente concernant la Qualité de l'Alimentation"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.HITPOINTSDELTA.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.HITPOINTSDELTA.DESC"
@@ -8198,7 +8203,7 @@ msgid ""
 "The health regeneration from this building is increased when a Duplicant is "
 "available to provide aid"
 msgstr ""
-"La régénération de santé de ce bâtiment est augmentée quand un Duplicant est "
+"La régénération de santé de ce bâtiment est augmentée lorsqu'un Duplicant est "
 "disponible pour fournir de l'aide"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.HITPOINTSDELTA.NAME
@@ -8212,8 +8217,8 @@ msgid ""
 "<style=\"hygiene\">Hygiene</style> affects a Duplicant's sense of "
 "cleanliness."
 msgstr ""
-"<style=\"hygiene\">Hygiène</style> détermine le sens de la propreté des "
-"Duplicants."
+"<style=\"hygiene\">Hygiène</style> détermine le sens de la propreté d'un "
+"Duplicant."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.HYGIENE.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.HYGIENE.NAME"
@@ -8233,13 +8238,13 @@ msgstr "{0} Régénération du Système Immunitaire"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.IMMUNITY.BOOST_STAT
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.IMMUNITY.BOOST_STAT"
 msgid "Immunity Attribute"
-msgstr "Attributs d'immunitée"
+msgstr "Attributs d'immunité"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.IMMUNITY.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.IMMUNITY.DESC"
 msgid "Determines a Duplicant's disease susceptibility and recovery time."
 msgstr ""
-"Détermine le risque de maladie et le temps de récupération du Duplicant."
+"Détermine le risque de maladie et le temps de récupération d'un Duplicant."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.IMMUNITY.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.IMMUNITY.NAME"
@@ -8254,7 +8259,7 @@ msgid ""
 msgstr ""
 "Les Duplicants hautement isolés retiennent la chaleur de leurs corps "
 "facilement, tandis qu'avec une faible isolation les Duplicants se "
-"rafraichissent plus facilement."
+"rafraîchissent plus facilement."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.NAME"
@@ -8266,19 +8271,21 @@ msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.SPEEDMODIFIER"
 msgid "{0} Temperature Retention"
 msgstr "{0} Rétention de Température"
 
+# talents / compétences / aptitudes / capacités 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.DESC
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.DESC"
 msgid ""
 "Determines how quickly a Duplicant conducts <style=\"research\">Research</"
 "style> and gains skills."
 msgstr ""
 "Détermine à quelle vitesse un Duplicant mène des <style=\"research"
-"\">Recherche</style> et gagne des talents."
+"\">Recherches</style> et gagne des talents."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.NAME"
 msgid "Learning"
-msgstr "Sciences"
+msgstr "Apprentissage"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.PROFESSION_NAME"
@@ -8298,8 +8305,7 @@ msgstr "{0} Niveau de compétence"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.DESC"
 msgid "Determines how adeptly a Duplicant uses machines."
-msgstr ""
-"Détermine détermine à quel point un Duplicant peut utiliser une machine."
+msgstr "Détermine à quel point un Duplicant peut utiliser une machine."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.NAME"
@@ -8339,7 +8345,7 @@ msgstr "Soins"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.PROFESSION_NAME"
 msgid "Physician"
-msgstr "Medecin"
+msgstr "Médecin"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.SPEEDMODIFIER"
@@ -8378,7 +8384,7 @@ msgid ""
 "and melt down if not cooled"
 msgstr ""
 "Un équipement à <style=\"heat\">Température</style> de surchauffe prendra "
-"des dégâts et fondra si il n'est pas refroidit"
+"des dégâts et fondra si il n'est pas refroidi"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.OVERHEATTEMPERATURE.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.OVERHEATTEMPERATURE.NAME"
@@ -8393,9 +8399,9 @@ msgid ""
 "Duplicants develop higher expectations as their Profession Attribute "
 "increases"
 msgstr ""
-"L'attribut le plus haut de ce Duplicant est {0}\n"
+"Attribut le plus haut: {0}\n"
 "------------------\n"
-"Les Duplicants développent de plus grandes attentes quand leurs niveaux de "
+"Les Duplicants ont de plus grandes attentes quand leurs niveaux de "
 "professions augmentent"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ROOMTEMPERATUREPREFERENCE.DESC
@@ -8427,9 +8433,10 @@ msgstr "Détermine à quelle fréquence un Duplicant éternue."
 #. STRINGS.DUPLICANTS.ATTRIBUTES.SNEEZYNESS.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.SNEEZYNESS.NAME"
 msgid "Sneeziness"
-msgstr "Eternuement"
+msgstr "Éternuement"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.NAME
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.NAME"
 msgid "Stamina Change"
 msgstr "Changement de Vigueur"
@@ -8438,8 +8445,7 @@ msgstr "Changement de Vigueur"
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.DESC"
 msgid "Determines a Duplicant's carrying capacity and combat ability."
 msgstr ""
-"Influe sur la capacité de transport d'un Duplicant et son efficacité au "
-"combat."
+"Détermine la capacité d'un Duplicant à porter et son aptitude au combat."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.NAME"
@@ -8454,7 +8460,7 @@ msgstr "Culturiste"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.SPEEDMODIFIER"
 msgid "{0} Carrying Weight"
-msgstr "{0} Poid Transporté"
+msgstr "{0} Poids Transporté"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRESSDELTA.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRESSDELTA.DESC"
@@ -8473,7 +8479,7 @@ msgstr "Changement de Stress"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.THERMALCONDUCTIVITYBARRIER.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.THERMALCONDUCTIVITYBARRIER.NAME"
 msgid "Insulation Thickness"
-msgstr "Epaisseur d'Isolation"
+msgstr "Épaisseur d'Isolation"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.THERMALCONDUCTIVITYBARRIER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.THERMALCONDUCTIVITYBARRIER.TOOLTIP"
@@ -8483,8 +8489,8 @@ msgid ""
 "\n"
 "It is the sum of a Duplicant's equipment and their natural Insulation values."
 msgstr ""
-"L'Epaisseur d'Isolation détermine à quelle vitesse un Duplicant retiens ou "
-"perds la <style=\"heat\">Chaleur</style> de son corps dans une zone donnée.\n"
+"L'Épaisseur d'Isolation détermine à quelle vitesse un Duplicant retient ou "
+"perd la <style=\"heat\">Chaleur</style> de son corps dans une zone donnée.\n"
 "\n"
 "C'est la somme des équipements d'un Duplicant et de leurs valeurs "
 "d'isolation naturelles."
@@ -8493,18 +8499,20 @@ msgstr ""
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.DESC"
 msgid "Determines how long a Duplicant needs to do their \"business\"."
 msgstr ""
-"Détermine combien de temps un Duplicant a besoin pour faire sa petite "
-"\"affaire\"."
+"Détermine le temps dont un Duplicant a besoin pour faire sa \"petite "
+"affaire\"."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.NAME"
 msgid "Bladder Efficiency"
 msgstr "Efficacité de la Vessie"
 
+# Altération de la Toxicité ?
 #. STRINGS.DUPLICANTS.ATTRIBUTES.TOXICITYDELTA.NAME
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOXICITYDELTA.NAME"
 msgid "Toxicity Change"
-msgstr "Changement de toxicité"
+msgstr "Changement de Toxicité"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.UNPROFESSIONAL_DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.UNPROFESSIONAL_DESC"
@@ -8524,7 +8532,7 @@ msgstr "{0}: {1}"
 #. STRINGS.DUPLICANTS.CHOREGROUPS.ART.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.ART.DESC"
 msgid "Sculpt or paint to improve colony decor."
-msgstr "Sculpter ou peindre augmente le décor de votre colonie."
+msgstr "Sculpter ou peindre pour améliorer la décoration de votre colonie."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.ART.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.ART.NAME"
@@ -8552,6 +8560,7 @@ msgid "Combat"
 msgstr "Combat"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COMPOST.DESC
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COMPOST.DESC"
 msgid "Tend composts to produce fertilizer."
 msgstr "Est un composteur dans l'âme."
@@ -8562,11 +8571,14 @@ msgid "Compost"
 msgstr "Compost"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COOK.DESC
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COOK.DESC"
 msgid "Operate food preparation buildings."
 msgstr "Structure de préparation de nourriture."
 
+# Cuisinier ?
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COOK.NAME
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COOK.NAME"
 msgid "Cook"
 msgstr "Cuisine"
@@ -8575,8 +8587,7 @@ msgstr "Cuisine"
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DELIVER.DESC"
 msgid "Run resources to critical buildings and high priority storage."
 msgstr ""
-"Amène les ressources aux équipements importants et aux stockages à haute "
-"priorités."
+"Amène les ressources aux équipements importants et aux stocks prioritaires."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.DELIVER.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DELIVER.NAME"
@@ -8591,7 +8602,7 @@ msgstr "Mine les ressources brutes."
 #. STRINGS.DUPLICANTS.CHOREGROUPS.DIG.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DIG.NAME"
 msgid "Dig"
-msgstr "Creuser"
+msgstr "Creuse"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.DISINFECT.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DISINFECT.DESC"
@@ -8611,17 +8622,17 @@ msgstr "Produit de l'énergie en courant sur les générateurs manuels."
 #. STRINGS.DUPLICANTS.CHOREGROUPS.GENERATEPOWER.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.GENERATEPOWER.NAME"
 msgid "Power"
-msgstr "Energie"
+msgstr "Énergie"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.HARVEST.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.HARVEST.DESC"
 msgid "Gather crops from mature plants."
-msgstr "Récolte les cultures des plantes arrivées à maturitées."
+msgstr "Récolte les cultures des plantes arrivées à maturité."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.HARVEST.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.HARVEST.NAME"
 msgid "Harvest"
-msgstr "Récolter"
+msgstr "Récolte"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.LIQUIDCOOLEDFAN.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.LIQUIDCOOLEDFAN.DESC"
@@ -8674,12 +8685,12 @@ msgstr "Nettoie les flaques."
 #. STRINGS.DUPLICANTS.CHOREGROUPS.MOP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.MOP.NAME"
 msgid "Mop"
-msgstr "Nettoyer"
+msgstr "Serpille"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.REPAIR.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.REPAIR.DESC"
 msgid "Repair damaged buildings."
-msgstr "Répare les équipement endomagés."
+msgstr "Répare les équipement endommagés."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.REPAIR.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.REPAIR.NAME"
@@ -8690,7 +8701,7 @@ msgstr "Répare"
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.RESEARCH.DESC"
 msgid "Use research stations to unlock new technologies."
 msgstr ""
-"Utilise la station de recherche pour débloquer de nouvelles technologies."
+"Utilise les stations de recherche pour débloquer de nouvelles technologies."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.RESEARCH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.RESEARCH.NAME"
@@ -8700,12 +8711,12 @@ msgstr "Recherche"
 #. STRINGS.DUPLICANTS.CHOREGROUPS.SWEEP.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.SWEEP.DESC"
 msgid "Run resources to noncritical buildings or storage."
-msgstr "Amène les ressources aux équipements non important et aux stockages."
+msgstr "Amène les ressources aux équipements non important ou aux stockages."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.SWEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.SWEEP.NAME"
 msgid "Sweep"
-msgstr "Ramasser"
+msgstr "Balaie"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.TOGGLE.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.TOGGLE.DESC"
@@ -8720,7 +8731,7 @@ msgstr "Bascule"
 #. STRINGS.DUPLICANTS.CHORES.ART.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.ART.NAME"
 msgid "Decorate"
-msgstr "Décorer"
+msgstr "Décore"
 
 #. STRINGS.DUPLICANTS.CHORES.ART.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.ART.STATUS"
@@ -8735,12 +8746,12 @@ msgstr "Attaque"
 #. STRINGS.DUPLICANTS.CHORES.ATTACK.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.ATTACK.STATUS"
 msgid "Attacking"
-msgstr "Attaquer"
+msgstr "Attaque"
 
 #. STRINGS.DUPLICANTS.CHORES.BEINCAPACITATED.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.BEINCAPACITATED.NAME"
 msgid "Incapacitated"
-msgstr "Hors service"
+msgstr "Neutralisé"
 
 #. STRINGS.DUPLICANTS.CHORES.BEINCAPACITATED.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.BEINCAPACITATED.STATUS"
@@ -8750,12 +8761,12 @@ msgstr "Meurt"
 #. STRINGS.DUPLICANTS.CHORES.BINGE_EAT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.BINGE_EAT.NAME"
 msgid "Binge Eat"
-msgstr "Dévorer"
+msgstr "Dévore"
 
 #. STRINGS.DUPLICANTS.CHORES.BINGE_EAT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.BINGE_EAT.STATUS"
 msgid "Binge eating"
-msgstr "Dévore"
+msgstr "En train de dévorer"
 
 #. STRINGS.DUPLICANTS.CHORES.BUILD.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.BUILD.NAME"
@@ -8770,7 +8781,7 @@ msgstr "Va construire"
 #. STRINGS.DUPLICANTS.CHORES.BUILDDIG.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDDIG.NAME"
 msgid "Dig"
-msgstr "Creuser"
+msgstr "Creuse"
 
 #. STRINGS.DUPLICANTS.CHORES.BUILDDIG.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDDIG.STATUS"
@@ -8800,7 +8811,7 @@ msgstr "En attente au Point de Contrôle"
 #. STRINGS.DUPLICANTS.CHORES.CLEANTOILET.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.CLEANTOILET.NAME"
 msgid "Clean"
-msgstr "Nettoyer"
+msgstr "Nettoye"
 
 #. STRINGS.DUPLICANTS.CHORES.CLEANTOILET.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.CLEANTOILET.STATUS"
@@ -8810,7 +8821,7 @@ msgstr "Va nettoyer"
 #. STRINGS.DUPLICANTS.CHORES.COMPOSTWORKABLE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.COMPOSTWORKABLE.NAME"
 msgid "Compost"
-msgstr "Compost"
+msgstr "Composte"
 
 #. STRINGS.DUPLICANTS.CHORES.COMPOSTWORKABLE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.COMPOSTWORKABLE.STATUS"
@@ -8840,7 +8851,7 @@ msgstr "Livre"
 #. STRINGS.DUPLICANTS.CHORES.COOLDOWN.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.COOLDOWN.NAME"
 msgid "Cool off"
-msgstr "Refroidir"
+msgstr "Refroidit"
 
 #. STRINGS.DUPLICANTS.CHORES.COOLDOWN.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.COOLDOWN.STATUS"
@@ -8858,11 +8869,13 @@ msgid "Coughing"
 msgstr "Tousse"
 
 #. STRINGS.DUPLICANTS.CHORES.DEBUGGOTO.NAME
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.DEBUGGOTO.NAME"
 msgid "DebugGoTo"
 msgstr "DebugGoTo"
 
 #. STRINGS.DUPLICANTS.CHORES.DEBUGGOTO.STATUS
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.DEBUGGOTO.STATUS"
 msgid "DebugGoTo"
 msgstr "DebugGoTo"
@@ -8880,7 +8893,7 @@ msgstr "Va déconstruire"
 #. STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.NAME"
 msgid "Deliver food"
-msgstr "Livraison de nourriture"
+msgstr "Livre de la nourriture"
 
 #. STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.STATUS"
@@ -27736,7 +27749,7 @@ msgstr "Pression de l'<style=\"gas\">Air</style>: {0} minimum"
 #. STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_RECEPTACLE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_RECEPTACLE"
 msgid "Farm Plot"
-msgstr "Carrelage fermier"
+msgstr "Parcelle Agricole"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_SUBMERSION
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_SUBMERSION"
@@ -27936,17 +27949,21 @@ msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_HARVEST"
 msgid "Harvesting this plant will yield new seeds"
 msgstr "Récolter cette plante donnera de nouvelles graines"
 
+# most likely wrong.  "plantée la tête en bas" ?
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_REQUIREMENT_CEILING
+#, fuzzy
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_REQUIREMENT_CEILING"
 msgid ""
 "This seed must be planted in a downward facing plot\n"
 "\n"
 "Press <color=#F44A47>[O]</color> while building farm plots to rotate them"
 msgstr ""
-"Cette graine doit être plantée dans un emplacement orienté vers le bas\n"
+"Cette graine doit être plantée dans une parcelle agricole orientée vers le"
+" bas\n"
 "\n"
-"Pressez <color=#F44A47>[O]</color> en construisant les emplacements pour les "
-"pivoter"
+"Pressez <color=#F44A47>[O]</color> pendant la construction de la parcelle"
+" pour "
+"la faire pivoter"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_REQUIREMENT_WALL
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_REQUIREMENT_WALL"
@@ -30904,12 +30921,13 @@ msgstr "La pression d'air actuelle est de {pressure}"
 #. STRINGS.UI.TOOLTIPS.VITALS_CHECKBOX_RECEPTACLE_INOPERATIONAL
 msgctxt "STRINGS.UI.TOOLTIPS.VITALS_CHECKBOX_RECEPTACLE_INOPERATIONAL"
 msgid "This plant is not housed in an operational farm plot"
-msgstr "Cette plante n'est pas logée dans un parc de ferme opérationnel"
+msgstr ""
+"Cette plante n'est pas cultivée dans une parcelle agricole opérationnelle"
 
 #. STRINGS.UI.TOOLTIPS.VITALS_CHECKBOX_RECEPTACLE_OPERATIONAL
 msgctxt "STRINGS.UI.TOOLTIPS.VITALS_CHECKBOX_RECEPTACLE_OPERATIONAL"
 msgid "This plant is housed in an operational farm plot"
-msgstr "Cette plante est logée dans un parc de ferme opérationnel"
+msgstr "Cette plante est logée dans une parcelle agricole opérationnelle"
 
 #. STRINGS.UI.TOOLTIPS.VITALS_CHECKBOX_SUBMERGED_FALSE
 msgctxt "STRINGS.UI.TOOLTIPS.VITALS_CHECKBOX_SUBMERGED_FALSE"
