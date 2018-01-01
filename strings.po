@@ -1,8 +1,10 @@
+# kelda, 2017, 2018.
+# Christophe <christophe@krop.fr>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2018-01-01 19:15+0100\n"
+"PO-Revision-Date: 2018-01-01 19:19+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
@@ -3495,7 +3497,8 @@ msgid ""
 "Mini pumps are useful for moving small quantities of gas with minimum power "
 "draw."
 msgstr ""
-"Les mini pompes sont utiles pour déplacer de petites quantités de gaz avec "
+"Les pompes miniatures sont utiles pour déplacer de petites quantités de gaz"
+" avec "
 "un minimum de puissance."
 
 #. STRINGS.BUILDINGS.PREFABS.GASMINIPUMP.EFFECT
@@ -4194,7 +4197,8 @@ msgid ""
 "Mini pumps are useful for moving small quantities of liquid with minimum "
 "power draw."
 msgstr ""
-"Les mini pompes sont utiles pour déplacer de petites quantités de liquide "
+"Les pompes miniatures sont utiles pour déplacer de petites quantités de"
+" liquide "
 "avec un minimum de puissance."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDMINIPUMP.EFFECT
