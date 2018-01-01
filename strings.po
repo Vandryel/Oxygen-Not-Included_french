@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2018-01-01 03:39+0100\n"
+"PO-Revision-Date: 2018-01-01 14:13+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
@@ -3048,8 +3048,8 @@ msgid ""
 "Channels move more volume than pumps and require no power, but need "
 "sufficient pressure to function."
 msgstr ""
-"Les canaux déplacent plus de volume que les pompes et ne nécessite pas "
-"d'énergie, mais a besoin d'une pression suffisante pour fonctionner."
+"Les canaux déplacent plus de volume que les pompes et ne nécessitent pas "
+"d'énergie, mais ils ont besoin d'une pression suffisante pour fonctionner."
 
 #. STRINGS.BUILDINGS.PREFABS.DIRECTIONALWORLDPUMPLIQUID.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DIRECTIONALWORLDPUMPLIQUID.EFFECT"
@@ -3058,9 +3058,9 @@ msgid ""
 "\n"
 "Can be used as floor tile and rotated before construction."
 msgstr ""
-"Déplace de large volume de liquide à travers un canal.\n"
+"Déplace de gros volumes de liquide à travers un canal.\n"
 "\n"
-"Peut être utilisé comme plancher et tourné avant construction."
+"Peut être utilisée comme plancher et tournée avant la construction."
 
 #. STRINGS.BUILDINGS.PREFABS.DIRECTIONALWORLDPUMPLIQUID.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DIRECTIONALWORLDPUMPLIQUID.NAME"
@@ -3115,7 +3115,7 @@ msgstr "Fermé"
 #. STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.CLOSE.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.CLOSE.TOOLTIP"
 msgid "Nothing may pass through"
-msgstr "Rien ne passera"
+msgstr "Rien ne peut traverser"
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.OPEN.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.OPEN.NAME"
@@ -3133,8 +3133,8 @@ msgid ""
 "Door controls can be used to prevent Duplicants from entering restricted "
 "areas."
 msgstr ""
-"Les portes peuvent être utilisée pour éviter aux Duplicants d'entrer dans "
-"des zones restreintes."
+"Les commandes de porte peuvent être utilisées pour éviter aux Duplicants "
+"d'entrer dans des zones restreintes."
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.EFFECT"
@@ -3146,8 +3146,9 @@ msgid ""
 "\n"
 "Wild creatures cannot pass through doors."
 msgstr ""
-"Enferme les salles sans bloquer le flux de <style=\"gas\">Gaz</style> ou de "
-"<style=\"liquid\">Liquide</style>.\n"
+"Enferme les salles sans bloquer le flux de <style=\"liquid\">Liquide</style>"
+" ou de "
+"<style=\"gas\">Gaz</style>.\n"
 "\n"
 "Assignez les Permissions d'Accès aux Duplicants pour les zones restreintes.\n"
 "\n"
@@ -3171,12 +3172,12 @@ msgstr "Porte Pneumatique"
 #. STRINGS.BUILDINGS.PREFABS.DOOR.PRESSURE_SUIT_NOT_REQUIRED
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.PRESSURE_SUIT_NOT_REQUIRED"
 msgid "<style=\"equipment\">Exosuit</style> not required {0}"
-msgstr "<style=\"equipment\">Exosuit</style> inutile {0}"
+msgstr "<style=\"equipment\">Exosuit</style> superflue {0}"
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.PRESSURE_SUIT_REQUIRED
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.PRESSURE_SUIT_REQUIRED"
 msgid "<style=\"equipment\">Exosuit</style> required {0}"
-msgstr "<style=\"equipment\">Exosuit</style> nécessaire {0}"
+msgstr "<style=\"equipment\">Exosuit</style> exigée {0}"
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.RIGHT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.RIGHT"
@@ -3200,16 +3201,15 @@ msgid ""
 "\n"
 "Becomes idle when the area reaches maximum pressure capacity."
 msgstr ""
-"Fournit une ressource stable d'<style=\"oxygen\">Oxygène</style> et de "
+"Produit de l'<style=\"oxygen\">Oxygène</style> et de "
 "l'<style=\"gas\">Hydrogène</style> en utilisant l'<style=\"liquid\">Eau</"
-"style> qui y est envoyée.\n"
-"\n"
-"Se met en pause lorsque la pièce atteint son maximum de pression."
+"style>\n"
+"Se met en pause lorsque la zone atteint sa pression maximale."
 
 #. STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.NAME"
 msgid "Electrolyzer"
-msgstr "Electrolyseur"
+msgstr "Électrolyseur"
 
 #. STRINGS.BUILDINGS.PREFABS.FARMTILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FARMTILE.DESC"
@@ -3231,7 +3231,7 @@ msgstr ""
 "Fait pousser une seule <style=\"plant\">Plante</style> quand une <style="
 "\"seed\">Graine</style> est plantée.\n"
 "\n"
-"Peut être utilisée comme plancher et peut être tournée avant installation."
+"Peut être utilisée comme dalle et peut être tournée avant la construction."
 
 #. STRINGS.BUILDINGS.PREFABS.FARMTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FARMTILE.NAME"
@@ -3244,7 +3244,7 @@ msgid ""
 "Fertilizer Synthesizers convert polluted water into fertilizer for domestic "
 "plants."
 msgstr ""
-"Les synthétiseurs d'engrais convertissent l'eau polluée en engrais pour les "
+"Les Synthétiseurs d'Engrais transforment l'eau polluée en engrais pour les "
 "plantes domestiques."
 
 #. STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.EFFECT
@@ -3253,8 +3253,8 @@ msgid ""
 "Uses <style=\"liquid\">Polluted Water</style> to produce <style=\"solid"
 "\">Fertilizer</style>."
 msgstr ""
-"Utilise de l'<style=\"liquid\">Eau Polluée</style> pour produire du <style="
-"\"solid\">Fertilisant</style>."
+"Utilise de l'<style=\"liquid\">Eau Polluée</style> pour produire de l'<style="
+"\"solid\">Engrais</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.NAME"
@@ -3267,7 +3267,7 @@ msgid ""
 "Fire poles provide quick downward travel, while ladders provide better "
 "upward movement."
 msgstr ""
-"Les poteaux d'incendie permettent un déplacement rapide vers le bas, tandis "
+"Les Barres de Pompier permettent un déplacement rapide vers le bas, tandis "
 "que les échelles fournissent un bon moyen de grimper."
 
 #. STRINGS.BUILDINGS.PREFABS.FIREPOLE.EFFECT
@@ -3284,7 +3284,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.FIREPOLE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FIREPOLE.NAME"
 msgid "Fire Pole"
-msgstr "Poteau d'Incendie"
+msgstr "Barres de Pompier"
 
 #. STRINGS.BUILDINGS.PREFABS.FLOORLAMP.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORLAMP.DESC"
@@ -3299,7 +3299,9 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORLAMP.EFFECT"
 msgid ""
 "Provides <style=\"light\">Light</style> when <style=\"power\">Powered</"
 "style>."
-msgstr "Produit de la <style=\"light\">Lumière</style> quand il est allumé."
+msgstr ""
+"Produit de la <style=\"light\">Lumière</style> lorsqu'elle est est "
+"<style=\"power\">Alimentée</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOORLAMP.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORLAMP.NAME"
@@ -3311,7 +3313,7 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORSWITCH.DESC"
 msgid ""
 "Weight plates can be used to turn on amenities only when Duplicants pass by."
 msgstr ""
-"Les plaques de pression peuvent être utilisée pour allumer les lumières "
+"Les plaques de pression peuvent être utilisées pour allumer les lumières "
 "uniquement quand les Duplicants passent dessus."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOORSWITCH.EFFECT
@@ -3326,7 +3328,7 @@ msgstr ""
 "Devient <style=\"logic\">Actif</style> quand un objet ou un Duplicant est "
 "placé dessus.\n"
 "\n"
-"Ne peut pas être déclanché par du <style=\"gas\">Gaz</style> ou du <style="
+"Ne peut pas être déclenché par du <style=\"gas\">Gaz</style> ou du <style="
 "\"liquid\">Liquide</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOORSWITCH.LOGIC_PORT_DESC
@@ -3343,7 +3345,7 @@ msgstr "Plaque de Pression"
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.DESC"
 msgid "Flower pots allow decorative plants to be moved to new locations."
 msgstr ""
-"Les pots de fleurs permettent de déplacer des plantes décoratives dans de "
+"Les pots de fleurs permettent de déplacer des plantes décoratives à d'autres "
 "nouveaux endroits."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.EFFECT
@@ -3394,7 +3396,7 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUIT.DESC"
 msgid ""
 "Gas pipes are used to connect the inputs and outputs of ventilated buildings."
 msgstr ""
-"Les tuyaux à gaz sont utilisés pour connecter l'entrée et la sortie des "
+"Les tuyaux de gaz sont utilisés pour connecter l'entrée et la sortie des "
 "ventilations d'une construction."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUIT.EFFECT
@@ -3406,7 +3408,7 @@ msgid ""
 "Can be run through tiles."
 msgstr ""
 "Transporte du <style=\"gas\">Gaz</style> entre les <style=\"GasPiping"
-"\">Entrées</style> et <style=\"GasPiping\">Sorties</style> des structures.\n"
+"\">Sorties</style> et <style=\"GasPiping\">Entrées</style> des structures.\n"
 "\n"
 " Peut traverser les dalles."
 
@@ -3420,7 +3422,7 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITBRIDGE.DESC"
 msgid ""
 "Separate pipe systems prevent mingled contents from causing building damage."
 msgstr ""
-"Les systèmes de tuyaux séparés empêchent de mélanger les contenus et de "
+"Des systèmes de tuyaux distincts empêchent de mélanger les contenus et de "
 "causer des dégâts aux constructions."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITBRIDGE.EFFECT
@@ -3447,7 +3449,7 @@ msgid ""
 "Gas filters send the selected filter gas into a special pipe, expelling "
 "everything else through a second output."
 msgstr ""
-"Les filtres à gaz filtrent un gaz sélectionné dans un tuyau spécial, en "
+"Les filtres à gaz envoient le gaz sélectionné dans un tuyau spécial, en "
 "expulsant le reste par une seconde sortie."
 
 #. STRINGS.BUILDINGS.PREFABS.GASFILTER.EFFECT
@@ -3462,7 +3464,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GASFILTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASFILTER.NAME"
 msgid "Gas Filter"
-msgstr "Filtre a Gaz"
+msgstr "Filtre à Gaz"
 
 #. STRINGS.BUILDINGS.PREFABS.GASLOGICVALVE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASLOGICVALVE.DESC"
@@ -3479,13 +3481,13 @@ msgid ""
 "Automatically turns <style=\"gas\">Gas</style> flow on or off using <style="
 "\"misc\">Automation</style> technology."
 msgstr ""
-"Allume ou éteins automatiquement les flux de <style=\"gas\">Gaz</style> en "
+"Allume ou éteint automatiquement le flux de <style=\"gas\">Gaz</style> en "
 "utilisant la technologie d'<style=\"misc\">Automatisation</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.GASLOGICVALVE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASLOGICVALVE.NAME"
 msgid "Gas Shutoff"
-msgstr "Disjoncteur Gaz"
+msgstr "Disjoncteur de Gaz"
 
 #. STRINGS.BUILDINGS.PREFABS.GASMINIPUMP.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASMINIPUMP.DESC"
@@ -3493,7 +3495,7 @@ msgid ""
 "Mini pumps are useful for moving small quantities of gas with minimum power "
 "draw."
 msgstr ""
-"Les minipompes sont utiles pour déplacer de petites quantitées de gaz avec "
+"Les mini pompes sont utiles pour déplacer de petites quantités de gaz avec "
 "un minimum de puissance."
 
 #. STRINGS.BUILDINGS.PREFABS.GASMINIPUMP.EFFECT
@@ -3507,7 +3509,7 @@ msgstr ""
 "Pompe une petite quantité de <style=\"gas\">Gaz</style> à travers des <style="
 "\"GasPiping\">Tuyaux</style>.\n"
 "\n"
-" Doit être immergé dans le gaz."
+" Doit être plongé dans le gaz."
 
 #. STRINGS.BUILDINGS.PREFABS.GASMINIPUMP.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASMINIPUMP.NAME"
@@ -3524,6 +3526,7 @@ msgstr ""
 "circulation des gaz au sein d'une colonie."
 
 #. STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.EFFECT"
 msgid ""
 "Used as floor and wall tile to build rooms.\n"
@@ -3531,7 +3534,7 @@ msgid ""
 "Blocks <style=\"liquid\">Liquid</style> flow without obstructing <style=\"gas"
 "\">Gas</style>."
 msgstr ""
-"Utilisé comme planché et mur pour construire des salles.\n"
+"Utilisé comme plancher et mur pour construire des pièces.\n"
 "\n"
 " Bloque le flux de <style=\"liquid\">Liquide</style> sans bloquer le flux de "
 "<style=\"gas\">Gaz</style>."
@@ -3561,12 +3564,12 @@ msgstr ""
 "Pompe le <style=\"gas\">Gaz</style> à travers des <style=\"GasPiping"
 "\">Tuyaux</style>.\n"
 "\n"
-" Doit être immergé dans le gaz."
+"Doit être immergé dans le gaz."
 
 #. STRINGS.BUILDINGS.PREFABS.GASPUMP.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPUMP.NAME"
 msgid "Gas Pump"
-msgstr "Pompe a Gaz"
+msgstr "Pompe à Gaz"
 
 #. STRINGS.BUILDINGS.PREFABS.GASVALVE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVALVE.DESC"
@@ -3574,7 +3577,7 @@ msgid ""
 "Valves control the amount of gas that moves through pipes, preventing waste."
 msgstr ""
 "Les valves contrôlent la quantité de gaz à l'intérieur des tuyaux, évitant "
-"le gâchis."
+"le gaspillage."
 
 #. STRINGS.BUILDINGS.PREFABS.GASVALVE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVALVE.EFFECT"
@@ -3594,7 +3597,7 @@ msgstr "Valve à Gaz"
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVENT.DESC"
 msgid "Vents are an exit point for gases from ventilation systems."
 msgstr ""
-"L'aération est un point de sortie pour les gaz du système de ventilation."
+"Les cheminées sont un point de sortie pour les gaz du système de ventilation."
 
 #. STRINGS.BUILDINGS.PREFABS.GASVENT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVENT.EFFECT"
@@ -3602,13 +3605,13 @@ msgid ""
 "Releases <style=\"gas\">Gas</style> from <style=\"GasPiping\">Gas Pipes</"
 "style>."
 msgstr ""
-"Relache du <style=\"gas\">Gaz</style> apporté par les <style=\"GasPiping"
+"Relâche du <style=\"gas\">Gaz</style> apporté par les <style=\"GasPiping"
 "\">Tuyaux</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.GASVENT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVENT.NAME"
 msgid "Gas Vent"
-msgstr "Echappement"
+msgstr "Conduite de Gaz"
 
 #. STRINGS.BUILDINGS.PREFABS.GASVENTHIGHPRESSURE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVENTHIGHPRESSURE.DESC"
@@ -3616,7 +3619,7 @@ msgid ""
 "High pressure Vents can exhaust gas into more highly pressurized "
 "environments."
 msgstr ""
-"Les évacuations haute pression peuvent évacuer les gaz dans des "
+"Les conduites haute pression peuvent évacuer les gaz dans des "
 "environnements plus fortement pressurisés."
 
 #. STRINGS.BUILDINGS.PREFABS.GASVENTHIGHPRESSURE.EFFECT
@@ -3626,7 +3629,7 @@ msgid ""
 "style> into high pressure locations."
 msgstr ""
 "Libère du <style=\"gas\">Gaz</style> venant des <style=\"GasPiping\">Tuyaux</"
-"style> dans des endroits à hautes pression."
+"style> dans des endroits à hautes pressions."
 
 #. STRINGS.BUILDINGS.PREFABS.GASVENTHIGHPRESSURE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVENTHIGHPRESSURE.NAME"
@@ -3639,8 +3642,8 @@ msgid ""
 "Coal generators produce more energy than manual generators, but emit heat "
 "and exhaust."
 msgstr ""
-"Le générateur à charbon produit deux fois plus d'énergie que les générateurs "
-"manuels, mais émet de la chaleur et du gaz."
+"Le générateur à charbon produit davantage d'énergie que les générateurs "
+"manuels, mais émet de la chaleur et de l'échappement."
 
 #. STRINGS.BUILDINGS.PREFABS.GENERATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENERATOR.EFFECT"
@@ -3649,12 +3652,12 @@ msgid ""
 "\">Power</style>."
 msgstr ""
 "Transforme le <style=\"RawMineral\">Charbon</style> en <style=\"power"
-"\">Énergie</style>."
+"\">Énergie</style> électrique."
 
 #. STRINGS.BUILDINGS.PREFABS.GENERATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENERATOR.NAME"
 msgid "Coal Generator"
-msgstr "Generateur a Charbon"
+msgstr "Générateur à Charbon"
 
 #. STRINGS.BUILDINGS.PREFABS.GENERICFABRICATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENERICFABRICATOR.DESC"
@@ -3667,8 +3670,9 @@ msgid ""
 "Converts <style=\"RawMineral\">Raw Minerals</style> into unique materials "
 "and objects."
 msgstr ""
-"Converti du <style=\"RawMineral\">Minerais</style> dans des objets et des "
-"matériaux uniques."
+"Convertit des <style=\"RawMineral\">Minerais Bruts</style> en matériaux"
+" uniques "
+"et en objets."
 
 #. STRINGS.BUILDINGS.PREFABS.GENERICFABRICATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENERICFABRICATOR.NAME"
@@ -3681,7 +3685,7 @@ msgid ""
 "Burying dead Duplicants reduces health hazards and stress on the colony."
 msgstr ""
 "Enterrer les Duplicants morts réduit les risques pour la santé et le stress "
-"sur la colonie."
+"dans la colonie."
 
 #. STRINGS.BUILDINGS.PREFABS.GRAVE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVE.EFFECT"
@@ -3690,9 +3694,9 @@ msgid ""
 "\n"
 "Living Duplicants will automatically place an unburied corpse inside."
 msgstr ""
-"Fourni un endroit ou les Duplicants décédés peuvent reposer en paix.\n"
+"Fournit un endroit où les Duplicants décédés peuvent reposer en paix.\n"
 "\n"
-"Les Duplicants vivant viendront automatiquement placer un corps dedans."
+"Les Duplicants vivants viendront automatiquement placer un corps dedans."
 
 #. STRINGS.BUILDINGS.PREFABS.GRAVE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVE.NAME"
@@ -3702,7 +3706,7 @@ msgstr "Memorial elegant"
 #. STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.DESC"
 msgid "Hand sanitizers kill germs more effectively than wash basins."
-msgstr "Le désinfectant pour les mains tue plus de germes que lavabos."
+msgstr "Le désinfectant pour les mains tue plus de germes que les lavabos."
 
 #. STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.EFFECT"
@@ -3714,7 +3718,7 @@ msgid ""
 msgstr ""
 "Supprime la plupart des <style=\"disease\">Germes</style> des Duplicants.\n"
 "\n"
-"Les Duplicants plein de germes utilisent le gel désinfectant en passant "
+"Les Duplicants pleins de germes utilisent le gel désinfectant en passant "
 "devant."
 
 #. STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.NAME
@@ -3738,9 +3742,9 @@ msgid ""
 "\n"
 "It periodically produces new Duplicants."
 msgstr ""
-"Une bioimprimante exceptionnellement avancé d'origine inconnue.\n"
+"Une bioimprimante exceptionnellement avancée d'origine inconnue.\n"
 "\n"
-"Il produit régulièrement de nouveaux Duplicants."
+"Elle produit régulièrement de nouveaux Duplicants."
 
 #. STRINGS.BUILDINGS.PREFABS.HEADQUARTERS.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEADQUARTERS.NAME"
@@ -3753,7 +3757,7 @@ msgid ""
 "Higher wattage wire is used to avoid power overloads, particularly for "
 "strong generators."
 msgstr ""
-"Les câbles à haut voltage permettent d'éviter des surcharges, "
+"Les câbles hautes tensions permettent d'éviter des surcharges, "
 "particulièrement pour les gros générateurs."
 
 #. STRINGS.BUILDINGS.PREFABS.HIGHWATTAGEWIRE.EFFECT
@@ -3765,14 +3769,14 @@ msgid ""
 "Cannot be run through tiles."
 msgstr ""
 "Transporte plus de <style=\"power\">Puissance</style> que les Câble "
-"électriques sans surcharger.\n"
+"électriques classiques sans surcharger.\n"
 "\n"
-"Ne peut pas travers les dalles."
+"Ne peut pas traverser les dalles."
 
 #. STRINGS.BUILDINGS.PREFABS.HIGHWATTAGEWIRE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHWATTAGEWIRE.NAME"
 msgid "Heavi-Watt Wire"
-msgstr "Câble de forte puissance"
+msgstr "Câble Haute Tension"
 
 #. STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.DESC"
@@ -3781,7 +3785,7 @@ msgid ""
 "to no waste."
 msgstr ""
 "Les générateurs d'hydrogène sont des sources d'alimentation "
-"exceptionnellement efficaces et n'émettent aucun déchet."
+"particulièrement efficaces et n'émettent quasi aucun déchet."
 
 #. STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.EFFECT"
@@ -3790,7 +3794,7 @@ msgid ""
 "\">Power</style>."
 msgstr ""
 "Transforme l'<style=\"gas\">Hydrogène</style> en <style=\"power\">Énergie</"
-"style>."
+"style> électrique."
 
 #. STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.NAME"
