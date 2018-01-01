@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2017-12-31 17:32+0100\n"
+"PO-Revision-Date: 2018-01-01 03:39+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
@@ -1579,17 +1579,18 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.NOWIRECONNECTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOWIRECONNECTED.NAME"
 msgid "No Wire Connected"
-msgstr "Aucun câble connecté"
+msgstr "Aucun Câble Connecté"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOWIRECONNECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOWIRECONNECTED.TOOLTIP"
 msgid "This building has not been connected to a power grid"
-msgstr "Cet équipement n'est connecté à aucune grille d'alimentation"
+msgstr "Cet équipement n'est pas relié au réseau électrique"
 
 #. STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.EXHAUSTING
+#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.EXHAUSTING"
 msgid "Excess produced"
-msgstr "Echappement produit"
+msgstr "Échappement produit"
 
 #. STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.LINEITEM
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.LINEITEM"
@@ -1607,6 +1608,7 @@ msgid "Normal operation"
 msgstr "Opération normale"
 
 #. STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.PIPECONTENTS_TRANSFER
+#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.PIPECONTENTS_TRANSFER"
 msgid "Transferred from pipes"
 msgstr "Transfert des tuyaux"
@@ -1632,12 +1634,12 @@ msgstr "Dommages: Surchauffe"
 #. STRINGS.BUILDING.STATUSITEMS.OVERHEATED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OVERHEATED.TOOLTIP"
 msgid "This building is taking damage and will meltdown if not cooled"
-msgstr "Cet équipement prend des dégâts et se fondra si on ne refroidit pas"
+msgstr "Cet équipement subit des dégâts et va fondre s'il n'est pas refroidi"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.NAME"
 msgid "Deconstruction Task Assigned"
-msgstr "Tâche de destruction assignée"
+msgstr "Mission de Démontage Assignée"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.TOOLTIP"
@@ -1647,17 +1649,18 @@ msgstr "En attente d'un Duplicant pour démonter cet équipement"
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGFISH.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGFISH.NAME"
 msgid "Fishing Task Assigned"
-msgstr "Assigné à la pêche"
+msgstr "Assigné à la Pêche"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGFISH.TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGFISH.TOOLTIP"
 msgid "Waiting for a Duplicant to fish"
-msgstr "En attente d'un pecheur"
+msgstr "En attente d'un pécheur"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGHARVEST.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGHARVEST.NAME"
 msgid "Harvest Task Assigned"
-msgstr "Assigner à Récolter"
+msgstr "Mission de Récolte Assignée"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGHARVEST.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGHARVEST.TOOLTIP"
@@ -1667,7 +1670,7 @@ msgstr "En attente d'un Réplicant pour récolter"
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGREPAIR.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGREPAIR.NAME"
 msgid "Repair Task Assigned"
-msgstr "Assigné à la réparation"
+msgstr "Mission de Réparation assignée"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGREPAIR.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGREPAIR.TOOLTIP"
@@ -1679,6 +1682,7 @@ msgstr ""
 "Dégâts reçu {DamageInfo}"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGSWITCHTOGGLE.NAME
+#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGSWITCHTOGGLE.NAME"
 msgid "Toggle Switch Task Assigned"
 msgstr "Assigné à l'interrupteur"
@@ -1691,7 +1695,7 @@ msgstr "En attente d'un Réplicant pour basculer l'interrupteur"
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.NAME"
 msgid "Uproot Task Assigned"
-msgstr "Assigné au déracinage"
+msgstr "Mission de Déracinage Assignée"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.TOOLTIP"
@@ -1701,7 +1705,7 @@ msgstr "En attente d'un Duplicant pour déraciner"
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGWORK.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGWORK.NAME"
 msgid "Work Task Assigned"
-msgstr "Assigné à une tâche de travail"
+msgstr "Mission de Travail Assignée"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGWORK.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGWORK.TOOLTIP"
@@ -1709,6 +1713,7 @@ msgid "Waiting for a Duplicant to operate this building"
 msgstr "En attente d'un Duplicant pour utiliser cet équipement"
 
 #. STRINGS.BUILDING.STATUSITEMS.PIPE.NAME
+#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PIPE.NAME"
 msgid "Contents: {Contents}"
 msgstr "Contenu: {Contents}"
@@ -1749,7 +1754,7 @@ msgid ""
 "Press Enable Building to resume its use"
 msgstr ""
 "Cet équipement est désactivé\n"
-" Cliquez sur Activer l'équipement pour reprendre son utilisation"
+"Cliquez sur Activer l'équipement pour reprendre son utilisation"
 
 #. STRINGS.BUILDING.STATUSITEMS.PRESSUREOK.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PRESSUREOK.NAME"
@@ -1800,28 +1805,28 @@ msgstr "Cette boite contient {Stored} de nourriture"
 #. STRINGS.BUILDING.STATUSITEMS.RELEASING_PRESSURE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RELEASING_PRESSURE.NAME"
 msgid "Releasing Pressure"
-msgstr "Pression Sortante"
+msgstr "Relâche de la Pression"
 
 #. STRINGS.BUILDING.STATUSITEMS.RELEASING_PRESSURE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RELEASING_PRESSURE.TOOLTIP"
 msgid "Pressure buildup is being safely released"
-msgstr "L'accumulation de pression est lâchée en toute sécurité"
+msgstr "La pression accumulée est relâchée en toute sécurité"
 
 #. STRINGS.BUILDING.STATUSITEMS.REQUIRESMINER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.REQUIRESMINER.NAME"
 msgid "Requires Miner"
-msgstr "Nécessite Mineur"
+msgstr "Requiert un Mineur"
 
 #. STRINGS.BUILDING.STATUSITEMS.REQUIRESMINER.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.REQUIRESMINER.TOOLTIP"
 msgid "Only Duplicants assigned to one of the Miner roles can dig this tile"
 msgstr ""
-"Seuls les duplicants assignés à un rôle de Mineur peuvent creuser cette dalle"
+"Seuls les Duplicants assignés à un rôle de Mineur peuvent creuser cette dalle"
 
 #. STRINGS.BUILDING.STATUSITEMS.REQUIRESRESEARCHER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.REQUIRESRESEARCHER.NAME"
 msgid "Requires Researcher"
-msgstr "Nécessite Chercheur"
+msgstr "Requiert un Chercheur"
 
 #. STRINGS.BUILDING.STATUSITEMS.REQUIRESRESEARCHER.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.REQUIRESRESEARCHER.TOOLTIP"
@@ -1835,7 +1840,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.REQUIRESROLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.REQUIRESROLE.NAME"
 msgid "Requires {Role}"
-msgstr "Requis {Role}"
+msgstr "Requiert {Role}"
 
 #. STRINGS.BUILDING.STATUSITEMS.REQUIRESROLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.REQUIRESROLE.TOOLTIP"
@@ -1845,9 +1850,10 @@ msgstr "Toute Duplicant assigné à ce {Role} peut utiliser cet équipement"
 #. STRINGS.BUILDING.STATUSITEMS.RESEARCHING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RESEARCHING.NAME"
 msgid "Current <style=\"research\">Research</style>: {Tech}"
-msgstr "<style=\"research\">Recherche</style> actuelle: {Tech}"
+msgstr "<style=\"research\">Recherche</style> Actuelle: {Tech}"
 
 #. STRINGS.BUILDING.STATUSITEMS.RESEARCHING.TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RESEARCHING.TOOLTIP"
 msgid "Research produced at this station will be invested in {Tech}"
 msgstr "Les recherches produites à cette station seront investies dans {Tech}"
@@ -1860,12 +1866,12 @@ msgstr "Stockage: {Stored} /{Capacity} kg"
 #. STRINGS.BUILDING.STATUSITEMS.STORAGELOCKER.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.STORAGELOCKER.TOOLTIP"
 msgid "This container is storing {Stored} kg of material"
-msgstr "Ce container stocke {Stored} kg de matériaux"
+msgstr "Ce conteneur stocke {Stored} kg de matériaux"
 
 #. STRINGS.BUILDING.STATUSITEMS.STOREDCHARGE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.STOREDCHARGE.NAME"
 msgid "Stored Charge: {0}/{1}"
-msgstr "Charge: {0}/{1}"
+msgstr "Charge Stockée: {0}/{1}"
 
 #. STRINGS.BUILDING.STATUSITEMS.STOREDCHARGE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.STOREDCHARGE.TOOLTIP"
@@ -1877,6 +1883,7 @@ msgstr ""
 "utilisation. "
 
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.CHARGING.NAME
+#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.CHARGING.NAME"
 msgid "Current Status: Charging Suit"
 msgstr "Etat Actuel: Charge l'Exosuit"
@@ -1884,22 +1891,22 @@ msgstr "Etat Actuel: Charge l'Exosuit"
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.CHARGING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.CHARGING.TOOLTIP"
 msgid "This Exosuit is docked and charging"
-msgstr "L'Exosuit Charge"
+msgstr "L'Exosuit est connectée et en charge"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.FULLY_CHARGED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.FULLY_CHARGED.NAME"
 msgid "Current Status: Full Charge"
-msgstr "Etat Actuel: Charge complète"
+msgstr "État Actuel: Charge complète"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.FULLY_CHARGED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.FULLY_CHARGED.TOOLTIP"
 msgid "This Exosuit is fully charged and ready for use"
-msgstr "L'Exosuit est complètement chargée et est prête à être utilisée"
+msgstr "Cette Exosuit est complètement chargée et prête à être utilisée"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NEED_CONFIGURATION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NEED_CONFIGURATION.NAME"
 msgid "Current Status: Needs Configuration"
-msgstr "Etat Actuel: Besoin de Configuration"
+msgstr "État Actuel: Configuration Nécessaire"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NEED_CONFIGURATION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NEED_CONFIGURATION.TOOLTIP"
@@ -1914,7 +1921,7 @@ msgstr "Etat Actuel: Pas d'Oxygène"
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NO_OXYGEN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NO_OXYGEN.TOOLTIP"
 msgid "This Dock is not receiving enough oxygen to refill an Exosuit"
-msgstr "La Station d'Exosuit n'a pas assez d'Oxygène pour remplir l'Exosuit"
+msgstr "La Station ne reçoit pas assez d'oxygène pour remplir l'Exosuit"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NOT_OPERATIONAL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NOT_OPERATIONAL.NAME"
@@ -1924,7 +1931,7 @@ msgstr "Etat Actuel: Hors Ligne"
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NOT_OPERATIONAL.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NOT_OPERATIONAL.TOOLTIP"
 msgid "This Exosuit Dock requires power"
-msgstr "Cette station Exosuit nécessite de l'énergie"
+msgstr "Cette station Exosuit requiert de l'énergie"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.READY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.READY.NAME"
@@ -1934,7 +1941,7 @@ msgstr "Etat Actuel: En Veille"
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.READY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.READY.TOOLTIP"
 msgid "This Dock is functional and ready to receive an Exosuit"
-msgstr "Cette Station est fonctionnelle et prête à recevoir un Exosuit"
+msgstr "Cette Station est fonctionnelle et prête à recevoir une Exosuit"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.SUIT_REQUESTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.SUIT_REQUESTED.NAME"
@@ -1972,7 +1979,7 @@ msgstr ""
 "Les Duplicants portant une combinaison peuvent passer même s'il n'y a pas de "
 "place pour stocker leurs combinaisons\n"
 "----------------\n"
-"Quand les Station d'Exosuit sont pleines, les duplicants se déséquiperont "
+"Quand les Stations d'Exosuit sont pleines, les duplicants se déséquiperont "
 "automatiquement de leur combinaison et les laisseront au sol"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUITMARKERTRAVERSALONLYWHENROOMAVAILABLE.NAME
@@ -1988,7 +1995,7 @@ msgid ""
 "Suited Duplicants may pass only if there is room in an Exosuit Dock to store "
 "their suit"
 msgstr ""
-"Les Duplicant portant une combinaison ne passeront que s'il y a une station "
+"Les Duplicants portant une Exosuit ne passeront que s'il y a une station "
 "d'Exosuit pour stocker leur combinaison"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUITMARKERWRONGSIDE.NAME
@@ -2007,7 +2014,7 @@ msgstr ""
 "Cet équipement a été construit du mauvais côté du Point de Contrôle de "
 "l'Exosuit\n"
 "\n"
-"La Station d'Exosuit doit être placé prêt d'un Point de Contrôle sur la face "
+"La Station d'Exosuit doit être placée près d'un Point de Contrôle sur la face "
 "opposée"
 
 #. STRINGS.BUILDING.STATUSITEMS.SWITCHSTATUSACTIVE.NAME
@@ -2018,7 +2025,7 @@ msgstr "Actif"
 #. STRINGS.BUILDING.STATUSITEMS.SWITCHSTATUSACTIVE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SWITCHSTATUSACTIVE.TOOLTIP"
 msgid "This switch is currently toggled on"
-msgstr "Cet interrupteur est éteins"
+msgstr "Cet interrupteur est en position allumée"
 
 #. STRINGS.BUILDING.STATUSITEMS.SWITCHSTATUSINACTIVE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SWITCHSTATUSINACTIVE.NAME"
@@ -2028,7 +2035,7 @@ msgstr "Inactif"
 #. STRINGS.BUILDING.STATUSITEMS.SWITCHSTATUSINACTIVE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SWITCHSTATUSINACTIVE.TOOLTIP"
 msgid "This switch is currently toggled off"
-msgstr "Cet interrupteur est allumé"
+msgstr "Cet interrupteur est en position allumée"
 
 #. STRINGS.BUILDING.STATUSITEMS.TOILET.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILET.NAME"
@@ -2047,7 +2054,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYING.NAME"
 msgid "Requires Emptying"
-msgstr "Doit etre vidé"
+msgstr "Doit être Vidé"
 
 #. STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYING.TOOLTIP"
@@ -2058,12 +2065,12 @@ msgid ""
 msgstr ""
 "Cet équipement ne peut pas être utilisé lorsqu'il est plein\n"
 "------------------\n"
-" Une vidange produira de la <style=\"solid\">Terre Pollué</style>"
+" Une vidange produira de la <style=\"solid\">Terre Polluée</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.TOILETS_OUTSIDE_RANGE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILETS_OUTSIDE_RANGE.NAME"
 msgid "Unreachable restroom"
-msgstr "Toilette inaccessible"
+msgstr "Toilettes inaccessible"
 
 #. STRINGS.BUILDING.STATUSITEMS.TOILETS_OUTSIDE_RANGE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILETS_OUTSIDE_RANGE.TOOLTIP"
@@ -2107,7 +2114,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_SPINNING_UP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_SPINNING_UP.NAME"
 msgid "Warming Up"
-msgstr "Chauffe"
+msgstr "En Chauffe"
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_SPINNING_UP.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_SPINNING_UP.TOOLTIP"
@@ -2127,7 +2134,7 @@ msgstr "Assignez un Duplicant pour utiliser cet équipement"
 #. STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTION.NAME"
 msgid "Under Construction"
-msgstr "En construction"
+msgstr "En Construction"
 
 #. STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTION.TOOLTIP"
@@ -2137,7 +2144,7 @@ msgstr "Cet équipement est en construction"
 #. STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTIONNOWORKER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTIONNOWORKER.NAME"
 msgid "Construction Task Assigned"
-msgstr "Tâche de destruction assignée"
+msgstr "Mission de Construction assignée"
 
 #. STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTIONNOWORKER.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTIONNOWORKER.TOOLTIP"
@@ -2155,8 +2162,8 @@ msgid ""
 "A minimum atmospheric pressure of {TargetPressure} is needed for this "
 "building to operate"
 msgstr ""
-"Une pression atmosphérique minimum de {TargetPressure} est nécessaire à cet "
-"équipement pour fonctionner"
+"Une pression atmosphérique minimum de {TargetPressure} est nécessaire pour "
+"que cet équipement fonctionne"
 
 #. STRINGS.BUILDING.STATUSITEMS.UNUSABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNUSABLE.NAME"
@@ -2176,17 +2183,17 @@ msgstr "Debit Maximum: {MaxFlow}"
 #. STRINGS.BUILDING.STATUSITEMS.VALVE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.VALVE.TOOLTIP"
 msgid "This valve is allowing flow at a volume of {MaxFlow}"
-msgstr "Cette valve permet un debit de {MaxFlow}"
+msgstr "Cette valve autorise un débit de {MaxFlow}"
 
 #. STRINGS.BUILDING.STATUSITEMS.VALVEREQUEST.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.VALVEREQUEST.NAME"
 msgid "Requested Flow Rate: {QueuedMaxFlow}"
-msgstr "Debit demande : {QueuedMaxFlow}"
+msgstr "Débit demandé : {QueuedMaxFlow}"
 
 #. STRINGS.BUILDING.STATUSITEMS.VALVEREQUEST.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.VALVEREQUEST.TOOLTIP"
 msgid "Waiting for a Duplicant to adjust flow rate"
-msgstr "En attente d'un Duplicant pour regler le debit"
+msgstr "En attente d'un Duplicant pour régler le débit"
 
 #. STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.LINE_ITEM_MASS
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.LINE_ITEM_MASS"
@@ -2204,7 +2211,7 @@ msgid ""
 "Awaiting Material Delivery\n"
 "{ItemsRemaining}"
 msgstr ""
-"En attente de livraison de matériaux\n"
+"En attente de livraison de matériau\n"
 "{ItemsRemaining}"
 
 #. STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.TOOLTIP
@@ -2260,7 +2267,7 @@ msgid ""
 "The Printing Pod can print out new Duplicants over time.\n"
 "The next one will be ready in {TimeRemaining}"
 msgstr ""
-"La station d'impression peut imprimer de nouveaux Duplicants au fil du "
+"La Station d'Impression peut imprimer de nouveaux Duplicants au fil du "
 "temps.\n"
 " Le prochain sera prêt dans {TimeRemaining}"
 
@@ -2275,6 +2282,7 @@ msgid "Colony Lost"
 msgstr "Colonie Perdue"
 
 #. STRINGS.BUILDING.STATUSITEMS.WATTSONGAMEOVER.TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTSONGAMEOVER.TOOLTIP"
 msgid "All Duplicants are dead or incapacitated"
 msgstr "Tous les Duplicants sont morts ou hors service"
@@ -2301,13 +2309,13 @@ msgid ""
 "Well pressure increases with each use and must be periodically relieved to "
 "prevent shutdown"
 msgstr ""
-"La pression du puit augmente à chaque utilisation et doit être "
+"La pression du puits augmente à chaque utilisation et doit être "
 "périodiquement diminuée pour éviter qu'il s'arrête"
 
 #. STRINGS.BUILDING.STATUSITEMS.WIRECIRCUITSTATUS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WIRECIRCUITSTATUS.NAME"
 msgid "Circuit Status: {CurrentLoad} / {MaxLoad}"
-msgstr "Statut du Circtuit: {CurrentLoad} / {MaxLoad}"
+msgstr "Statut du Circuit: {CurrentLoad} / {MaxLoad}"
 
 #. STRINGS.BUILDING.STATUSITEMS.WIRECIRCUITSTATUS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WIRECIRCUITSTATUS.TOOLTIP"
@@ -2317,22 +2325,22 @@ msgstr "La puissance actuelle utilisée sur ce circuit"
 #. STRINGS.BUILDING.STATUSITEMS.WIRECONNECTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WIRECONNECTED.NAME"
 msgid "Wire Connected"
-msgstr "Cable connecte"
+msgstr "Cable connecté"
 
 #. STRINGS.BUILDING.STATUSITEMS.WIRECONNECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WIRECONNECTED.TOOLTIP"
 msgid "This wire is connected to a network"
-msgstr "Le cable est connecte a un reseau"
+msgstr "Le câble est connecté à un réseau"
 
 #. STRINGS.BUILDING.STATUSITEMS.WIREDISCONNECTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WIREDISCONNECTED.NAME"
 msgid "Wire Disconnected"
-msgstr "Cable deconnecte"
+msgstr "Câble déconnecté"
 
 #. STRINGS.BUILDING.STATUSITEMS.WIREDISCONNECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WIREDISCONNECTED.TOOLTIP"
 msgid "This wire is not connecting a power consumer to a generator"
-msgstr "Ce câble ne connecte pas un générateur d'énergie et un consommateur"
+msgstr "Ce câble ne relie pas un consommateur d'énergie à un générateur"
 
 #. STRINGS.BUILDING.STATUSITEMS.WIREMAXWATTAGESTATUS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WIREMAXWATTAGESTATUS.NAME"
@@ -2342,17 +2350,17 @@ msgstr "Puissance Max: {WireMaxWattage}"
 #. STRINGS.BUILDING.STATUSITEMS.WIREMAXWATTAGESTATUS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WIREMAXWATTAGESTATUS.TOOLTIP"
 msgid "The maximum wattage that this wire can safely sustain"
-msgstr "La puissance maximale que ce fil peut conserver en toute sécurité"
+msgstr "La puissance maximale que ce fil peut supporter en toute sécurité"
 
 #. STRINGS.BUILDING.STATUSITEMS.WIRENOMINAL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WIRENOMINAL.NAME"
 msgid "Wire Nominal"
-msgstr "Cable nominal"
+msgstr "Cable Nominal"
 
 #. STRINGS.BUILDING.STATUSITEMS.WIRENOMINAL.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WIRENOMINAL.TOOLTIP"
 msgid "This wire is in good condition"
-msgstr "Le cable est en bon etat"
+msgstr "Le câble est en bon état"
 
 #. STRINGS.BUILDING.STATUSITEMS.WORKING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WORKING.NAME"
@@ -2362,12 +2370,12 @@ msgstr "Nominal"
 #. STRINGS.BUILDING.STATUSITEMS.WORKING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WORKING.TOOLTIP"
 msgid "This building is working as intended"
-msgstr "Cet equipement fonctionne comme prevu"
+msgstr "Cet équipement fonctionne comme prévu"
 
 #. STRINGS.BUILDINGS.AUTODISINFECTABLE.DISABLE_AUTODISINFECT.NAME
 msgctxt "STRINGS.BUILDINGS.AUTODISINFECTABLE.DISABLE_AUTODISINFECT.NAME"
 msgid "Disable Disinfect"
-msgstr "Désactiver Désinfection"
+msgstr "Désactiver la Désinfection"
 
 #. STRINGS.BUILDINGS.AUTODISINFECTABLE.DISABLE_AUTODISINFECT.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.AUTODISINFECTABLE.DISABLE_AUTODISINFECT.TOOLTIP"
@@ -2377,12 +2385,12 @@ msgstr "Ne pas désinfecter automatiquement cette structure"
 #. STRINGS.BUILDINGS.AUTODISINFECTABLE.ENABLE_AUTODISINFECT.NAME
 msgctxt "STRINGS.BUILDINGS.AUTODISINFECTABLE.ENABLE_AUTODISINFECT.NAME"
 msgid "Enable Disinfect"
-msgstr "Activer Désinfection"
+msgstr "Activer la Désinfection"
 
 #. STRINGS.BUILDINGS.AUTODISINFECTABLE.ENABLE_AUTODISINFECT.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.AUTODISINFECTABLE.ENABLE_AUTODISINFECT.TOOLTIP"
 msgid "Automatically disinfect this building when it becomes contaminated"
-msgstr "Automatiquement désinfecter cette structure quand il est contaminé"
+msgstr "Désinfecter Automatiquement cette structure lorsqu'elle est contaminée"
 
 #. STRINGS.BUILDINGS.AUTODISINFECTABLE.NO_DISEASE.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.AUTODISINFECTABLE.NO_DISEASE.TOOLTIP"
@@ -2390,6 +2398,7 @@ msgid "This building is clean"
 msgstr "Cette structure est propre"
 
 #. STRINGS.BUILDINGS.DAMAGESOURCES.BAD_INPUT_ELEMENT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.BAD_INPUT_ELEMENT"
 msgid "receiving an incorrect substance"
 msgstr "une substance incorrecte a été introduite"
@@ -2417,7 +2426,7 @@ msgstr "le contenu des tuyaux devient trop froid"
 #. STRINGS.BUILDINGS.DAMAGESOURCES.LIQUID_PRESSURE
 msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.LIQUID_PRESSURE"
 msgid "neighboring liquid pressure"
-msgstr "pression de liquide voisine"
+msgstr "pression du liquide voisin"
 
 #. STRINGS.BUILDINGS.DAMAGESOURCES.MINION_DESTRUCTION
 msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.MINION_DESTRUCTION"
@@ -2432,7 +2441,7 @@ msgstr "{0} a reçu des dégâts de {1}"
 #. STRINGS.BUILDINGS.DISINFECTABLE.DISABLE_DISINFECT.NAME
 msgctxt "STRINGS.BUILDINGS.DISINFECTABLE.DISABLE_DISINFECT.NAME"
 msgid "Cancel Disinfect"
-msgstr "Annuler Désinfection"
+msgstr "Annuler la Désinfection"
 
 #. STRINGS.BUILDINGS.DISINFECTABLE.DISABLE_DISINFECT.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.DISINFECTABLE.DISABLE_DISINFECT.TOOLTIP"
@@ -2442,7 +2451,7 @@ msgstr "Annuler cet ordre de désinfecter"
 #. STRINGS.BUILDINGS.DISINFECTABLE.ENABLE_DISINFECT.NAME
 msgctxt "STRINGS.BUILDINGS.DISINFECTABLE.ENABLE_DISINFECT.NAME"
 msgid "Disinfect"
-msgstr "Désinfecte"
+msgstr "Désinfection"
 
 #. STRINGS.BUILDINGS.DISINFECTABLE.ENABLE_DISINFECT.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.DISINFECTABLE.ENABLE_DISINFECT.TOOLTIP"
@@ -2452,7 +2461,7 @@ msgstr "Marque cette construction pour une désinfection"
 #. STRINGS.BUILDINGS.DISINFECTABLE.NO_DISEASE.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.DISINFECTABLE.NO_DISEASE.TOOLTIP"
 msgid "This building is already clean"
-msgstr "Cette structure a déjà été nettoyé"
+msgstr "Cette structure est déjà propre"
 
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.DESC"
@@ -2468,7 +2477,7 @@ msgid ""
 "Conducts <style=\"research\">Intermediate Research</style> to unlock new "
 "technologies."
 msgstr ""
-"Faites des <style=\"research\">Recherches Intermédiaires</style> pour "
+"Fait des <style=\"research\">Recherches Intermédiaires</style> pour "
 "débloquer de nouvelles technologies."
 
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.NAME
@@ -2490,7 +2499,7 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.AIRBORNECREATURELURE.EFFECT"
 msgid ""
 "Attracts airborne creatures of a single type when set with the correct bait."
 msgstr ""
-"Attire des créatures aérienne d'un seul type quand est utilisé avec l'appât "
+"Attire des créatures aériennes d'un seul type lorsque utilisé avec l'appât "
 "approprié."
 
 #. STRINGS.BUILDINGS.PREFABS.AIRBORNECREATURELURE.NAME
@@ -2502,8 +2511,8 @@ msgstr "Leurre de Créature Aérienne"
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.DESC"
 msgid "A thermo regulator doesn't remove heat, but relocates it to a new area."
 msgstr ""
-"Un régulateur thermique ne supprime pas la chaleur, mais la déplace à une "
-"autre zone."
+"Un régulateur thermique ne supprime pas la chaleur, mais la déplace dans "
+"une autre zone."
 
 #. STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.EFFECT"
@@ -2520,6 +2529,7 @@ msgid "Thermo Regulator"
 msgstr "Régulateur Thermique"
 
 #. STRINGS.BUILDINGS.PREFABS.AIRFILTER.DESC
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRFILTER.DESC"
 msgid ""
 "Airborne germs travel easily through polluted oxygen, spreading "
@@ -2616,7 +2626,7 @@ msgid ""
 "than lost."
 msgstr ""
 "Les batteries permettent à l'énergie excédentaire d'être stockée pour plus "
-"tard, toujours mieux que de la perdre."
+"tard, plutôt que de la perdre."
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERY.EFFECT"
@@ -2638,8 +2648,8 @@ msgid ""
 "Larger batteries hold more power and keep systems running longer before "
 "recharging."
 msgstr ""
-"Les plus grosses batteries contiennent plus d'énergie et garde les systèmes "
-"allumés plus longtemps avant de devoir être rechargé."
+"Les plus grosses batteries contiennent plus d'énergie et gardent les systèmes "
+"allumés plus longtemps avant de devoir être rechargées."
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERYMEDIUM.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYMEDIUM.EFFECT"
@@ -2663,7 +2673,7 @@ msgid ""
 "specified threshold"
 msgstr ""
 "Les batteries intelligentes sont conçues pour être intégrées dans des "
-"systèmes logiques et deviendront <style=\"logic\">Active</style> si elles "
+"systèmes logiques et deviendront <style=\"logic\">Actives</style> si elles "
 "sont chargées au-dessus d'un seuil spécifié"
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERYSMART.LOGIC_PORT_DESC
@@ -2698,7 +2708,7 @@ msgid ""
 "\n"
 "Duplicants will automatically return to their cots to sleep at night."
 msgstr ""
-"Offre aux Duplicants un endroit pour dormir.\n"
+"Offre à un Duplicant un endroit où dormir.\n"
 "\n"
 "Les Duplicants iront dormir dans leur lit automatiquement à la nuit tombée."
 
@@ -2713,13 +2723,14 @@ msgid ""
 "A bottle emptier's Element Filter can be used to designate areas for "
 "specific liquid storage."
 msgstr ""
-"Le filtre d'élément de la fontaine à eau peut être utilisé pour désigner des "
-"zones spécifique pour un stockage de liquides."
+"L'Élément Filtrant de la fontaine à eau peut être utilisé pour délimiter des "
+"zones dédiées au stockage de liquides."
 
 #. STRINGS.BUILDINGS.PREFABS.BOTTLEEMPTIER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.BOTTLEEMPTIER.EFFECT"
 msgid "Empties bottled <style=\"liquid\">Liquids</style> back into the world."
-msgstr "Vide les bouteilles de <style=\"liquid\">Liquides</style>."
+msgstr ""
+"Vide les bouteilles de <style=\"liquid\">Liquides</style> dans la nature."
 
 #. STRINGS.BUILDINGS.PREFABS.BOTTLEEMPTIER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.BOTTLEEMPTIER.NAME"
@@ -2731,9 +2742,10 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.BURNER.DESC"
 msgid "Burners reach incredible temperatures and can quickly melt large areas."
 msgstr ""
 "Les brûleurs atteignent des températures incroyables et peuvent rapidement "
-"fondre de grandes surfaces."
+"faire fondre de vastes zones."
 
 #. STRINGS.BUILDINGS.PREFABS.BURNER.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.BURNER.EFFECT"
 msgid ""
 "Produces a searing <style=\"heat\">Heat Jet</style> using liquid <style="
@@ -2750,7 +2762,7 @@ msgstr "Brûleur"
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.AVERAGEQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.AVERAGEQUALITYNAME"
 msgid "Mediocre Painting"
-msgstr "Peinture Mediocre"
+msgstr "Tableau Médiocre"
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.DESC"
@@ -2759,7 +2771,7 @@ msgid ""
 "painting."
 msgstr ""
 "Une fois construite, un Duplicant peut peindre sur une toile vierge pour "
-"créer un tableau."
+"créer un tableau décoratif."
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.EFFECT"
@@ -2770,14 +2782,14 @@ msgid ""
 "Must be painted by a Duplicant."
 msgstr ""
 "Augmente le <style=\"decor\">Décor</style> et réduit le <style=\"stress"
-"\">Stress</style> des Duplicants.\n"
+"\">Stress</style> \n"
 "\n"
 " Doit être peint par un Duplicant."
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.EXCELLENTQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.EXCELLENTQUALITYNAME"
 msgid "Masterpiece"
-msgstr "Chef d'oeuvre"
+msgstr "Chef d'œuvre"
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.NAME"
@@ -2787,7 +2799,7 @@ msgstr "Toile Blanche"
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.POORQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.POORQUALITYNAME"
 msgid "Crude Painting"
-msgstr "Peinture Médiocre"
+msgstr "Peinture Grossière"
 
 #. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.DESC"
@@ -2801,7 +2813,10 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.EFFECT"
 msgid ""
 "Provides <style=\"light\">Light</style> when <style=\"power\">Powered</"
 "style>."
-msgstr "Produit de la <style=\"light\">Lumière</style> quand il est allumé."
+msgstr ""
+"Produit de la <style=\"light\">Lumière</style> lorsqu'il est <style=\"power\""
+">allumé</ "
+"style>."
 
 #. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.NAME"
@@ -2809,6 +2824,7 @@ msgid "Ceiling Light"
 msgstr "Plafonnier"
 
 #. STRINGS.BUILDINGS.PREFABS.CHECKPOINT.DESC
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.CHECKPOINT.DESC"
 msgid ""
 "Checkpoints can be connected to automated sensors to determine when it is "
@@ -2830,6 +2846,7 @@ msgstr ""
 "style>."
 
 #. STRINGS.BUILDINGS.PREFABS.CHECKPOINT.LOGIC_PORT_DESC
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.CHECKPOINT.LOGIC_PORT_DESC"
 msgid "Duplicant Stop/Go"
 msgstr "Duplicant Stop/Go"
@@ -2849,6 +2866,7 @@ msgstr ""
 "en vêtement pour Duplicant."
 
 #. STRINGS.BUILDINGS.PREFABS.CLOTHINGFABRICATOR.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.CLOTHINGFABRICATOR.EFFECT"
 msgid ""
 "Tailors Duplicant <style=\"equipment\">Clothing</style> items.\n"
@@ -2873,20 +2891,22 @@ msgid ""
 "breathable air."
 msgstr ""
 "Le Filtre à Carbone supprime une grande quantité de dioxyde de carbone, mais "
-"produit de l'air irrespirable."
+"ne produit pas un air respirable."
 
 #. STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.EFFECT"
 msgid "Filters <style=\"gas\">Carbon Dioxide</style> from the air."
 msgstr ""
-"Filtre le <style=\"gas\">Dioxyde de Carbone</style> et l'enlève de l'air."
+"Filtre le <style=\"gas\">Dioxyde de Carbone</style> contenu dans l'air."
 
 #. STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.NAME
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.NAME"
 msgid "Carbon Skimmer"
 msgstr "Dépollueur de Carbone"
 
 #. STRINGS.BUILDINGS.PREFABS.COMPOST.DESC
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOST.DESC"
 msgid ""
 "Composts safely deal with biological waste and help fertilize domestic "
@@ -2916,9 +2936,10 @@ msgid ""
 "meals."
 msgstr ""
 "La cuisine élimine les maladies d'origine alimentaire et produit des repas "
-"savoureux et soulage le stress."
+"savoureux et soulageant le stress."
 
 #. STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.EFFECT"
 msgid ""
 "Cooks improved <style=\"food\">Food</style> using many ingredients.\n"
@@ -2926,17 +2947,18 @@ msgid ""
 "Duplicants will not fabricate unless recipes are queued."
 msgstr ""
 "La cuisine améliore la <style=\"food\">Nourriture</style> en utilisant "
-"plusieurs ingrédients.\n"
+"beaucoup d'ingrédients.\n"
 "\n"
-"Les Duplicants ne fabriqueront rien tant qu'une recette n'est mise en file "
-"d'attente."
+"Les Duplicants ne fabriqueront rien tant que les recettes ne seront pas "
+"dans la file d'attente."
 
 #. STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.NAME"
 msgid "Electric Grill"
-msgstr "Grille électrique"
+msgstr "Grill Électrique"
 
 #. STRINGS.BUILDINGS.PREFABS.CREATUREDELIVERYPOINT.DESC
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.CREATUREDELIVERYPOINT.DESC"
 msgid ""
 "Duplicants automatically bring captured creatures to these relocation points "
@@ -2952,11 +2974,12 @@ msgid ""
 "\n"
 "Can be used multiple times."
 msgstr ""
-"Relâche les créatures capturées.\n"
+"Relâche les créatures capturées dans la nature.\n"
 "\n"
 "Peut être utilisé plusieurs fois."
 
 #. STRINGS.BUILDINGS.PREFABS.CREATUREDELIVERYPOINT.NAME
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.CREATUREDELIVERYPOINT.NAME"
 msgid "Creature Relocator"
 msgstr "Relocalisateur de Créature"
@@ -2975,7 +2998,7 @@ msgid ""
 msgstr ""
 "Capture une créature vivante pour la déplacer.\n"
 "\n"
-"Utilisation unique."
+"Usage unique."
 
 #. STRINGS.BUILDINGS.PREFABS.CREATURETRAP.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CREATURETRAP.NAME"
@@ -2990,7 +3013,7 @@ msgstr "Génère une puissance de test infinie"
 #. STRINGS.BUILDINGS.PREFABS.DEVGENERATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DEVGENERATOR.EFFECT"
 msgid "Runs on coffee"
-msgstr "Cafééééééé"
+msgstr "Carbure au café"
 
 #. STRINGS.BUILDINGS.PREFABS.DEVGENERATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DEVGENERATOR.NAME"
@@ -3000,8 +3023,7 @@ msgstr "Générateur DEV"
 #. STRINGS.BUILDINGS.PREFABS.DININGTABLE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.DININGTABLE.DESC"
 msgid "Duplicants prefer to dine at a table, rather than eat off the floor."
-msgstr ""
-"Les Duplicants préfèrent manger à table, c'est mieux que manger par terre."
+msgstr "Les Duplicants préfèrent manger à table, plutôt que manger par terre."
 
 #. STRINGS.BUILDINGS.PREFABS.DININGTABLE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DININGTABLE.EFFECT"
@@ -3018,7 +3040,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.DININGTABLE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DININGTABLE.NAME"
 msgid "Mess Table"
-msgstr "Table d'hote"
+msgstr "Table d'hôte"
 
 #. STRINGS.BUILDINGS.PREFABS.DIRECTIONALWORLDPUMPLIQUID.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.DIRECTIONALWORLDPUMPLIQUID.DESC"
@@ -23870,12 +23892,12 @@ msgstr "Accélère la croissance de la plante et sa maturation"
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ENERGYCONSUMED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ENERGYCONSUMED"
 msgid "Draws {0} from the power grid it's connected to"
-msgstr "Draine {0} depuis le réseau d'énergie auquel il est connecté"
+msgstr "Draine {0} depuis le réseau électrique auquel il est connecté"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ENERGYGENERATED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ENERGYGENERATED"
 msgid "Produces {0} for the power grid it's connected to"
-msgstr "Produit {0} pour le réseau auquel il est connecté"
+msgstr "Produit {0} pour le réseau électrique auquel il est connecté"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.FABRICATES
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.FABRICATES"
@@ -30625,7 +30647,7 @@ msgstr "Start"
 #. STRINGS.UI.TOOLTIPS.POWEROVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.POWEROVERLAYSTRING"
 msgid "Displays power grid components"
-msgstr "Affiche les éléments du réseau de puissance"
+msgstr "Affiche les éléments du réseau électrique"
 
 #. STRINGS.UI.TOOLTIPS.PRIORITIESOVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.PRIORITIESOVERLAYSTRING"
