@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2018-01-02 15:37+0100\n"
+"PO-Revision-Date: 2018-01-02 16:49+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
@@ -7675,7 +7675,9 @@ msgstr "Parcelle agricole opérationnelle"
 #. STRINGS.CREATURES.STATUSITEMS.RECEPTACLEOPERATIONAL.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.RECEPTACLEOPERATIONAL.TOOLTIP"
 msgid "This plant's farm plot is operational"
-msgstr "Cette parcelle agricole est opérationnelle"
+msgstr ""
+"La parcelle agricole de cette plante est "
+"opérationnelle"
 
 #. STRINGS.CREATURES.STATUSITEMS.REFRIGERATED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.REFRIGERATED.NAME"
@@ -28080,7 +28082,7 @@ msgstr "EMBARQUER"
 #. STRINGS.UI.IMMIGRANTSCREEN.IMMIGRANTSCREENTITLE
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.IMMIGRANTSCREENTITLE"
 msgid "Select a DNA Blueprint"
-msgstr "Sélectionner un Plan ADN"
+msgstr "Sélectionner un Schéma ADN"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.NAME_YOUR_COLONY
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.NAME_YOUR_COLONY"
@@ -28095,12 +28097,12 @@ msgstr "Imprimer"
 #. STRINGS.UI.IMMIGRANTSCREEN.REJECTALL
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.REJECTALL"
 msgid "Reject All"
-msgstr "Rejeter Tout"
+msgstr "Tout Rejeter"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.SELECTDUPLICANTS
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.SELECTDUPLICANTS"
 msgid "Select {0} Duplicants"
-msgstr "Sélectionner {0} Duplicants"
+msgstr "Sélectionnez {0} Duplicants"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.SELECTYOURCREW
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.SELECTYOURCREW"
@@ -28155,7 +28157,7 @@ msgstr "Priorité"
 #. STRINGS.UI.JOBSSCREEN.COLUMN_SORT_BY_JOB_SKILL
 msgctxt "STRINGS.UI.JOBSSCREEN.COLUMN_SORT_BY_JOB_SKILL"
 msgid "Sort colony by <b>{0}</b> skill"
-msgstr "Trier la colonie par aptitude {0}"
+msgstr "Trier la colonie par l'aptitude <b>{0}</b>"
 
 #. STRINGS.UI.JOBSSCREEN.JOB_CANT_CONSUME
 msgctxt "STRINGS.UI.JOBSSCREEN.JOB_CANT_CONSUME"
@@ -28163,8 +28165,8 @@ msgid ""
 "<b>{0}</b> cannot perform \n"
 "<b>{1} Tasks</b>"
 msgstr ""
-"<b>{0}</b> ne peut pas effectuer \n"
-"<b>{1} Tasks</b>"
+"<b>{0}</b> ne peut pas effectuer \n"
+"<b>{1} Tâche(s)</b>"
 
 #. STRINGS.UI.JOBSSCREEN.JOB_PERMISSION_OFF
 msgctxt "STRINGS.UI.JOBSSCREEN.JOB_PERMISSION_OFF"
@@ -28172,8 +28174,8 @@ msgid ""
 "<b>{0}</b> will not perform \n"
 "<b>{1} Tasks</b>"
 msgstr ""
-"<b>{0}</b> ne va pas effectuer \n"
-"<b>{1} Tasks</b>"
+"<b>{0}</b> n'effectuera pas \n"
+"<b>{1} Tâche(s)</b>"
 
 #. STRINGS.UI.JOBSSCREEN.JOB_PERMISSION_ON
 msgctxt "STRINGS.UI.JOBSSCREEN.JOB_PERMISSION_ON"
@@ -28182,7 +28184,7 @@ msgid ""
 "<b>{1} Tasks</b>"
 msgstr ""
 "<b>{0}</b> va effectuer \n"
-"<b>{1} Tasks</b>"
+"<b>{1} Tâche(s)</b>"
 
 #. STRINGS.UI.JOBSSCREEN.JOB_REFUSE
 msgctxt "STRINGS.UI.JOBSSCREEN.JOB_REFUSE"
@@ -28191,7 +28193,7 @@ msgid ""
 "<b>{1} Tasks</b>"
 msgstr ""
 "<b>{0}</b> refuse d'effectuer \n"
-"<b>{1} Tasks</b>"
+"<b>{1} Tâche(s)</b>"
 
 #. STRINGS.UI.JOBSSCREEN.NEW_MINIONS_JOB_PERMISSION_OFF
 msgctxt "STRINGS.UI.JOBSSCREEN.NEW_MINIONS_JOB_PERMISSION_OFF"
@@ -28200,7 +28202,7 @@ msgid ""
 "<b>{0} Tasks</b> by default"
 msgstr ""
 "Les <b>Nouveaux Duplicants</b> n'effectueront pas\n"
-"<b>les tâches {0}</b> par défaut"
+"les tâches <b>{0}</b> par défaut"
 
 #. STRINGS.UI.JOBSSCREEN.NEW_MINIONS_JOB_PERMISSION_ON
 msgctxt "STRINGS.UI.JOBSSCREEN.NEW_MINIONS_JOB_PERMISSION_ON"
@@ -28209,7 +28211,7 @@ msgid ""
 "<b>{0} Tasks</b> by default"
 msgstr ""
 "Les <b>Nouveaux Duplicants</b> effectueront\n"
-"<b>les tâches {0}</b> par défaut"
+"les tâches <b>{0}</b> par défaut"
 
 #. STRINGS.UI.JOBSSCREEN.NEW_MINIONS_TOOLTIP_TOGGLE_ROW
 msgctxt "STRINGS.UI.JOBSSCREEN.NEW_MINIONS_TOOLTIP_TOGGLE_ROW"
@@ -28229,7 +28231,7 @@ msgstr "Bascule toutes les tâches de toute la colonie"
 #. STRINGS.UI.JOBSSCREEN.TOOLTIP_TOGGLE_COLUMN
 msgctxt "STRINGS.UI.JOBSSCREEN.TOOLTIP_TOGGLE_COLUMN"
 msgid "Toggle <b>{0} Tasks</b> colonywide"
-msgstr "Bascule les tâches {0} de toute la colonie"
+msgstr "Bascule les tâches <b>{0}</b> de toute la colonie"
 
 #. STRINGS.UI.JOBSSCREEN.TOOLTIP_TOGGLE_ROW
 msgctxt "STRINGS.UI.JOBSSCREEN.TOOLTIP_TOGGLE_ROW"
@@ -28269,7 +28271,7 @@ msgstr "MESSAGES"
 #. STRINGS.UI.METERS.BREATH.TOOLTIP
 msgctxt "STRINGS.UI.METERS.BREATH.TOOLTIP"
 msgid "Oxygen"
-msgstr "Oxygene"
+msgstr "Oxygène"
 
 #. STRINGS.UI.METERS.HEALTH.TOOLTIP
 msgctxt "STRINGS.UI.METERS.HEALTH.TOOLTIP"
@@ -28294,7 +28296,7 @@ msgstr "Incommensurable"
 #. STRINGS.UI.OVERLAYS.CROP.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.CROP.BUTTON"
 msgid "Farming Overlay"
-msgstr "Calque Agricole"
+msgstr "Calque Agriculture"
 
 #. STRINGS.UI.OVERLAYS.CROP.FULLY_GROWN
 msgctxt "STRINGS.UI.OVERLAYS.CROP.FULLY_GROWN"
@@ -28314,9 +28316,11 @@ msgstr "Croissance Stoppée"
 #. STRINGS.UI.OVERLAYS.CROP.NAME
 msgctxt "STRINGS.UI.OVERLAYS.CROP.NAME"
 msgid "FARMING OVERLAY"
-msgstr "CALQUE AGRICOLE"
+msgstr "CALQUE AGRICULTURE"
 
+# récolter en gros
 #. STRINGS.UI.OVERLAYS.CROP.TOOLTIPS.FULLY_GROWN
+#, fuzzy
 msgctxt "STRINGS.UI.OVERLAYS.CROP.TOOLTIPS.FULLY_GROWN"
 msgid ""
 "<b>Fully Grown</b>\n"
@@ -28326,10 +28330,10 @@ msgid ""
 "color> to batch harvest"
 msgstr ""
 "<b>Croissance Complète</b>\n"
-"Ces plantes ont atteint la maturation\n"
+"Ces plantes sont à maturité\n"
 "-------------------\n"
 "Sélectionnez <style=\"misc\">L'OUTIL DE RECOLTE</"
-"style><color=#F44A47><b>[Y]</b></color>pour récolter en gros"
+"style> <color=#F44A47><b>[Y]</b></color>pour récolter en gros"
 
 #. STRINGS.UI.OVERLAYS.CROP.TOOLTIPS.GROWING
 msgctxt "STRINGS.UI.OVERLAYS.CROP.TOOLTIPS.GROWING"
@@ -28338,7 +28342,7 @@ msgid ""
 "These plants are thriving in their current conditions"
 msgstr ""
 "<b>Pousse</b>\n"
-"Ces plantes poussent grâce à leur condition actuelle"
+"Ces plantes poussent grâce aux conditions actuelles"
 
 #. STRINGS.UI.OVERLAYS.CROP.TOOLTIPS.GROWTH_HALTED
 msgctxt "STRINGS.UI.OVERLAYS.CROP.TOOLTIPS.GROWTH_HALTED"
@@ -28347,17 +28351,17 @@ msgid ""
 "Substandard conditions prevent these plants from growing"
 msgstr ""
 "<b>Croissance Stoppée</b>\n"
-"De mauvaises conditions empêchent cette plante de grandir"
+"De mauvaises conditions empêchent cette plante de pousser"
 
 #. STRINGS.UI.OVERLAYS.CROPS.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.CROPS.BUTTON"
 msgid "Farming Overlay"
-msgstr "Calque Agricole"
+msgstr "Calque Agriculture"
 
 #. STRINGS.UI.OVERLAYS.CROPS.NAME
 msgctxt "STRINGS.UI.OVERLAYS.CROPS.NAME"
 msgid "FARMING OVERLAY"
-msgstr "CALQUE AGRICOLE"
+msgstr "CALQUE AGRICULTURE"
 
 #. STRINGS.UI.OVERLAYS.DECOR.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.BUTTON"
@@ -28387,17 +28391,17 @@ msgstr "{0} {1} {2}"
 #. STRINGS.UI.OVERLAYS.DECOR.HEADER_NEGATIVE
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.HEADER_NEGATIVE"
 msgid "Negative Value:"
-msgstr "Valeur négative :"
+msgstr "Valeur Négative:"
 
 #. STRINGS.UI.OVERLAYS.DECOR.HEADER_POSITIVE
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.HEADER_POSITIVE"
 msgid "Positive Value:"
-msgstr "Valeur positive :"
+msgstr "Valeur positive:"
 
 #. STRINGS.UI.OVERLAYS.DECOR.HIGHDECOR
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.HIGHDECOR"
 msgid "High Decor"
-msgstr "Forte décoration"
+msgstr "Décoration Élevée"
 
 #. STRINGS.UI.OVERLAYS.DECOR.HOVERTITLE
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.HOVERTITLE"
@@ -28495,7 +28499,7 @@ msgstr "0"
 msgctxt ""
 "STRINGS.UI.OVERLAYS.DISEASE.DISINFECT_THRESHOLD_DIAGRAM.THRESHOLD_PREFIX"
 msgid "Disinfect At:"
-msgstr "Désinfecter à :"
+msgstr "Désinfecter à:"
 
 #. STRINGS.UI.OVERLAYS.DISEASE.DISINFECT_THRESHOLD_DIAGRAM.TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.DISEASE.DISINFECT_THRESHOLD_DIAGRAM.TOOLTIP"
@@ -28509,7 +28513,7 @@ msgstr ""
 msgctxt ""
 "STRINGS.UI.OVERLAYS.DISEASE.DISINFECT_THRESHOLD_DIAGRAM.TOOLTIP_DISABLED"
 msgid "Automatic building disinfection disabled."
-msgstr "Désinfection automatique des structures désactivé."
+msgstr "Désinfection automatique des structures désactivée."
 
 #. STRINGS.UI.OVERLAYS.DISEASE.DISINFECT_THRESHOLD_DIAGRAM.UNITS
 msgctxt "STRINGS.UI.OVERLAYS.DISEASE.DISINFECT_THRESHOLD_DIAGRAM.UNITS"
@@ -28519,7 +28523,7 @@ msgstr "Germes"
 #. STRINGS.UI.OVERLAYS.DISEASE.HOVERTITLE
 msgctxt "STRINGS.UI.OVERLAYS.DISEASE.HOVERTITLE"
 msgid "Germ"
-msgstr "Germes"
+msgstr "Germe"
 
 #. STRINGS.UI.OVERLAYS.DISEASE.IMMUNITY
 msgctxt "STRINGS.UI.OVERLAYS.DISEASE.IMMUNITY"
@@ -28541,8 +28545,8 @@ msgid ""
 msgstr ""
 "<b>Source de Germe</b>\n"
 "Zone où les germes sont produites\n"
-"*Placer un Lavabo ou un Désinfectant prêt de ces zones peuvent éviter la "
-"propagation de maladie"
+"*Placer un Lavabo ou un Désinfectant pour les mains à proximité de ces "
+"zones peut empêcher la propagation des maladies"
 
 #. STRINGS.UI.OVERLAYS.DISEASE.INTERNAL_GERMS
 msgctxt "STRINGS.UI.OVERLAYS.DISEASE.INTERNAL_GERMS"
@@ -28592,7 +28596,7 @@ msgstr ""
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND_SWITCH
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND_SWITCH"
 msgid "Switch"
-msgstr "Atmo interrupteur"
+msgstr "Interrupteur"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND1
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND1"
@@ -28617,7 +28621,7 @@ msgstr "<b>CHARGE DU CIRCUIT</b>"
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND5
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND5"
 msgid "Energy Surplus"
-msgstr "Surplus d'Energie"
+msgstr "Surplus d'Énergie"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND6
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND6"
@@ -28637,7 +28641,7 @@ msgstr "Sous-Alimenté"
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.NAME
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.NAME"
 msgid "POWER OVERLAY"
-msgstr "CALQUE ENERGIE"
+msgstr "CALQUE ÉNERGIE"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND_SWITCH
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND_SWITCH"
@@ -28646,14 +28650,14 @@ msgid ""
 "Activates or deactivates connected circuits"
 msgstr ""
 "<b>Interrupteur</b>\n"
-"Active ou désactive un circuit connecté"
+"Active ou désactive les circuits reliés"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND1
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND1"
 msgid ""
 "Displays whether buildings use or generate <style=\"power\">Power</style>"
 msgstr ""
-"Affiche quelles constructions utilise ou génère de la <style=\"power"
+"Affiche quelle construction utilise ou génère de la <style=\"power"
 "\">Puissance</style>"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND2
@@ -28685,7 +28689,7 @@ msgid ""
 "<b>Energy Surplus</b>\n"
 "These circuits produce more power than they can consume"
 msgstr ""
-"<b>Surplus d'Energie</b>\n"
+"<b>Surplus d'Énergie</b>\n"
 "Ces circuits produisent plus d'énergie qu'ils n'en consomment"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND6
@@ -28694,13 +28698,13 @@ msgid ""
 "<b>Strained</b>\n"
 "These circuits consume nearly all power they produce"
 msgstr ""
-"<b>Limite</b>\n"
+"<b>Tendu</b>\n"
 "Ces circuits consomment presque toute l'énergie qu'ils produisent"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND7
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND7"
 msgid "Too much power being drawn from system"
-msgstr "Trop de puissance est soutirée de ce système"
+msgstr "Trop de puissance est tirée de ce système"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND8
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND8"
@@ -28764,7 +28768,7 @@ msgstr "Construction d'Entrée"
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.CONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.CONNECTED"
 msgid "Connected to a <style=\"GasPiping\">Gas Pipe</style>"
-msgstr "Connecté à un <style=\"GasPiping\"> Gas Pipe </style>"
+msgstr "Connecté à un <style=\"GasPiping\"> Tuyau de Gaz</style>"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.CONSUMER
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.CONSUMER"
@@ -28778,7 +28782,8 @@ msgstr ""
 "<b>Tuyau de Sortie</b>\n"
 "Les sorties envoient du gaz dans les tuyaux\n"
 "------------------\n"
-"Doit être dans le même réseau qu'une <style=\"GasDestination\">Entrée</style>"
+"Doit être dans le même réseau qu'au moins une "
+"<style=\"GasDestination\">Entrée</style>"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.DISCONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.DISCONNECTED"
@@ -28794,10 +28799,11 @@ msgid ""
 "Must be on the same network as at least one <style=\"GasDestination"
 "\">Intake</style>"
 msgstr ""
-"<b>Tuyau de sortie filtré</b>\n"
-"Les sorties filtrées envoient du gaz filtré dans les tuyaux\n"
+"<b>Tuyau de Sortie Filtré</b>\n"
+"Les Sorties Filtrées envoient du gaz filtré dans les tuyaux\n"
 "------------------\n"
-"Doit être dans le même réseau qu'une<style=\"GasDestination\">Entrée</style>"
+"Doit être dans le même réseau qu'au moins une "
+"<style=\"GasDestination\">Entrée</style>"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.NETWORK
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.NETWORK"
@@ -28816,7 +28822,8 @@ msgstr ""
 "<b>Entrée de Structure</b>\n"
 "Les entrées envoient le gaz dans les structures\n"
 "------------------\n"
-"Doit être dans le même réseau qu'une <style=\"GasSource\">Sortie</style>"
+"Doit être dans le même réseau qu'au moins une <style=\"GasSource\">Sortie<"
+"/style>"
 
 #. STRINGS.UI.OVERLAYS.HEATFLOW.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.HEATFLOW.BUTTON"
@@ -28826,12 +28833,12 @@ msgstr "Calque de Confort Thermique"
 #. STRINGS.UI.OVERLAYS.HEATFLOW.COOLING
 msgctxt "STRINGS.UI.OVERLAYS.HEATFLOW.COOLING"
 msgid "Body Heat Loss"
-msgstr "Déperdition thermique corporelle"
+msgstr "Déperdition de la Température Corporelle"
 
 #. STRINGS.UI.OVERLAYS.HEATFLOW.HEATING
 msgctxt "STRINGS.UI.OVERLAYS.HEATFLOW.HEATING"
 msgid "Body Heat Retention"
-msgstr "Rétention thermique corporelle"
+msgstr "Rétention de la Température Corporelle"
 
 #. STRINGS.UI.OVERLAYS.HEATFLOW.HOVERTITLE
 msgctxt "STRINGS.UI.OVERLAYS.HEATFLOW.HOVERTITLE"
@@ -28857,12 +28864,12 @@ msgid ""
 "Duplicants lose more heat in these areas than they can absorb\n"
 "* Warm Sweaters help Duplicants retain body heat"
 msgstr ""
-"<b>Déperdition thermique corporelle</b>\n"
+"<b>Déperdition de la Température Corporelle</b>\n"
 "Inconfortablement froid\n"
 "------------------\n"
 "Les Duplicants perdent plus de chaleur dans cette zone qu'ils ne peuvent en "
 "absorber\n"
-"*Les Pulls Chauds aident les Duplicants à garder la chaleur de leur corp"
+"*Les Pulls Chauds aident les Duplicants à conserver leur chaleur corporelle"
 
 #. STRINGS.UI.OVERLAYS.HEATFLOW.TOOLTIPS.HEATING
 msgctxt "STRINGS.UI.OVERLAYS.HEATFLOW.TOOLTIPS.HEATING"
@@ -28873,12 +28880,12 @@ msgid ""
 "Duplicants absorb more heat in these areas than they can release\n"
 "* Cool Vests help Duplicants shed excess body heat"
 msgstr ""
-"<b>Rétention thermique corporelle</b>\n"
+"<b>Rétention de la Température Corporelle</b>\n"
 "Inconfortablement chaud\n"
 "------------------\n"
-"Les Duplicants absorbent d'avantage de chaleur dans cette zone qu'ils ne "
+"Les Duplicants absorbent plus de chaleur dans cette zone qu'ils ne "
 "peuvent en évacuer\n"
-"*Les vestes rafraichissantes aide les Duplicants à disperser l'excès de "
+"*Les vestes fraîches aident les Duplicants à évacuer l'excès de "
 "chaleur corporelle"
 
 #. STRINGS.UI.OVERLAYS.HEATFLOW.TOOLTIPS.NEUTRAL
@@ -28917,12 +28924,12 @@ msgstr "Calque Lumière"
 #. STRINGS.UI.OVERLAYS.LIGHTING.DARK
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.DARK"
 msgid "Unlit Area"
-msgstr "Zone non éclairée"
+msgstr "Zone Non Éclairée"
 
 #. STRINGS.UI.OVERLAYS.LIGHTING.LITAREA
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.LITAREA"
 msgid "Lit Area"
-msgstr "Zone éclairée"
+msgstr "Zone Éclairée"
 
 #. STRINGS.UI.OVERLAYS.LIGHTING.NAME
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.NAME"
@@ -28945,7 +28952,7 @@ msgid ""
 "Duplicants have adequate lighting in these areas"
 msgstr ""
 "<b>Zone Éclairée</b>\n"
-"Les Duplicants on la luminosité adéquate dans ces zones"
+"Les Duplicants ont une luminosité adéquate dans ces zones"
 
 #. STRINGS.UI.OVERLAYS.LIGHTING.TOOLTIPS.NAME
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.TOOLTIPS.NAME"
@@ -29005,7 +29012,7 @@ msgstr "Construction d'Entrée"
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.CONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.CONNECTED"
 msgid "Connected to a <style=\"LiquidPiping\">Liquid Pipe</style>"
-msgstr "Connecté à un <style=\"LiquidPiping\">Tuyau de liquide</style>"
+msgstr "Connecté à une <style=\"LiquidPiping\">Conduite de liquide</style>"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.CONSUMER
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.CONSUMER"
@@ -29017,10 +29024,10 @@ msgid ""
 "\">Intake</style>"
 msgstr ""
 "<b>Tuyau de Sortie</b>\n"
-"Les sorties envoient du liquide dans les tuyaux\n"
+"Les sorties envoient du liquide dans les conduites\n"
 "------------------\n"
-"Doit être dans le même réseau qu'une <style=\"LiquidDestination\">Entrée</"
-"style>"
+"Doit être dans le même réseau qu'au moins une "
+"<style=\"LiquidDestination\">Entrée</style>"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.DISCONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.DISCONNECTED"
@@ -29037,10 +29044,10 @@ msgid ""
 "\">Intake</style>"
 msgstr ""
 "<b>Tuyau de sortie filtré</b>\n"
-"Les sorties filtrées envoient du liquide filtré dans les tuyaux\n"
+"Les sorties filtrées envoient du liquide filtré dans les conduites\n"
 "------------------\n"
-"Doit être dans le même réseau qu'une <style=\"LiquidDestination\">Entrée</"
-"style>"
+"Doit être dans le même réseau qu'au moins une "
+"<style=\"LiquidDestination\">Entrée</style>"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.NETWORK
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.NETWORK"
@@ -29056,10 +29063,11 @@ msgid ""
 "Must be on the same network as at least one <style=\"LiquidSource\">Output</"
 "style>"
 msgstr ""
-"<b>Entrée de Structure</b>\n"
-"Les entrées envoient le liquide dans les structures\n"
+"<b>Entrée de la Structure</b>\n"
+"Les entrées injectent du liquide dans les constructions\n"
 "------------------\n"
-"Doit être dans le même réseau qu'une <style=\"LiquidSource\">Sortie</style>"
+"Doit être dans le même réseau qu'au moins une <style=\"LiquidSource\">Sortie "
+"</style>"
 
 # s/Calque/Masque/ ?
 #. STRINGS.UI.OVERLAYS.LOGIC.BUTTON
@@ -29070,12 +29078,12 @@ msgstr "Calque d'Automatisation"
 #. STRINGS.UI.OVERLAYS.LOGIC.CIRCUIT_STATUS_HEADER
 msgctxt "STRINGS.UI.OVERLAYS.LOGIC.CIRCUIT_STATUS_HEADER"
 msgid "GRID STATUS"
-msgstr "GRILLE STATUT"
+msgstr "STATUT GRILLE"
 
 #. STRINGS.UI.OVERLAYS.LOGIC.DISCONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.LOGIC.DISCONNECTED"
 msgid "DISCONNECTED"
-msgstr "DECONNECTER"
+msgstr "DÉCONNECTÉ"
 
 #. STRINGS.UI.OVERLAYS.LOGIC.INPUT
 msgctxt "STRINGS.UI.OVERLAYS.LOGIC.INPUT"
@@ -29115,7 +29123,7 @@ msgstr "Ces ports sont actuellement actifs"
 #. STRINGS.UI.OVERLAYS.LOGIC.TOOLTIPS.OUTPUT
 msgctxt "STRINGS.UI.OVERLAYS.LOGIC.TOOLTIPS.OUTPUT"
 msgid "Sends a signal out to an automation grid"
-msgstr "Envoi un signal à la grille d'automatisation"
+msgstr "Envoie un signal à la grille d'automatisation"
 
 #. STRINGS.UI.OVERLAYS.LOGIC.TOOLTIPS.ZERO
 msgctxt "STRINGS.UI.OVERLAYS.LOGIC.TOOLTIPS.ZERO"
@@ -29141,11 +29149,11 @@ msgid ""
 "approximately <style=\"produced\">+0.5 dB</style> to the total signal.\n"
 "Anything more than 10 dB quieter will be inaudible."
 msgstr ""
-"La somme de deux  <style=\"sound\">Sons</style> de dB égal augmenteront de "
-"<style=\"produced\">+3 dB</style>.\n"
+"La somme de deux  <style=\"sound\">Sons</style> de même intensité (dB) "
+"produit un son à <style=\"produced\">+3 dB</style>.\n"
 "Un <style=\"sound\">Son</style> qui est plus silencieux de 10 dB ajoutera "
-"<style=\"produced\">+0.5 dB</style> au signal total.\n"
-"Tout ce qui est plus silencieux que 10 dB ne sera pas audible."
+"environs <style=\"produced\">+0.5 dB</style> au signal total.\n"
+"Tout ce qui est plus silencieux que 10 dB sera inaudible."
 
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.HOVERTITLE
 msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.HOVERTITLE"
@@ -29165,7 +29173,7 @@ msgstr "CALQUE ACOUSTIQUE"
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.ACTIVE
 msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.ACTIVE"
 msgid "Cacophonous"
-msgstr "Cacophonie"
+msgstr "Cacophonique"
 
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.EXTREME
 msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.EXTREME"
@@ -29175,12 +29183,12 @@ msgstr "Douloureux"
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.PASSIVE
 msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.PASSIVE"
 msgid "Loud"
-msgstr "Très Bruyant"
+msgstr "Bruyant"
 
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.PEACEFUL
 msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.PEACEFUL"
 msgid "Peaceful"
-msgstr "Calme"
+msgstr "Paisible"
 
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.QUIET
 msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.QUIET"
@@ -29190,7 +29198,7 @@ msgstr "Silencieux"
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.TOSSANDTURN
 msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.TOSSANDTURN"
 msgid "Moderate"
-msgstr "Modérer"
+msgstr "Modéré"
 
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.WAKEUP
 msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.WAKEUP"
@@ -29220,7 +29228,7 @@ msgid ""
 msgstr ""
 "[>{0} dB]\n"
 "------------------\n"
-"La Cacophonie cause du Stress important et empêche les Duplicants de dormir "
+"La Cacophonie cause un Stress important et empêche les Duplicants de dormir "
 "ou de faire des recherches.\n"
 "\n"
 "Le trafic piétonnier, les générateurs et les bâtiments alimentés peuvent "
@@ -29239,7 +29247,7 @@ msgid ""
 msgstr ""
 "[>{0} dB]\n"
 "------------------\n"
-"Le vacarme est extrêmement Stressant pour les Duplicants et leur causera de "
+"Le vacarme cause un Stress extrême chez les Duplicants et leur causera de "
 "la douleur physique.\n"
 "\n"
 "Le trafic piétonnier, les générateurs et les bâtiments alimentés peuvent "
@@ -29253,8 +29261,8 @@ msgid ""
 "------------------\n"
 "High Duplicant traffic and powered buildings can create noisy areas"
 msgstr ""
-"L'exposition à des bruits forts entraîne un stress sur le temps et rend "
-"difficile de dormir ou de se concentrer\n"
+"L'exposition à des bruits forts cause du stress chez les Duplicants et rend "
+"l'endormissement ou la la concentration difficile\n"
 "------------------\n"
 "Un fort trafic et les bâtiments alimentés peuvent créer des zones bruyantes"
 
@@ -29267,11 +29275,11 @@ msgid ""
 "Soundproofed rooms and areas free of buildings and creatures will generally "
 "be quieter."
 msgstr ""
-"Les zones silencieuse diminuent le stress, assure une bonne qualité de "
-"sommeil, et aide les Duplicants  à se concentrer\n"
+"Les zones silencieuses diminuent le stress, assurent une bonne qualité de "
+"sommeil, et aident les Duplicants  à se concentrer\n"
 "------------------\n"
-"Isoler les chambres, les zone sans équipement et les créatures rendra "
-"généralement la zone plus silencieuse."
+"Les chambres isolées et les zones sans équipement ni créatures seront "
+"généralement plus silencieuses."
 
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.PASSIVE
 msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.PASSIVE"
@@ -29307,8 +29315,8 @@ msgstr ""
 "Les zones paisibles augmentent la qualité du repos des Duplicants et leur "
 "capacité à apprendre.\n"
 "\n"
-"Isoler les chambres, les zone sans équipement et les créatures rendra "
-"généralement la zone plus silencieuse."
+"Les chambres isolées et les zones sans équipement ni créatures seront "
+"généralement plus silencieuses."
 
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.QUIET
 msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.QUIET"
@@ -29322,10 +29330,10 @@ msgid ""
 msgstr ""
 "[>{0} dB]\n"
 "------------------\n"
-"Les zone silencieuses sont nécessaires aux Duplicants pour s'endormir.\n"
+"Les zones silencieuses sont nécessaires aux Duplicants pour s'endormir.\n"
 "\n"
-"Isoler les chambres, les zone sans équipement et les créatures rendra "
-"généralement la zone plus silencieuse."
+"Les chambres isolées et les zones sans équipement ni créatures seront "
+"généralement plus silencieuses."
 
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.TOSSANDTURN
 msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.TOSSANDTURN"
@@ -29339,11 +29347,11 @@ msgid ""
 msgstr ""
 "[>{0} dB]\n"
 "------------------\n"
-"Les Duplicants ne se sentiront pas reposé si ils sont forcés de dormir dans "
+"Les Duplicants ne se sentiront pas reposés s'ils sont forcés de dormir dans "
 "du bruit Modéré.\n"
 "\n"
-"Isoler les chambres, les zone sans équipement et les créatures rendra "
-"généralement la zone plus silencieuse."
+"Les chambres isolées et les zones sans équipement ni créatures seront "
+"généralement plus silencieuses."
 
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.WAKEUP
 msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.WAKEUP"
@@ -29377,12 +29385,12 @@ msgstr "<color=#{0}>{1} dB</color>"
 #. STRINGS.UI.OVERLAYS.OXYGEN.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.BUTTON"
 msgid "Oxygen Overlay"
-msgstr "Calque Oxygene"
+msgstr "Calque Oxygène"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.LEGEND1
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.LEGEND1"
 msgid "Very Breathable"
-msgstr "Très respirable"
+msgstr "Très Respirable"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.LEGEND2
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.LEGEND2"
@@ -29392,7 +29400,7 @@ msgstr "Respirable"
 #. STRINGS.UI.OVERLAYS.OXYGEN.LEGEND3
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.LEGEND3"
 msgid "Barely Breathable"
-msgstr "Limite respirable"
+msgstr "À Peine Respirable"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.LEGEND4
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.LEGEND4"
@@ -29402,17 +29410,17 @@ msgstr "Irrespirable"
 #. STRINGS.UI.OVERLAYS.OXYGEN.LEGEND5
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.LEGEND5"
 msgid "Slightly Toxic"
-msgstr "Légèrement toxique"
+msgstr "Légèrement Toxique"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.LEGEND6
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.LEGEND6"
 msgid "Very Toxic"
-msgstr "Très toxique"
+msgstr "Très Toxique"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.NAME
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.NAME"
 msgid "OXYGEN OVERLAY"
-msgstr "CALQUE OXYGENE"
+msgstr "CALQUE OXYGÈNE"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND1
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND1"
@@ -29421,7 +29429,7 @@ msgid ""
 "High oxygen concentrations"
 msgstr ""
 "<b>Très Respirable</b>\n"
-"Haute concentration d'oxygène"
+"Concentrations d'oxygène élevées"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND2
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND2"
@@ -29439,7 +29447,7 @@ msgid ""
 "Low oxygen concentrations"
 msgstr ""
 "<b>A Peine Respirable<b>\n"
-"Concentration d'oxygène bas"
+"Concentrations d'oxygène faibles"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND4
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND4"
@@ -29450,9 +29458,9 @@ msgid ""
 "Duplicants will suffocate if trapped in these areas"
 msgstr ""
 "<b>Irrespirable</b>\n"
-"Concentration d'oxygène extrêmement bas ou inexistant\n"
+"Concentrations d'oxygène extrêmement faibles ou inexistantes\n"
 "------------------\n"
-"Les Duplicants suffoqueront si ils sont bloqués dans cette zone"
+"Les Duplicants suffoqueront s'ils sont bloqués dans ces zones"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND5
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND5"
@@ -29525,7 +29533,7 @@ msgstr "CALQUE PRIORITÉ"
 #. STRINGS.UI.OVERLAYS.PRIORITIES.NINE
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.NINE"
 msgid "Priority 9 (Highest)"
-msgstr "Priorité 9 (Le plus haut)"
+msgstr "Priorité 9 (La plus haute)"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.NINE_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.NINE_TOOLTIP"
@@ -29535,7 +29543,7 @@ msgstr "Priorité 9"
 #. STRINGS.UI.OVERLAYS.PRIORITIES.ONE
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.ONE"
 msgid "Priority 1 (Lowest)"
-msgstr "Priorité 1 (Le plus bas)"
+msgstr "Priorité 1 (La plus basse)"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.ONE_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.ONE_TOOLTIP"
@@ -29601,9 +29609,11 @@ msgstr "CALQUE SALLE"
 msgctxt "STRINGS.UI.OVERLAYS.ROOMS.NOROOM.DESC"
 msgid "Enclose this space with walls and/or doors to make a room"
 msgstr ""
-"Entourez cet espace avec des murs et des portes pour en faire une salle"
+"Cloturez cet espace avec des murs et/ou des portes pour en faire une salle"
 
+# Pas de salle / pas de place ?
 #. STRINGS.UI.OVERLAYS.ROOMS.NOROOM.HEADER
+#, fuzzy
 msgctxt "STRINGS.UI.OVERLAYS.ROOMS.NOROOM.HEADER"
 msgid "No Room"
 msgstr "Pas de salle"
@@ -29616,7 +29626,7 @@ msgstr "Salle {0}"
 #. STRINGS.UI.OVERLAYS.ROOMS.TOOLTIPS.NOROOMS
 msgctxt "STRINGS.UI.OVERLAYS.ROOMS.TOOLTIPS.NOROOMS"
 msgid "Duplicants have nowhere to sleep"
-msgstr "Les Duplicants n'ont nul part où dormir"
+msgstr "Les Duplicants n'ont nulle part où dormir"
 
 #. STRINGS.UI.OVERLAYS.ROOMS.TOOLTIPS.ROOM
 msgctxt "STRINGS.UI.OVERLAYS.ROOMS.TOOLTIPS.ROOM"
@@ -29666,12 +29676,12 @@ msgstr "CALQUE EXOSUIT"
 #. STRINGS.UI.OVERLAYS.SUIT.SUIT_ICON
 msgctxt "STRINGS.UI.OVERLAYS.SUIT.SUIT_ICON"
 msgid "Suit"
-msgstr "Adapté"
+msgstr "Combinaison"
 
 #. STRINGS.UI.OVERLAYS.SUIT.SUIT_ICON_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.SUIT.SUIT_ICON_TOOLTIP"
 msgid "Shows the location of suits"
-msgstr "Montrer l'emplacement des combinaisons"
+msgstr "Montre l'emplacement des combinaisons"
 
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.BUTTON"
@@ -29686,7 +29696,7 @@ msgstr "Glacé"
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.EXTREMECOLD
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.EXTREMECOLD"
 msgid "Absolute Zero"
-msgstr "Zéro absolu"
+msgstr "Zéro Absolu"
 
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.EXTREMEHOT
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.EXTREMEHOT"
@@ -29716,7 +29726,7 @@ msgstr "Tempéré"
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.TOOLTIPS.TEMPERATURE
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.TOOLTIPS.TEMPERATURE"
 msgid "Temperatures reaching {0}"
-msgstr "Les températures atteignent {0}"
+msgstr "Les températures atteignant {0}"
 
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.VERYCOLD
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.VERYCOLD"
@@ -29758,7 +29768,7 @@ msgid ""
 msgstr ""
 "Définir le niveau de priorité de la construction\n"
 "------------------\n"
-"Priorité 1: Plus bas\n"
+"Priorité 1: Le plus bas\n"
 "Priorité 9: Le plus haut"
 
 #. STRINGS.UI.PRIORITYSCREEN.TOOLPRIORITYTOOLTIP.BASIC
@@ -29771,7 +29781,7 @@ msgid ""
 msgstr ""
 "Définir le niveau de priorité pour l'outil actuellement sélectionné\n"
 "------------------\n"
-"Priorité 1: Plus bas\n"
+"Priorité 1: Le plus bas\n"
 "Priorité 9: Le plus haut"
 
 #. STRINGS.UI.PRIORITYSCREEN.USERMENUPRIORITYTOOLTIP.BASIC
@@ -29784,7 +29794,7 @@ msgid ""
 msgstr ""
 "Définir le niveau de priorité pour l'objet actuellement sélectionné\n"
 "------------------\n"
-"Priorité 1: Plus bas\n"
+"Priorité 1: Le plus bas\n"
 "Priorité 9: Le plus haut"
 
 #. STRINGS.UI.PRODUCTINFO_APPLICABLERESOURCES
@@ -29805,9 +29815,10 @@ msgstr "Ressource(s) manquante(s)"
 #. STRINGS.UI.PRODUCTINFO_MISSINGRESOURCES_TITLE
 msgctxt "STRINGS.UI.PRODUCTINFO_MISSINGRESOURCES_TITLE"
 msgid "Requires {0}: {1}"
-msgstr "Requis {0}: {1}"
+msgstr "Requiert {0}: {1}"
 
 #. STRINGS.UI.PRODUCTINFO_REQUIRESRESEARCHDESC
+#, fuzzy
 msgctxt "STRINGS.UI.PRODUCTINFO_REQUIRESRESEARCHDESC"
 msgid "Requires {0} Research"
 msgstr "Recherche {0} Nécessaire"
@@ -29876,7 +29887,7 @@ msgstr ""
 #. STRINGS.UI.ROLES
 msgctxt "STRINGS.UI.ROLES"
 msgid "ROLES"
-msgstr "ROLES"
+msgstr "RÔLES"
 
 #. STRINGS.UI.SCHEDULE
 msgctxt "STRINGS.UI.SCHEDULE"
@@ -29890,7 +29901,8 @@ msgid ""
 "During Mealtime Duplicants will head to their assigned mess halls and eat."
 msgstr ""
 "MANGER:\n"
-"Durant la période des repas, les Duplicants iront... manger!."
+"Durant la période des repas, les Duplicants se dirigeront vers le réfectoire "
+"qui leur est assigné et mangeront."
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.EAT.NAME
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.EAT.NAME"
@@ -29905,8 +29917,8 @@ msgid ""
 "their assigned washrooms to get cleaned up."
 msgstr ""
 "HYGIÈNE:\n"
-"Pendant les heures d'<style=\"hygiene\"> Hygiène </style>, les Duplicants se "
-"dirigeront vers leurs toilettes assignées pour se faire nettoyer."
+"Pendant les heures dédiées à l'<style=\"hygiene\">Hygiène</style>, les "
+"Duplicants se dirigeront vers leurs salle de bain pour se nettoyer."
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.HYGIENE.NAME
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.HYGIENE.NAME"
@@ -29922,8 +29934,8 @@ msgid ""
 "Duplicants try, they will absolutely not be able to touch this."
 msgstr ""
 "HAMMER TIME:\n"
-"Pendant le Hammer Time, les Duplicants soulageront leurs <style=\"stress\"> "
-"Stress </style> à travers la danse. Sachez que, peu importe à quel point vos "
+"Pendant le Hammer Time, les Duplicants évacueront leurs <style=\"stress\"> "
+"Stress</style> grâce à la danse. Notez que, peu importe à quel point vos "
 "Duplicants essaieront, ils ne pourront absolument pas toucher à ça (U can't "
 "touch this!)."
 
@@ -29940,8 +29952,8 @@ msgid ""
 "rest."
 msgstr ""
 "DORMIR:\n"
-"Quand il est temps de dormir, Duplicants se dirigeront vers leurs chambres "
-"assignées et se reposeront."
+"Quand l'heure de dormir est venue, Les Duplicants se dirigeront vers la "
+"chambre qui leurs est assignée et se reposeront."
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.SLEEP.NAME
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.SLEEP.NAME"
@@ -30476,7 +30488,7 @@ msgstr "Fermer"
 #. STRINGS.UI.TOOLTIPS.CROPS_OVERLAY_STRING
 msgctxt "STRINGS.UI.TOOLTIPS.CROPS_OVERLAY_STRING"
 msgid "Displays plant growth progress"
-msgstr "Affiche la croissance de la plante"
+msgstr "Affiche la croissance de la flore"
 
 #. STRINGS.UI.TOOLTIPS.DECONSTRUCTBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.DECONSTRUCTBUTTON"
@@ -33079,17 +33091,17 @@ msgstr "Niveau de liquide"
 #. STRINGS.UI.VITALSSCREEN_CALORIES
 msgctxt "STRINGS.UI.VITALSSCREEN_CALORIES"
 msgid "Fullness"
-msgstr "Sasiété"
+msgstr "Satiété"
 
 #. STRINGS.UI.VITALSSCREEN_EATENTODAY
 msgctxt "STRINGS.UI.VITALSSCREEN_EATENTODAY"
 msgid "Eaten Today"
-msgstr "Consommé"
+msgstr "Consommé Aujourd'hui"
 
 #. STRINGS.UI.VITALSSCREEN_EATENTODAY_TOOLTIP
 msgctxt "STRINGS.UI.VITALSSCREEN_EATENTODAY_TOOLTIP"
 msgid "The amount of food this Duplicant has eaten this cycle"
-msgstr "La quantité de nourriture que votre Duplicant a mangé ce cycle"
+msgstr "La quantité de nourriture que ce Duplicant a mangé ce cycle"
 
 #. STRINGS.UI.VITALSSCREEN_HEALTH
 msgctxt "STRINGS.UI.VITALSSCREEN_HEALTH"
