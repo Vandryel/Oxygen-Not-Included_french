@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2018-01-02 20:27+0100\n"
+"PO-Revision-Date: 2018-01-03 00:53+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
@@ -1641,7 +1641,7 @@ msgstr "Cet équipement subit des dégâts et va fondre s'il n'est pas refroidi"
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.NAME"
 msgid "Deconstruction Task Assigned"
-msgstr "Mission de Démontage Assignée"
+msgstr "Action Requise: Désassemblage"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.TOOLTIP"
@@ -1662,7 +1662,7 @@ msgstr "En attente d'un pécheur"
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGHARVEST.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGHARVEST.NAME"
 msgid "Harvest Task Assigned"
-msgstr "Mission de Récolte Assignée"
+msgstr "Action Requise: Récolte"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGHARVEST.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGHARVEST.TOOLTIP"
@@ -1672,7 +1672,7 @@ msgstr "En attente d'un Réplicant pour récolter"
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGREPAIR.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGREPAIR.NAME"
 msgid "Repair Task Assigned"
-msgstr "Mission de Réparation assignée"
+msgstr "Action Requise: Réparation"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGREPAIR.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGREPAIR.TOOLTIP"
@@ -1697,7 +1697,7 @@ msgstr "En attente d'un Réplicant pour basculer l'interrupteur"
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.NAME"
 msgid "Uproot Task Assigned"
-msgstr "Mission de Déracinage Assignée"
+msgstr "Action Requise: Déracinage"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.TOOLTIP"
@@ -1707,7 +1707,7 @@ msgstr "En attente d'un Duplicant pour déraciner"
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGWORK.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGWORK.NAME"
 msgid "Work Task Assigned"
-msgstr "Mission de Travail Assignée"
+msgstr "Tâche Assignée"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGWORK.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGWORK.TOOLTIP"
@@ -2146,7 +2146,7 @@ msgstr "Cet équipement est en construction"
 #. STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTIONNOWORKER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTIONNOWORKER.NAME"
 msgid "Construction Task Assigned"
-msgstr "Mission de Construction assignée"
+msgstr "Action Requise: Construction"
 
 #. STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTIONNOWORKER.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTIONNOWORKER.TOOLTIP"
@@ -3834,9 +3834,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.HYDROPONICFARM.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROPONICFARM.NAME"
 msgid "Hydroponic Farm"
-msgstr ""
-"Ferme Hydropo- "
-"nique"
+msgstr "Ferme Hydroponique"
 
 #. STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.AVERAGEQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.AVERAGEQUALITYNAME"
@@ -20269,7 +20267,7 @@ msgstr "{Target} est actuellement utilise"
 #. STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.NAME"
 msgid "Dig Task Assigned"
-msgstr "Attribué à Creuser"
+msgstr "Action Requise: Creuser"
 
 #. STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.TOOLTIP"
@@ -20279,7 +20277,7 @@ msgstr "En attente d'un Duplicant pour deterrer"
 #. STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.NAME"
 msgid "Mop Task Assigned"
-msgstr "Mission de Nettoyage Assignée"
+msgstr "Action Requise: Nettoyage"
 
 #. STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.TOOLTIP"
@@ -22759,7 +22757,7 @@ msgstr ""
 #. STRINGS.RESEARCH.TECHS.PLASTICS.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.PLASTICS.NAME"
 msgid "Plastic Manufacturing"
-msgstr "Produit en plastique"
+msgstr "Produits en plastique"
 
 #. STRINGS.RESEARCH.TECHS.POWERREGULATION.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.POWERREGULATION.DESC"
@@ -32928,7 +32926,7 @@ msgstr "Enlève et laisse tomber cet équipement"
 #. STRINGS.UI.USERMENUACTIONS.UPROOT.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.UPROOT.NAME"
 msgid "Uproot"
-msgstr "Déracine"
+msgstr "Déraciner"
 
 #. STRINGS.UI.USERMENUACTIONS.UPROOT.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.UPROOT.TOOLTIP"
