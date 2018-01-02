@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2018-01-02 14:49+0100\n"
+"PO-Revision-Date: 2018-01-02 15:15+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
@@ -3165,13 +3165,11 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.LOGIC_PORT_DESC"
 msgid "Open/Close"
 msgstr "Ouvert/Fermé"
 
-# Chaîne trop longue
+# Porte pneumatique est trop long
 #. STRINGS.BUILDINGS.PREFABS.DOOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.NAME"
 msgid "Pneumatic Door"
-msgstr ""
-"Porte Pneuma- "
-"tique"
+msgstr "Porte à air comprimé"
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.PRESSURE_SUIT_NOT_REQUIRED
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.PRESSURE_SUIT_NOT_REQUIRED"
@@ -19384,7 +19382,7 @@ msgid ""
 "\t• <style=\"misc\">{1}</style>"
 msgstr ""
 "Eurêka !\n"
-"La <style=\"research\">Technologie {0}</style> a été débloquée.\n"
+"La Technologie <style=\"research\">{0}</style> a été débloquée.\n"
 "\n"
 "De nouvelles constructions sont disponibles:\n"
 "• <style=\"misc\">{1}</style>"
