@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2018-01-02 13:07+0100\n"
+"PO-Revision-Date: 2018-01-02 14:49+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
@@ -3165,12 +3165,13 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.LOGIC_PORT_DESC"
 msgid "Open/Close"
 msgstr "Ouvert/Fermé"
 
+# Chaîne trop longue
 #. STRINGS.BUILDINGS.PREFABS.DOOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.NAME"
 msgid "Pneumatic Door"
 msgstr ""
-"Porte "
-"Pneumatique"
+"Porte Pneuma- "
+"tique"
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.PRESSURE_SUIT_NOT_REQUIRED
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.PRESSURE_SUIT_NOT_REQUIRED"
@@ -3444,7 +3445,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITBRIDGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITBRIDGE.NAME"
 msgid "Gas Bridge"
-msgstr "Pont pour le Gaz"
+msgstr "Raccord de Gaz"
 
 #. STRINGS.BUILDINGS.PREFABS.GASFILTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASFILTER.DESC"
@@ -3530,7 +3531,6 @@ msgstr ""
 "circulation des gaz au sein d'une colonie."
 
 #. STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.EFFECT
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.EFFECT"
 msgid ""
 "Used as floor and wall tile to build rooms.\n"
@@ -3538,7 +3538,7 @@ msgid ""
 "Blocks <style=\"liquid\">Liquid</style> flow without obstructing <style=\"gas"
 "\">Gas</style>."
 msgstr ""
-"Utilisé comme plancher et mur pour construire des pièces.\n"
+"Utilisée comme plancher et mur pour construire des pièces.\n"
 "\n"
 " Bloque le flux de <style=\"liquid\">Liquide</style> sans bloquer le flux de "
 "<style=\"gas\">Gaz</style>."
@@ -3546,7 +3546,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.NAME"
 msgid "Airflow Tile"
-msgstr "Tuiles ventilées"
+msgstr "Dalle Ventilée"
 
 #. STRINGS.BUILDINGS.PREFABS.GASPUMP.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPUMP.DESC"
@@ -3595,7 +3595,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GASVALVE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVALVE.NAME"
 msgid "Gas Valve"
-msgstr "Valve à Gaz"
+msgstr "Valve pour Gaz"
 
 #. STRINGS.BUILDINGS.PREFABS.GASVENT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVENT.DESC"
@@ -3615,7 +3615,9 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GASVENT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVENT.NAME"
 msgid "Gas Vent"
-msgstr "Conduite de Gaz"
+msgstr ""
+"Évacuation "
+"de Gaz"
 
 #. STRINGS.BUILDINGS.PREFABS.GASVENTHIGHPRESSURE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVENTHIGHPRESSURE.DESC"
@@ -3835,7 +3837,9 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.HYDROPONICFARM.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROPONICFARM.NAME"
 msgid "Hydroponic Farm"
-msgstr "Ferme Hydroponique"
+msgstr ""
+"Ferme Hydropo- "
+"nique"
 
 #. STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.AVERAGEQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.AVERAGEQUALITYNAME"
@@ -3966,10 +3970,10 @@ msgid ""
 "Reduces <style=\"heat\">Heat</style> transfer between walls, retaining "
 "ambient heat in an area."
 msgstr ""
-"Utilisé comme sol et mur pour construire des salles.\n"
+"Utilisée comme sol et mur pour construire des salles.\n"
 "\n"
 "Réduit le transfert de <style=\"heat\">Chaleur</style> entre les murs, "
-"en maintenant la chaleur ambiante dans une zone."
+"en retenant la chaleur dans une zone."
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.NAME"
@@ -4101,7 +4105,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITBRIDGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITBRIDGE.NAME"
 msgid "Liquid Bridge"
-msgstr "Pont pour Liquide"
+msgstr "Raccord de tuyau"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCOOLEDFAN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCOOLEDFAN.DESC"
@@ -4295,7 +4299,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDVALVE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDVALVE.NAME"
 msgid "Liquid Valve"
-msgstr "Valve à liquides"
+msgstr "Valve pour liquide"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDVENT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDVENT.DESC"
@@ -4752,8 +4756,8 @@ msgid ""
 "\n"
 "Wild creatures cannot pass through doors."
 msgstr ""
-"Bloque les <style=\"liquid\">Liquides</style>et flux de <style=\"gas\">Gaz</"
-"style>, en maintenant la pression entre les zones.\n"
+"Bloque les <style=\"liquid\">Liquides</style> et flux de <style=\"gas\">Gaz</"
+"style>, en maintenant une pression constante entre les zones.\n"
 "\n"
 "Définit les autorisations d’accès des Duplicants aux zones restreintes.\n"
 "\n"
@@ -4887,7 +4891,7 @@ msgid ""
 "Does not obstruct <style=\"liquid\">Liquid</style> or <style=\"gas\">Gas</"
 "style> flow."
 msgstr ""
-"Utilisé comme plancher et mur pour construire des salles.\n"
+"Utilisée comme plancher et mur pour construire des salles.\n"
 "\n"
 " Ne bloque pas les flux de <style=\"liquid\">Liquide</style> ou de <style="
 "\"gas\">Gaz</style>."
@@ -4951,7 +4955,7 @@ msgid ""
 "\n"
 "Significantly increases Duplicant runspeed."
 msgstr ""
-"Utilisé comme plancher et mur pour construire des salles.\n"
+"Utilisée comme plancher et mur pour construire des salles.\n"
 "\n"
 "Augmente significativement la vitesse de déplacement des Duplicants."
 
@@ -4981,7 +4985,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.METHANEGENERATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.METHANEGENERATOR.NAME"
 msgid "Natural Gas Generator"
-msgstr "Générateur de gaz naturel"
+msgstr "Générateur au gaz naturel"
 
 #. STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.DESC"
@@ -5154,7 +5158,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.PETROLEUMGENERATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PETROLEUMGENERATOR.NAME"
 msgid "Petroleum Generator"
-msgstr "Générateur de Pétrole"
+msgstr "Générateur à Pétrole"
 
 #. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.DESC"
@@ -5259,10 +5263,11 @@ msgstr ""
 "Protège les circuits de la surcharge en augmentant ou diminuant le "
 "débit d'<style=\"power\">Énergie</style> ."
 
+# String shortened. Must fit a button
 #. STRINGS.BUILDINGS.PREFABS.POWERTRANSFORMER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.POWERTRANSFORMER.NAME"
 msgid "Power Transformer"
-msgstr "Transformateur Électrique"
+msgstr "Transfo Électrique"
 
 #. STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.DESC"
@@ -5284,8 +5289,8 @@ msgid ""
 "Functions as a Manual Airlock when no <style=\"power\">Power</style> is "
 "available."
 msgstr ""
-"Bloque le débit de <style=\"liquid\">Liquide</style> et de <style=\"gas\"> "
-"Gaz</style>, en maintenant la pression entre les zones.\n"
+"Bloque les débits de <style=\"liquid\">Liquide</style> et de<style=\"gas\"> "
+"Gaz</style>, en maintenant une pression constante entre les zones.\n"
 "\n"
 "Définit les permissions d'accès des Duplicants pour les zones restreintes.\n"
 "\n"
@@ -5399,10 +5404,11 @@ msgstr ""
 "Stocke la <style=\"food\">Nourriture</style>  à une <style=\"heat"
 "\">Température</style> idéale."
 
+# Réfrigérateur est trop long
 #. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.NAME"
 msgid "Refrigerator"
-msgstr "Réfrigérateur"
+msgstr "Frigidaire"
 
 #. STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.DESC"
@@ -5790,7 +5796,7 @@ msgstr "Dalle"
 #. STRINGS.BUILDINGS.PREFABS.TILEPOI.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILEPOI.EFFECT"
 msgid "Used as floor and wall tile to build rooms."
-msgstr "Utilisé comme plancher et mur pour construire des salles."
+msgstr "Utilisée comme plancher et mur pour construire des salles."
 
 #. STRINGS.BUILDINGS.PREFABS.TILEPOI.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILEPOI.NAME"
@@ -6031,7 +6037,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.WIREBRIDGEHIGHWATTAGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREBRIDGEHIGHWATTAGE.NAME"
 msgid "Heavi-Watt Joint Plate"
-msgstr "Plaque de Jonction Haute Tension"
+msgstr "Plaque de Jonction HT"
 
 #. STRINGS.BUILDINGS.PREFABS.WIREREFINED.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREREFINED.DESC"
@@ -22870,7 +22876,7 @@ msgstr ""
 #. STRINGS.RESEARCH.TECHS.VALVEMINIATURIZATION.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.VALVEMINIATURIZATION.NAME"
 msgid "Valve Minaturization"
-msgstr "Miniaturisation de valve"
+msgstr "Valve Miniature"
 
 #. STRINGS.RESEARCH.TYPES.ALPHA.DESC
 msgctxt "STRINGS.RESEARCH.TYPES.ALPHA.DESC"
