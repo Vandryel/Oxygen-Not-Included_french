@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2018-01-02 16:49+0100\n"
+"PO-Revision-Date: 2018-01-02 20:27+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
@@ -2817,8 +2817,7 @@ msgid ""
 "style>."
 msgstr ""
 "Produit de la <style=\"light\">Lumière</style> lorsqu'il est <style=\"power\""
-">allumé</ "
-"style>."
+">allumé</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.NAME"
@@ -3451,7 +3450,7 @@ msgid ""
 "Gas filters send the selected filter gas into a special pipe, expelling "
 "everything else through a second output."
 msgstr ""
-"Les filtres à gaz envoient le gaz sélectionné dans un tuyau spécial, en "
+"Les filtres à gaz envoient le gaz sélectionné dans un tuyau dédié, en "
 "expulsant le reste par une seconde sortie."
 
 #. STRINGS.BUILDINGS.PREFABS.GASFILTER.EFFECT
@@ -4129,7 +4128,7 @@ msgid ""
 "Liquid filters send the selected filter gas into a special pipe, expelling "
 "everything else through a second output."
 msgstr ""
-"Les filtres à liquide envoient le gaz filtré à travers un tuyau spécial, en "
+"Les filtres à liquide envoient le liquide filtré à travers un tuyau dédié, en "
 "expulsant le reste par une seconde sortie."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDFILTER.EFFECT
@@ -9433,7 +9432,7 @@ msgstr "Vomis de stress"
 #. STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.STATUS"
 msgid "Stress vomiting"
-msgstr "Vomissement de Stress"
+msgstr "Vomissement dû au Stress"
 
 #. STRINGS.DUPLICANTS.CHORES.TAKEMEDICINE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.TAKEMEDICINE.NAME"
@@ -14131,12 +14130,12 @@ msgstr "Ce Duplicant n'a pas pu trouver de toilette et est super embarrassé"
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.NAME"
 msgid "Stress vomiting"
-msgstr "Vomissement de Stress"
+msgstr "Vomissement dû au Stress"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.NOTIFICATION_NAME"
 msgid "Stress vomiting"
-msgstr "Vomissement de Stress"
+msgstr "Vomissement dû au Stress"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.NOTIFICATION_TOOLTIP"
@@ -20280,7 +20279,7 @@ msgstr "En attente d'un Duplicant pour deterrer"
 #. STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.NAME"
 msgid "Mop Task Assigned"
-msgstr "Attribué à Essuyer"
+msgstr "Mission de Nettoyage Assignée"
 
 #. STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.TOOLTIP"
@@ -24592,7 +24591,7 @@ msgstr "Inverse toutes les permissions de nourriture pour <b>{0}</b>"
 #. STRINGS.UI.CONTEXTSCREEN.ASSIGNEDTO
 msgctxt "STRINGS.UI.CONTEXTSCREEN.ASSIGNEDTO"
 msgid "Assigned To:"
-msgstr "Attribué à:"
+msgstr "Affecté à:"
 
 #. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.CANCHAT
 msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.CANCHAT"
@@ -28061,13 +28060,14 @@ msgctxt "STRINGS.UI.IMMIGRANTSCREEN.CANCELBUTTON"
 msgid "Cancel"
 msgstr "Annuler"
 
+# ooze these duplicants ?
 #. STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONBODY
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONBODY"
 msgid ""
 "The Printing Pod will need time to recharge if you Ooze these Duplicants."
 msgstr ""
-"La Station d'Impression aura besoin d'un temps de recharge si vous sortez "
-"ces Duplicants."
+"La Station d'Impression aura besoin de temps pour se recharger si vous "
+"sortez ces Duplicants."
 
 #. STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONTITLE
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONTITLE"
