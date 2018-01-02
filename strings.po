@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2018-01-02 15:15+0100\n"
+"PO-Revision-Date: 2018-01-02 15:37+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
@@ -33140,8 +33140,10 @@ msgid ""
 "They'll need to survive to find answers."
 msgstr ""
 "Votre équipage se réveille des kilomètres sous la surface d'un astéroïde "
-"inconnu. Curieusement, ils ne se souviennent pas de la façon dont ils sont "
-"arrivés ici. Ils doivent survivre pour trouver des réponses."
+"inconnu.\n"
+"Curieusement, ils ne se souviennent pas de la façon dont ils sont "
+"arrivés ici.\n"
+"Ils doivent survivre pour trouver des réponses."
 
 #. STRINGS.UI.WELCOMEMESSAGETITLE
 msgctxt "STRINGS.UI.WELCOMEMESSAGETITLE"
@@ -33161,52 +33163,52 @@ msgstr "Rangement pour les Duplicants..."
 #. STRINGS.UI.WORLDGEN.BORDERS
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS"
 msgid "Just adding water..."
-msgstr "Ajouter de l'eau..."
+msgstr "Ajoute seulement de l'eau..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS1
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS1"
 msgid "Just adding water..."
-msgstr "Ajouter de l'eau..."
+msgstr "Ajoute seulement de l'eau..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS2
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS2"
 msgid "Staring at the void..."
-msgstr "Regarder dans le vide..."
+msgstr "Regarde dans le vide..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS3
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS3"
 msgid "Staring at the void..."
-msgstr "Regarder dans le vide..."
+msgstr "Regarde dans le vide..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS4
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS4"
 msgid "Staring at the void..."
-msgstr "Regarder dans le vide..."
+msgstr "Regarde dans le vide..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS5
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS5"
 msgid "Avoiding awkward eye contact with the void..."
-msgstr "Eviter le contact visuel genant avec le vide..."
+msgstr "Évite le contact visuel gênant avec le vide..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS6
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS6"
 msgid "Avoiding awkward eye contact with the void..."
-msgstr "Eviter le contact visuel genant avec le vide..."
+msgstr "Évite le contact visuel gênant avec le vide..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS7
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS7"
 msgid "Avoiding awkward eye contact with the void..."
-msgstr "Eviter le contact visuel genant avec le vide..."
+msgstr "Évite le contact visuel gênant avec le vide..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS8
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS8"
 msgid "Avoiding awkward eye contact with the void..."
-msgstr "Eviter le contact visuel genant avec le vide..."
+msgstr "Évite le contact visuel gênant avec le vide..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS9
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS9"
 msgid "Avoiding awkward eye contact with the void..."
-msgstr "Eviter le contact visuel genant avec le vide..."
+msgstr "Évite le contact visuel gênant avec le vide..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE"
@@ -33226,22 +33228,22 @@ msgstr "Tri des quadrillions d'atomes..."
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE3
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE3"
 msgid "Ironing the fabric of creation..."
-msgstr "Repasser le tissu de la création..."
+msgstr "Repassage du tissu de la création..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE4
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE4"
 msgid "Ironing the fabric of creation..."
-msgstr "Repasser le tissu de la création..."
+msgstr "Repassage du tissu de la création..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE5
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE5"
 msgid "Ironing the fabric of creation..."
-msgstr "Repasser le tissu de la création..."
+msgstr "Repassage du tissu de la création..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE6
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE6"
 msgid "Taking hot meteor shower..."
-msgstr "Prendre une douche de météores chaudes..."
+msgstr "Prend une pluie de météorites brulantes..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE7
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE7"
@@ -33266,12 +33268,12 @@ msgstr "Sélectionnez l'ampleur de votre nouvelle galaxie."
 #. STRINGS.UI.WORLDGEN.CLEARINGLEVEL
 msgctxt "STRINGS.UI.WORLDGEN.CLEARINGLEVEL"
 msgid "Staring into the void..."
-msgstr "Regarder dans le néant..."
+msgstr "Regarde dans le néant..."
 
 #. STRINGS.UI.WORLDGEN.COMPLETE
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETE"
 msgid "Success! Space adventure awaits."
-msgstr "Succés! L'aventure spatiale vous attend."
+msgstr "Succès! L'aventure spatiale vous attend."
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT"
@@ -33336,47 +33338,47 @@ msgstr "Durcissement des diamants..."
 #. STRINGS.UI.WORLDGEN.DRAWWORLDBORDER
 msgctxt "STRINGS.UI.WORLDGEN.DRAWWORLDBORDER"
 msgid "Establishing personal boundaries..."
-msgstr "Etablissement de limites personnelles..."
+msgstr "Établissement des limites personnelles..."
 
 #. STRINGS.UI.WORLDGEN.FAILED
 msgctxt "STRINGS.UI.WORLDGEN.FAILED"
 msgid "Goodness, has this ever gone terribly wrong!"
-msgstr "Seigneur, est-ce que ça a déjà été pire!"
+msgstr "Seigneur, est-ce que ça s'est déjà mal passé!"
 
 #. STRINGS.UI.WORLDGEN.GENERATENOISE
 msgctxt "STRINGS.UI.WORLDGEN.GENERATENOISE"
 msgid "Baking igneous rock..."
-msgstr "Cuisson de roches magmatiques..."
+msgstr "Cuisson des roches magmatiques..."
 
 #. STRINGS.UI.WORLDGEN.GENERATENOISE1
 msgctxt "STRINGS.UI.WORLDGEN.GENERATENOISE1"
 msgid "Multilayering sediment..."
-msgstr "Sédiments à  multicouches..."
+msgstr "Empilement des sédiments..."
 
 #. STRINGS.UI.WORLDGEN.GENERATENOISE2
 msgctxt "STRINGS.UI.WORLDGEN.GENERATENOISE2"
 msgid "Multilayering sediment..."
-msgstr "Sédiments à  multicouches..."
+msgstr "Empilement des sédiments..."
 
 #. STRINGS.UI.WORLDGEN.GENERATENOISE3
 msgctxt "STRINGS.UI.WORLDGEN.GENERATENOISE3"
 msgid "Multilayering sediment..."
-msgstr "Sédiments à  multicouches..."
+msgstr "Empilement des sédiments..."
 
 #. STRINGS.UI.WORLDGEN.GENERATENOISE4
 msgctxt "STRINGS.UI.WORLDGEN.GENERATENOISE4"
 msgid "Superheating gases..."
-msgstr "Gaz de surchauffe..."
+msgstr "Surchauffe des Gaz..."
 
 #. STRINGS.UI.WORLDGEN.GENERATENOISE5
 msgctxt "STRINGS.UI.WORLDGEN.GENERATENOISE5"
 msgid "Superheating gases..."
-msgstr "Gaz de surchauffe..."
+msgstr "Surchauffe des Gaz..."
 
 #. STRINGS.UI.WORLDGEN.GENERATENOISE6
 msgctxt "STRINGS.UI.WORLDGEN.GENERATENOISE6"
 msgid "Superheating gases..."
-msgstr "Gaz de surchauffe..."
+msgstr "Surchauffe des Gaz..."
 
 #. STRINGS.UI.WORLDGEN.GENERATENOISE7
 msgctxt "STRINGS.UI.WORLDGEN.GENERATENOISE7"
@@ -33426,27 +33428,27 @@ msgstr "Catalyse du Big Bang..."
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM6
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM6"
 msgid "Approaching event horizon..."
-msgstr "Approche d'événement à  l'horizon..."
+msgstr "Horizon des événements en approche..."
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM7
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM7"
 msgid "Approaching event horizon..."
-msgstr "Approche d'événement à  l'horizon..."
+msgstr "Horizon des événements en approche..."
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM8
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM8"
 msgid "Approaching event horizon..."
-msgstr "Approche d'événement à  l'horizon..."
+msgstr "Horizon des événements en approche..."
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM9
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM9"
 msgid "Approaching event horizon..."
-msgstr "Approche d'événement à  l'horizon..."
+msgstr "Horizon des événements en approche..."
 
 #. STRINGS.UI.WORLDGEN.GENERATINGWORLD
 msgctxt "STRINGS.UI.WORLDGEN.GENERATINGWORLD"
 msgid "The Galaxy Synthesizer"
-msgstr "Le Synthétiseur Galaxique"
+msgstr "Le Synthétiseur Galactique"
 
 #. STRINGS.UI.WORLDGEN.LOADING
 msgctxt "STRINGS.UI.WORLDGEN.LOADING"
@@ -33481,42 +33483,42 @@ msgstr "Enrobage des métaux..."
 #. STRINGS.UI.WORLDGEN.PROCESSING3
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING3"
 msgid "Burying precious ore..."
-msgstr "Enfouissement des métaux précieux..."
+msgstr "Enfouissement des minerais précieux..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING4
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING4"
 msgid "Burying precious ore..."
-msgstr "Enfouissement des métaux précieux..."
+msgstr "Enfouissement des minerais précieux..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING5
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING5"
 msgid "Burying precious ore..."
-msgstr "Enfouissement des métaux précieux..."
+msgstr "Enfouissement des minerais précieux..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING6
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING6"
 msgid "Burying precious ore..."
-msgstr "Enfouissement des métaux précieux..."
+msgstr "Enfouissement des minerais précieux..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING7
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING7"
 msgid "Excavating tunnels..."
-msgstr "Tunnels en excavation..."
+msgstr "Excavation des tunnels..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING8
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING8"
 msgid "Excavating tunnels..."
-msgstr "Tunnels en excavation..."
+msgstr "Excavation des tunnels..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING9
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING9"
 msgid "Excavating tunnels..."
-msgstr "Tunnels en excavation..."
+msgstr "Excavation des tunnels..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSRIVERS
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSRIVERS"
 msgid "Pouring rivers..."
-msgstr "Coulée de rivières..."
+msgstr "Déversement des rivières..."
 
 #. STRINGS.UI.WORLDGEN.RESTARTING
 msgctxt "STRINGS.UI.WORLDGEN.RESTARTING"
@@ -33531,12 +33533,12 @@ msgstr "Oh mon cher, essayons encore."
 #. STRINGS.UI.WORLDGEN.SETTLESIM
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM"
 msgid "Infusing oxygen..."
-msgstr "Infusion d'oxygène."
+msgstr "Infusion d'oxygène..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM1
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM1"
 msgid "Infusing oxygen..."
-msgstr "Infusion d'oxygène."
+msgstr "Infusion d'oxygène..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM2
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM2"
@@ -33551,32 +33553,32 @@ msgstr "Trop d'oxygène. Dissipation..."
 #. STRINGS.UI.WORLDGEN.SETTLESIM4
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM4"
 msgid "Ideal oxygen levels achieved..."
-msgstr "Niveau d'oxygène idéal..."
+msgstr "Niveau d'oxygène idéal atteint..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM5
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM5"
 msgid "Ideal oxygen levels achieved..."
-msgstr "Niveau d'oxygène idéal..."
+msgstr "Niveau d'oxygène idéal atteint..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM6
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM6"
 msgid "Planting space flora..."
-msgstr "Plantation de flore..."
+msgstr "Plantation d'espaces végétaux..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM7
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM7"
 msgid "Planting space flora..."
-msgstr "Plantation de flore..."
+msgstr "Plantation d'espaces végétaux..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM8
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM8"
 msgid "Releasing wildlife..."
-msgstr "Libérer la faune..."
+msgstr "Libération de la faune sauvage..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM9
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM9"
 msgid "Releasing wildlife..."
-msgstr "Libérer la faune..."
+msgstr "Libération de la faune sauvage..."
 
 #. STRINGS.UI.WORLDGEN.SETUPNOISE
 msgctxt "STRINGS.UI.WORLDGEN.SETUPNOISE"
@@ -33586,17 +33588,17 @@ msgstr "BANG!"
 #. STRINGS.UI.WORLDGEN.USING_PLAYER_SEED
 msgctxt "STRINGS.UI.WORLDGEN.USING_PLAYER_SEED"
 msgid "Using selected world gen seed: "
-msgstr "Utilise la graine de génération de monde: "
+msgstr "Graine de génération de monde utilisée: "
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT"
 msgid "Freezing ice formations..."
-msgstr "Formation de glace..."
+msgstr "Formations de glace..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT1
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT1"
 msgid "Freezing ice formations..."
-msgstr "Formation de glace..."
+msgstr "Formations de glace..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT10
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT10"
@@ -33606,27 +33608,27 @@ msgstr "Aspersion de sable..."
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT2
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT2"
 msgid "Freezing ice formations..."
-msgstr "Formation de glace..."
+msgstr "Formations de glace..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT3
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT3"
 msgid "Freezing ice formations..."
-msgstr "Formation de glace..."
+msgstr "Formations de glace..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT4
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT4"
 msgid "Melting magma..."
-msgstr "Magma en fusion..."
+msgstr "Fusion du magma..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT5
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT5"
 msgid "Melting magma..."
-msgstr "Magma en fusion..."
+msgstr "Fusion du magma..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT6
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT6"
 msgid "Melting magma..."
-msgstr "Magma en fusion..."
+msgstr "Fusion du magma..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT7
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT7"
