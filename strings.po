@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-03 22:56+0100\n"
+"PO-Revision-Date: 2018-01-03 23:22+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
@@ -1575,7 +1575,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.NOTUBEEXITS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOTUBEEXITS.NAME"
 msgid "No Valid Landing Spot"
-msgstr ""
+msgstr "Pas de Point de Sortie Valide"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOTUBEEXITS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOTUBEEXITS.TOOLTIP"
@@ -1583,6 +1583,8 @@ msgid ""
 "Dupes can exit a transit tube if there is a spot to land within 2 tiles of "
 "the tube's end."
 msgstr ""
+"Les Duplicants peuvent sortir du tube de transit s'il y a un endroit où "
+"débarquer à 2 cases de la sortie."
 
 #. STRINGS.BUILDING.STATUSITEMS.NOWIRECONNECTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOWIRECONNECTED.NAME"
