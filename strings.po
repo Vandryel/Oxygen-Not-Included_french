@@ -1,10 +1,9 @@
-# kelda, 2017, 2018.
 # Christophe <christophe@krop.fr>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2018-01-03 14:09+0100\n"
+"PO-Revision-Date:\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
@@ -1532,13 +1531,12 @@ msgstr "Rien d'extraordinaire ici"
 #. STRINGS.BUILDING.STATUSITEMS.NOSTORAGEFILTERSET.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOSTORAGEFILTERSET.NAME"
 msgid "Storage Not Assigned"
-msgstr "Stockage non assigné"
+msgstr "Rangement non assigné"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOSTORAGEFILTERSET.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOSTORAGEFILTERSET.TOOLTIP"
 msgid "No resources types are marked for storage in this building"
-msgstr "Aucun type de ressource n'est indiqué à stocker dans cet équipement"
+msgstr "Aucun type de ressources n'est indiqué à stocker dans cet équipement"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOSUITMARKER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOSUITMARKER.NAME"
@@ -1651,7 +1649,7 @@ msgstr "En attente d'un Duplicant pour démonter cet équipement"
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGFISH.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGFISH.NAME"
 msgid "Fishing Task Assigned"
-msgstr "Assigné à la Pêche"
+msgstr "Action Requise: Pêche"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGFISH.TOOLTIP
 #, fuzzy
@@ -1684,10 +1682,9 @@ msgstr ""
 "Dégâts reçu {DamageInfo}"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGSWITCHTOGGLE.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGSWITCHTOGGLE.NAME"
 msgid "Toggle Switch Task Assigned"
-msgstr "Assigné à l'interrupteur"
+msgstr "Action Requise: Activer l'interrupteur"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGSWITCHTOGGLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGSWITCHTOGGLE.TOOLTIP"
@@ -1863,7 +1860,7 @@ msgstr "Les recherches produites à cette station seront investies dans {Tech}"
 #. STRINGS.BUILDING.STATUSITEMS.STORAGELOCKER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.STORAGELOCKER.NAME"
 msgid "Storing: {Stored} / {Capacity} kg"
-msgstr "Stockage: {Stored} /{Capacity} kg"
+msgstr "Capacité: {Stored} /{Capacity} kg"
 
 #. STRINGS.BUILDING.STATUSITEMS.STORAGELOCKER.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.STORAGELOCKER.TOOLTIP"
@@ -2382,7 +2379,7 @@ msgstr "Ne plus Désinfecter"
 #. STRINGS.BUILDINGS.AUTODISINFECTABLE.DISABLE_AUTODISINFECT.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.AUTODISINFECTABLE.DISABLE_AUTODISINFECT.TOOLTIP"
 msgid "Do not automatically disinfect this building"
-msgstr "Ne pas désinfecter automatiquement cette structure"
+msgstr "Ne pas désinfecter automatiquement cet équipement"
 
 #. STRINGS.BUILDINGS.AUTODISINFECTABLE.ENABLE_AUTODISINFECT.NAME
 msgctxt "STRINGS.BUILDINGS.AUTODISINFECTABLE.ENABLE_AUTODISINFECT.NAME"
@@ -2392,7 +2389,7 @@ msgstr "Activer la Désinfection"
 #. STRINGS.BUILDINGS.AUTODISINFECTABLE.ENABLE_AUTODISINFECT.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.AUTODISINFECTABLE.ENABLE_AUTODISINFECT.TOOLTIP"
 msgid "Automatically disinfect this building when it becomes contaminated"
-msgstr "Désinfecter Automatiquement cette structure lorsqu'elle est contaminée"
+msgstr "Désinfecter Automatiquement cet équipement lorsqu'il est contaminé"
 
 #. STRINGS.BUILDINGS.AUTODISINFECTABLE.NO_DISEASE.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.AUTODISINFECTABLE.NO_DISEASE.TOOLTIP"
@@ -2543,7 +2540,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.AIRFILTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRFILTER.EFFECT"
 msgid "Nullifies <style=\"gas\">Polluted Oxygen</style>."
-msgstr "Supprime l'<style=\"gas\">Oxygène Pollué</style>."
+msgstr "Neutralise l'<style=\"gas\">Oxygène Pollué</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.AIRFILTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRFILTER.NAME"
@@ -2710,7 +2707,7 @@ msgid ""
 "\n"
 "Duplicants will automatically return to their cots to sleep at night."
 msgstr ""
-"Offre à un Duplicant un endroit où dormir.\n"
+"Fournit un endroit où dormir à un Duplicant.\n"
 "\n"
 "Les Duplicants iront dormir dans leur lit automatiquement à la nuit tombée."
 
@@ -2959,14 +2956,13 @@ msgid "Electric Grill"
 msgstr "Grill Électrique"
 
 #. STRINGS.BUILDINGS.PREFABS.CREATUREDELIVERYPOINT.DESC
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.CREATUREDELIVERYPOINT.DESC"
 msgid ""
 "Duplicants automatically bring captured creatures to these relocation points "
 "for release."
 msgstr ""
 "Les Duplicants apportent automatiquement les créatures capturées à ces "
-"points de relocalisation pour la libération."
+"points de relocalisation pour la remise en liberté."
 
 #. STRINGS.BUILDINGS.PREFABS.CREATUREDELIVERYPOINT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CREATUREDELIVERYPOINT.EFFECT"
@@ -3033,10 +3029,10 @@ msgid ""
 "\n"
 "Duplicants will automatically eat at their assigned table when hungry."
 msgstr ""
-"Offre aux Duplicants un endroit pour manger.\n"
+"Fournit un endroit où manger à un Duplicant.\n"
 "\n"
-"Les Duplicants mangeront automatiquement à leur table réservée quand ils ont "
-"faim."
+"Les Duplicants mangeront automatiquement à la table qui leur est réservée "
+"lorsqu'ils ont faim."
 
 #. STRINGS.BUILDINGS.PREFABS.DININGTABLE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DININGTABLE.NAME"
@@ -3810,9 +3806,8 @@ msgid ""
 "Hydroponic farms reduce Duplicant traffic by automating liquid delivery with "
 "irrigation pipes."
 msgstr ""
-"Les fermes hydroponiques réduisent les allers et venues des Duplicant en"
-" livrant "
-"automatique le liquide par les tuyaux."
+"Les fermes hydroponiques réduisent les allers-retours des Duplicants en"
+"acheminant le liquide automatiquement  grâce aux tuyaux."
 
 #. STRINGS.BUILDINGS.PREFABS.HYDROPONICFARM.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROPONICFARM.EFFECT"
@@ -4819,7 +4814,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.MASSIVEHEATSINK.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MASSIVEHEATSINK.NAME"
 msgid "Anti Entropy Thermo-Nullifier"
-msgstr "Thermo-Annuleur Anti Entropie"
+msgstr "Thermo-Neutraliseur Anti Entropie"
 
 #. STRINGS.BUILDINGS.PREFABS.MEDICALBED.DESC
 #, fuzzy
@@ -6140,23 +6135,23 @@ msgstr "Câble Très Conducteur"
 #. STRINGS.BUILDINGS.REPAIRABLE.DISABLE_AUTOREPAIR.NAME
 msgctxt "STRINGS.BUILDINGS.REPAIRABLE.DISABLE_AUTOREPAIR.NAME"
 msgid "Disable Autorepair"
-msgstr "Pas de Réparation Auto"
+msgstr "Réparation Auto: Non"
 
 #. STRINGS.BUILDINGS.REPAIRABLE.DISABLE_AUTOREPAIR.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.REPAIRABLE.DISABLE_AUTOREPAIR.TOOLTIP"
 msgid "Only repair this building when ordered"
-msgstr "Réparer cette structure uniquement lorsque c'est demandé"
+msgstr "Réparer cet équipement à la demande uniquement"
 
 # Texte sur un bouton, la chaîne doit être courte
 #. STRINGS.BUILDINGS.REPAIRABLE.ENABLE_AUTOREPAIR.NAME
 msgctxt "STRINGS.BUILDINGS.REPAIRABLE.ENABLE_AUTOREPAIR.NAME"
 msgid "Enable Autorepair"
-msgstr "Réparation Auto"
+msgstr "Réparation Auto: Oui"
 
 #. STRINGS.BUILDINGS.REPAIRABLE.ENABLE_AUTOREPAIR.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.REPAIRABLE.ENABLE_AUTOREPAIR.TOOLTIP"
 msgid "Automatically repair this building when damaged"
-msgstr "Réparer automatiquement cette structure lorsqu'elle est endommagée"
+msgstr "Réparer cet équipement automatiquement lorsqu'il est endommagé"
 
 #. STRINGS.CREATURES.BAGGED_DESC_FMT
 msgctxt "STRINGS.CREATURES.BAGGED_DESC_FMT"
@@ -8887,10 +8882,11 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.DEBUGGOTO.STATUS"
 msgid "DebugGoTo"
 msgstr "DebugGoTo"
 
+# Déconstruire est trop long
 #. STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.NAME"
 msgid "Deconstruct"
-msgstr "Déconstruction"
+msgstr "Démonter"
 
 #. STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.STATUS"
@@ -18928,14 +18924,14 @@ msgid ""
 "into bottles. Duplicants will then automatically deliver the bottled liquids "
 "where they need to go."
 msgstr ""
-"Pour bien déplacer les <style=\"liquid\">Liquides</style> d'un endroit à un "
-"autre, les Duplicants devront d'abord les mettre en bouteille.\n"
+"Pour déplacer les <style=\"liquid\">Liquides</style> d'un endroit à un "
+"autre, les Duplicants doivent d'abord les embouteiller.\n"
 "\n"
 "Construisez un Embouteilleur sur un bassin de liquide à partir de l'<style="
 "\"misc\">ONGLET PLOMBERIE</style> du <style=\"misc\">MENU DE CONSTRUCTION</"
-"style> pour pomper ces liquides et les mettre en bouteille. Les Duplicants "
-"emmèneront automatiquement les bouteilles de liquide là où elles sont "
-"nécessaire."
+"style> pour mettre ces liquides en bouteille. Les Duplicants "
+"emmèneront automatiquement les bouteilles de liquide là où elles doivent"
+" aller."
 
 #. STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.NAME"
@@ -19484,7 +19480,7 @@ msgid ""
 "OVERLAY</style> <color=#F44A47><b>[F6]</b></color> to assign resource types "
 "to it."
 msgstr ""
-"Les Duplicants sont plein de ressources et vont automatiquement utiliser les "
+"Les Duplicants sont pleins de ressources et vont automatiquement utiliser les "
 "matériaux à leur portée. Cependant, la productivité d'un Duplicant peut être "
 "augmentée en stockant les ressources à proximité d'où il les utilise.\n"
 "\n"
@@ -20133,7 +20129,7 @@ msgstr ""
 #. STRINGS.MISC.STATUSITEMS.PENDINGCLEAR.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGCLEAR.NAME"
 msgid "Sweep Task Assigned"
-msgstr "Assigné à Balayer"
+msgstr "Action Requise: Ramassage"
 
 #. STRINGS.MISC.STATUSITEMS.PENDINGCLEAR.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGCLEAR.TOOLTIP"
@@ -20143,7 +20139,7 @@ msgstr "En attente d'un Duplicant pour balayer"
 #. STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.NAME"
 msgid "Harvest Task Assigned"
-msgstr "Assigner à Récolter"
+msgstr "Action Requise: Récolte"
 
 #. STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.TOOLTIP"
@@ -20153,7 +20149,7 @@ msgstr "En attente d'un Duplicant pour récolter"
 #. STRINGS.MISC.STATUSITEMS.PENDINGUPROOT.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGUPROOT.NAME"
 msgid "Uproot Task Assigned"
-msgstr "Assigné au déracinage"
+msgstr "Action Requise: Déracinage"
 
 #. STRINGS.MISC.STATUSITEMS.PENDINGUPROOT.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGUPROOT.TOOLTIP"
@@ -20301,6 +20297,7 @@ msgctxt "STRINGS.MISC.STATUSITEMS.USING.TOOLTIP"
 msgid "{Target} is currently in use"
 msgstr "{Target} est actuellement utilise"
 
+# "Creusement" existe mais n'est pas très courant
 #. STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.NAME"
 msgid "Dig Task Assigned"
@@ -23883,7 +23880,7 @@ msgstr "<style=\"GasPiping\">Sortie de Tuyau Gaz</style>"
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASOUTPUTS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASOUTPUTS"
 msgid "Two <style=\"GasPiping\">Gas Output Pipes</style>"
-msgstr "Two <style=\"GasPiping\">Sortie de Conduite de Gaz</style>"
+msgstr "Two <style=\"GasPiping\">Sorties de Conduite de Gaz</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDINPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDINPUT"
@@ -28541,14 +28538,14 @@ msgctxt "STRINGS.UI.OVERLAYS.DISEASE.DISINFECT_THRESHOLD_DIAGRAM.TOOLTIP"
 msgid ""
 "Automatically disinfect any building with more than {NumberOfGerms} germs."
 msgstr ""
-"Désinfecte automatiquement toutes les structures qui ont plus de "
+"Désinfecter automatiquement tout équipement qui a plus de "
 "{NumberOfGerms} germes."
 
 #. STRINGS.UI.OVERLAYS.DISEASE.DISINFECT_THRESHOLD_DIAGRAM.TOOLTIP_DISABLED
 msgctxt ""
 "STRINGS.UI.OVERLAYS.DISEASE.DISINFECT_THRESHOLD_DIAGRAM.TOOLTIP_DISABLED"
 msgid "Automatic building disinfection disabled."
-msgstr "Désinfection automatique des structures désactivée."
+msgstr "Désinfection automatique des équipements désactivée."
 
 #. STRINGS.UI.OVERLAYS.DISEASE.DISINFECT_THRESHOLD_DIAGRAM.UNITS
 msgctxt "STRINGS.UI.OVERLAYS.DISEASE.DISINFECT_THRESHOLD_DIAGRAM.UNITS"
@@ -29047,7 +29044,7 @@ msgstr "Construction d'Entrée"
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.CONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.CONNECTED"
 msgid "Connected to a <style=\"LiquidPiping\">Liquid Pipe</style>"
-msgstr "Connecté à une <style=\"LiquidPiping\">Conduite de liquide</style>"
+msgstr "Relié à une <style=\"LiquidPiping\">Conduite de liquide</style>"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.CONSUMER
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.CONSUMER"
@@ -30283,7 +30280,7 @@ msgstr "Attaquer"
 #. STRINGS.UI.TOOLS.FILTERLAYERS.BACKWALL
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.BACKWALL"
 msgid "Backwall Buildings"
-msgstr "Parement"
+msgstr "Parements"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.BUILDINGS
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.BUILDINGS"
@@ -30293,7 +30290,7 @@ msgstr "Équipements"
 #. STRINGS.UI.TOOLS.FILTERLAYERS.CLEANANDCLEAR
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.CLEANANDCLEAR"
 msgid "Sweep & Mop Orders"
-msgstr "Ordres Balai & Serpillère"
+msgstr "Ordres Balai & Serpillière"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.DIGPLACER
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.DIGPLACER"
@@ -30303,12 +30300,12 @@ msgstr "Ordres de Creuser"
 #. STRINGS.UI.TOOLS.FILTERLAYERS.DO_NOT_HARVEST
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.DO_NOT_HARVEST"
 msgid "Disable Harvest"
-msgstr "Annuler Récolte"
+msgstr "Annuler la Récolte"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.GASPIPES
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.GASPIPES"
 msgid "Gas Pipes"
-msgstr "Conduite de Gaz"
+msgstr "Conduites de Gaz"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.HARVEST_WHEN_READY
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.HARVEST_WHEN_READY"
@@ -30318,9 +30315,11 @@ msgstr "Activer la récole"
 #. STRINGS.UI.TOOLS.FILTERLAYERS.LIQUIDPIPES
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.LIQUIDPIPES"
 msgid "Liquid Pipes"
-msgstr "Conduite de Liquide"
+msgstr "Conduites de Liquide"
 
+# Better suggestion ? 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.LOGIC
+#, fuzzy
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.LOGIC"
 msgid "Automation"
 msgstr "Automatisation"
@@ -30333,7 +30332,7 @@ msgstr "Carrelage"
 #. STRINGS.UI.TOOLS.FILTERLAYERS.WIRES
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.WIRES"
 msgid "Power Wires"
-msgstr "Fils"
+msgstr "Câbles Électriques"
 
 #. STRINGS.UI.TOOLS.FILTERSCREEN.OPTIONS
 msgctxt "STRINGS.UI.TOOLS.FILTERSCREEN.OPTIONS"
@@ -30487,7 +30486,7 @@ msgstr ""
 #. STRINGS.UI.TOOLTIPS.ATTACKBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.ATTACKBUTTON"
 msgid "Drag to attack witless creatures"
-msgstr "Faites glisser pour attaquer ces créatures stupides"
+msgstr "Faites glisser pour attaquer les créatures stupides"
 
 #. STRINGS.UI.TOOLTIPS.BASE_VALUE
 msgctxt "STRINGS.UI.TOOLTIPS.BASE_VALUE"
@@ -30513,7 +30512,7 @@ msgstr "Nettoie les sols souillés"
 #. STRINGS.UI.TOOLTIPS.CLEARBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.CLEARBUTTON"
 msgid "Drag to move debris into storage"
-msgstr "Faites glisser pour enlever les débris du sol et les stocker"
+msgstr "Faites glisser pour emmener les débris dans les rangements"
 
 #. STRINGS.UI.TOOLTIPS.CLOSETOOLTIP
 msgctxt "STRINGS.UI.TOOLTIPS.CLOSETOOLTIP"
@@ -30528,7 +30527,7 @@ msgstr "Affiche la croissance de la flore"
 #. STRINGS.UI.TOOLTIPS.DECONSTRUCTBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.DECONSTRUCTBUTTON"
 msgid "Drag to demolish buildings"
-msgstr "Faîtes glisser pour démolir les bâtiments"
+msgstr "Faîtes glisser pour démonter les structures"
 
 #. STRINGS.UI.TOOLTIPS.DECOROVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.DECOROVERLAYSTRING"
@@ -31075,9 +31074,9 @@ msgid ""
 "\n"
 "Click to revoke permission"
 msgstr ""
-"Passer à Gauche de cette porte est autorisé\n"
+"Passer à Gauche de cette porte est permis\n"
 "\n"
-"Cliquez pour révoquer cette autorisation"
+"Cliquez pour révoquer l'autorisation"
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_RIGHT_DISABLED
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_RIGHT_DISABLED"
@@ -31088,7 +31087,7 @@ msgid ""
 msgstr ""
 "Passer à Droite de cette porte est interdit\n"
 "\n"
-"Cliquer pour autoriser"
+"Cliquez pour autoriser"
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_RIGHT_ENABLED
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_RIGHT_ENABLED"
@@ -31099,7 +31098,7 @@ msgid ""
 msgstr ""
 "Passer à Droite de cette porte est autorisé\n"
 "\n"
-"Cliquez pour révoquer cette autorisation"
+"Cliquez pour révoquer l'autorisation"
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_UP_DISABLED
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_UP_DISABLED"
@@ -31231,7 +31230,7 @@ msgstr "Capacité"
 #. STRINGS.UI.UISIDESCREENS.CAPACITY_SIDE_SCREEN.TOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.CAPACITY_SIDE_SCREEN.TOOLTIP"
 msgid "Adjust the maximum amount that can be stored here"
-msgstr "Ajuster le montant maximum qui peut être stocké ici"
+msgstr "Changer la quantité maximum qui peut être rangée ici"
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.ACCESS_FORMAT
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.ACCESS_FORMAT"
@@ -32682,7 +32681,7 @@ msgid ""
 "------------------\n"
 "Disabled buildings consume no energy or resources"
 msgstr ""
-"Stopper l'utilisation de cet équipement\n"
+"Arrêter l'utilisation de cet équipement\n"
 "------------------\n"
 "Les équipements désactivés ne consomment ni énergie ni ressources"
 
@@ -32724,7 +32723,7 @@ msgstr "Activer la Récolte Automatique"
 #. STRINGS.UI.USERMENUACTIONS.HARVEST_WHEN_READY.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.HARVEST_WHEN_READY.TOOLTIP"
 msgid "Automatically harvest this plant when it matures"
-msgstr "Récolter cette plante automatiquement lorsqu'elle sera à maturité"
+msgstr "Récolter cette plante automatiquement lorsqu'elle est à maturité"
 
 #. STRINGS.UI.USERMENUACTIONS.MANUAL_DELIVERY.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.MANUAL_DELIVERY.NAME"
