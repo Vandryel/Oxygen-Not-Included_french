@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-06 16:42+0100\n"
+"PO-Revision-Date: 2018-01-06 20:44+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
@@ -28122,7 +28122,7 @@ msgstr "Sélectionner un Schéma ADN"
 #. STRINGS.UI.IMMIGRANTSCREEN.NAME_YOUR_COLONY
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.NAME_YOUR_COLONY"
 msgid "NAME YOUR COLONY"
-msgstr "NOMMEZ VOTRE COLONIE"
+msgstr "NOM DE LA COLONIE"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.PROCEEDBUTTON
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.PROCEEDBUTTON"
