@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-06 01:27+0100\n"
+"PO-Revision-Date: 2018-01-06 11:32+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
@@ -9319,7 +9319,7 @@ msgstr "Combinaison de retour"
 #. STRINGS.DUPLICANTS.CHORES.RETURNSUIT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.RETURNSUIT.STATUS"
 msgid "Returning Suit"
-msgstr "Combinaison de retour"
+msgstr "Retourne la Combinaison"
 
 #. STRINGS.DUPLICANTS.CHORES.SCRUBORE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.SCRUBORE.NAME"
@@ -28785,7 +28785,7 @@ msgstr ""
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.BUTTON"
 msgid "Ventilation Overlay"
-msgstr "Calque de Ventilation"
+msgstr "Calque Ventilation"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.CONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.CONNECTED"
@@ -28820,7 +28820,7 @@ msgstr "Sortie Filtrée"
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.NAME
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.NAME"
 msgid "VENTILATION OVERLAY"
-msgstr "CALQUE DE VENTILATION"
+msgstr "CALQUE VENTILATION"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.NETWORK
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.NETWORK"
@@ -28828,6 +28828,7 @@ msgid "Gas Network {0}"
 msgstr "Réseau de Gaz {0}"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.PRODUCER
+#, fuzzy
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.PRODUCER"
 msgid "Building Intake"
 msgstr "Construction d'Entrée"
@@ -28895,17 +28896,17 @@ msgstr ""
 #. STRINGS.UI.OVERLAYS.HEATFLOW.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.HEATFLOW.BUTTON"
 msgid "Thermal Comfort Overlay"
-msgstr "Calque de Confort Thermique"
+msgstr "Calque Confort Thermique"
 
 #. STRINGS.UI.OVERLAYS.HEATFLOW.COOLING
 msgctxt "STRINGS.UI.OVERLAYS.HEATFLOW.COOLING"
 msgid "Body Heat Loss"
-msgstr "Déperdition de la Température Corporelle"
+msgstr "Déperdition de Chaleur Corporelle"
 
 #. STRINGS.UI.OVERLAYS.HEATFLOW.HEATING
 msgctxt "STRINGS.UI.OVERLAYS.HEATFLOW.HEATING"
 msgid "Body Heat Retention"
-msgstr "Rétention de la Température Corporelle"
+msgstr "Rétention de la Chaleur Corporelle"
 
 #. STRINGS.UI.OVERLAYS.HEATFLOW.HOVERTITLE
 msgctxt "STRINGS.UI.OVERLAYS.HEATFLOW.HOVERTITLE"
@@ -28931,7 +28932,7 @@ msgid ""
 "Duplicants lose more heat in these areas than they can absorb\n"
 "* Warm Sweaters help Duplicants retain body heat"
 msgstr ""
-"<b>Déperdition de la Température Corporelle</b>\n"
+"<b>Déperdition de la Chaleur Corporelle</b>\n"
 "Inconfortablement froid\n"
 "------------------\n"
 "Les Duplicants perdent plus de chaleur dans cette zone qu'ils ne peuvent en "
@@ -28971,7 +28972,7 @@ msgstr ""
 #. STRINGS.UI.OVERLAYS.JOULES.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.JOULES.BUTTON"
 msgid "Joules Overlay"
-msgstr "Calque Joule"
+msgstr "Calque Joules"
 
 #. STRINGS.UI.OVERLAYS.JOULES.HOVERTITLE
 msgctxt "STRINGS.UI.OVERLAYS.JOULES.HOVERTITLE"
@@ -29160,7 +29161,7 @@ msgstr "Port d'Entrée"
 #. STRINGS.UI.OVERLAYS.LOGIC.NAME
 msgctxt "STRINGS.UI.OVERLAYS.LOGIC.NAME"
 msgid "AUTOMATION OVERLAY"
-msgstr "CALQUE D'AUTOMATISATION"
+msgstr "CALQUE AUTOMATISATION"
 
 #. STRINGS.UI.OVERLAYS.LOGIC.ONE
 msgctxt "STRINGS.UI.OVERLAYS.LOGIC.ONE"
@@ -29505,7 +29506,7 @@ msgid ""
 "Sufficient oxygen concentrations"
 msgstr ""
 "<b>Respirable</b>\n"
-"Concentration d'oxygène suffisante"
+"Concentrations d'oxygène suffisantes"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND3
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND3"
@@ -29676,7 +29677,7 @@ msgstr "CALQUE SALLE"
 msgctxt "STRINGS.UI.OVERLAYS.ROOMS.NOROOM.DESC"
 msgid "Enclose this space with walls and/or doors to make a room"
 msgstr ""
-"Cloturez cet espace avec des murs et/ou des portes pour en faire une salle"
+"Cloisonnez cet espace avec des murs et/ou des portes pour en faire une salle"
 
 # Pas de salle / pas de place ?
 #. STRINGS.UI.OVERLAYS.ROOMS.NOROOM.HEADER
@@ -29698,7 +29699,7 @@ msgstr "Les Duplicants n'ont nulle part où dormir"
 #. STRINGS.UI.OVERLAYS.ROOMS.TOOLTIPS.ROOM
 msgctxt "STRINGS.UI.OVERLAYS.ROOMS.TOOLTIPS.ROOM"
 msgid "Completed Duplicant bedrooms"
-msgstr "Chambre de Duplicant complétée"
+msgstr "Chambre de Duplicant terminée"
 
 #. STRINGS.UI.OVERLAYS.STORAGEREGIONS.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.STORAGEREGIONS.BUTTON"
@@ -29713,7 +29714,7 @@ msgstr "CALQUE EXOSUIT"
 #. STRINGS.UI.OVERLAYS.STORAGEREGIONS.NOREGIONS
 msgctxt "STRINGS.UI.OVERLAYS.STORAGEREGIONS.NOREGIONS"
 msgid "No exosuit regions created"
-msgstr "Aucune zone exosuit créee"
+msgstr "Aucune zone exosuit créée"
 
 #. STRINGS.UI.OVERLAYS.STORAGEREGIONS.REGION
 msgctxt "STRINGS.UI.OVERLAYS.STORAGEREGIONS.REGION"
@@ -29895,6 +29896,7 @@ msgctxt "STRINGS.UI.PRODUCTINFO_RESEARCHREQUIRED"
 msgid "Research required..."
 msgstr "Recherche nécessaire..."
 
+# infinitif ou impératif ?
 #. STRINGS.UI.PRODUCTINFO_SELECTMATERIAL
 msgctxt "STRINGS.UI.PRODUCTINFO_SELECTMATERIAL"
 msgid "Select {0}:"
@@ -29923,7 +29925,7 @@ msgstr "RAPPORTS"
 #. STRINGS.UI.RESEARCH
 msgctxt "STRINGS.UI.RESEARCH"
 msgid "RESEARCH"
-msgstr "LABO"
+msgstr "RECHERCHE"
 
 #. STRINGS.UI.RESEARCHPOINTS
 msgctxt "STRINGS.UI.RESEARCHPOINTS"
@@ -29993,6 +29995,7 @@ msgid "Hygiene"
 msgstr "Hygiène"
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.RECREATION.DESCRIPTION
+#, fuzzy
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.RECREATION.DESCRIPTION"
 msgid ""
 "HAMMER TIME:\n"
@@ -30028,13 +30031,14 @@ msgid "Sleep"
 msgstr "Dormir"
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.WORK.DESCRIPTION
+#, fuzzy
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.WORK.DESCRIPTION"
 msgid ""
 "WORK:\n"
 "During Work hours Duplicants will perform any pending job tasks in the "
 "colony."
 msgstr ""
-"TRAVAIL:\n"
+"TRAVAILLER:\n"
 "Pendant les heures de travail, les Duplicants effectueront toute tâche de "
 "travail en attente dans la colonie."
 
@@ -30074,6 +30078,7 @@ msgid "SCHEDULE:"
 msgstr "PROGRAMME:"
 
 #. STRINGS.UI.SCHEDULESCREEN.SELECTBLOCKTYPETOOLTIP
+#, fuzzy
 msgctxt "STRINGS.UI.SCHEDULESCREEN.SELECTBLOCKTYPETOOLTIP"
 msgid "Select a block type to adjust the colony's schedule"
 msgstr "Sélectionnez un type de bloc pour ajuster l'horaire de la colonie"
@@ -30150,7 +30155,7 @@ msgstr "<b>{0}</b>"
 #. STRINGS.UI.TABLESCREENS.GOTO_DUPLICANT_BUTTON
 msgctxt "STRINGS.UI.TABLESCREENS.GOTO_DUPLICANT_BUTTON"
 msgid "Double-click to go to <b>{0}</b>"
-msgstr "Doublie-cliquez pour aller à <b>{0}</b>"
+msgstr "Double cliquez pour aller à <b>{0}</b>"
 
 #. STRINGS.UI.TABLESCREENS.SELECT_DUPLICANT_BUTTON
 msgctxt "STRINGS.UI.TABLESCREENS.SELECT_DUPLICANT_BUTTON"
@@ -30220,7 +30225,7 @@ msgstr "Outils de nettoyage"
 #. STRINGS.UI.TOOLS.COPYSETTINGS.NAME
 msgctxt "STRINGS.UI.TOOLS.COPYSETTINGS.NAME"
 msgid "Paste Settings"
-msgstr "Coller Paramètres"
+msgstr "Coller les Paramètres"
 
 #. STRINGS.UI.TOOLS.COPYSETTINGS.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.COPYSETTINGS.TOOLACTION"
@@ -30230,7 +30235,7 @@ msgstr "FAITES GLISSER POUR COLLER LES PARAMÈTRES"
 #. STRINGS.UI.TOOLS.COPYSETTINGS.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.COPYSETTINGS.TOOLNAME"
 msgid "Paste Settings Tool"
-msgstr "Outil de Collage Paramètres"
+msgstr "Outil pour Coller les Paramètres"
 
 #. STRINGS.UI.TOOLS.DECONSTRUCT.NAME
 msgctxt "STRINGS.UI.TOOLS.DECONSTRUCT.NAME"
@@ -30240,7 +30245,7 @@ msgstr "Déconstruction"
 #. STRINGS.UI.TOOLS.DECONSTRUCT.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.DECONSTRUCT.TOOLACTION"
 msgid "DRAG TO DECONSTRUCT"
-msgstr "FAITES GLISSER POUR DÉMANTELER"
+msgstr "FAITES GLISSER POUR DÉCONSTRUIRE"
 
 #. STRINGS.UI.TOOLS.DECONSTRUCT.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.DECONSTRUCT.TOOLNAME"
@@ -30313,6 +30318,7 @@ msgid "Attack"
 msgstr "Attaquer"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.BACKWALL
+#, fuzzy
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.BACKWALL"
 msgid "Backwall Buildings"
 msgstr "Parements"
@@ -30335,7 +30341,7 @@ msgstr "Ordres de Creuser"
 #. STRINGS.UI.TOOLS.FILTERLAYERS.DO_NOT_HARVEST
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.DO_NOT_HARVEST"
 msgid "Disable Harvest"
-msgstr "Annuler la Récolte"
+msgstr "Désactiver la Récolte"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.GASPIPES
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.GASPIPES"
@@ -30360,7 +30366,7 @@ msgstr "Automatisation"
 #. STRINGS.UI.TOOLS.FILTERLAYERS.TILES
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.TILES"
 msgid "Tiles"
-msgstr "Carrelage"
+msgstr "Dalles"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.WIRES
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.WIRES"
@@ -30370,7 +30376,7 @@ msgstr "Câbles Électriques"
 #. STRINGS.UI.TOOLS.FILTERSCREEN.OPTIONS
 msgctxt "STRINGS.UI.TOOLS.FILTERSCREEN.OPTIONS"
 msgid "Tool Filter"
-msgstr "Filtre d'Outil"
+msgstr "Filtre Outil"
 
 #. STRINGS.UI.TOOLS.GENERIC.BACK
 msgctxt "STRINGS.UI.TOOLS.GENERIC.BACK"
@@ -30387,7 +30393,9 @@ msgctxt "STRINGS.UI.TOOLS.HARVEST.NAME"
 msgid "Harvest"
 msgstr "Récolter"
 
+# s/LANCER/ACTIVER/
 #. STRINGS.UI.TOOLS.HARVEST.TOOLACTION
+#, fuzzy
 msgctxt "STRINGS.UI.TOOLS.HARVEST.TOOLACTION"
 msgid "DRAG TO TOGGLE HARVEST"
 msgstr "FAITES GLISSER POUR LANCER LA RÉCOLTE"
@@ -30485,7 +30493,7 @@ msgstr "Outil de Priorité"
 #. STRINGS.UI.TOOLS.REGIONCATEGORY.CREATETOOLTIP
 msgctxt "STRINGS.UI.TOOLS.REGIONCATEGORY.CREATETOOLTIP"
 msgid "DRAG TO CREATE"
-msgstr "FAITES GLISSER POUR CREER"
+msgstr "FAITES GLISSER POUR CRÉER"
 
 #. STRINGS.UI.TOOLS.REGIONCATEGORY.ERASETOOLTIP
 msgctxt "STRINGS.UI.TOOLS.REGIONCATEGORY.ERASETOOLTIP"
@@ -30694,9 +30702,9 @@ msgid ""
 "always continue work on their current job until it is complete, even if a "
 "higher priority job becomes available."
 msgstr ""
-"Les travaux de priorité élevée sont exécutés avant les travaux de priorité "
-"faible. Un Duplicant continuera toujours à travailler sur son travail actuel "
-"jusqu'à ce qu'il soit terminé, meme si un travail prioritaire devient "
+"Les travaux avec une priorité élevée sont exécutés avant les travaux avec une "
+"priorité faible. Un Duplicant continuera toujours ce qu'il a commencé à faire "
+"jusqu'à ce qu'il ait terminé, même si un travail prioritaire devient "
 "disponible."
 
 #. STRINGS.UI.TOOLTIPS.JOBSSCREEN_RELEVANT_ATTRIBUTES
@@ -30919,7 +30927,7 @@ msgstr "Il n'y a pas suffisamment de matériaux pour construire cet équipement"
 #. STRINGS.UI.TOOLTIPS.SORTCOLUMN
 msgctxt "STRINGS.UI.TOOLTIPS.SORTCOLUMN"
 msgid "Click to sort"
-msgstr "Cliquer pour organiser"
+msgstr "Cliquer pour trier"
 
 #. STRINGS.UI.TOOLTIPS.SPEEDBUTTON_FAST
 msgctxt "STRINGS.UI.TOOLTIPS.SPEEDBUTTON_FAST"
@@ -30941,7 +30949,7 @@ msgctxt "STRINGS.UI.TOOLTIPS.STATSPANEL"
 msgid "The Stats Panel gives an overview of your Duplicant's individual stats"
 msgstr ""
 "Le Panneau des Statistiques donne une vue d'ensemble sur les statistiques "
-"individuels de votre Duplicant"
+"individuelles de votre Duplicant"
 
 #. STRINGS.UI.TOOLTIPS.STORAGEMAINBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.STORAGEMAINBUTTON"
@@ -30958,11 +30966,11 @@ msgid ""
 "high <style=\"stress\">Stress</style> can impair production or even lead to "
 "a nervous breakdown."
 msgstr ""
-"Satisfaisez aux besoins de votre Duplicant pour gérer leur <style=\"stress"
+"Répondez aux besoins de votre Duplicant pour gérer son <style=\"stress"
 "\">Stress</style>.\n"
 "\n"
-"Un <style=\"stress\">Stress</style> bas peut fournir une augmentation de la "
-"productivité, tandis que le <style=\"stress\">Stress</style> haut peut nuire "
+"Un <style=\"stress\">Stress</style> bas peut conduire à l'augmentation de la "
+"productivité, tandis qu'un <style=\"stress\">Stress</style> élevé peut nuire "
 "à la production ou même conduire à une dépression nerveuse."
 
 #. STRINGS.UI.TOOLTIPS.STRESSPANEL
@@ -30982,7 +30990,7 @@ msgstr "Afficher les Exosuits et les bâtiments connexes"
 #. STRINGS.UI.TOOLTIPS.TEMPERATUREOVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.TEMPERATUREOVERLAYSTRING"
 msgid "Displays ambient temperature"
-msgstr "Afficher la température ambiante"
+msgstr "Affiche la température ambiante"
 
 #. STRINGS.UI.TOOLTIPS.UNPAUSE
 msgctxt "STRINGS.UI.TOOLTIPS.UNPAUSE"
@@ -31158,7 +31166,7 @@ msgstr ""
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.MINION_ACCESS
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.MINION_ACCESS"
 msgid "Duplicant Access Permissions"
-msgstr "Autorisations d'Accès des Duplicants"
+msgstr "Autorisations d'Accès du Duplicant"
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.SET_TO_CUSTOM
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.SET_TO_CUSTOM"
@@ -31401,7 +31409,7 @@ msgstr "(Propriétaire)"
 #. STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.TITLE"
 msgid "Equip {0}"
-msgstr "Equiper {0}"
+msgstr "Équiper {0}"
 
 #. STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.UNASSIGNED
 msgctxt "STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.UNASSIGNED"
@@ -31429,7 +31437,7 @@ msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.COOL_VEST"
 msgid ""
 "<style=\"equipment\">Cool Vest</style> (<style=\"produced\">{0}</style>)"
 msgstr ""
-"<style=\"equipment\">Veste Cool</style> (<style=\"produced\">{0}</style>)"
+"<style=\"equipment\">Cool Veste</style> (<style=\"produced\">{0}</style>)"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.FUNKY_VEST
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.FUNKY_VEST"
@@ -33310,22 +33318,22 @@ msgstr "Repassage du tissu de la création..."
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE6
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE6"
 msgid "Taking hot meteor shower..."
-msgstr "Prend une pluie de météorites brulantes..."
+msgstr "Prend une pluie de météorites brûlantes..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE7
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE7"
 msgid "Tightening asteroid belts..."
-msgstr "Serrage des courroies d'astéroides..."
+msgstr "Serrage des courroies d'astéroïdes..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE8
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE8"
 msgid "Tightening asteroid belts..."
-msgstr "Serrage des courroies d'astéroides..."
+msgstr "Serrage des courroies d'astéroïdes..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE9
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE9"
 msgid "Tightening asteroid belts..."
-msgstr "Serrage des courroies d'astéroides..."
+msgstr "Serrage des courroies d'astéroïdes..."
 
 #. STRINGS.UI.WORLDGEN.CHOOSEWORLDSIZE
 msgctxt "STRINGS.UI.WORLDGEN.CHOOSEWORLDSIZE"
