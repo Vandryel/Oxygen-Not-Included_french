@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-06 13:36+0100\n"
+"PO-Revision-Date: 2018-01-06 13:44+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
@@ -815,7 +815,7 @@ msgctxt "STRINGS.BUILDING.STATUSITEMS.FOOD_CONTAINERS_OUTSIDE_RANGE.TOOLTIP"
 msgid "Recuperating Duplicants must have food available within {0} cells"
 msgstr ""
 "Les Duplicants qui récupèrent doivent avoir de la nourriture disponible à "
-"{0} dalles de distance"
+"{0} cellules de distance"
 
 #. STRINGS.BUILDING.STATUSITEMS.GASPIPEEMPTY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GASPIPEEMPTY.NAME"
@@ -2087,7 +2087,7 @@ msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILETS_OUTSIDE_RANGE.TOOLTIP"
 msgid "Recuperating Duplicants must have toilets available within {0} cells"
 msgstr ""
 "Les Duplicants qui récupèrent doivent avoir des toilettes disponible à {0} "
-"dalles de distance"
+"cellules de distance"
 
 #. STRINGS.BUILDING.STATUSITEMS.TOO_COLD.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOO_COLD.NAME"
@@ -3217,7 +3217,7 @@ msgid ""
 "Duplicants can deliver fertilizer and liquids to farm tiles, accelerating "
 "plant growth."
 msgstr ""
-"Les Duplicants peuvent livrer du fertilisant et du liquide  aux cases "
+"Les Duplicants peuvent livrer du fertilisant et du liquide  aux dalles "
 "fermières, accélérant la croissance de la plante."
 
 #. STRINGS.BUILDINGS.PREFABS.FARMTILE.EFFECT
@@ -30366,7 +30366,7 @@ msgstr "Automatisation"
 #. STRINGS.UI.TOOLS.FILTERLAYERS.TILES
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.TILES"
 msgid "Tiles"
-msgstr "Dalles"
+msgstr ""
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.WIRES
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.WIRES"
@@ -32626,7 +32626,7 @@ msgstr "Fouilles"
 #. STRINGS.UI.USERMENUACTIONS.DIG.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.DIG.TOOLTIP"
 msgid "Dig out this cell"
-msgstr "Creuser cette case"
+msgstr "Creuser cette cellule"
 
 #. STRINGS.UI.USERMENUACTIONS.DIG.TOOLTIP_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.DIG.TOOLTIP_OFF"
