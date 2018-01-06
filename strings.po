@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-06 00:12+0100\n"
+"PO-Revision-Date: 2018-01-06 01:27+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
@@ -25193,7 +25193,7 @@ msgstr "La pression atmosphérique fait mourir les germes"
 msgctxt ""
 "STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.PRESSURE.GROW_TOOLTIP"
 msgid "Atmospheric pressure is causing germs to multiply"
-msgstr "La pression atmosphérique multiplie les germes"
+msgstr "La pression atmosphérique cause la multiplication des germes"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.PRESSURE.TITLE
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.PRESSURE.TITLE"
@@ -25209,7 +25209,7 @@ msgstr "Taux de changement: {0}"
 msgctxt ""
 "STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.RATE_OF_CHANGE_TOOLTIP"
 msgid "Germ count is fluctuating at a rate of {0}"
-msgstr "Le nombre de germes fluctue à un taux de {0}"
+msgstr "Le nombre de germes fluctue au taux de {0}"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.SUBSTRATE.DIE
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.SUBSTRATE.DIE"
@@ -25245,8 +25245,8 @@ msgctxt ""
 "NEUTRAL_TOOLTIP"
 msgid "Contact with this substance has no effect on germ count"
 msgstr ""
-"Entrer en contact avec cette substance n'aura aucun effet sur le nombre de "
-"germe"
+"Entrer en contact avec cette substance n'a aucun effet sur le nombre de "
+"germes"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.TEMPERATURE.DIE_TOOLTIP
 msgctxt ""
@@ -25283,7 +25283,7 @@ msgstr "Ces condition contribuent à la multiplication de germes"
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FORMAT
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FORMAT"
 msgid "{0} spawned/cycle"
-msgstr "{0} engendré/cycles"
+msgstr "{0} engendré/cycle"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FORMAT_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FORMAT_TOOLTIP"
@@ -25348,7 +25348,7 @@ msgctxt ""
 msgid ""
 "This Duplicant must expend {0} of their immunity to fight {1} of this disease"
 msgstr ""
-"Ce Duplicant doit dépenser {0} de sont immunité pour combattre {1} de cette "
+"Ce Duplicant doit dépenser {0} de son immunité pour combattre {1} de cette "
 "maladie"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.IMMUNE_FACTORS.IMMUNE_ATTACK_RATE2
@@ -25363,7 +25363,8 @@ msgid ""
 "This Duplicant's immune system is being strained at a rate of {0} by the {1} "
 "present on their body"
 msgstr ""
-"Le système immunitaire de ce Duplicant perd un taux de {0} à cause de {1} "
+"Le système immunitaire de ce Duplicant se dégrade au taux de {0} à cause de"
+" {1} "
 "qui est dans son corps"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.IMMUNE_FACTORS.INTERNAL_GERMS
@@ -25398,7 +25399,7 @@ msgid ""
 "These symptoms are eliminated while a Duplicant is receiving medical aid in "
 "a Med-Bed"
 msgstr ""
-"Ces symptômes sont éliminé quand un Duplicant reçoit des soins dans un lit "
+"Ces symptômes sont éliminés quand un Duplicant reçoit des soins dans un lit "
 "médical"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.INFECTION.DISCLAIMER
@@ -25410,8 +25411,8 @@ msgstr "Contracter cette maladie aura ces effets sur un Duplicant:\n"
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.INFECTION.DISCLAIMER_TOOLTIP"
 msgid "A Duplicant's immune system must be overwhelmed to contract an illness"
 msgstr ""
-"Le système immunitaire robuste de ce Duplicant repousse les maladies les "
-"plus courantes"
+"Le système immunitaire d'un Duplicant doit être poussé à bout pour qu'il "
+"contracte une maladie"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.INFECTION.DURATION
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.INFECTION.DURATION"
@@ -25430,9 +25431,9 @@ msgid ""
 "------------------\n"
 "Without aid, they are infected indefinitely"
 msgstr ""
-"Les Duplicants soignent cette maladie dans {0} avec l'aide d'un lit médical\n"
+"Les Duplicants soignent cette maladie dans {0} avec une aide médicale\n"
 "------------------\n"
-"Sans aide, ils seront infectés définitivement"
+"Sans aide, ils seront infectés indéfiniment"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.INFECTION.DURATION_NORMAL
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.INFECTION.DURATION_NORMAL"
@@ -25442,7 +25443,7 @@ msgstr "    {0}"
 #. STRINGS.UI.DETAILTABS.DISEASE.INFECTION.DURATION_NORMAL_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.INFECTION.DURATION_NORMAL_TOOLTIP"
 msgid "Duplicants recover from this illness in {0}"
-msgstr "Ce Duplicant se remet d'une blessure dans {0}"
+msgstr "Les Duplicants se remettent de cette maladie dans {0}"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.INFECTION.DURATION_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.INFECTION.DURATION_TOOLTIP"
@@ -25469,16 +25470,17 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"Ce symptôme fait expulser des germes du corps des Duplicants\n"
+"Ce symptôme provoque l'expulsion des germes du corps des Duplicants\n"
 "------------------\n"
-"Cela peut entrainer l'infection d'autres Duplicants"
+"Cela peut entraîner l'infection des autres Duplicants"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.INFECTION.SYMPTOMS
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.INFECTION.SYMPTOMS"
 msgid "Other Symptoms:"
-msgstr "Autre Symptôme:"
+msgstr "Autres Symptôme:"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.INFECTION.SYMPTOMS_TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.INFECTION.SYMPTOMS_TOOLTIP"
 msgid ""
 "These symptoms must run their course and cannot be alleviated by medical aid"
@@ -25502,7 +25504,7 @@ msgstr "GERMES EN SURFACE"
 #. STRINGS.UI.DETAILTABS.DISEASE.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.TOOLTIP"
 msgid "View the disease risk presented by the selected object"
-msgstr "Voir le risque de maladie entrainé par l'objet sélectionné"
+msgstr "Voir le risque de maladie entraîné par l'objet sélectionné"
 
 #. STRINGS.UI.DETAILTABS.ENERGYCONSUMER.NAME
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYCONSUMER.NAME"
@@ -25512,17 +25514,17 @@ msgstr "Énergie"
 #. STRINGS.UI.DETAILTABS.ENERGYCONSUMER.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYCONSUMER.TOOLTIP"
 msgid "View how much power this building consumes"
-msgstr "Voir combien d'énergie cette construction consomme"
+msgstr "Voir combien d'énergie cet équipement consomme"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.AVAILABLE_JOULES
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.AVAILABLE_JOULES"
 msgid "<style=\"power\">Power</style> stored: {0}"
-msgstr "<style=\"power\">Énergie</style> stocké: {0}"
+msgstr "<style=\"power\">Énergie</style> stockée: {0}"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.AVAILABLE_JOULES_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.AVAILABLE_JOULES_TOOLTIP"
 msgid "Amount of power stored in batteries"
-msgstr "Quantité de puissance stockée dans les batteries"
+msgstr "Quantité d'énergie stockée dans les batteries"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.BATTERIES
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.BATTERIES"
@@ -25561,7 +25563,7 @@ msgid ""
 "wiring and buildings"
 msgstr ""
 "Dépasser cette valeur surchargera le circuit et pourrait provoquer des "
-"domages aux fils et aux constructions"
+"dommages aux câbles et aux équipements"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NAME
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NAME"
@@ -25586,7 +25588,7 @@ msgstr "Aucun générateur sur ce circuit"
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.POTENTIAL_WATTAGE_CONSUMED
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.POTENTIAL_WATTAGE_CONSUMED"
 msgid "Potential power consumed: {0}"
-msgstr "Consommation de puissance potentielle: {0}"
+msgstr "Consommation d'énergie potentielle: {0}"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.POTENTIAL_WATTAGE_CONSUMED_TOOLTIP
 msgctxt ""
@@ -25595,13 +25597,13 @@ msgid ""
 "The total amount of power that can be used by this circuit if all connected "
 "buildings are active"
 msgstr ""
-"Quantité totale de puissance qui peut être utilisée par ce circuit si toutes "
-"les constructions connectées sont actives"
+"Quantité totale d'énergie qui peut être utilisée par ce circuit si tous "
+"les équipements connectés sont actifs"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.TOOLTIP"
 msgid "Monitor the power this building is generating"
-msgstr "Surveille la puissance que cette construction produit"
+msgstr "Surveille la puissance que cet équipement produit"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_CONSUMED
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_CONSUMED"
@@ -25631,7 +25633,7 @@ msgstr "Énergie"
 #. STRINGS.UI.DETAILTABS.ENERGYWIRE.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYWIRE.TOOLTIP"
 msgid "View this wire's network"
-msgstr "Voir le réseau de ce fil"
+msgstr "Voir le réseau de ce câble"
 
 #. STRINGS.UI.DETAILTABS.NEEDS.CURRENT_NEED_LEVEL
 msgctxt "STRINGS.UI.DETAILTABS.NEEDS.CURRENT_NEED_LEVEL"
@@ -25641,7 +25643,7 @@ msgstr "Niveau actuel: {0}"
 #. STRINGS.UI.DETAILTABS.NEEDS.CURRENT_STRESS_LEVEL
 msgctxt "STRINGS.UI.DETAILTABS.NEEDS.CURRENT_STRESS_LEVEL"
 msgid "Current <style=\"stress\">Stress</style> Level: {0}"
-msgstr "Actuel <style=\"stress\">Stress</style> Level: {0}"
+msgstr "Niveau de <style=\"stress\">Stress</style> Actuel: {0}"
 
 #. STRINGS.UI.DETAILTABS.NEEDS.NAME
 msgctxt "STRINGS.UI.DETAILTABS.NEEDS.NAME"
@@ -25661,7 +25663,7 @@ msgstr "Vue d'ensemble"
 #. STRINGS.UI.DETAILTABS.NEEDS.STRESS_CREATORS
 msgctxt "STRINGS.UI.DETAILTABS.NEEDS.STRESS_CREATORS"
 msgid "<style=\"stress\">Stress</style> Creators"
-msgstr "<style=\"stress\">Stress</style> Créateurs"
+msgstr "Sources de <style=\"stress\">Stress</style>"
 
 #. STRINGS.UI.DETAILTABS.NEEDS.STRESS_RELIEVERS
 msgctxt "STRINGS.UI.DETAILTABS.NEEDS.STRESS_RELIEVERS"
@@ -25679,7 +25681,7 @@ msgid ""
 "This Duplicant has been assigned a {0}.\n"
 "Effects: {1}"
 msgstr ""
-"Ce Duplicant a été affecté à un {0}.\n"
+"Ce Duplicant a été affecté à {0}.\n"
 "Effets: {1}"
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.EQUIPMENT_TOOLTIP
@@ -25690,7 +25692,7 @@ msgstr "Ce Duplicant a été équipé avec un(e) {0}"
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.GROUPNAME_EQUIPMENT
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.GROUPNAME_EQUIPMENT"
 msgid "HELD ITEMS"
-msgstr "OBJET TENU"
+msgstr "OBJETS TENUS"
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.GROUPNAME_OWNABLE
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.GROUPNAME_OWNABLE"
@@ -25725,7 +25727,7 @@ msgstr "Pas d'équipement assigné"
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.NOTHING_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.NOTHING_TOOLTIP"
 msgid "No personal buildings are assigned to this Duplicant"
-msgstr "Aucune structure personnelle n'est assignée à ce Duplicant"
+msgstr "Aucun équipement personnel n'est assignée à ce Duplicant"
 
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.TOOLTIP"
@@ -25755,7 +25757,7 @@ msgstr "INFORMATION"
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_LORE
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_LORE"
 msgid "RECOVERED FILES"
-msgstr "FICHIERS RECUPERES"
+msgstr "FICHIERS RÉCUPÉRÉS"
 
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_REQUIREMENTS
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_REQUIREMENTS"
@@ -25765,7 +25767,7 @@ msgstr "EXIGENCES"
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_RESEARCH
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_RESEARCH"
 msgid "RESEARCH"
-msgstr "LABO"
+msgstr "RECHERCHE"
 
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_STATUS
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_STATUS"
@@ -25790,12 +25792,12 @@ msgstr "ATTRIBUTS"
 #. STRINGS.UI.DETAILTABS.STATS.GROUPNAME_BIO
 msgctxt "STRINGS.UI.DETAILTABS.STATS.GROUPNAME_BIO"
 msgid "ABOUT"
-msgstr "ABOUT"
+msgstr "A PROPOS"
 
 #. STRINGS.UI.DETAILTABS.STATS.GROUPNAME_EXPECTATIONS
 msgctxt "STRINGS.UI.DETAILTABS.STATS.GROUPNAME_EXPECTATIONS"
 msgid "EXPECTATIONS"
-msgstr "ATTENTE"
+msgstr "ATTENTES"
 
 #. STRINGS.UI.DETAILTABS.STATS.GROUPNAME_TRAITS
 msgctxt "STRINGS.UI.DETAILTABS.STATS.GROUPNAME_TRAITS"
@@ -25865,7 +25867,7 @@ msgstr "<b>Bienvenue dans Oxygen Not Included!</b>"
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.ANIMATION_HEADER
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.ANIMATION_HEADER"
 msgid "WATCH THE ANIMATED SHORT!"
-msgstr "REGARDEZ LA COURTE CINEMATIQUE!"
+msgstr "REGARDEZ LA COURTE CINÉMATIQUE!"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.BODY
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.BODY"
@@ -25873,7 +25875,7 @@ msgid ""
 "Stay up to date by joining our mailing list, or head on over to the forums "
 "and join the discussion."
 msgstr ""
-"Restez à jour en vous joignant à notre liste de diffusion ou visitez les "
+"Restez à jour en vous abonnant à notre liste de diffusion ou visitez les "
 "forums et rejoignez la discussion."
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.FORUMBUTTON
@@ -25904,7 +25906,7 @@ msgstr "Notes de Version complètes"
 #. STRINGS.UI.DEVELOPMENTBUILDS.PREVIOUS_VERSION
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.PREVIOUS_VERSION"
 msgid "Previous Version"
-msgstr "Version précédente"
+msgstr "Version Précédente"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.UPDATES.BIGGER_TIMES
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.UPDATES.BIGGER_TIMES"
@@ -25944,7 +25946,7 @@ msgstr "Impression de Duplicant"
 #. STRINGS.UI.ELEMENTAL.CONDUCTIVITYBARRIER.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.CONDUCTIVITYBARRIER.NAME"
 msgid "Insulation Thickness: {0}"
-msgstr "Epaisseur d'Isolation: {0}"
+msgstr "Épaisseur d'Isolation: {0}"
 
 #. STRINGS.UI.ELEMENTAL.CONDUCTIVITYBARRIER.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.CONDUCTIVITYBARRIER.TOOLTIP"
@@ -25960,7 +25962,7 @@ msgstr "Point de Condensation: {0}"
 #. STRINGS.UI.ELEMENTAL.DEWPOINT.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.DEWPOINT.TOOLTIP"
 msgid "The selected object will condense into a liquid at {0}"
-msgstr "L'objet sélectionné se condensera en liquide à {0}"
+msgstr "L'objet sélectionné condensera en liquide à {0}"
 
 #. STRINGS.UI.ELEMENTAL.DISEASE.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.DISEASE.NAME"
@@ -25980,7 +25982,7 @@ msgstr "Point de Gel: {0}"
 #. STRINGS.UI.ELEMENTAL.FREEZEPOINT.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.FREEZEPOINT.TOOLTIP"
 msgid "The selected object will cool into a solid at {0}"
-msgstr "L'objet sélectionné se glacera en solide à {0}"
+msgstr "L'objet sélectionné refroidira en solide à {0}"
 
 #. STRINGS.UI.ELEMENTAL.MASS.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.MASS.NAME"
@@ -26000,12 +26002,12 @@ msgstr "Point de Fusion: {0}"
 #. STRINGS.UI.ELEMENTAL.MELTINGPOINT.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.MELTINGPOINT.TOOLTIP"
 msgid "The selected object will melt into a liquid at {0}"
-msgstr "L'objet sélectionné fondera en liquide à {0}"
+msgstr "L'objet sélectionné fondra en liquide à {0}"
 
 #. STRINGS.UI.ELEMENTAL.OVERHEATPOINT.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.OVERHEATPOINT.NAME"
 msgid "Overheat Modifier: {0}"
-msgstr "Modificateur de Combustion: {0}"
+msgstr "Modificateur de Surchauffe: {0}"
 
 #. STRINGS.UI.ELEMENTAL.OVERHEATPOINT.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.OVERHEATPOINT.TOOLTIP"
@@ -26014,15 +26016,16 @@ msgid ""
 "\n"
 "Building with better building materials can increase overheat temperature"
 msgstr ""
-"Cette construction brûlera et sera endommagée si sa température dépasse {0}\n"
+"Cet équipement surchauffera et sera endommagée si sa température dépasse {0}\n"
 "\n"
-"Des constructions avec de meilleurs matériaux peuvent augmenter cette limite "
-"de température"
+"Des équipements avec de meilleurs matériaux peuvent augmenter cette"
+" température "
+"limite"
 
 #. STRINGS.UI.ELEMENTAL.PRIMARYELEMENT.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.PRIMARYELEMENT.NAME"
 msgid "Primary Element: {0}"
-msgstr "Elément Principal: {0}"
+msgstr "Élément Principal: {0}"
 
 #. STRINGS.UI.ELEMENTAL.PRIMARYELEMENT.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.PRIMARYELEMENT.TOOLTIP"
@@ -26097,7 +26100,7 @@ msgid ""
 "Between two objects, the rate of heat transfer will be determined by the "
 "object with the lowest Thermal Conductivity"
 msgstr ""
-"Cet objet peut conduire la chaleur vers d'autres matériaux à un taux de {0} "
+"Cet objet peut conduire la chaleur vers d'autres matériaux au taux de {0} "
 "W pour chaque différence de degré K\n"
 "\n"
 "Entre deux objets, le taux de transfert de chaleur sera déterminé par "
@@ -26126,7 +26129,7 @@ msgstr "L'objet sélectionné s'évaporera en gaz à {0}"
 #. STRINGS.UI.ENDOFDAYREPORT.ADDED
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ADDED"
 msgid "Added"
-msgstr "Produit"
+msgstr "Ajouté"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NAME"
@@ -26139,7 +26142,7 @@ msgid ""
 "Your colony consumed {0} of <style=\"food\">Food</style> over the course of "
 "the day"
 msgstr ""
-"Votre colonie consommée {0} de <style=\"food\">Nourriture</style> au cours "
+"Votre colonie a consommé {0} de <style=\"food\">Nourriture</style> au cours "
 "de la journée"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.POSITIVE_TOOLTIP
@@ -26242,13 +26245,13 @@ msgstr "Cycle {0} - Hier"
 #. STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.NAME"
 msgid "<style=\"disease\">Diseases</style> Contracted:"
-msgstr "<style=\"disease\">Maladie</style> Contractée:"
+msgstr "<style=\"disease\">Maladies</style> Contractées:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.NEGATIVE_TOOLTIP"
 msgid "{0} Duplicant(s) were cured of a <style=\"disease\">Disease</style>"
 msgstr ""
-"{0} Duplicant (s) ont été guéris d'une <style=\"disease\"> Maladie </style>"
+"{0} Duplicant(s) ont été guéris d'une <style=\"disease\"> Maladie</style>"
 
 # Problème singulier / pluriel
 #. STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.POSITIVE_TOOLTIP
@@ -26278,7 +26281,7 @@ msgid ""
 "Your colony consumed {0} of <style=\"power\">Power</style> over the course "
 "of the day"
 msgstr ""
-"Votre colonie a consommé {0} de <style=\"power\">Énergie</style> au cours de "
+"Votre colonie a consommé {0} d'<style=\"power\">Énergie</style> au cours de "
 "la journée"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.POSITIVE_TOOLTIP
@@ -26368,12 +26371,12 @@ msgstr "{0} mangé"
 #. STRINGS.UI.ENDOFDAYREPORT.NOTES.GERMS
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTES.GERMS"
 msgid "On {0}"
-msgstr "{0}"
+msgstr "Sur {0}"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NOTES.HARVESTED
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTES.HARVESTED"
 msgid "Harvested {0}"
-msgstr "Récolté  {0}"
+msgstr "Récolté {0}"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NOTES.HARVESTED_CONTEXT
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTES.HARVESTED_CONTEXT"
@@ -26425,7 +26428,7 @@ msgid ""
 "Your colony consumed {0} of <style=\"oxygen\">Oxygen</style> over the course "
 "of the day"
 msgstr ""
-"Votre colonie a consommé {0} de <style=\"oxygen\"> Oxygen </style> au cours "
+"Votre colonie a consommé {0} d'<style=\"oxygen\">Oxygène</style> au cours "
 "de la journée"
 
 #. STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.POSITIVE_TOOLTIP
@@ -26445,7 +26448,7 @@ msgstr "Préc."
 #. STRINGS.UI.ENDOFDAYREPORT.REMOVED
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.REMOVED"
 msgid "Removed"
-msgstr "Consommé"
+msgstr "Enlevé"
 
 #. STRINGS.UI.ENDOFDAYREPORT.REPORT_TITLE
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.REPORT_TITLE"
@@ -26455,7 +26458,7 @@ msgstr "RAPPORTS QUOTIDIENS"
 #. STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.NAME"
 msgid "<style=\"stress\">Stress</style> Change:"
-msgstr "<style=\"stress\">Stress</style>:"
+msgstr "Changement du <style=\"stress\">Stress</style>:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.NEGATIVE_TOOLTIP"
@@ -26471,10 +26474,12 @@ msgid ""
 msgstr ""
 "Le <style=\"stress\">Stress</style> cumulé de votre colonie a augmenté de {0}"
 
+# Voir à quoi ca correspond vraiment
 #. STRINGS.UI.ENDOFDAYREPORT.TIME_SPENT.NAME
+#, fuzzy
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TIME_SPENT.NAME"
 msgid "Time Breakdown:"
-msgstr "Crise de nerfs:"
+msgstr "Temps de pause:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.TIME_SPENT.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TIME_SPENT.POSITIVE_TOOLTIP"
@@ -26508,12 +26513,12 @@ msgstr "Vos Duplicants ont voyagé pendant {0} au cours de la journée"
 #. STRINGS.UI.EQUIPMENTTAB_HELD
 msgctxt "STRINGS.UI.EQUIPMENTTAB_HELD"
 msgid "Held Items"
-msgstr "OBJET TENU"
+msgstr "Objets Tenus"
 
 #. STRINGS.UI.EQUIPMENTTAB_OWNED
 msgctxt "STRINGS.UI.EQUIPMENTTAB_OWNED"
 msgid "Owned Items"
-msgstr "Articles possédés"
+msgstr "Objets possédés"
 
 #. STRINGS.UI.EQUIPMENTTAB_ROOM
 msgctxt "STRINGS.UI.EQUIPMENTTAB_ROOM"
@@ -26543,7 +26548,7 @@ msgstr "Ambiance"
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_MASTER
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_MASTER"
 msgid "Master"
-msgstr "Master"
+msgstr "Maître"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_MUSIC
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_MUSIC"
@@ -26578,12 +26583,12 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.DONE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.DONE_BUTTON"
 msgid "Done"
-msgstr "FAIT"
+msgstr "Terminé"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.MUSIC_EVERY_CYCLE
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.MUSIC_EVERY_CYCLE"
 msgid "Play background music each morning: "
-msgstr "Commencer la musique chaque matin: "
+msgstr "Lancer la musique chaque matin: "
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.MUSIC_EVERY_CYCLE_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.MUSIC_EVERY_CYCLE_TOOLTIP"
@@ -26591,7 +26596,8 @@ msgid ""
 "If enabled, background music will play every cycle instead of every few "
 "cycles"
 msgstr ""
-"Si actif, la musique d'ambiance jouera à chaque cycle, au lieu de quelques "
+"Si actif, la musique d'ambiance sera jouée à chaque cycle, au lieu de"
+" quelques "
 "cycles"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.TITLE
@@ -26632,7 +26638,7 @@ msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS."
 "DEFAULT.TOOLTIP"
 msgid "Duplicants regain immunity normally"
-msgstr "Les Duplicants récupère de l'immunité normalement"
+msgstr "Les Duplicants régagnent leur l'immunité normalement"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS.INVINCIBLE.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
@@ -26653,7 +26659,7 @@ msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS."
 "INVINCIBLE.TOOLTIP"
 msgid "Duplicants will never catch a germ-based disease"
-msgstr "Les Duplicants n'attraperont jamais une maladie bactérienne"
+msgstr "Les Duplicants n'attraperont jamais de maladie bactérienne"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS.STRONG.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
@@ -26815,14 +26821,14 @@ msgstr "Humeur du Duplicant"
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS.TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS.TOOLTIP"
 msgid "Affects how well your Duplicants deal with stress"
-msgstr "Détermine à quel point vos Duplicants gèrent leur stress"
+msgstr "Détermine comment vos Duplicants gèrent le stress"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS_BREAKS.LEVELS.DEFAULT.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS_BREAKS.LEVELS."
 "DEFAULT.NAME"
 msgid "Normal"
-msgstr "Nomal"
+msgstr "Normal"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS_BREAKS.LEVELS.DEFAULT.TOOLTIP
 msgctxt ""
@@ -26925,7 +26931,7 @@ msgstr "Appliquer"
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.DONE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.DONE_BUTTON"
 msgid "Done"
-msgstr "FAIT"
+msgstr "Terminé"
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.FULLSCREEN
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.FULLSCREEN"
@@ -26955,7 +26961,7 @@ msgstr "Taille de l'interface"
 #. STRINGS.UI.FRONTEND.INPUT_BINDINGS_SCREEN.APPLY
 msgctxt "STRINGS.UI.FRONTEND.INPUT_BINDINGS_SCREEN.APPLY"
 msgid "Done"
-msgstr "FAIT"
+msgstr "Terminé"
 
 #. STRINGS.UI.FRONTEND.INPUT_BINDINGS_SCREEN.DUPLICATE
 msgctxt "STRINGS.UI.FRONTEND.INPUT_BINDINGS_SCREEN.DUPLICATE"
@@ -26968,23 +26974,23 @@ msgid ""
 "You have multiple unbound actions, this may result in difficulty playing the "
 "game. Are you sure you want to continue?"
 msgstr ""
-"Vous avez plusieurs touches non atribuées, cela peut entrainer une "
-"difficulté à jouer. Es-tu sur de vouloir continuer?"
+"Vous avez plusieurs touches non attribuées, cela peut entraîner une "
+"difficulté à jouer. Êtes-vous sûr de vouloir continuer?"
 
 #. STRINGS.UI.FRONTEND.INPUT_BINDINGS_SCREEN.RESET
 msgctxt "STRINGS.UI.FRONTEND.INPUT_BINDINGS_SCREEN.RESET"
 msgid "Reset"
-msgstr "Reset"
+msgstr "Réinitialiser"
 
 #. STRINGS.UI.FRONTEND.INPUT_BINDINGS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.INPUT_BINDINGS_SCREEN.TITLE"
 msgid "CUSTOMIZE KEYS"
-msgstr "TOUCHES PERSONNALISEES"
+msgstr "TOUCHES PERSONNALISÉES"
 
 #. STRINGS.UI.FRONTEND.INPUT_BINDINGS_SCREEN.UNBOUND_ACTION
 msgctxt "STRINGS.UI.FRONTEND.INPUT_BINDINGS_SCREEN.UNBOUND_ACTION"
 msgid "{0} is unbound. Are you sure you want to continue?"
-msgstr "{0} est non attribué. Es-tu sur de vouloir continuer?"
+msgstr "{0} n'est pas attribué. Êtes-vous sûr de vouloir continuer?"
 
 #. STRINGS.UI.FRONTEND.INPUT_BINDINGS_SCREEN.WAITING_FOR_INPUT
 msgctxt "STRINGS.UI.FRONTEND.INPUT_BINDINGS_SCREEN.WAITING_FOR_INPUT"
@@ -27002,8 +27008,8 @@ msgid ""
 " <b><color=#ff0000>(Autosave: This file will get deleted as new autosaves "
 "are created)</color></b>"
 msgstr ""
-" <b><color=#ff0000>(Auto Save: Ce fichier sera supprimé et une nouvelle Auto "
-"Saves sera créee)</color></b>"
+" <b><color=#ff0000>(Sauvegarde Auto: Ce fichier sera supprimé et une nouvelle "
+"Sauvegarde Auto sera créee)</color></b>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONFIRMDELETE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONFIRMDELETE"
@@ -27012,7 +27018,7 @@ msgid ""
 "You cannot undo this action."
 msgstr ""
 "Voulez-vous vraiment supprimer {0}?\n"
-"Vous ne pourrez plus annuler cette action."
+"Vous ne pouvez pas annuler cette action."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CORRUPTEDSAVE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CORRUPTEDSAVE"
@@ -27020,7 +27026,7 @@ msgid ""
 "<b><color=#ff0000>Could not load file {0}. Its data may be corrupted.</"
 "color></b>"
 msgstr ""
-"<b><color=#ff0000>Impossible de charger la sauvegarde {0}. Les données "
+"<b><color=#ff0000>Impossible de charger le fichier {0}. Les données "
 "peuvent être corrompues.</color></b>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.DELETEBUTTON
@@ -27066,12 +27072,12 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.LOADSCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.TITLE"
 msgid "LOAD GAME"
-msgstr "CHARGER PARTIE"
+msgstr "CHARGER LA PARTIE"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.TITLE_INSPECT
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.TITLE_INSPECT"
 msgid "LOAD GAME"
-msgstr "CHARGER PARTIE"
+msgstr "CHARGER LA PARTIE"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.UNSUPPORTED_SAVE_VERSION
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.UNSUPPORTED_SAVE_VERSION"
@@ -27090,7 +27096,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.MAINMENU.LOADGAME
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.LOADGAME"
 msgid "LOAD GAME"
-msgstr "CHARGER PARTIE"
+msgstr "CHARGER LA PARTIE"
 
 #. STRINGS.UI.FRONTEND.MAINMENU.NEWGAME
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.NEWGAME"
@@ -27108,8 +27114,8 @@ msgid ""
 "Are you sure you want to quit?\n"
 "All unsaved progress will be lost."
 msgstr ""
-"Etes-vous sûr de vouloir quitter?\n"
-"Tous les progrès non enregistrés seront perdus."
+"Êtes-vous sûr de vouloir quitter?\n"
+"La progression non enregistrée sera perdue."
 
 #. STRINGS.UI.FRONTEND.MAINMENU.QUITTODESKTOP
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.QUITTODESKTOP"
@@ -27122,8 +27128,8 @@ msgid ""
 "Are you sure you want to quit?\n"
 "All unsaved progress will be lost."
 msgstr ""
-"Etes-vous sûr de vouloir quitter?\n"
-"Tous les progrès non enregistrés seront perdus."
+"Êtes-vous sûr de vouloir quitter?\n"
+"La progression non enregistrée sera perdue."
 
 #. STRINGS.UI.FRONTEND.MAINMENU.RESUMEBUTTON_BASENAME
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.RESUMEBUTTON_BASENAME"
@@ -27133,12 +27139,12 @@ msgstr "{0}: Cycle {1}"
 #. STRINGS.UI.FRONTEND.MAINMENU.RESUMEGAME
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.RESUMEGAME"
 msgid "RESUME GAME"
-msgstr "CONTINUER LA PARTIE"
+msgstr "REPRENDRE LA PARTIE"
 
 #. STRINGS.UI.FRONTEND.MAINMENU.STARTDEMO
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.STARTDEMO"
 msgid "START DEMO"
-msgstr "Démarrer la démo"
+msgstr "LANCER LA DÉMO"
 
 #. STRINGS.UI.FRONTEND.MAINMENU.TRANSLATIONS
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.TRANSLATIONS"
@@ -27148,7 +27154,7 @@ msgstr "TRADUCTIONS"
 #. STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.DONE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.DONE_BUTTON"
 msgid "Done"
-msgstr "FAIT"
+msgstr "Terminé"
 
 #. STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.ENABLE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.ENABLE_BUTTON"
@@ -27156,6 +27162,7 @@ msgid "Send Metrics Data: "
 msgstr "Envoyer les Données de Performance: "
 
 #. STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.TITLE
+#, fuzzy
 msgctxt "STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.TITLE"
 msgid "METRICS OPTIONS"
 msgstr "METRICS OPTIONS"
@@ -27177,10 +27184,10 @@ msgid ""
 "Please be aware that your experience may suffer as a result."
 msgstr ""
 "Nous avons détecté que cet ordinateur ne répond pas aux exigences minimales "
-"pour exécuter Oxygen Not Included. Même si vous pouvez continuer avec vos "
+"pour éxécuter Oxygen Not Included. Même si vous pouvez continuer avec vos "
 "spécifications actuelles, le jeu pourrait ne pas fonctionner correctement "
 "pour vous.\n"
-"Sachez que votre expérience peu en souffrir."
+"Sachez que votre expérience de jeu peut en souffrir."
 
 #. STRINGS.UI.FRONTEND.MINSPECSCREEN.OKBUTTON
 msgctxt "STRINGS.UI.FRONTEND.MINSPECSCREEN.OKBUTTON"
@@ -27200,10 +27207,10 @@ msgid ""
 "Please exit the game, run Windows Update, and try re-launching Oxygen Not "
 "Included."
 msgstr ""
-"Un problème s'est produit pendant le chargement de Oxygen Not Included. Cela "
+"Un problème s'est produit pendant le chargement d'Oxygen Not Included. Cela "
 "est généralement dû à l'exécution de Visual Studio C ++ 2015 qui peut être "
 "mal installé sur le système. Veuillez quitter le jeu, lancer Windows Update "
-"et essayer de relancer l'Oxygen Not Included."
+"et essayer de relancer Oxygen Not Included."
 
 #. STRINGS.UI.FRONTEND.MINSPECSCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.MINSPECSCREEN.TITLE"
@@ -27218,22 +27225,22 @@ msgstr "Annuler"
 #. STRINGS.UI.FRONTEND.NEWGAMESETTINGS.BUTTONS.CUSTOMGAME
 msgctxt "STRINGS.UI.FRONTEND.NEWGAMESETTINGS.BUTTONS.CUSTOMGAME"
 msgid "Custom Game"
-msgstr "Accès Personnalisé"
+msgstr "Partie Personnalisée"
 
 #. STRINGS.UI.FRONTEND.NEWGAMESETTINGS.BUTTONS.STANDARDGAME
 msgctxt "STRINGS.UI.FRONTEND.NEWGAMESETTINGS.BUTTONS.STANDARDGAME"
 msgid "Standard Game"
-msgstr "Standard"
+msgstr "Partie Standard"
 
 #. STRINGS.UI.FRONTEND.NEWGAMESETTINGS.BUTTONS.STARTGAME
 msgctxt "STRINGS.UI.FRONTEND.NEWGAMESETTINGS.BUTTONS.STARTGAME"
 msgid "Start Game"
-msgstr "Start"
+msgstr "Lancer la Partie"
 
 #. STRINGS.UI.FRONTEND.NEWGAMESETTINGS.HEADER
 msgctxt "STRINGS.UI.FRONTEND.NEWGAMESETTINGS.HEADER"
 msgid "GAME SETTINGS"
-msgstr "Options"
+msgstr "PARAMÈTRES DU JEU"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.AUDIO
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.AUDIO"
@@ -27243,17 +27250,17 @@ msgstr "Audio"
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.BACK
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.BACK"
 msgid "Done"
-msgstr "FAIT"
+msgstr "Terminé"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.CONTROLS
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.CONTROLS"
 msgid "Controls"
-msgstr "Controles"
+msgstr "Contrôles"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.CREDITS
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.CREDITS"
 msgid "Credits"
-msgstr "Credits"
+msgstr "Crédits"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.GRAPHICS
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.GRAPHICS"
@@ -27283,7 +27290,7 @@ msgstr "Unité de Température"
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.WORLD_GEN
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.WORLD_GEN"
 msgid "World Generation Key"
-msgstr "Clef de Génération du Monde"
+msgstr "Clé de Génération du Monde"
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.BODY
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.BODY"
@@ -27319,7 +27326,7 @@ msgstr ""
 "<b> Fonctionnalités mises à jour: </b>\n"
 "\n"
 "• Les nouveaux réseaux de tubes de transit permettent un transport rapide "
-"des duplicants vers et à partir des tronçons les plus éloignés de votre "
+"des Duplicants vers et à partir des tronçons les plus éloignés de votre "
 "base\n"
 "• Les sculptures de glace peuvent maintenant être construites dans des zones "
 "froides pour une décoration spéciale\n"
@@ -27379,12 +27386,12 @@ msgstr "Sauvegarder sous"
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.TITLE"
 msgid "PAUSED"
-msgstr "PAUSE"
+msgstr "EN PAUSE"
 
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.WORLD_SEED
 msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.WORLD_SEED"
 msgid "World Seed: {0}"
-msgstr "Graine de génération de monde: {0}"
+msgstr "Graine de Génération du Monde: {0}"
 
 #. STRINGS.UI.FRONTEND.SAVESCREEN.CANCELNAME
 msgctxt "STRINGS.UI.FRONTEND.SAVESCREEN.CANCELNAME"
@@ -27404,7 +27411,7 @@ msgid ""
 "\n"
 "{0}"
 msgstr ""
-"Une erreur est survenue lors de sauvegarder votre partie. Veuillez vous "
+"Une erreur est survenue lors de la sauvegarde votre partie. Veuillez vous "
 "assurer qu’il y a suffisamment d’espace disque.\n"
 "\n"
 "{0}"
@@ -27417,7 +27424,7 @@ msgstr "Nouvelle Sauvegarde"
 #. STRINGS.UI.FRONTEND.SAVESCREEN.OVERWRITEMESSAGE
 msgctxt "STRINGS.UI.FRONTEND.SAVESCREEN.OVERWRITEMESSAGE"
 msgid "Are you sure you want to overwrite {0}?"
-msgstr "Etes vous sur de vouloir écraser la sauvegarde {0}?"
+msgstr "Êtes-vous sûr de vouloir écraser la sauvegarde {0}?"
 
 #. STRINGS.UI.FRONTEND.SAVESCREEN.REPORT_BUG
 msgctxt "STRINGS.UI.FRONTEND.SAVESCREEN.REPORT_BUG"
@@ -27432,7 +27439,7 @@ msgstr "NOM DE LA SAUVEGARDE"
 #. STRINGS.UI.FRONTEND.SAVESCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.SAVESCREEN.TITLE"
 msgid "SAVE SLOTS"
-msgstr "EMPLACEMENT DE SAUVEGARDE"
+msgstr "EMPLACEMENTS DE SAUVEGARDE"
 
 #. STRINGS.UI.FRONTEND.SUPPORTWARNINGS.AUDIO_DRIVERS
 msgctxt "STRINGS.UI.FRONTEND.SUPPORTWARNINGS.AUDIO_DRIVERS"
@@ -27450,8 +27457,9 @@ msgstr ""
 "\n"
 "Généralement c'est la faute aux drivers audio.\n"
 "\n"
-"Visitez le site de votre matériel audio pour télécharger les derniers "
-"drivers."
+"Visitez le site du fabriquant de votre matériel audio pour télécharger les"
+" derniers "
+"pilotes."
 
 #. STRINGS.UI.FRONTEND.SUPPORTWARNINGS.DUPLICATE_KEY_BINDINGS
 msgctxt "STRINGS.UI.FRONTEND.SUPPORTWARNINGS.DUPLICATE_KEY_BINDINGS"
@@ -27463,7 +27471,7 @@ msgid ""
 "like them.</b>\n"
 "{0}"
 msgstr ""
-"<b>Un conflit entre des touches été détecté.\n"
+"<b>Un conflit entre des touches a été détecté.\n"
 "Vous avez sans doute configuré une touche qui entre en conflit avec une "
 "touche par défaut.\n"
 "Vérifiez sur l'écran des contrôles que les touches sont configurés comme "
@@ -27480,7 +27488,8 @@ msgid ""
 msgstr ""
 "Il n'y a pas suffisamment d'espace sur le disque dur pour sauvegarder.\n"
 "\n"
-"Libérez au moins 15MB pour donner à vos sauvegardes une salle pour respirer\n"
+"Libérez au moins 15MB pour donner à vos sauvegardes de la place pour"
+" respirer\n"
 "{0}"
 
 #. STRINGS.UI.FRONTEND.SUPPORTWARNINGS.SAVE_DIRECTORY_READ_ONLY
@@ -27506,12 +27515,12 @@ msgstr "Êtes vous sur de vouloir désinstaller ce pack de langue?"
 #. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.DOWNLOAD
 msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.DOWNLOAD"
 msgid "Start Download"
-msgstr "Commence le téléchargement"
+msgstr "Commencer le téléchargement"
 
 #. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.INSTALL
 msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.INSTALL"
 msgid "Install"
-msgstr "Installe"
+msgstr "Installer"
 
 #. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.INSTALLED
 msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.INSTALLED"
@@ -27526,7 +27535,7 @@ msgstr "Steam Workshop"
 #. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.NO_STEAM
 msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.NO_STEAM"
 msgid "Unable to retrieve language list from Steam"
-msgstr "Impossible d'avoir la liste des langues depuis Steam"
+msgstr "Impossible de récupérer la liste des langues depuis Steam"
 
 #. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.PLEASE_REBOOT
 msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.PLEASE_REBOOT"
@@ -27536,7 +27545,7 @@ msgstr "Redémarrez le jeu pour que les changements prennent effet."
 #. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.PREINSTALLED_HEADER
 msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.PREINSTALLED_HEADER"
 msgid "Preinstalled Language Packs"
-msgstr "Pack de langue préinstallée"
+msgstr "Packs de langue préinstallée"
 
 #. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.PREINSTALLED_LANGUAGES.EN
 msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.PREINSTALLED_LANGUAGES.EN"
@@ -27557,7 +27566,7 @@ msgstr "TRADUCTIONS"
 #. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.UGC_HEADER
 msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.UGC_HEADER"
 msgid "Subscribed Workshop Language Packs"
-msgstr "Pack de langage du workshop abonné"
+msgstr "Abonnements aux Packs de langage du Workshop"
 
 #. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.UGC_MOD_TITLE_FORMAT
 msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.UGC_MOD_TITLE_FORMAT"
@@ -27567,7 +27576,7 @@ msgstr "{0} (workshop)"
 #. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.UNINSTALL
 msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.UNINSTALL"
 msgid "Uninstall"
-msgstr "Désinstalle"
+msgstr "Désinstaller"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.CELSIUS
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.CELSIUS"
@@ -27577,7 +27586,7 @@ msgstr "Celsius: "
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.CELSIUS_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.CELSIUS_TOOLTIP"
 msgid "Change temperature unit to Celsius (°C)"
-msgstr "Changer les unités de température pour les Celsius (°C)"
+msgstr "Changer les unités de température pour Celsius (°C)"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT"
@@ -27587,7 +27596,7 @@ msgstr "Fahrenheit: "
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT_TOOLTIP"
 msgid "Change temperature unit to Fahrenheit (°F)"
-msgstr "Changer les unités de température pour les Farenheit (°F)"
+msgstr "Changer les unités de température pour Farenheit (°F)"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.KELVIN
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.KELVIN"
@@ -27597,27 +27606,27 @@ msgstr "Kelvin: "
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.KELVIN_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.KELVIN_TOOLTIP"
 msgid "Change temperature unit to Kelvin (K)"
-msgstr "Changer les unités de température pour les Kelvin (K)"
+msgstr "Changer les unités de température pour Kelvin (K)"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.TITLE"
 msgid "TEMPERATURE UNITS"
-msgstr "UNITÉ DE TEMPÉRATURE"
+msgstr "UNITÉS DE TEMPÉRATURE"
 
 #. STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.DONE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.DONE_BUTTON"
 msgid "Done"
-msgstr "FAIT"
+msgstr "Terminé"
 
 #. STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.RANDOM_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.RANDOM_BUTTON"
 msgid "Randomize"
-msgstr "Randomise"
+msgstr "Choix Aléatoire"
 
 #. STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.RANDOM_BUTTON_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.RANDOM_BUTTON_TOOLTIP"
 msgid "Randomize a new world gen seed"
-msgstr "Randomise une nouvelle graine de génération de monde"
+msgstr "Créer une nouvelle graine de génération de monde aléatoire"
 
 #. STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.TITLE"
@@ -27647,7 +27656,7 @@ msgstr "CHARGEMENT DU MONDE..."
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.SELECTSIZEPROMPT
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.SELECTSIZEPROMPT"
 msgid "A new world is about to be created. Please select its size."
-msgstr "Un nouveau monde va être créer. S'il vous plaît choisissez sa taille."
+msgstr "Un nouveau monde va être créé. Choisissez sa taille s'il vous plaît."
 
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.HUGE
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.HUGE"
@@ -27657,7 +27666,7 @@ msgstr "Colossale"
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.LARGE
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.LARGE"
 msgid "Big"
-msgstr "Gros"
+msgstr "Énorme"
 
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.SMALL
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.SMALL"
@@ -27682,17 +27691,17 @@ msgstr "NOUVELLE PARTIE"
 #. STRINGS.UI.GAMEOBJECTEFFECTS.CALORIES
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.CALORIES"
 msgid "<style=\"produced\">+{0}</style>"
-msgstr "<style=\"produced\">{0}</style>"
+msgstr "<style=\"produced\">+{0}</style>"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.COLDBREATHER
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.COLDBREATHER"
 msgid "<style=\"heat\">Cooling Effect</style>"
-msgstr "<style=\"heat\">Effet Raffraichissant</style>"
+msgstr "<style=\"heat\">Effet Rafraîchissant</style>"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.CIRCUIT_OVERLOADED
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.CIRCUIT_OVERLOADED"
 msgid "Overload Damage"
-msgstr "Dégat de surcharge"
+msgstr "Dégât de surcharge"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.CONDUIT_CONTENTS_BOILED
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.CONDUIT_CONTENTS_BOILED"
@@ -27707,22 +27716,23 @@ msgstr "Dégât de Froid"
 #. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.LIQUID_PRESSURE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.LIQUID_PRESSURE"
 msgid "Pressure Damage"
-msgstr "Dégat de pression"
+msgstr "Dégât de pression"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.MINION_DESTRUCTION
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.MINION_DESTRUCTION"
 msgid "Anger Damage"
-msgstr "Dégat de colère"
+msgstr "Dégât de colère"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.OVERHEAT
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.OVERHEAT"
 msgid "Overheat Damage"
-msgstr "Dégat de surchauffe"
+msgstr "Dégât de surchauffe"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.WRONG_ELEMENT
+#, fuzzy
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.WRONG_ELEMENT"
 msgid "Wrong Element Damage"
-msgstr "Dégat Collatéral"
+msgstr "Dégât Collatéral"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.DARKNESS
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DARKNESS"
@@ -27732,7 +27742,7 @@ msgstr "Obscurité"
 #. STRINGS.UI.GAMEOBJECTEFFECTS.EMITS_LIGHT
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.EMITS_LIGHT"
 msgid "<style=\"heat\">Light Range</style>: {0} tiles"
-msgstr "<style=\"heat\">Portée lumineuse</style>: {0} tiles"
+msgstr "<style=\"heat\">Portée Lumineuse</style>: {0} dalles"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.EQUIPMENT_MODS
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.EQUIPMENT_MODS"
@@ -27782,7 +27792,7 @@ msgstr "Pression de l'<style=\"gas\">Air</style>: {0}"
 #. STRINGS.UI.GAMEOBJECTEFFECTS.IDEAL_TEMPERATURE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.IDEAL_TEMPERATURE"
 msgid "<style=\"heat\">Temperature</style>: {0} to {1}"
-msgstr "<style=\"heat\">Temperature</style>: {0} to {1}"
+msgstr "<style=\"heat\">Température</style>: {0} à {1}"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.INITIALGROWTHTIME
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.INITIALGROWTHTIME"
@@ -27847,7 +27857,7 @@ msgstr "Immersion dans le <style=\"liquid\">Liquide</style>"
 #. STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_TEMPERATURE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_TEMPERATURE"
 msgid "<style=\"heat\">Temperature</style>: {0} to {1}"
-msgstr "<style=\"heat\">Temperature</style>: {0} to {1}"
+msgstr "<style=\"heat\">Température</style>: {0} à {1}"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRESFERTILIZER
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRESFERTILIZER"
@@ -27932,7 +27942,7 @@ msgid ""
 "This plant initially takes {0} to grow, but only {1} to mature after first "
 "harvest"
 msgstr ""
-"Cette plante met {0} à pousser, et {1} à murir après la première récolte"
+"Cette plante met {0} à pousser, et {1} à mûrir après la première récolte"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.GROWTHTIME_SIMPLE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.GROWTHTIME_SIMPLE"
@@ -27942,14 +27952,14 @@ msgstr "Cette plante met {0} à pousser"
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.IDEAL_FERTILIZER
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.IDEAL_FERTILIZER"
 msgid "This plant requires {1} of {0} for basic growth"
-msgstr "Cette plante a besoin de {1} {0} pour une pousse standard"
+msgstr "Cette plante a besoin de {1} {0} pour une croissance standard"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.IDEAL_PRESSURE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.IDEAL_PRESSURE"
 msgid "This plant requires Gas pressures above {0} for basic growth"
 msgstr ""
-"Cette plante a besoin d'une pression atmosphérique au dessus de  {1} {0} "
-"pour une pousse standard"
+"Cette plante a besoin de pressions de Gaz au dessus de {0} "
+"pour une croissance normale"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.IDEAL_TEMPERATURE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.IDEAL_TEMPERATURE"
@@ -27957,8 +27967,9 @@ msgid ""
 "This plant requires internal temperatures between {0} and {1} for basic "
 "growth"
 msgstr ""
-"Cette plante doit avoir une température entre {0} et {1} pour une pousse "
-"standard"
+"Cette plante a besoin d'une température interne entre {0} et {1} pour une"
+" croissance "
+"normale"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.INITIALGROWTHTIME
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.INITIALGROWTHTIME"
@@ -27968,7 +27979,7 @@ msgstr "Cette plante nécessite {0} pour pousser à nouveau une fois replantée"
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REGROWTHTIME
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REGROWTHTIME"
 msgid "This plant takes {0} to mature again once harvested"
-msgstr "Cette plante nécessite {0} pour pousser à nouveau après récolte"
+msgstr "Cette plante nécessite {0} pour pousser à nouveau une fois récoltée"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_ATMOSPHERE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_ATMOSPHERE"
@@ -27989,9 +28000,11 @@ msgstr "Cette plante nécessite une source de lumière"
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_PRESSURE"
 msgid "Ambient Gas pressure must be at least {0} for basic growth"
 msgstr ""
-"La pression atmosphérique doit être au moins de {0} pour une pousse standard"
+"La pression de gaz ambiant doit être au moins de {0} pour une croissance"
+" normale"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_RECEPTACLE
+#, fuzzy
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_RECEPTACLE"
 msgid ""
 "This plant must be housed in a planter box, farm tile or hydroponic farm to "
@@ -28003,19 +28016,20 @@ msgstr ""
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_SUBMERSION
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_SUBMERSION"
 msgid "This plant must be fully submerged in liquid for basic growth"
-msgstr "Cette plante doit être intégralement immergée pour une pousse standard"
+msgstr ""
+"Cette plante doit être intégralement immergée pour une croissance standard"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_TEMPERATURE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_TEMPERATURE"
 msgid "Internal temperature must be between {0} and {1} for basic growth"
 msgstr ""
-"La température de cette plante doit être entre {0} et {1} pour une pousse "
-"standard"
+"La température interne de cette plante doit être entre {0} et {1} pour une "
+"croissance standard"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRESFERTILIZER
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRESFERTILIZER"
 msgid "This plant requires {1} {0} for basic growth"
-msgstr "Cette plante a besoin de {1} {0} pour une pousse standard"
+msgstr "Cette plante a besoin de {1} {0} pour une croissance standard"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_DIG_ONLY
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_DIG_ONLY"
@@ -28037,9 +28051,7 @@ msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_HARVEST"
 msgid "Harvesting this plant will yield new seeds"
 msgstr "Récolter cette plante donnera de nouvelles graines"
 
-# most likely wrong.  "plantée la tête en bas" ?
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_REQUIREMENT_CEILING
-#, fuzzy
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_REQUIREMENT_CEILING"
 msgid ""
 "This seed must be planted in a downward facing plot\n"
@@ -28049,7 +28061,7 @@ msgstr ""
 "Cette graine doit être plantée dans une parcelle agricole orientée vers le "
 "bas\n"
 "\n"
-"Pressez <color=#F44A47>[O]</color> pendant la construction de la parcelle "
+"Appuyez sur <color=#F44A47>[O]</color> pendant la construction de la parcelle "
 "pour la faire pivoter"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_REQUIREMENT_WALL
@@ -28061,8 +28073,9 @@ msgid ""
 msgstr ""
 "Cette graine doit être plantée dans un emplacement face au bord\n"
 "\n"
-"Pressez <color=#F44A47>[O]</color> en construisant les emplacements pour les "
-"pivoter"
+"Appuyez sur <color=#F44A47>[O]</color> en construisant les emplacements pour"
+" les "
+"faire pivoter"
 
 #. STRINGS.UI.GENESHUFFLERMESSAGE.BODY_FAILURE
 msgctxt "STRINGS.UI.GENESHUFFLERMESSAGE.BODY_FAILURE"
@@ -28072,8 +28085,8 @@ msgid ""
 "\n"
 "<b>{0}</b> already has all positive traits!"
 msgstr ""
-"La machine a tenté de modifier ce Duplicant, mais il n'y a pas "
-"d'amélioration à la perfection.\n"
+"La machine a tenté de modifier ce Duplicant, mais ont ne peut pas "
+"d'amélioration la perfection.\n"
 "\n"
 "<b>{0}</b>  a déjà tous les talents!"
 
@@ -28103,12 +28116,12 @@ msgstr "REJETER"
 #. STRINGS.UI.GENESHUFFLERMESSAGE.HEADER
 msgctxt "STRINGS.UI.GENESHUFFLERMESSAGE.HEADER"
 msgid "NEURAL VACILLATION COMPLETE"
-msgstr "VACILLATION NEURONALE COMPLETE"
+msgstr "VACILLATION NEURONALE COMPLÈTE"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.BACK
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.BACK"
 msgid "BACK"
-msgstr "Retour"
+msgstr "RETOUR"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.CANCELBUTTON
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.CANCELBUTTON"
@@ -28177,12 +28190,12 @@ msgstr "Nom de colonie aléatoire"
 #. STRINGS.UI.IMMIGRANTSCREEN.SHUFFLETOOLTIP
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.SHUFFLETOOLTIP"
 msgid "Shuffle for a different Duplicant"
-msgstr "Secouer pour avoir un Duplicant différent"
+msgstr "Appuyez pour obtenir un Duplicant différent"
 
 #. STRINGS.UI.JOBS
 msgctxt "STRINGS.UI.JOBS"
 msgid "JOBS"
-msgstr "TACHES"
+msgstr "TÂCHES"
 
 #. STRINGS.UI.JOBSCREEN_DEFAULT
 msgctxt "STRINGS.UI.JOBSCREEN_DEFAULT"
@@ -28276,7 +28289,7 @@ msgstr "Bascule toutes les tâches pour les <b>Nouveaux Duplicants</b>"
 #. STRINGS.UI.JOBSSCREEN.TITLE
 msgctxt "STRINGS.UI.JOBSSCREEN.TITLE"
 msgid "JOBS"
-msgstr "TACHES"
+msgstr "TÂCHES"
 
 #. STRINGS.UI.JOBSSCREEN.TOOLTIP_TOGGLE_ALL
 msgctxt "STRINGS.UI.JOBSSCREEN.TOOLTIP_TOGGLE_ALL"
@@ -28384,9 +28397,9 @@ msgid ""
 "color> to batch harvest"
 msgstr ""
 "<b>Croissance Complète</b>\n"
-"Ces plantes sont à maturité\n"
+"Ces plantes sont arrivées à maturité\n"
 "-------------------\n"
-"Sélectionnez <style=\"misc\">L'OUTIL RECOLTE</style> <color=#F44A47><b>[Y]</"
+"Sélectionnez <style=\"misc\">L'OUTIL RÉCOLTE</style> <color=#F44A47><b>[Y]</"
 "b></color>pour récolter en masse"
 
 #. STRINGS.UI.OVERLAYS.CROP.TOOLTIPS.GROWING
@@ -28420,7 +28433,7 @@ msgstr "CALQUE AGRICULTURE"
 #. STRINGS.UI.OVERLAYS.DECOR.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.BUTTON"
 msgid "Decor Overlay"
-msgstr "Calque de Décoration"
+msgstr "Calque Décoration"
 
 #. STRINGS.UI.OVERLAYS.DECOR.CLOTHING
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.CLOTHING"
@@ -28460,7 +28473,7 @@ msgstr "Décoration Élevée"
 #. STRINGS.UI.OVERLAYS.DECOR.HOVERTITLE
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.HOVERTITLE"
 msgid "DECOR"
-msgstr "DECOR"
+msgstr "DÉCORATION"
 
 #. STRINGS.UI.OVERLAYS.DECOR.LIGHTING
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.LIGHTING"
@@ -28495,7 +28508,7 @@ msgid ""
 "Area with insufficient decor values\n"
 "* Resources on the floor are considered \"debris\" and will decrease decor"
 msgstr ""
-"<b>Décor Faible</b>\n"
+"<b>Décor Basse</b>\n"
 "Zone avec des valeurs de décor insuffisante\n"
 "*Les ressources sur le sol sont considérés comme des \"débris\" et "
 "diminueront le décor"
@@ -28597,9 +28610,9 @@ msgid ""
 "* Placing Wash Basins or Hand Sanitizers near these areas may prevent "
 "disease spread"
 msgstr ""
-"<b>Source de Germe</b>\n"
-"Zone où les germes sont produites\n"
-"*Placer un Lavabo ou un Désinfectant pour les mains à proximité de ces zones "
+"<b>Source de Germes</b>\n"
+"Zone où les germes sont produits\n"
+"*Placer un Lavabo ou du Désinfectant pour les mains à proximité de ces zones "
 "peut empêcher la propagation des maladies"
 
 #. STRINGS.UI.OVERLAYS.DISEASE.INTERNAL_GERMS
@@ -28685,7 +28698,7 @@ msgstr "Tendu"
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND7
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND7"
 msgid "Overloaded"
-msgstr "Sur-Alimenté"
+msgstr "Surchargé"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND8
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND8"
@@ -28711,8 +28724,8 @@ msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND1"
 msgid ""
 "Displays whether buildings use or generate <style=\"power\">Power</style>"
 msgstr ""
-"Affiche quelle construction utilise ou génère de la <style=\"power"
-"\">Puissance</style>"
+"Affiche quels équipements utilisent ou génèrent de l'<style=\"power"
+"\">Énergie</style>"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND2
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND2"
