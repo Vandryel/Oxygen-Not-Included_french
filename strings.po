@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-06 20:52+0100\n"
+"PO-Revision-Date: 2018-01-06 20:58+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
@@ -7975,7 +7975,7 @@ msgid ""
 "Determines how quickly a Duplicant gains or reduces <style=\"stress"
 "\">Breath</style>."
 msgstr ""
-"Détermine à quelle vitesse un Duplicant augmente ou perd son <style=\"stress"
+"Détermine la vitesse à laquelle un Duplicant gagne ou perd son <style=\"stress"
 "\">Souffle</style>."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.BREATHDELTA.NAME
@@ -8012,7 +8012,7 @@ msgstr "{0}  Vitesse de Construction"
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.DESC"
 msgid "Determines how quickly a Duplicant cooks <style=\"food\">Food</style>."
 msgstr ""
-"Détermine à quelle vitesse à laquelle un Duplicant cuisine de la <style="
+"Détermine la vitesse à laquelle un Duplicant cuisine de la <style="
 "\"food\">Nourriture</style>."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.NAME
@@ -8230,7 +8230,7 @@ msgid ""
 "Determines how quickly a Duplicant conducts <style=\"research\">Research</"
 "style> and gains skills."
 msgstr ""
-"Détermine à quelle vitesse un Duplicant mène des <style=\"research"
+"Détermine la vitesse à laquelle un Duplicant mène des <style=\"research"
 "\">Recherches</style> et gagne des niveaux."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.NAME
@@ -8418,7 +8418,7 @@ msgid ""
 "Determines how quickly a Duplicant gains or reduces <style=\"stress"
 "\">Stress</style>."
 msgstr ""
-"Détermine à quelle vitesse un Duplicant augmente ou perd son <style=\"stress"
+"Détermine la vitesse à laquelle un Duplicant gagne ou perd du <style=\"stress"
 "\">Stress</style>."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRESSDELTA.NAME
