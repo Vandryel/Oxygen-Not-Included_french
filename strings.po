@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-06 13:59+0100\n"
+"PO-Revision-Date: 2018-01-06 14:01+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
@@ -11765,7 +11765,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSSTANDARD
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSSTANDARD"
 msgid "Room is enclosed by walls and doors."
-msgstr "La pièce est fermée par des murs et des portes."
+msgstr "La pièce est entourée par des murs et des portes."
 
 #. STRINGS.DUPLICANTS.OPINIONS.TOILETWALLSMISSING
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.TOILETWALLSMISSING"
@@ -22345,7 +22345,7 @@ msgstr "Une Porte"
 #. STRINGS.REGIONS.MISSINGREQUIREMENTS.ENCLOSED
 msgctxt "STRINGS.REGIONS.MISSINGREQUIREMENTS.ENCLOSED"
 msgid "To be enclosed"
-msgstr "À enfermer"
+msgstr "À entourer"
 
 #. STRINGS.REGIONS.MISSINGREQUIREMENTS.HEIGHT
 msgctxt "STRINGS.REGIONS.MISSINGREQUIREMENTS.HEIGHT"
@@ -30915,7 +30915,7 @@ msgstr ""
 #. STRINGS.UI.TOOLTIPS.ROOMSOVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.ROOMSOVERLAYSTRING"
 msgid "Displays fully enclosed rooms"
-msgstr "Afficher les pièces entièrement fermée"
+msgstr "Afficher les pièces entièrement fermées"
 
 #. STRINGS.UI.TOOLTIPS.SELECTAMATERIAL
 msgctxt "STRINGS.UI.TOOLTIPS.SELECTAMATERIAL"
