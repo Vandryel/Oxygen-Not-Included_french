@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-06 16:12+0100\n"
+"PO-Revision-Date: 2018-01-06 16:42+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
@@ -17961,6 +17961,7 @@ msgstr ""
 "engourdie."
 
 #. STRINGS.ITEMS.FOOD.FRUITCAKE.NAME
+#, fuzzy
 msgctxt "STRINGS.ITEMS.FOOD.FRUITCAKE.NAME"
 msgid "Berry Sludge"
 msgstr "Baie Boueuse"
@@ -20427,7 +20428,7 @@ msgstr "Sol cultivable"
 #. STRINGS.MISC.TAGS.FILTER
 msgctxt "STRINGS.MISC.TAGS.FILTER"
 msgid "Filtration Medium"
-msgstr "Filtration moyenne"
+msgstr "Matériau de Filtration"
 
 #. STRINGS.MISC.TAGS.GAS
 msgctxt "STRINGS.MISC.TAGS.GAS"
