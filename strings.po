@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-06 20:58+0100\n"
+"PO-Revision-Date: 2018-01-06 21:12+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
@@ -7938,7 +7938,7 @@ msgstr "Coureur"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.SPEEDMODIFIER"
 msgid "{0} Runspeed"
-msgstr "{0} Vitesse de course"
+msgstr "{0} Vitesse de Course"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.BASE_VALUE
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BASE_VALUE"
@@ -8186,7 +8186,7 @@ msgstr "Puissance du Système Immunitaire"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.IMMUNITY.BOOST_MODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.IMMUNITY.BOOST_MODIFIER"
 msgid "{0} Immunity Regen"
-msgstr "{0} Régénération du Système Immunitaire"
+msgstr "Régénération du Système Immunitaire: {0} "
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.IMMUNITY.BOOST_STAT
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.IMMUNITY.BOOST_STAT"
@@ -8256,7 +8256,8 @@ msgstr "{0} Niveau de compétence"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.DESC"
 msgid "Determines how adeptly a Duplicant uses machines."
-msgstr "Détermine à quel point un Duplicant peut utiliser une machine."
+msgstr ""
+"Détermine la facilité avec laquelle Duplicant peut utiliser une machine."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.NAME"
@@ -8286,7 +8287,7 @@ msgstr "Détermine l'habilité d'un Duplicant à soigner les autres."
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.FABRICATE_SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.FABRICATE_SPEEDMODIFIER"
 msgid "{0} Compounded Healing Speed"
-msgstr "{0} Vitesse de Soin Médical"
+msgstr "Vitesse de Fabrication des Médicaments : {0}"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.NAME"
@@ -8301,7 +8302,7 @@ msgstr "Médecin"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.SPEEDMODIFIER"
 msgid "{0} Medical Healing Speed"
-msgstr "{0} Vitesse de Soin Médical"
+msgstr "Vitesse des Soins: {0}"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MODIFIER_ENTRY
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MODIFIER_ENTRY"
@@ -11654,7 +11655,7 @@ msgid ""
 "Food Quality Score of {0}"
 msgstr ""
 "\n"
-"Qualité de la Nourriture: {0}"
+"Qualité de Nourriture: {0}"
 
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.FOODQUALITY_EXPECTATION
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.FOODQUALITY_EXPECTATION"
@@ -14414,7 +14415,7 @@ msgid ""
 "• Cannot perform job: {0}"
 msgstr ""
 "\n"
-"• Ne peut pas effectuer le travail: {0}"
+"• Ne peut pas effectuer la tâche: {0}"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANTBUILD.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTBUILD.DESC"
