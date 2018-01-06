@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-06 14:22+0100\n"
+"PO-Revision-Date: 2018-01-06 15:29+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
@@ -215,9 +215,7 @@ msgctxt "STRINGS.BUILDING.STATUSITEMS.BROKEN.NAME"
 msgid "Broken"
 msgstr "Cassé"
 
-# Des dommages de ..?
 #. STRINGS.BUILDING.STATUSITEMS.BROKEN.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BROKEN.TOOLTIP"
 msgid ""
 "\n"
@@ -226,7 +224,7 @@ msgid ""
 msgstr ""
 "\n"
 "------------------\n"
-"Cet équipement a reçu des dommages {DamageInfo}"
+"Cet équipement a reçu des dommages de {DamageInfo}"
 
 #. STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.NAME"
@@ -1864,10 +1862,9 @@ msgid "Current <style=\"research\">Research</style>: {Tech}"
 msgstr "<style=\"research\">Recherche</style> Actuelle: {Tech}"
 
 #. STRINGS.BUILDING.STATUSITEMS.RESEARCHING.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RESEARCHING.TOOLTIP"
 msgid "Research produced at this station will be invested in {Tech}"
-msgstr "Les recherches produites à cette station seront investies dans {Tech}"
+msgstr "Les recherches effectuées à cette station seront investies dans {Tech}"
 
 #. STRINGS.BUILDING.STATUSITEMS.STORAGELOCKER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.STORAGELOCKER.NAME"
@@ -2407,7 +2404,6 @@ msgid "This building is clean"
 msgstr "Cet équipement est propre"
 
 #. STRINGS.BUILDINGS.DAMAGESOURCES.BAD_INPUT_ELEMENT
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.BAD_INPUT_ELEMENT"
 msgid "receiving an incorrect substance"
 msgstr "une substance incorrecte a été introduite"
@@ -2904,13 +2900,11 @@ msgstr ""
 "Filtre le <style=\"gas\">Dioxyde de Carbone</style> contenu dans l'air."
 
 #. STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.NAME"
 msgid "Carbon Skimmer"
 msgstr "Dépollueur de Carbone"
 
 #. STRINGS.BUILDINGS.PREFABS.COMPOST.DESC
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOST.DESC"
 msgid ""
 "Composts safely deal with biological waste and help fertilize domestic "
@@ -3661,7 +3655,7 @@ msgstr "Générateur à Charbon"
 #. STRINGS.BUILDINGS.PREFABS.GENERICFABRICATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENERICFABRICATOR.DESC"
 msgid "Omniprinters are incapable of printing organic matter."
-msgstr "Les Omniprinters sont incapables d'imprimer de la matière organique."
+msgstr "Les Imprimetout sont incapables d'imprimer de la matière organique."
 
 #. STRINGS.BUILDINGS.PREFABS.GENERICFABRICATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENERICFABRICATOR.EFFECT"
@@ -3672,12 +3666,10 @@ msgstr ""
 "Convertit des <style=\"RawMineral\">Minerais Bruts</style> en matériaux "
 "uniques et en objets."
 
-# Imprimetout ?
 #. STRINGS.BUILDINGS.PREFABS.GENERICFABRICATOR.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENERICFABRICATOR.NAME"
 msgid "Omniprinter"
-msgstr "Omniprinter"
+msgstr "Imprimetout"
 
 #. STRINGS.BUILDINGS.PREFABS.GRAVE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVE.DESC"
@@ -4832,7 +4824,7 @@ msgid ""
 "from peers."
 msgstr ""
 "Les Duplicants utilisent les lits médicaux pour soigner leurs maladies et "
-"recevoir de l'aide médicale de leurs pairs."
+"recevoir de l'assistance médicale de leurs pairs."
 
 #. STRINGS.BUILDINGS.PREFABS.MEDICALCOT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MEDICALCOT.EFFECT"
@@ -5733,10 +5725,9 @@ msgstr ""
 
 # What's that ?
 #. STRINGS.BUILDINGS.PREFABS.THERMALBLOCK.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.THERMALBLOCK.NAME"
 msgid "Tempshift Plate"
-msgstr "Plaque de vitesse thermique"
+msgstr "Plaque de régulation thermique"
 
 #. STRINGS.BUILDINGS.PREFABS.TILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILE.DESC"
@@ -6101,7 +6092,6 @@ msgstr ""
 
 # Heavi = ?  Heavy with a typo or ...
 #. STRINGS.BUILDINGS.PREFABS.WIREREFINEDHIGHWATTAGE.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREREFINEDHIGHWATTAGE.NAME"
 msgid "Heavi Conductive Wire"
 msgstr "Câble Très Conducteur"
@@ -8397,10 +8387,9 @@ msgid "Sneeziness"
 msgstr "Éternuement"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.NAME"
 msgid "Stamina Change"
-msgstr "Changement de Vigueur"
+msgstr "Modification d'Endurance"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.DESC"
@@ -8468,12 +8457,10 @@ msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.NAME"
 msgid "Bladder Efficiency"
 msgstr "Efficacité de la Vessie"
 
-# Altération de la Toxicité ?
 #. STRINGS.DUPLICANTS.ATTRIBUTES.TOXICITYDELTA.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOXICITYDELTA.NAME"
 msgid "Toxicity Change"
-msgstr "Changement de Toxicité"
+msgstr "Modification de la Toxicité"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.UNPROFESSIONAL_DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.UNPROFESSIONAL_DESC"
@@ -8808,7 +8795,6 @@ msgstr "Livre"
 
 # Voir en jeu si "refroidi" est plus propice
 #. STRINGS.DUPLICANTS.CHORES.COOLDOWN.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.COOLDOWN.NAME"
 msgid "Cool off"
 msgstr "Refroidit"
@@ -8829,13 +8815,11 @@ msgid "Coughing"
 msgstr "Tousse"
 
 #. STRINGS.DUPLICANTS.CHORES.DEBUGGOTO.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.DEBUGGOTO.NAME"
 msgid "DebugGoTo"
 msgstr "DebugGoTo"
 
 #. STRINGS.DUPLICANTS.CHORES.DEBUGGOTO.STATUS
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.DEBUGGOTO.STATUS"
 msgid "DebugGoTo"
 msgstr "DebugGoTo"
@@ -9077,14 +9061,12 @@ msgid "Going to harvest"
 msgstr "Va récolter"
 
 #. STRINGS.DUPLICANTS.CHORES.HEAL.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.HEAL.NAME"
 msgid "Heal"
 msgstr "Soigne"
 
 # "En tran de soigner" ou "en rémission" ?
 #. STRINGS.DUPLICANTS.CHORES.HEAL.STATUS
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.HEAL.STATUS"
 msgid "Healing"
 msgstr "Soigne"
@@ -9136,7 +9118,6 @@ msgstr "Va à"
 
 # Location : position / endroit..
 #. STRINGS.DUPLICANTS.CHORES.MOVETO.STATUS
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETO.STATUS"
 msgid "Moving to location"
 msgstr "Va à la position"
@@ -10646,7 +10627,8 @@ msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DOCTOREDOFFCOTEFFECT.TOOLTIP"
 msgid ""
 "Tsk tsk! This Duplicant cannot receive medical aid while out of their Med-Bed"
 msgstr ""
-"tss tss! Ce Duplicant ne peut pas recevoir d'aide médicale tant qu'il n'est "
+"tss tss! Ce Duplicant ne peut pas recevoir d'assistance médicale tant qu'il"
+" n'est "
 "pas dans son lit médical"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DOCTOREDOFFREJUVENATOREFFECT.NAME
@@ -10659,7 +10641,8 @@ msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DOCTOREDOFFREJUVENATOREFFECT.TOOLTIP"
 msgid ""
 "Tsk tsk! This Duplicant cannot receive medical aid while out of their Med-Bed"
 msgstr ""
-"tss tss! Ce Duplicant ne peut pas recevoir d'aide médicale tant qu'il n'est "
+"tss tss! Ce Duplicant ne peut pas recevoir d'assistance médicale tant qu'il"
+" n'est "
 "pas dans son lit médical"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.EATINGCALORIES.NAME
@@ -10879,7 +10862,8 @@ msgid ""
 "This Duplicant is receiving medical aid to lessen the severity and recovery "
 "time of their illness"
 msgstr ""
-"Ce Duplicant reçoit une aide médicale pour atténuer la gravité et le temps "
+"Ce Duplicant reçoit une assistance médicale pour atténuer la gravité et le"
+" temps "
 "de récupération de sa maladie"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.MEDICINE_GENERICPILL.NAME
@@ -11124,7 +11108,8 @@ msgid ""
 "This Duplicant is receiving improved medical aid to lessen the severity and "
 "recovery time of their illness"
 msgstr ""
-"Ce Duplicant reçoit une aide médicale pour atténuer la gravité et le temps "
+"Ce Duplicant reçoit une assistance médicale pour atténuer la gravité et le"
+" temps "
 "de récupération de sa maladie"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.RESTFULSLEEP.NAME
@@ -11698,10 +11683,9 @@ msgstr "Qualité de la Nourriture"
 
 # Gourmet vs. Gourmand
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.PROFESSION_NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.PROFESSION_NAME"
 msgid "Gourmet"
-msgstr "Gourmand"
+msgstr "Gastronome"
 
 #. STRINGS.DUPLICANTS.NEEDS.NOISE.NAME
 msgctxt "STRINGS.DUPLICANTS.NEEDS.NOISE.NAME"
@@ -12683,7 +12667,6 @@ msgstr "Ce Duplicant transporte des matériaux vers {Target}"
 
 # Douteux, A voir dans le contexte
 #. STRINGS.DUPLICANTS.STATUSITEMS.BREAKWORKSTATUS.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BREAKWORKSTATUS.NAME"
 msgid "Breaking {Target}"
 msgstr "Casse {Target}"
@@ -13974,15 +13957,12 @@ msgstr "Attribue {Item} à {Target}"
 
 # Confusing string
 #. STRINGS.DUPLICANTS.STATUSITEMS.STOREFORBUILDPRIORITIZEDDELIVERSTATUS.TOOLTIP
-#, fuzzy
 msgctxt ""
 "STRINGS.DUPLICANTS.STATUSITEMS.STOREFORBUILDPRIORITIZEDDELIVERSTATUS.TOOLTIP"
 msgid ""
 "This Duplicant is delivering {Item} resources to a construction task to "
 "build {Target}"
 msgstr ""
-"Ce Duplicant apporte {Item} pour "
-"construire {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STOREPRIORITYDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STOREPRIORITYDELIVERSTATUS.NAME"
@@ -14228,10 +14208,9 @@ msgstr ""
 "Duplicants:"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.VOMITING.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.VOMITING.TOOLTIP"
 msgid "This Duplicant has unceremoniously hurled as the result of a disease"
-msgstr "Ce Duplicant a été jeté sans cérémonie a cause d'une maladie"
+msgstr "Ce Duplicant a vomi directement à cause d'une maladie"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.WARMINGUP.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.WARMINGUP.NAME"
@@ -14397,11 +14376,10 @@ msgstr ""
 "• {0}: {1}"
 
 #. STRINGS.DUPLICANTS.TRAITS.BEDSIDEMANNER.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.BEDSIDEMANNER.DESC"
 msgid "This Duplicant has good bedside manner and a healing touch"
 msgstr ""
-"Ce Duplicant a un bon comportement envers les malades et des mains faites "
+"Ce Duplicant a un bon contact avec les patients et des mains faites "
 "pour soigner"
 
 #. STRINGS.DUPLICANTS.TRAITS.BEDSIDEMANNER.NAME
@@ -14775,10 +14753,9 @@ msgid ""
 msgstr "Les bras de ce Duplicant ont la puissance d'un spaghetti trop cuit"
 
 #. STRINGS.DUPLICANTS.TRAITS.NOODLEARMS.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NOODLEARMS.NAME"
 msgid "Noodle Arms"
-msgstr "Bras en Nouille"
+msgstr "Bras en Mousse"
 
 #. STRINGS.DUPLICANTS.TRAITS.REFUSES_TO_DO_TASK
 msgctxt "STRINGS.DUPLICANTS.TRAITS.REFUSES_TO_DO_TASK"
@@ -16818,12 +16795,13 @@ msgid "Cool Vest"
 msgstr "Veste rafraichissante"
 
 #. STRINGS.EQUIPMENT.PREFABS.COOL_VEST.RECIPE_DESC
-#, fuzzy
 msgctxt "STRINGS.EQUIPMENT.PREFABS.COOL_VEST.RECIPE_DESC"
 msgid ""
 "Protects the wearer from <style=\"heat\">Heat</style> by decreasing "
 "insulation."
-msgstr "Protège le porteur des pertes de <style=\"heat\">Chaleur</style>."
+msgstr ""
+"Protège le porteur de la <style=\"heat\">Chaleur</style> en réduisant l' "
+"isolation."
 
 #. STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.DESC"
@@ -17839,10 +17817,9 @@ msgid ""
 msgstr "<style=\"food\">Meal Lice</style> compacté en un pain dense."
 
 #. STRINGS.ITEMS.FOOD.BASICPLANTFOOD.DESC
-#, fuzzy
 msgctxt "STRINGS.ITEMS.FOOD.BASICPLANTFOOD.DESC"
 msgid "A flavorless grain that almost never wiggles on its own."
-msgstr "Un grain sans saveur."
+msgstr "Un grain sans saveur qui ne gigote presque jamais de son plein gré."
 
 # On ne parle sans doute pas d'un pou. Dans les autres messages, il est question d'une céréale et on le compacte pour en faire un pain dense.
 #
@@ -18196,7 +18173,6 @@ msgid "Reed Fiber"
 msgstr "Fibre de roseau"
 
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.FUEL_BRICK.DESC
-#, fuzzy
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.FUEL_BRICK.DESC"
 msgid ""
 "A densely compressed brick of combustible material.\n"
@@ -18204,7 +18180,7 @@ msgid ""
 "It can be burned to produce a one-time burst of <style=\"power\">Power</"
 "style>."
 msgstr ""
-"Une brique de combustible solide compressé.\n"
+"Une brique de matériau combustible densément compressée.\n"
 "\n"
 "Elle peut être brûlée pour produire une bouffée de <style=\"power"
 "\">Puissance</style>."
@@ -18632,9 +18608,7 @@ msgstr ""
 "Ces équipements ont subi des dégâts significatifs et ne "
 "fonctionnent plus:"
 
-# Traduction douteuse
 #. STRINGS.MISC.NOTIFICATIONS.BUILDINGCOLLAPSE.NAME
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BUILDINGCOLLAPSE.NAME"
 msgid "Building collapsed"
 msgstr "Équipement effondré"
@@ -18911,12 +18885,10 @@ msgctxt "STRINGS.MISC.NOTIFICATIONS.FABRICATOREMPTY.NAME"
 msgid "Fabricator idle"
 msgstr "Fabrique en pause"
 
-# These fabricators
 #. STRINGS.MISC.NOTIFICATIONS.FABRICATOREMPTY.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FABRICATOREMPTY.TOOLTIP"
 msgid "These fabricators have no recipes queued:"
-msgstr "Ces fabricants n'ont aucune recette en file d'attente:"
+msgstr "Ces machines n'ont aucune recette en file d'attente:"
 
 #. STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.MESSAGEBODY"
@@ -19091,12 +19063,10 @@ msgctxt "STRINGS.MISC.NOTIFICATIONS.IMMIGRANTSLEFT.TOOLTIP"
 msgid "The printable Duplicants have been Oozed"
 msgstr "Les Duplicants imprimables sont redevenus du Limon"
 
-# ont évolué
 #. STRINGS.MISC.NOTIFICATIONS.INCREASEDEXPECTATIONS.NAME
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.INCREASEDEXPECTATIONS.NAME"
 msgid "Duplicants' expectations increased"
-msgstr "Les attentes des Duplicants ont augmenté"
+msgstr "Les attentes des Duplicants ont évolué"
 
 #. STRINGS.MISC.NOTIFICATIONS.INCREASEDEXPECTATIONS.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.INCREASEDEXPECTATIONS.TOOLTIP"
@@ -19203,10 +19173,9 @@ msgid "TIP: Germs and Disease"
 msgstr "CONSEIL: Germes et infections"
 
 #. STRINGS.MISC.NOTIFICATIONS.LOTS_OF_GERMS.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LOTS_OF_GERMS.TOOLTIP"
 msgid "Learn about the risks of Duplicant disease"
-msgstr "Apprenez au sujet des risques de maladies"
+msgstr "Apprenez en plus sur les risques de maladies de ce Duplicant"
 
 #. STRINGS.MISC.NOTIFICATIONS.MISSINGMATERIALS.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.MISSINGMATERIALS.NAME"
@@ -19349,8 +19318,9 @@ msgstr "La colonie nécessite des lits médicaux"
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NO_MEDICAL_COTS.TOOLTIP"
 msgid "Your sick Duplicants have nowhere to rest or receive medical aid"
 msgstr ""
-"Vos Duplicants malades n'ont nulle part où se rétablir ou recevoir des soins"
-" médicaux"
+"Vos Duplicants malades n'ont nulle part où se rétablir ou recevoir une"
+" assistance "
+"médicale"
 
 #. STRINGS.MISC.NOTIFICATIONS.NOSTORAGEREGIONSAVAILABLE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NOSTORAGEREGIONSAVAILABLE.NAME"
@@ -20415,7 +20385,6 @@ msgid "Compostable"
 msgstr "Compostable"
 
 #. STRINGS.MISC.TAGS.COMPOSTMEAT
-#, fuzzy
 msgctxt "STRINGS.MISC.TAGS.COMPOSTMEAT"
 msgid "Compost Meat"
 msgstr "Viande de Compost"
@@ -22167,10 +22136,9 @@ msgid "Old"
 msgstr "Vieux"
 
 #. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.PEPPY
-#, fuzzy
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.PEPPY"
 msgid "Peppy"
-msgstr "Peppy"
+msgstr "remuant"
 
 #. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.PROFESSOR
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.PROFESSOR"
@@ -23633,10 +23601,9 @@ msgstr "<style=\"solid\">Fertilisation</style> de Plante"
 
 # Voir en jeu
 #. STRINGS.UI.BUILDINGEFFECTS.ALLOWS_IRRIGATION
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ALLOWS_IRRIGATION"
 msgid "Plant <style=\"liquid\">Liquid</style>"
-msgstr "<style=\"liquid\">Liquide</style> Plante"
+msgstr "<style=\"liquid\">Liquide</style> de Plante"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ASSIGNEDDUPLICANT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ASSIGNEDDUPLICANT"
@@ -25479,11 +25446,12 @@ msgid "Other Symptoms:"
 msgstr "Autres Symptôme:"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.INFECTION.SYMPTOMS_TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.INFECTION.SYMPTOMS_TOOLTIP"
 msgid ""
 "These symptoms must run their course and cannot be alleviated by medical aid"
-msgstr "Ces symptômes ne peuvent être diminués par de l'aide médical"
+msgstr ""
+"Ces symptômes doivent se développer et ne peuvent être atténués par"
+" l'assistance médicale"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.INFECTION_INFO
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.INFECTION_INFO"
