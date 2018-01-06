@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-06 20:44+0100\n"
+"PO-Revision-Date: 2018-01-06 20:52+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
@@ -21080,10 +21080,16 @@ msgctxt "STRINGS.NAMEGEN.COLONY.FORMATS.NOUN"
 msgid "{noun}"
 msgstr "{noun}"
 
+# 'The' n'est volontairement pas traduit dans cette chaine. Les noms aléatoires posent problème
+# pour les langues autres que l'anglais ou "the" est neutre.
+# Une fois traduit, on se retrouve avec des noms de colonie ni amusants, ni lisibles.
+# Exemple : Le(la) Comète Doré(e) // Le(la) Décharge Prospère
+# 
+# 
 #. STRINGS.NAMEGEN.COLONY.FORMATS.THE_ADJECTIVE_NOUN
 msgctxt "STRINGS.NAMEGEN.COLONY.FORMATS.THE_ADJECTIVE_NOUN"
 msgid "The {adjective} {noun}"
-msgstr "Le(la) {noun} {adjective}"
+msgstr "{noun} {adjective}"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.ABODE
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.ABODE"
