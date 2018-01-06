@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-06 14:07+0100\n"
+"PO-Revision-Date: 2018-01-06 14:22+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
@@ -23219,7 +23219,7 @@ msgstr "- Duplicants malades en quarantaine"
 #. STRINGS.ROOMS.TYPES.HOSPITAL.NAME
 msgctxt "STRINGS.ROOMS.TYPES.HOSPITAL.NAME"
 msgid "Med Bay"
-msgstr "Zone médicale"
+msgstr "Aire Médicale"
 
 #. STRINGS.ROOMS.TYPES.HOSPITAL.TOOLTIP
 msgctxt "STRINGS.ROOMS.TYPES.HOSPITAL.TOOLTIP"
@@ -23227,8 +23227,9 @@ msgid ""
 "Sick Duplicants assigned to medical beds located within a Med Bay are less "
 "likely to spread Disease."
 msgstr ""
-"Les Duplicants malades affectés à des lits médicaux situés dans une Zone "
-"Médicale sont moins susceptibles de propager la Maladie."
+"Les Duplicants malades affectés à des lits médicaux situés dans une Aire"
+" Médicale "
+"sont moins susceptibles de propager la Maladie."
 
 #. STRINGS.ROOMS.TYPES.LATRINE.EFFECT
 msgctxt "STRINGS.ROOMS.TYPES.LATRINE.EFFECT"
