@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-06 14:01+0100\n"
+"PO-Revision-Date: 2018-01-06 14:07+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
@@ -108,7 +108,7 @@ msgstr "Assigné à: {0}"
 #. STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTOROOM.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTOROOM.TOOLTIP"
 msgid "Any Duplicant assigned to this room can use this amenity"
-msgstr "Tout Duplicant assigné à cette salle peut utiliser cet équipement"
+msgstr "Tout Duplicant assigné à cette pièce peut utiliser cet équipement"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGARTING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGARTING.NAME"
@@ -3961,7 +3961,7 @@ msgid ""
 "Reduces <style=\"heat\">Heat</style> transfer between walls, retaining "
 "ambient heat in an area."
 msgstr ""
-"Utilisée comme sol et dalle murale pour construire des salles.\n"
+"Utilisée comme sol et dalle murale pour construire des pièces.\n"
 "\n"
 "Réduit le transfert de <style=\"heat\">Chaleur</style> entre les murs, en "
 "retenant la chaleur dans une zone."
@@ -4869,7 +4869,7 @@ msgid ""
 "Does not obstruct <style=\"liquid\">Liquid</style> or <style=\"gas\">Gas</"
 "style> flow."
 msgstr ""
-"Utilisée comme sol et dalle murale pour construire des salles.\n"
+"Utilisée comme sol et dalle murale pour construire des pièces.\n"
 "\n"
 " Ne bloque pas les flux de <style=\"liquid\">Liquide</style> ou de <style="
 "\"gas\">Gaz</style>."
@@ -4932,7 +4932,7 @@ msgid ""
 "\n"
 "Significantly increases Duplicant runspeed."
 msgstr ""
-"Utilisée comme sol et dalle murale pour construire des salles.\n"
+"Utilisée comme sol et dalle murale pour construire des pièces.\n"
 "\n"
 "Augmente significativement la vitesse de déplacement des Duplicants."
 
@@ -5171,7 +5171,7 @@ msgid ""
 "\n"
 "Significantly increases Duplicant runspeed."
 msgstr ""
-"Utilisée comme sol et dalle murale pour construire des salles.\n"
+"Utilisée comme sol et dalle murale pour construire des pièces.\n"
 "\n"
 "Augmente significativement la vitesse de déplacement des Duplicants."
 
@@ -5752,7 +5752,7 @@ msgid ""
 "\n"
 "Increases Duplicant runspeed."
 msgstr ""
-"Utilisée comme sol et dalle murale pour construire des salles.\n"
+"Utilisée comme sol et dalle murale pour construire des pièces.\n"
 "\n"
 "Augmente la vitesse de déplacement des Duplicants."
 
@@ -5764,7 +5764,7 @@ msgstr "Dalle"
 #. STRINGS.BUILDINGS.PREFABS.TILEPOI.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILEPOI.EFFECT"
 msgid "Used as floor and wall tile to build rooms."
-msgstr "Utilisée comme sol et dalle murale pour construire des salles."
+msgstr "Utilisée comme sol et dalle murale pour construire des pièces."
 
 #. STRINGS.BUILDINGS.PREFABS.TILEPOI.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILEPOI.NAME"
@@ -11759,7 +11759,7 @@ msgid ""
 "Use wall tiles and doors to build more comfortable Rooms for them."
 msgstr ""
 "Les Duplicants ne trouvent pas les roches nues très attirantes.\n"
-"Utilisez des dalles et des portes pour construire des salles plus "
+"Utilisez des dalles et des portes pour construire des pièces plus "
 "confortables."
 
 #. STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSSTANDARD
@@ -14702,7 +14702,7 @@ msgid ""
 "This Duplicant has some extra insulation, so the room temperature affects "
 "them a little less"
 msgstr ""
-"Ce Duplicant a une isolation supplémentaire, la température de la salle "
+"Ce Duplicant a une isolation supplémentaire, la température de la pièce "
 "l'affecte un peu moins"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.PREFERSCOOLER.NAME
@@ -19829,8 +19829,7 @@ msgid ""
 "\"gas\">Chlorine</style>"
 msgstr ""
 "Ce dépôt de <style=\"solid\">Soude</style> n'a pas de place pour émettre du <"
-"style="
-"\"gas\">Chlore</style>"
+"style=\"gas\">Chlore</style>"
 
 # "Emission de" pour ne pas avoir besoin d'accorder avec le mot qui suit
 #. STRINGS.MISC.STATUSITEMS.BLEACHSTONEEMITTING.NAME
@@ -23115,7 +23114,7 @@ msgstr "Supprimez les équipements en conflits"
 #. STRINGS.ROOMS.CRITERIA.POSSIBLE_TYPES_HEADER
 msgctxt "STRINGS.ROOMS.CRITERIA.POSSIBLE_TYPES_HEADER"
 msgid "Possible Room Types"
-msgstr "Types de salle possibles"
+msgstr "Types de pièce possibles"
 
 #. STRINGS.ROOMS.CRITERIA.RESEARCH_STATION.DESCRIPTION
 msgctxt "STRINGS.ROOMS.CRITERIA.RESEARCH_STATION.DESCRIPTION"
@@ -23181,12 +23180,12 @@ msgstr "Équipements: {0}"
 #. STRINGS.ROOMS.DETAILS.HEADER
 msgctxt "STRINGS.ROOMS.DETAILS.HEADER"
 msgid "Room Details"
-msgstr "Détails sur la salle"
+msgstr "Détails sur la pièce"
 
 #. STRINGS.ROOMS.DETAILS.SIZE.NAME
 msgctxt "STRINGS.ROOMS.DETAILS.SIZE.NAME"
 msgid "Room size: {0} Tiles"
-msgstr "Taille de la salle: {0} dalles"
+msgstr "Taille de la pièce: {0} dalles"
 
 #. STRINGS.ROOMS.TYPES.BARRACKS.EFFECT
 msgctxt "STRINGS.ROOMS.TYPES.BARRACKS.EFFECT"
@@ -23278,12 +23277,12 @@ msgstr "- Pas d'effet"
 #. STRINGS.ROOMS.TYPES.NEUTRAL.NAME
 msgctxt "STRINGS.ROOMS.TYPES.NEUTRAL.NAME"
 msgid "Miscellaneous Room"
-msgstr "Salle sans fonction"
+msgstr "Pièce sans fonction"
 
 #. STRINGS.ROOMS.TYPES.NEUTRAL.TOOLTIP
 msgctxt "STRINGS.ROOMS.TYPES.NEUTRAL.TOOLTIP"
 msgid "This area qualifies as a room but has no dedicated use."
-msgstr "Cette zone est considérée comme une salle mais n'a pas d'usage défini."
+msgstr "Cette zone est considérée comme une pièce mais n'a pas d'usage défini."
 
 #. STRINGS.ROOMS.TYPES.PRIVATE_BATHROOM.EFFECT
 msgctxt "STRINGS.ROOMS.TYPES.PRIVATE_BATHROOM.EFFECT"
@@ -26522,7 +26521,7 @@ msgstr "Objets possédés"
 #. STRINGS.UI.EQUIPMENTTAB_ROOM
 msgctxt "STRINGS.UI.EQUIPMENTTAB_ROOM"
 msgid "Assigned Rooms"
-msgstr "Salles Assignées"
+msgstr "Pièces Assignées"
 
 #. STRINGS.UI.FILE_NAME_DIALOG.ENTER_TEXT
 msgctxt "STRINGS.UI.FILE_NAME_DIALOG.ENTER_TEXT"
@@ -29381,7 +29380,7 @@ msgstr ""
 "Les zones paisibles augmentent la qualité du repos des Duplicants et leur "
 "capacité à apprendre.\n"
 "\n"
-"Les chambres isolées et les zones sans équipement ni créatures seront "
+"Les pièces isolées et les zones sans équipement ni créatures seront "
 "généralement plus silencieuses."
 
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.QUIET
@@ -29398,7 +29397,7 @@ msgstr ""
 "------------------\n"
 "Les zones silencieuses sont nécessaires aux Duplicants pour s'endormir.\n"
 "\n"
-"Les chambres isolées et les zones sans équipement ni créatures seront "
+"Les pièces isolées et les zones sans équipement ni créatures seront "
 "généralement plus silencieuses."
 
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.TOSSANDTURN
@@ -29416,7 +29415,7 @@ msgstr ""
 "Les Duplicants ne se sentiront pas reposés s'ils sont forcés de dormir dans "
 "du bruit Modéré.\n"
 "\n"
-"Les chambres isolées et les zones sans équipement ni créatures seront "
+"Les pièces isolées et les zones sans équipement ni créatures seront "
 "généralement plus silencieuses."
 
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.WAKEUP
@@ -29659,35 +29658,34 @@ msgstr "Priorité 2"
 #. STRINGS.UI.OVERLAYS.ROOMS.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.ROOMS.BUTTON"
 msgid "Room Overlay"
-msgstr "Calque Salle"
+msgstr "Calque Pièce"
 
 #. STRINGS.UI.OVERLAYS.ROOMS.HOVERTITLE
 msgctxt "STRINGS.UI.OVERLAYS.ROOMS.HOVERTITLE"
 msgid "ROOMS"
-msgstr "SALLES"
+msgstr "PIÈCES"
 
 #. STRINGS.UI.OVERLAYS.ROOMS.NAME
 msgctxt "STRINGS.UI.OVERLAYS.ROOMS.NAME"
 msgid "ROOM OVERLAY"
-msgstr "CALQUE SALLE"
+msgstr "CALQUE PIÈCE"
 
 #. STRINGS.UI.OVERLAYS.ROOMS.NOROOM.DESC
 msgctxt "STRINGS.UI.OVERLAYS.ROOMS.NOROOM.DESC"
 msgid "Enclose this space with walls and/or doors to make a room"
 msgstr ""
-"Cloisonnez cet espace avec des murs et/ou des portes pour en faire une salle"
+"Cloisonnez cet espace avec des murs et/ou des portes pour en faire une pièce"
 
 # Pas de salle / pas de place ?
 #. STRINGS.UI.OVERLAYS.ROOMS.NOROOM.HEADER
-#, fuzzy
 msgctxt "STRINGS.UI.OVERLAYS.ROOMS.NOROOM.HEADER"
 msgid "No Room"
-msgstr "Pas de salle"
+msgstr "Pas de Place"
 
 #. STRINGS.UI.OVERLAYS.ROOMS.ROOM
 msgctxt "STRINGS.UI.OVERLAYS.ROOMS.ROOM"
 msgid "Room {0}"
-msgstr "Salle {0}"
+msgstr "Pièce {0}"
 
 #. STRINGS.UI.OVERLAYS.ROOMS.TOOLTIPS.NOROOMS
 msgctxt "STRINGS.UI.OVERLAYS.ROOMS.TOOLTIPS.NOROOMS"
@@ -29697,7 +29695,7 @@ msgstr "Les Duplicants n'ont nulle part où dormir"
 #. STRINGS.UI.OVERLAYS.ROOMS.TOOLTIPS.ROOM
 msgctxt "STRINGS.UI.OVERLAYS.ROOMS.TOOLTIPS.ROOM"
 msgid "Completed Duplicant bedrooms"
-msgstr "Chambre de Duplicant terminée"
+msgstr "Chambres de Duplicant terminées"
 
 #. STRINGS.UI.OVERLAYS.STORAGEREGIONS.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.STORAGEREGIONS.BUTTON"
