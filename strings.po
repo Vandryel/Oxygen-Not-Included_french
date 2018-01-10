@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-06 22:10+0100\n"
+"PO-Revision-Date: 2018-01-10 15:56+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
@@ -8496,7 +8496,7 @@ msgstr "Construit de nouveaux équipements."
 #. STRINGS.DUPLICANTS.CHOREGROUPS.BUILD.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.BUILD.NAME"
 msgid "Build"
-msgstr "Construit"
+msgstr "Construire"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COMBAT.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COMBAT.DESC"
@@ -8516,18 +8516,17 @@ msgstr "S'occupe du compost pour produire du fertilisant."
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COMPOST.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COMPOST.NAME"
 msgid "Compost"
-msgstr "Compost"
+msgstr "Composter"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COOK.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COOK.DESC"
 msgid "Operate food preparation buildings."
 msgstr "Utilise les équipements pour la préparation des repas."
 
-# Cuisinier ?
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COOK.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COOK.NAME"
 msgid "Cook"
-msgstr "Cuisine"
+msgstr "Cuisiner"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.DELIVER.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DELIVER.DESC"
@@ -8538,7 +8537,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.CHOREGROUPS.DELIVER.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DELIVER.NAME"
 msgid "Deliver"
-msgstr "Livre"
+msgstr "Livrer"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.DIG.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DIG.DESC"
@@ -8548,7 +8547,7 @@ msgstr "Mine les ressources brutes."
 #. STRINGS.DUPLICANTS.CHOREGROUPS.DIG.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DIG.NAME"
 msgid "Dig"
-msgstr "Creuse"
+msgstr "Creuser"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.DISINFECT.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DISINFECT.DESC"
@@ -8558,7 +8557,7 @@ msgstr "Supprimer les germes de cette structure."
 #. STRINGS.DUPLICANTS.CHOREGROUPS.DISINFECT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DISINFECT.NAME"
 msgid "Disinfect"
-msgstr "Désinfecte"
+msgstr "Désinfecter"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.GENERATEPOWER.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.GENERATEPOWER.DESC"
@@ -8578,7 +8577,7 @@ msgstr "Récolte les cultures des plantes arrivées à maturité."
 #. STRINGS.DUPLICANTS.CHOREGROUPS.HARVEST.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.HARVEST.NAME"
 msgid "Harvest"
-msgstr "Récolte"
+msgstr "Récolter"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.LIQUIDCOOLEDFAN.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.LIQUIDCOOLEDFAN.DESC"
@@ -8601,7 +8600,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.CHOREGROUPS.MAINTENANCE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.MAINTENANCE.NAME"
 msgid "Maintenance"
-msgstr "Maintenance"
+msgstr "Réparer"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.MASSAGE.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.MASSAGE.DESC"
@@ -8611,7 +8610,7 @@ msgstr "Prend une pause pour se faire masser."
 #. STRINGS.DUPLICANTS.CHOREGROUPS.MASSAGE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.MASSAGE.NAME"
 msgid "Massage"
-msgstr "Massage"
+msgstr "Masser"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.MEDICALAID.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.MEDICALAID.DESC"
@@ -8631,7 +8630,7 @@ msgstr "Nettoie les flaques."
 #. STRINGS.DUPLICANTS.CHOREGROUPS.MOP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.MOP.NAME"
 msgid "Mop"
-msgstr "Serpille"
+msgstr "Serpiller"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.REPAIR.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.REPAIR.DESC"
@@ -8641,7 +8640,7 @@ msgstr "Répare les équipement endommagés."
 #. STRINGS.DUPLICANTS.CHOREGROUPS.REPAIR.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.REPAIR.NAME"
 msgid "Repair"
-msgstr "Répare"
+msgstr "Réparer"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.RESEARCH.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.RESEARCH.DESC"
@@ -8662,7 +8661,7 @@ msgstr "Amène les ressources aux équipements non important ou aux stockages."
 #. STRINGS.DUPLICANTS.CHOREGROUPS.SWEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.SWEEP.NAME"
 msgid "Sweep"
-msgstr "Balaie"
+msgstr "Balayer"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.TOGGLE.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.TOGGLE.DESC"
@@ -21085,8 +21084,8 @@ msgstr "{noun}"
 # pour les langues autres que l'anglais ou "the" est neutre.
 # Une fois traduit, on se retrouve avec des noms de colonie ni amusants, ni lisibles.
 # Exemple : Le(la) Comète Doré(e) // Le(la) Décharge Prospère
-# 
-# 
+#
+#
 #. STRINGS.NAMEGEN.COLONY.FORMATS.THE_ADJECTIVE_NOUN
 msgctxt "STRINGS.NAMEGEN.COLONY.FORMATS.THE_ADJECTIVE_NOUN"
 msgid "The {adjective} {noun}"
@@ -26370,7 +26369,7 @@ msgstr ""
 #. STRINGS.UI.ENDOFDAYREPORT.NOTES.ROTTED
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTES.ROTTED"
 msgid "Rotten {0}"
-msgstr "Pourri {0}"
+msgstr "{0} Pourri(e)"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NOTES.ROTTED_CONTEXT
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTES.ROTTED_CONTEXT"
