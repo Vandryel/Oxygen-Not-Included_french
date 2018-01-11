@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-10 15:56+0100\n"
+"PO-Revision-Date: 2018-01-11 20:31+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
@@ -14764,7 +14764,7 @@ msgid ""
 "• Refuses to do job: {0}"
 msgstr ""
 "\n"
-"•Refuse de faire son travail: {0}"
+"•Refuse d'effectuer la tâche: {0}"
 
 #. STRINGS.DUPLICANTS.TRAITS.REGENERATION.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.REGENERATION.DESC"
