@@ -2472,24 +2472,10 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYSMART.DESC"
 msgid "Smart batteries are designed to be integrated into logic systems and will become <style=\"logic\">Active</style> if they are charged above a user specified threshold"
 msgstr "Les batteries intelligentes sont conçues pour être intégrées dans des systèmes logiques et deviendront <style=\"logic\">Actives</style> si elles sont chargées au-dessus d'un seuil spécifié"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.BUILDINGS.PREFABS.BATTERYSMART.EFFECT
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYSMART.EFFECT"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERYSMART.LOGIC_PORT_DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYSMART.LOGIC_PORT_DESC"
@@ -2506,24 +2492,10 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYSMART.SIDESCREEN_LOGIC_ACTIVE_THRESHOL
 msgid "Logic Active Threshold"
 msgstr "Seuil Actif Logique"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.BUILDINGS.PREFABS.BATTERYSMART.SIDESCREEN_LOGIC_ACTIVE_THRESHOLD_TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYSMART.SIDESCREEN_LOGIC_ACTIVE_THRESHOLD_TOOLTIP"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.BUILDINGS.PREFABS.BED.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BED.DESC"
@@ -3795,24 +3767,10 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDVENT.NAME"
 msgid "Liquid Vent"
 msgstr "Évacuation"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEAND.DESC
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEAND.DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEAND.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEAND.EFFECT"
@@ -3830,24 +3788,10 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEAND.NAME"
 msgid "AND Gate"
 msgstr "Porte ET"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEBUFFER.DESC
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEBUFFER.DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEBUFFER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEBUFFER.EFFECT"
@@ -3865,24 +3809,10 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEBUFFER.NAME"
 msgid "BUFFER Gate"
 msgstr "Porte TAMPON"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEFILTER.DESC
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEFILTER.DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEFILTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEFILTER.EFFECT"
@@ -3900,24 +3830,10 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEFILTER.NAME"
 msgid "FILTER Gate"
 msgstr "Porte FILTRE"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATENOT.DESC
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATENOT.DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATENOT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATENOT.EFFECT"
@@ -3935,24 +3851,10 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATENOT.NAME"
 msgid "NOT Gate"
 msgstr "Porte NOT"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEOR.DESC
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEOR.DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEOR.EFFECT"
@@ -3970,24 +3872,10 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEOR.NAME"
 msgid "OR Gate"
 msgstr "Porte OR"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEXOR.DESC
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEXOR.DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEXOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEXOR.EFFECT"
@@ -4272,24 +4160,10 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.NAME"
 msgid "Massage Table"
 msgstr "Table de Massage"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.BUILDINGS.PREFABS.MASSIVEHEATSINK.DESC
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.MASSIVEHEATSINK.DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.BUILDINGS.PREFABS.MASSIVEHEATSINK.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MASSIVEHEATSINK.EFFECT"
@@ -4595,24 +4469,10 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.PLASTICTILE.NAME"
 msgid "Plastic Tile"
 msgstr "Dalle en Plastique"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.BUILDINGS.PREFABS.POIBUNKEREXTERIORDOOR.DESC
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.POIBUNKEREXTERIORDOOR.DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 # biométrique ?
 #. STRINGS.BUILDINGS.PREFABS.POIBUNKEREXTERIORDOOR.EFFECT
@@ -4625,24 +4485,10 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.POIBUNKEREXTERIORDOOR.NAME"
 msgid "Security Door"
 msgstr "Porte de Sécurité"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.BUILDINGS.PREFABS.POIDOORINTERNAL.DESC
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.POIDOORINTERNAL.DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.BUILDINGS.PREFABS.POIDOORINTERNAL.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.POIDOORINTERNAL.EFFECT"
@@ -5092,24 +4938,10 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.TILE.NAME"
 msgid "Tile"
 msgstr "Dalle"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.BUILDINGS.PREFABS.TILEPOI.DESC
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILEPOI.DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.BUILDINGS.PREFABS.TILEPOI.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILEPOI.EFFECT"
@@ -7018,24 +6850,10 @@ msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.AIRCONSUMPTIONRATE.NAME"
 msgid "Air Consumption Rate"
 msgstr "Taux de Consommation d'Air"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.DUPLICANTS.ATTRIBUTES.AIRCONSUMPTIONRATE.PROFESSION_NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.AIRCONSUMPTIONRATE.PROFESSION_NAME"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ART.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ART.DESC"
@@ -7087,24 +6905,10 @@ msgstr ""
 "\n"
 "Base: {0}"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.DUPLICANTS.ATTRIBUTES.BLADDERDELTA.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BLADDERDELTA.DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.BLADDERDELTA.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BLADDERDELTA.NAME"
@@ -7136,24 +6940,10 @@ msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BREATHDELTA.NAME"
 msgid "Breath Change"
 msgstr "Respiration"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CALORIESDELTA.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CALORIESDELTA.DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CALORIESDELTA.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CALORIESDELTA.NAME"
@@ -7316,43 +7106,15 @@ msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.HYGIENE.NAME"
 msgid "Hygiene"
 msgstr "Hygiène"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.DUPLICANTS.ATTRIBUTES.HYGIENE.PROFESSION_NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.HYGIENE.PROFESSION_NAME"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.DUPLICANTS.ATTRIBUTES.IMMUNELEVELDELTA.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.IMMUNELEVELDELTA.DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.IMMUNELEVELDELTA.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.IMMUNELEVELDELTA.NAME"
@@ -7389,24 +7151,10 @@ msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.NAME"
 msgid "Insulation"
 msgstr "Isolation"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.PROFESSION_NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.PROFESSION_NAME"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.SPEEDMODIFIER"
@@ -7458,48 +7206,20 @@ msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.SPEEDMODIFIER"
 msgid "{0} Tinkering Speed"
 msgstr "{0} Vitesse de Bricolage"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MAXUNDERWATERTRAVELCOST.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MAXUNDERWATERTRAVELCOST.DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MAXUNDERWATERTRAVELCOST.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MAXUNDERWATERTRAVELCOST.NAME"
 msgid "Underwater Movement"
 msgstr "Mouvement sous l'eau"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MAXUNDERWATERTRAVELCOST.PROFESSION_NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MAXUNDERWATERTRAVELCOST.PROFESSION_NAME"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.DESC"
@@ -7576,24 +7296,10 @@ msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ROOMTEMPERATUREPREFERENCE.NAME"
 msgid "Temperature Preference"
 msgstr "Préférence de Température"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ROOMTEMPERATUREPREFERENCE.PROFESSION_NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ROOMTEMPERATUREPREFERENCE.PROFESSION_NAME"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.SCALDINGTHRESHOLD.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.SCALDINGTHRESHOLD.DESC"
@@ -7615,24 +7321,10 @@ msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.SNEEZYNESS.NAME"
 msgid "Sneeziness"
 msgstr "Éternuement"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.NAME"
@@ -7695,43 +7387,15 @@ msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.NAME"
 msgid "Bladder Efficiency"
 msgstr "Efficacité de la Vessie"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.PROFESSION_NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.PROFESSION_NAME"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.DUPLICANTS.ATTRIBUTES.TOXICITYDELTA.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOXICITYDELTA.DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.TOXICITYDELTA.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOXICITYDELTA.NAME"
@@ -11514,24 +11178,10 @@ msgctxt "STRINGS.DUPLICANTS.STATS.MORALE.NAME"
 msgid "<DO NOT TRANSLATE>"
 msgstr ""
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.DUPLICANTS.STATS.MORALE.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.STATS.MORALE.TOOLTIP"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.DUPLICANTS.STATS.SKIN_DURABILITY.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.SKIN_DURABILITY.NAME"
@@ -11596,24 +11246,10 @@ msgctxt "STRINGS.DUPLICANTS.STATS.TOXICITY.NAME"
 msgid "<DO NOT TRANSLATE>"
 msgstr ""
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.DUPLICANTS.STATS.TOXICITY.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.STATS.TOXICITY.TOOLTIP"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.ARTING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.ARTING.NAME"
@@ -13791,24 +13427,10 @@ msgctxt "STRINGS.DUPLICANTS.TRAITS.WEAKIMMUNESYSTEM.NAME"
 msgid "Biohazardous"
 msgstr "Risque biologique"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.ELEMENTS.ALGAE.BUILD_DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.ALGAE.BUILD_DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 # one CR removed to keep text on 4 lines
 #. STRINGS.ELEMENTS.ALGAE.DESC
@@ -13826,24 +13448,10 @@ msgctxt "STRINGS.ELEMENTS.ALGAE.NAME"
 msgid "Algae"
 msgstr "Algue"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.ELEMENTS.BLEACHSTONE.BUILD_DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.BLEACHSTONE.BUILD_DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 # "applications hygiéniques"
 #. STRINGS.ELEMENTS.BLEACHSTONE.DESC
@@ -13877,24 +13485,10 @@ msgctxt "STRINGS.ELEMENTS.BREATHABLEDESC"
 msgid "<color=#{0}>({1})</color>"
 msgstr "<color=#{0}>({1})</color>"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.ELEMENTS.BRICK.BUILD_DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.BRICK.BUILD_DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.ELEMENTS.BRICK.DESC
 msgctxt "STRINGS.ELEMENTS.BRICK.DESC"
@@ -13944,24 +13538,10 @@ msgctxt "STRINGS.ELEMENTS.CARBONDIOXIDE.NAME"
 msgid "Carbon Dioxide"
 msgstr "Dioxyde de Carbone"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.ELEMENTS.CARBONFIBRE.BUILD_DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.CARBONFIBRE.BUILD_DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.ELEMENTS.CARBONFIBRE.DESC
 msgctxt "STRINGS.ELEMENTS.CARBONFIBRE.DESC"
@@ -14003,24 +13583,10 @@ msgctxt "STRINGS.ELEMENTS.CHLORINEGAS.NAME"
 msgid "Chlorine"
 msgstr "Chlore"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.ELEMENTS.CLAY.BUILD_DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.CLAY.BUILD_DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.ELEMENTS.CLAY.DESC
 msgctxt "STRINGS.ELEMENTS.CLAY.DESC"
@@ -14054,24 +13620,10 @@ msgctxt "STRINGS.ELEMENTS.CONTAMINATEDOXYGEN.NAME"
 msgid "Polluted Oxygen"
 msgstr "Oxygène Pollué"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.ELEMENTS.COPPER.BUILD_DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.COPPER.BUILD_DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.ELEMENTS.COPPER.DESC
 msgctxt "STRINGS.ELEMENTS.COPPER.DESC"
@@ -14142,24 +13694,10 @@ msgctxt "STRINGS.ELEMENTS.CRUSHEDICE.NAME"
 msgid "Crushed Ice"
 msgstr "Glace pilée"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.ELEMENTS.CRUSHEDROCK.BUILD_DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.CRUSHEDROCK.BUILD_DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.ELEMENTS.CRUSHEDROCK.DESC
 msgctxt "STRINGS.ELEMENTS.CRUSHEDROCK.DESC"
@@ -14171,24 +13709,10 @@ msgctxt "STRINGS.ELEMENTS.CRUSHEDROCK.NAME"
 msgid "Crushed Rock"
 msgstr "Roche Concassée"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.ELEMENTS.CUPRITE.BUILD_DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.CUPRITE.BUILD_DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.ELEMENTS.CUPRITE.DESC
 msgctxt "STRINGS.ELEMENTS.CUPRITE.DESC"
@@ -14206,24 +13730,10 @@ msgctxt "STRINGS.ELEMENTS.CUPRITE.NAME"
 msgid "Copper Ore"
 msgstr "Minerai de Cuivre"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.ELEMENTS.DIAMOND.BUILD_DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.DIAMOND.BUILD_DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.ELEMENTS.DIAMOND.DESC
 msgctxt "STRINGS.ELEMENTS.DIAMOND.DESC"
@@ -14241,24 +13751,10 @@ msgctxt "STRINGS.ELEMENTS.DIAMOND.NAME"
 msgid "Diamond"
 msgstr "Diamant"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.ELEMENTS.DIRT.BUILD_DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.DIRT.BUILD_DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.ELEMENTS.DIRT.DESC
 msgctxt "STRINGS.ELEMENTS.DIRT.DESC"
@@ -14302,24 +13798,10 @@ msgctxt "STRINGS.ELEMENTS.DIRTYWATER.NAME"
 msgid "Polluted Water"
 msgstr "Eau Polluée"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.ELEMENTS.ELECTRUM.BUILD_DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.ELECTRUM.BUILD_DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.ELEMENTS.ELECTRUM.DESC
 msgctxt "STRINGS.ELEMENTS.ELECTRUM.DESC"
@@ -14378,24 +13860,10 @@ msgctxt "STRINGS.ELEMENTS.ELEMENTPROPERTIES"
 msgid "Properties: {0}"
 msgstr "Propriétés: {0}"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.ELEMENTS.FERTILIZER.BUILD_DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.FERTILIZER.BUILD_DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.ELEMENTS.FERTILIZER.DESC
 msgctxt "STRINGS.ELEMENTS.FERTILIZER.DESC"
@@ -14413,24 +13881,10 @@ msgctxt "STRINGS.ELEMENTS.FERTILIZER.NAME"
 msgid "Fertilizer"
 msgstr "Fertilisant"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.ELEMENTS.FOOLSGOLD.BUILD_DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.FOOLSGOLD.BUILD_DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.ELEMENTS.FOOLSGOLD.DESC
 msgctxt "STRINGS.ELEMENTS.FOOLSGOLD.DESC"
@@ -14448,67 +13902,25 @@ msgctxt "STRINGS.ELEMENTS.FOOLSGOLD.NAME"
 msgid "Pyrite"
 msgstr "Pyrite"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.ELEMENTS.GLASS.BUILD_DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.GLASS.BUILD_DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.ELEMENTS.GLASS.DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.GLASS.DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.ELEMENTS.GLASS.NAME
 msgctxt "STRINGS.ELEMENTS.GLASS.NAME"
 msgid "Glass"
 msgstr "Verre"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.ELEMENTS.GOLD.BUILD_DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.GOLD.BUILD_DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.ELEMENTS.GOLD.DESC
 msgctxt "STRINGS.ELEMENTS.GOLD.DESC"
@@ -14526,24 +13938,10 @@ msgctxt "STRINGS.ELEMENTS.GOLD.NAME"
 msgid "Gold"
 msgstr "Or"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.ELEMENTS.GOLDAMALGAM.BUILD_DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.GOLDAMALGAM.BUILD_DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.ELEMENTS.GOLDAMALGAM.DESC
 msgctxt "STRINGS.ELEMENTS.GOLDAMALGAM.DESC"
@@ -14571,24 +13969,10 @@ msgctxt "STRINGS.ELEMENTS.GOLDGAS.NAME"
 msgid "Gold"
 msgstr "Or"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.ELEMENTS.GRANITE.BUILD_DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.GRANITE.BUILD_DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.ELEMENTS.GRANITE.DESC
 msgctxt "STRINGS.ELEMENTS.GRANITE.DESC"
@@ -14672,24 +14056,10 @@ msgctxt "STRINGS.ELEMENTS.ICE.NAME"
 msgid "Ice"
 msgstr "Glace"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.ELEMENTS.IGNEOUSROCK.BUILD_DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.IGNEOUSROCK.BUILD_DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.ELEMENTS.IGNEOUSROCK.DESC
 msgctxt "STRINGS.ELEMENTS.IGNEOUSROCK.DESC"
@@ -14707,24 +14077,10 @@ msgctxt "STRINGS.ELEMENTS.IGNEOUSROCK.NAME"
 msgid "Igneous Rock"
 msgstr "Roche Magmatique"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.ELEMENTS.IRON.BUILD_DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.IRON.BUILD_DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.ELEMENTS.IRON.DESC
 msgctxt "STRINGS.ELEMENTS.IRON.DESC"
@@ -14746,24 +14102,10 @@ msgctxt "STRINGS.ELEMENTS.IRONGAS.NAME"
 msgid "Iron"
 msgstr "Fer"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.ELEMENTS.IRONINGOT.BUILD_DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.IRONINGOT.BUILD_DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.ELEMENTS.IRONINGOT.DESC
 msgctxt "STRINGS.ELEMENTS.IRONINGOT.DESC"
@@ -14775,24 +14117,10 @@ msgctxt "STRINGS.ELEMENTS.IRONINGOT.NAME"
 msgid "Iron"
 msgstr "Fer"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.ELEMENTS.IRONORE.BUILD_DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.IRONORE.BUILD_DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.ELEMENTS.IRONORE.DESC
 msgctxt "STRINGS.ELEMENTS.IRONORE.DESC"
@@ -14810,24 +14138,10 @@ msgctxt "STRINGS.ELEMENTS.IRONORE.NAME"
 msgid "Iron Ore"
 msgstr "Minerai de Fer"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.ELEMENTS.KATAIRITE.BUILD_DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.KATAIRITE.BUILD_DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.ELEMENTS.KATAIRITE.DESC
 msgctxt "STRINGS.ELEMENTS.KATAIRITE.DESC"
@@ -15051,24 +14365,10 @@ msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.TOOLTIP.OVERHEATTEMPERATURE"
 msgid "This material will add {0} to the finished building's Overheat Temperature"
 msgstr "Ce matériau ajoutera {0} à la température de surchauffe de la structure"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.ELEMENTS.MERCURY.BUILD_DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.MERCURY.BUILD_DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.ELEMENTS.MERCURY.DESC
 msgctxt "STRINGS.ELEMENTS.MERCURY.DESC"
@@ -15196,24 +14496,10 @@ msgctxt "STRINGS.ELEMENTS.NAPHTHA.NAME"
 msgid "Naphtha"
 msgstr "Naphta"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.ELEMENTS.OBSIDIAN.BUILD_DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.OBSIDIAN.BUILD_DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.ELEMENTS.OBSIDIAN.DESC
 msgctxt "STRINGS.ELEMENTS.OBSIDIAN.DESC"
@@ -15273,24 +14559,10 @@ msgctxt "STRINGS.ELEMENTS.PETROLEUM.NAME"
 msgid "Petroleum"
 msgstr "Pétrole"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.ELEMENTS.PHOSPHATENODULES.BUILD_DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.PHOSPHATENODULES.BUILD_DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 # Po3- 4 == Phosphate
 #. STRINGS.ELEMENTS.PHOSPHATENODULES.DESC
@@ -15303,24 +14575,10 @@ msgctxt "STRINGS.ELEMENTS.PHOSPHATENODULES.NAME"
 msgid "Phosphate Nodules"
 msgstr "Nodules de Phosphate"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.ELEMENTS.PHOSPHORITE.BUILD_DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.PHOSPHORITE.BUILD_DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.ELEMENTS.PHOSPHORITE.DESC
 msgctxt "STRINGS.ELEMENTS.PHOSPHORITE.DESC"
@@ -15332,24 +14590,10 @@ msgctxt "STRINGS.ELEMENTS.PHOSPHORITE.NAME"
 msgid "Phosphorite"
 msgstr "Phosphorite"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.ELEMENTS.PHOSPHORUS.BUILD_DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.PHOSPHORUS.BUILD_DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.ELEMENTS.PHOSPHORUS.DESC
 msgctxt "STRINGS.ELEMENTS.PHOSPHORUS.DESC"
@@ -15450,24 +14694,10 @@ msgctxt "STRINGS.ELEMENTS.ROCKGAS.NAME"
 msgid "Rock Gas"
 msgstr "Gaz de Roche"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.ELEMENTS.SAND.BUILD_DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.SAND.BUILD_DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.ELEMENTS.SAND.DESC
 msgctxt "STRINGS.ELEMENTS.SAND.DESC"
@@ -15485,67 +14715,25 @@ msgctxt "STRINGS.ELEMENTS.SAND.NAME"
 msgid "Sand"
 msgstr "Sable"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.ELEMENTS.SANDCEMENT.BUILD_DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.SANDCEMENT.BUILD_DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.ELEMENTS.SANDCEMENT.DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.SANDCEMENT.DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.ELEMENTS.SANDCEMENT.NAME
 msgctxt "STRINGS.ELEMENTS.SANDCEMENT.NAME"
 msgid "Sand Cement"
 msgstr "Sable à Ciment"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.ELEMENTS.SANDSTONE.BUILD_DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.SANDSTONE.BUILD_DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.ELEMENTS.SANDSTONE.DESC
 msgctxt "STRINGS.ELEMENTS.SANDSTONE.DESC"
@@ -15563,24 +14751,10 @@ msgctxt "STRINGS.ELEMENTS.SANDSTONE.NAME"
 msgid "Sandstone"
 msgstr "Grès"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.ELEMENTS.SEDIMENTARYROCK.BUILD_DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.SEDIMENTARYROCK.BUILD_DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.ELEMENTS.SEDIMENTARYROCK.DESC
 msgctxt "STRINGS.ELEMENTS.SEDIMENTARYROCK.DESC"
@@ -15598,24 +14772,10 @@ msgctxt "STRINGS.ELEMENTS.SEDIMENTARYROCK.NAME"
 msgid "Sedimentary Rock"
 msgstr "Roche Sédimentaire"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.ELEMENTS.SLIMEMOLD.BUILD_DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.SLIMEMOLD.BUILD_DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.ELEMENTS.SLIMEMOLD.DESC
 msgctxt "STRINGS.ELEMENTS.SLIMEMOLD.DESC"
@@ -15689,24 +14849,10 @@ msgctxt "STRINGS.ELEMENTS.SOLIDHYDROGEN.NAME"
 msgid "Hydrogen"
 msgstr "Hydrogène"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.ELEMENTS.SOLIDMERCURY.BUILD_DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.SOLIDMERCURY.BUILD_DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.ELEMENTS.SOLIDMERCURY.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDMERCURY.DESC"
@@ -15798,24 +14944,10 @@ msgctxt "STRINGS.ELEMENTS.STEAM.NAME"
 msgid "Steam"
 msgstr "Vapeur"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.ELEMENTS.STEEL.BUILD_DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.STEEL.BUILD_DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.ELEMENTS.STEEL.DESC
 msgctxt "STRINGS.ELEMENTS.STEEL.DESC"
@@ -15853,24 +14985,10 @@ msgctxt "STRINGS.ELEMENTS.TOXICSAND.NAME"
 msgid "Polluted Dirt"
 msgstr "Terre Pollué"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.ELEMENTS.TUNGSTEN.BUILD_DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.TUNGSTEN.BUILD_DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.ELEMENTS.TUNGSTEN.DESC
 msgctxt "STRINGS.ELEMENTS.TUNGSTEN.DESC"
@@ -15970,24 +15088,10 @@ msgctxt "STRINGS.ELEMENTS.WATER.NAME"
 msgid "Water"
 msgstr "Eau"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.ELEMENTS.WOLFRAMITE.BUILD_DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.WOLFRAMITE.BUILD_DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.ELEMENTS.WOLFRAMITE.DESC
 msgctxt "STRINGS.ELEMENTS.WOLFRAMITE.DESC"
@@ -16062,67 +15166,25 @@ msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT.RECIPE_DESC"
 msgid "Supplies Duplicants with <style=\"oxygen\">Oxygen</style> in toxic and low breathability environments."
 msgstr "Fournit de l'<style=\"oxygen\">Oxygène</style> aux Duplicants  dans les environnements toxiques et difficilement respirables."
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.EQUIPMENT.PREFABS.BORING_MACHINE.DESC
-#, fuzzy
 msgctxt "STRINGS.EQUIPMENT.PREFABS.BORING_MACHINE.DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.EQUIPMENT.PREFABS.BORING_MACHINE.EFFECT
-#, fuzzy
 msgctxt "STRINGS.EQUIPMENT.PREFABS.BORING_MACHINE.EFFECT"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.EQUIPMENT.PREFABS.BORING_MACHINE.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.BORING_MACHINE.NAME"
 msgid "Prospectolator"
 msgstr ""
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.EQUIPMENT.PREFABS.BORING_MACHINE.RECIPE_DESC
-#, fuzzy
 msgctxt "STRINGS.EQUIPMENT.PREFABS.BORING_MACHINE.RECIPE_DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.EQUIPMENT.PREFABS.COOL_VEST.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.COOL_VEST.DESC"
@@ -16174,24 +15236,10 @@ msgctxt "STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.RECIPE_DESC"
 msgid "Increases Decor in a small area effect around the wearer."
 msgstr "Augmente le Décor dans un petit rayon autour du Duplicant qui le porte."
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK.DESC
-#, fuzzy
 msgctxt "STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK.DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK.EFFECT
 msgctxt "STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK.EFFECT"
@@ -16225,24 +15273,10 @@ msgstr ""
 "\n"
 "Ne fonctionne pas quand il est immergé dans du <style=\"liquid\">Liquide</style>."
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK_UNDERWATER.DESC
-#, fuzzy
 msgctxt "STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK_UNDERWATER.DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK_UNDERWATER.EFFECT
 msgctxt "STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK_UNDERWATER.EFFECT"
@@ -16276,67 +15310,25 @@ msgstr ""
 "\n"
 "Ne fonctionne pas hors du liquide."
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.EQUIPMENT.PREFABS.QUARRYING_GUN.DESC
-#, fuzzy
 msgctxt "STRINGS.EQUIPMENT.PREFABS.QUARRYING_GUN.DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.EQUIPMENT.PREFABS.QUARRYING_GUN.EFFECT
-#, fuzzy
 msgctxt "STRINGS.EQUIPMENT.PREFABS.QUARRYING_GUN.EFFECT"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.EQUIPMENT.PREFABS.QUARRYING_GUN.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.QUARRYING_GUN.NAME"
 msgid "Quarrying Gun"
 msgstr "Pistolet d'Extraction"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.EQUIPMENT.PREFABS.QUARRYING_GUN.RECIPE_DESC
-#, fuzzy
 msgctxt "STRINGS.EQUIPMENT.PREFABS.QUARRYING_GUN.RECIPE_DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.EQUIPMENT.PREFABS.TEMPERATURE_SUIT.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.TEMPERATURE_SUIT.DESC"
@@ -17592,24 +16584,10 @@ msgctxt "STRINGS.ITEMS.INGREDIENTS.SWAMPLILYFLOWER.NAME"
 msgid "Balm Lily Flower"
 msgstr "Fleur de lys de marais"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.ITEMS.PILLS.GINKONUT.DESC
-#, fuzzy
 msgctxt "STRINGS.ITEMS.PILLS.GINKONUT.DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.ITEMS.PILLS.GINKONUT.NAME
 msgctxt "STRINGS.ITEMS.PILLS.GINKONUT.NAME"
@@ -17631,24 +16609,10 @@ msgctxt "STRINGS.ITEMS.PILLS.HERBALREMEDY.RECIPEDESC"
 msgid "Cures <style=\"disease\">Diarrhea</style>."
 msgstr "Guérit la<style=\"disease\">Diarrhée</style>."
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.ITEMS.PILLS.MUSCARINICANTAGONIST.DESC
-#, fuzzy
 msgctxt "STRINGS.ITEMS.PILLS.MUSCARINICANTAGONIST.DESC"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.ITEMS.PILLS.MUSCARINICANTAGONIST.NAME
 msgctxt "STRINGS.ITEMS.PILLS.MUSCARINICANTAGONIST.NAME"
@@ -17760,81 +16724,25 @@ msgctxt "STRINGS.LORE.BUILDINGS.GeneShuffler.HEADER"
 msgid "LOG FRAGMENT RECOVERED"
 msgstr "FRAGMENT DE REGISTRES RÉCUPÉRÉ"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.LORE.BUILDINGS.SET_DESK2.ENTRY
-#, fuzzy
 msgctxt "STRINGS.LORE.BUILDINGS.SET_DESK2.ENTRY"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.LORE.BUILDINGS.SET_DESK2.HEADER
-#, fuzzy
 msgctxt "STRINGS.LORE.BUILDINGS.SET_DESK2.HEADER"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.LORE.BUILDINGS.SET_DESK3.ENTRY
-#, fuzzy
 msgctxt "STRINGS.LORE.BUILDINGS.SET_DESK3.ENTRY"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.LORE.BUILDINGS.SET_DESK3.HEADER
-#, fuzzy
 msgctxt "STRINGS.LORE.BUILDINGS.SET_DESK3.HEADER"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.LORE.BUILDINGS.SET_LOCKER1.ENTRY
 msgctxt "STRINGS.LORE.BUILDINGS.SET_LOCKER1.ENTRY"
@@ -17861,48 +16769,20 @@ msgstr ""
 "LOI ZERO\n"
 "Si deux système thermodynamique sont en équilibre thermique avec un troisième, ils sont en équilibre l'un avec l'autre."
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.LORE.BUILDINGS.SET_LOCKER1.HEADER
-#, fuzzy
 msgctxt "STRINGS.LORE.BUILDINGS.SET_LOCKER1.HEADER"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.LORE.BUILDINGS.SET_LOCKER2.ENTRY
 msgctxt "STRINGS.LORE.BUILDINGS.SET_LOCKER2.ENTRY"
 msgid "A powerful stench emanates from this locker."
 msgstr "Une puanteur puissante émane de ce casier."
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.LORE.BUILDINGS.SET_LOCKER2.HEADER
-#, fuzzy
 msgctxt "STRINGS.LORE.BUILDINGS.SET_LOCKER2.HEADER"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.LORE.BUILDINGS.SET_OBJECT.ENTRY
 msgctxt "STRINGS.LORE.BUILDINGS.SET_OBJECT.ENTRY"
@@ -18387,96 +17267,40 @@ msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDARRIVING.NAME"
 msgid "The colony is entering a cloud of gas"
 msgstr "La colonie entre dans un nuage de gaz"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.MISC.NOTIFICATIONS.GASCLOUDARRIVING.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDARRIVING.TOOLTIP"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.MISC.NOTIFICATIONS.GASCLOUDDEPARTING.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDDEPARTING.NAME"
 msgid "The gas cloud is receding"
 msgstr "Le nuage de gaz recule"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.MISC.NOTIFICATIONS.GASCLOUDDEPARTING.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDDEPARTING.TOOLTIP"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.MISC.NOTIFICATIONS.GASCLOUDGONE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDGONE.NAME"
 msgid "The colony is once again in open space"
 msgstr "La colonie est de nouveau en plein air"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.MISC.NOTIFICATIONS.GASCLOUDGONE.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDGONE.TOOLTIP"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.MISC.NOTIFICATIONS.GASCLOUDPEAK.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDPEAK.NAME"
 msgid "The gas cloud is at its densest point"
 msgstr "Le nuage de gaz est à son point le plus dense"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.MISC.NOTIFICATIONS.GASCLOUDPEAK.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDPEAK.TOOLTIP"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.MISC.NOTIFICATIONS.GASCLOUDWARNING.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDWARNING.NAME"
@@ -18759,81 +17583,25 @@ msgctxt "STRINGS.MISC.NOTIFICATIONS.NO_MEDICAL_COTS.TOOLTIP"
 msgid "Your sick Duplicants have nowhere to rest or receive medical aid"
 msgstr "Vos Duplicants malades n'ont nulle part où se rétablir ou recevoir une assistance médicale"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.MISC.NOTIFICATIONS.NOALERTS.NAME
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NOALERTS.NAME"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.MISC.NOTIFICATIONS.NOALERTS.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NOALERTS.TOOLTIP"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.MISC.NOTIFICATIONS.NOMESSAGES.NAME
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NOMESSAGES.NAME"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.MISC.NOTIFICATIONS.NOMESSAGES.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NOMESSAGES.TOOLTIP"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.MISC.NOTIFICATIONS.NOSTORAGEREGIONSAVAILABLE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NOSTORAGEREGIONSAVAILABLE.NAME"
@@ -23935,24 +22703,10 @@ msgctxt "STRINGS.UI.CREDITSSCREEN.TITLE"
 msgid "CREDITS"
 msgstr "CRÉDITS"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.UI.DEBUG_TOOLS.ENTER_TEXT
-#, fuzzy
 msgctxt "STRINGS.UI.DEBUG_TOOLS.ENTER_TEXT"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.UI.DEBUG_TOOLS.PAINT_ELEMENTS_SCREEN.ADD_FOW_MASK
 msgctxt "STRINGS.UI.DEBUG_TOOLS.PAINT_ELEMENTS_SCREEN.ADD_FOW_MASK"
@@ -24094,24 +22848,10 @@ msgctxt "STRINGS.UI.DEMOOVERSCREEN.DESCRIPTION"
 msgid "Thank you for playing <color=#F44A47>Oxygen Not Included</color>!"
 msgstr "Merci d'avoir joué à <color=#F44A47>Oxygen Not Included</color>!"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.UI.DEMOOVERSCREEN.DESCRIPTION_2
-#, fuzzy
 msgctxt "STRINGS.UI.DEMOOVERSCREEN.DESCRIPTION_2"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.UI.DEMOOVERSCREEN.QUITBUTTON
 msgctxt "STRINGS.UI.DEMOOVERSCREEN.QUITBUTTON"
@@ -29571,24 +28311,10 @@ msgctxt "STRINGS.UI.TOOLTIPS.PRIORITIZEBUTTON"
 msgid "Drag to reprioritize job tasks"
 msgstr "Faîtes glisser pour changer la priorité des tâches"
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.UI.TOOLTIPS.PRIORITIZEMAINBUTTON
-#, fuzzy
 msgctxt "STRINGS.UI.TOOLTIPS.PRIORITIZEMAINBUTTON"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.UI.TOOLTIPS.RANDOMIZENAME
 msgctxt "STRINGS.UI.TOOLTIPS.RANDOMIZENAME"
@@ -32127,24 +30853,10 @@ msgctxt "STRINGS.UI.WORLDGEN.LOADING"
 msgid "Loading world..."
 msgstr "Chargement du monde..."
 
-# Header entry was created by Lokalize.
-#
-# Christophe <christophe@krop.fr>, 2018.
 #. STRINGS.UI.WORLDGEN.NOHEADERS
-#, fuzzy
 msgctxt "STRINGS.UI.WORLDGEN.NOHEADERS"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-15 16:24+0100\n"
-"Last-Translator: Christophe <christophe@krop.fr>\n"
-"Language-Team: French <>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #. STRINGS.UI.WORLDGEN.NORMALISENOISE
 msgctxt "STRINGS.UI.WORLDGEN.NORMALISENOISE"
