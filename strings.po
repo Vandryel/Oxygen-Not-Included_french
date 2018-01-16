@@ -7084,7 +7084,7 @@ msgstr "Les Duplicants qui ne remplissent pas leurs besoins en <style=\"food\">N
 #. STRINGS.DUPLICANTS.ATTRIBUTES.FOODEXPECTATION.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.FOODEXPECTATION.NAME"
 msgid "Food Quality Expectation"
-msgstr "Attente concernant la Qualité de l'Alimentation"
+msgstr "Qualité de l'Alimentation Attendue"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.HITPOINTSDELTA.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.HITPOINTSDELTA.DESC"
