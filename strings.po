@@ -21447,12 +21447,12 @@ msgstr "Temps de jeu: {0} heures"
 #. STRINGS.UI.ATTRIBUTELEVEL
 msgctxt "STRINGS.UI.ATTRIBUTELEVEL"
 msgid "Profession: Level {0} {1}"
-msgstr "Profession: Niveau {0} {1}"
+msgstr "Profession: {1} Niveau {0}"
 
 #. STRINGS.UI.ATTRIBUTELEVEL_SHORT
 msgctxt "STRINGS.UI.ATTRIBUTELEVEL_SHORT"
 msgid "Level {0} {1}"
-msgstr "Niveau  {0} {1}"
+msgstr "Niveau {0} {1}"
 
 #. STRINGS.UI.BASECOUNT
 msgctxt "STRINGS.UI.BASECOUNT"
