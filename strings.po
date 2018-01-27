@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-27 00:43+0100\n"
+"PO-Revision-Date: 2018-01-27 01:22+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -12,6 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Lokalize 2.0\n"
+"Language-Team: French <>\n"
 
 #. STRINGS.BUILDING.DETAILS.USE_COUNT
 msgctxt "STRINGS.BUILDING.DETAILS.USE_COUNT"
@@ -3348,7 +3349,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.FARMTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FARMTILE.NAME"
 msgid "Farm Tile"
-msgstr "Dalle fermier"
+msgstr "Dalle fermière"
 
 #. STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.DESC"
@@ -4769,8 +4770,7 @@ msgid ""
 msgstr ""
 "Devient <style=\"logic\">Actif</style> ou passe en <style=\"logic\">Veille</"
 "style> lorsque la <style=\"heat\">Température</style> ambiante entre dans"
-" plage "
-"sélectionnée."
+"la plage sélectionnée."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICTEMPERATURESENSOR.LOGIC_PORT_DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICTEMPERATURESENSOR.LOGIC_PORT_DESC"
@@ -24869,7 +24869,7 @@ msgstr ""
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORDECREASED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORDECREASED"
 msgid "Decreases Decor values by {0} in a {1} tile radius"
-msgstr "Diminue les valeurs de décor par {0} sur {1} dalle(s) de rayon"
+msgstr "Valeurs de décor: {0} sur {1} dalle(s) de rayon"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORPROVIDED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORPROVIDED"
@@ -24903,7 +24903,7 @@ msgstr "Les Duplicants marchent {0} plus vite sur cette dalle"
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTCONSUMED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTCONSUMED"
 msgid "Consumes {2} of {1} when in use"
-msgstr "Consomme {2} de {1} lorsque utilisé"
+msgstr "Consomme {1} : {2} lorsque utilisé"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTCONSUMEDPERUSE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTCONSUMEDPERUSE"
@@ -24913,7 +24913,7 @@ msgstr "Consomme {2} de {1} à chaque utilisation"
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTEMITTED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTEMITTED"
 msgid "Produces {2} of {1} when in use"
-msgstr "Produit {2} de {1} lorsque utilisé"
+msgstr "Produit: {1}, {2} lorsque utilisé"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTEMITTEDPERUSE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTEMITTEDPERUSE"
@@ -25184,22 +25184,22 @@ msgstr "Doit expulser le gaz à travers un système de tuyauterie"
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESLIQUIDINPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESLIQUIDINPUT"
 msgid "Must receive liquid from a liquid pipe system"
-msgstr "Doit recevoir le liquide à travers un système de tuyauterie liquide"
+msgstr "Doit recevoir le liquide à travers un système de canalisation"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESLIQUIDOUTPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESLIQUIDOUTPUT"
 msgid "Must expel liquid through a liquid pipe system"
-msgstr "Doit expulser le liquide à travers un système de tuyauterie liquide"
+msgstr "Doit expulser le liquide à travers un système de canalisation"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESLIQUIDOUTPUTS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESLIQUIDOUTPUTS"
 msgid "Must expel liquid through a liquid pipe system"
-msgstr "Doit expulser le liquide à travers un système de tuyauterie liquide"
+msgstr "Doit expulser le liquide à travers un système de canalisation"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESMANUALOPERATION
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESMANUALOPERATION"
 msgid "A Duplicant must be present to run this building"
-msgstr "Un Duplicant doit être présent pour diriger cet équipement"
+msgstr "Un Duplicant doit être présent pour utiliser cet équipement"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESPOWER
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESPOWER"
@@ -35200,3 +35200,4 @@ msgstr "Aspersion de sable..."
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT9"
 msgid "Sprinkling sand..."
 msgstr "Aspersion de sable..."
+
