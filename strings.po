@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-28 16:38+0100\n"
+"PO-Revision-Date: 2018-01-28 18:44+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -331,7 +331,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.COLONYLACKSREQUIREDROLEPERK.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COLONYLACKSREQUIREDROLEPERK.NAME"
 msgid "Colony Lacks {Roles}s"
-msgstr "La Colonie manque de {Roles}s"
+msgstr "La Colonie manque de {Roles}"
 
 #. STRINGS.BUILDING.STATUSITEMS.COLONYLACKSREQUIREDROLEPERK.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COLONYLACKSREQUIREDROLEPERK.TOOLTIP"
@@ -2572,7 +2572,7 @@ msgid ""
 "\">Slime</style> or <style=\"solid\">Phosphorite</style>."
 msgstr ""
 "Attire un type de créature aérienne lorsque l'appât est un <style=\"solid"
-"\">Slime</style> ou du <style=\"solid\">Phosphore</style>."
+"\">Slime</style> ou de la <style=\"solid\">Phosphorite</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.AIRBORNECREATURELURE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRBORNECREATURELURE.NAME"
@@ -3582,7 +3582,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITBRIDGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITBRIDGE.NAME"
 msgid "Gas Bridge"
-msgstr "Raccord de Gaz"
+msgstr "Pont de Gaz"
 
 #. STRINGS.BUILDINGS.PREFABS.GASFILTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASFILTER.DESC"
@@ -4074,7 +4074,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.NAME"
 msgid "Insulated Liquid Pipe"
-msgstr "Tuyau Isolé pour Liquide"
+msgstr "Conduite de Liquide Isolée"
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDWIRE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDWIRE.DESC"
@@ -4224,7 +4224,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUIT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUIT.NAME"
 msgid "Liquid Pipe"
-msgstr "Tuyaux pour Liquides"
+msgstr "Conduite de Liquide"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITBRIDGE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITBRIDGE.DESC"
@@ -4242,7 +4242,8 @@ msgid ""
 "\n"
 "Can be run through tiles."
 msgstr ""
-"Fait passer un <style=\"LiquidPiping\">Tuyau</style> par dessus "
+"Fait passer une <style=\"LiquidPiping\">Conduite de Liquide</style> par"
+" dessus "
 "un autre sans les relier.\n"
 "\n"
 "Peut traverser les dalles."
@@ -4250,7 +4251,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITBRIDGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITBRIDGE.NAME"
 msgid "Liquid Bridge"
-msgstr "Raccord de tuyau"
+msgstr "Pont Liquide"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCOOLEDFAN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCOOLEDFAN.DESC"
@@ -4403,8 +4404,8 @@ msgid ""
 "Pitcher pumps are used to fetch water and other liquids for delivery to "
 "buildings."
 msgstr ""
-"Les Fontaines à Bras sont utilisées pour récupérer de l'eau et tout autre "
-"liquide pour les acheminer vers les équipements."
+"Les Fontaines à Bras sont utilisées pour récupérer de l'eau ou tout autre "
+"liquide pour l'acheminer vers les équipements."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDPUMPINGSTATION.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDPUMPINGSTATION.EFFECT"
@@ -4460,7 +4461,7 @@ msgid ""
 "\">Liquid Pipes</style>."
 msgstr ""
 "Libère le <style=\"liquid\">Liquide</style> depuis les <style=\"LiquidPiping"
-"\">Tuyaux</style>."
+"\">Conduite de Liquide</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDVENT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDVENT.NAME"
@@ -6394,7 +6395,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.WIREBRIDGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREBRIDGE.NAME"
 msgid "Wire Bridge"
-msgstr "Pont pour Câbles"
+msgstr "Pont Isolé"
 
 #. STRINGS.BUILDINGS.PREFABS.WIREBRIDGEHIGHWATTAGE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREBRIDGEHIGHWATTAGE.DESC"
@@ -8306,12 +8307,12 @@ msgstr "Créativité"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ART.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ART.SPEEDMODIFIER"
 msgid "{0} Decorating Speed"
-msgstr "{0} Vitesse de Décoration"
+msgstr "Vitesse de Décoration: {0}"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.CARRYWEIGHT
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.CARRYWEIGHT"
 msgid "{0} Carrying Weight"
-msgstr "{0} Poids Transporté"
+msgstr "Poids Transporté: {0}"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.CARRYWEIGHT_MODIFIER_DESCRIPTION
 msgctxt ""
@@ -8333,7 +8334,7 @@ msgstr "Forme Physique"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.SPEEDMODIFIER"
 msgid "{0} Runspeed"
-msgstr "{0} Vitesse de Course"
+msgstr "Vitesse de Course: {0}"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.BASE_VALUE
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BASE_VALUE"
@@ -8352,13 +8353,13 @@ msgstr "Volume de la Vessie"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.BOTANIST.BONUS_SEEDS
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BOTANIST.BONUS_SEEDS"
 msgid "{0} Seed Chance"
-msgstr "{0} Chance d'avoir un Graines"
+msgstr "{0} de Chances d'obtenir une Graine"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.BOTANIST.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BOTANIST.DESC"
 msgid "Determines how quickly and efficiently a Duplicant raises plants."
 msgstr ""
-"Détermine la facilité avec laquelle Duplicant fait pousser les plantes."
+"Détermine la facilité avec laquelle un Duplicant fait pousser les plantes."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.BOTANIST.HARVEST_SPEED_MODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BOTANIST.HARVEST_SPEED_MODIFIER"
@@ -8400,7 +8401,7 @@ msgid ""
 "Determines medical skill and how well a Duplicant works with peers and "
 "creatures."
 msgstr ""
-"Détermine la compétence médicale et comment un Duplicant travaillement avec "
+"Détermine la compétence médicale et comment un Duplicant travaille avec "
 "ses pairs et les créatures."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CARING.FABRICATE_SPEEDMODIFIER
@@ -8411,7 +8412,7 @@ msgstr "Vitesse de Fabrication des Médicaments : {0}"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CARING.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CARING.NAME"
 msgid "Kindness"
-msgstr "Gentillesse"
+msgstr "Soins"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CARING.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CARING.SPEEDMODIFIER"
@@ -8441,7 +8442,7 @@ msgstr "Poids Transportable"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.DESC"
 msgid "Determines a Duplicant's building speed."
-msgstr "Détermine la vitesse de construction d'un Duplicant."
+msgstr "Détermine la vitesse à laquelle un Duplicant construit."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.NAME"
@@ -8451,14 +8452,14 @@ msgstr "Construction"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.SPEEDMODIFIER"
 msgid "{0} Construction Speed"
-msgstr "{0}  Vitesse de Construction"
+msgstr "Vitesse de Construction: {0}"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.DESC"
 msgid ""
 "Determines how quickly a Duplicant prepares <style=\"food\">Food</style>."
 msgstr ""
-"Détermine la vitesse à laquelle un Duplicant cuisine de la <style=\"food"
+"Détermine la vitesse à laquelle un Duplicant prépare la <style=\"food"
 "\">Nourriture</style>."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.NAME
@@ -8469,7 +8470,7 @@ msgstr "Cuisine"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.SPEEDMODIFIER"
 msgid "{0} Cooking Speed"
-msgstr "{0} Vitesse de Cuisine"
+msgstr "Vitesse de Cuisine: {0}"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECOR.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECOR.DESC"
@@ -8513,7 +8514,7 @@ msgstr "Rayon de Décor"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.DESC"
 msgid "Determines a Duplicant's mining speed."
-msgstr "Détermine la vitesse de minage des Duplicants."
+msgstr "Détermine la vitesse à laquelle un Duplicant mine."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.NAME"
@@ -8523,7 +8524,7 @@ msgstr "Minage"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.SPEEDMODIFIER"
 msgid "{0} Digging Speed"
-msgstr "{0} Vitesse de Minage"
+msgstr "Vitesse de Minage: {0}"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DISEASECURESPEED.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DISEASECURESPEED.DESC"
@@ -8668,7 +8669,7 @@ msgid ""
 "style> and gains skills."
 msgstr ""
 "Détermine la vitesse à laquelle un Duplicant mène des <style=\"research"
-"\">Recherches</style> et gagne en compétences."
+"\">Recherches</style> et gagne des points de compétence."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.NAME"
@@ -8678,7 +8679,7 @@ msgstr "Apprentissage"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.RESEARCHSPEED
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.RESEARCHSPEED"
 msgid "{0} Research Speed"
-msgstr "{0} Vitesse de Recherche"
+msgstr "Vitesse de Recherche: {0}"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.SPEEDMODIFIER"
@@ -8689,7 +8690,7 @@ msgstr "{0} Niveau de compétence"
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.DESC"
 msgid "Determines how adeptly a Duplicant uses machines."
 msgstr ""
-"Détermine la facilité avec laquelle Duplicant peut utiliser une machine."
+"Détermine la facilité avec laquelle un Duplicant peut utiliser une machine."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.NAME"
@@ -8699,7 +8700,7 @@ msgstr "Bricolage"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.SPEEDMODIFIER"
 msgid "{0} Tinkering Speed"
-msgstr "{0} Vitesse de Bricolage"
+msgstr "Vitesse de Bricolage: {0}"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERYSPEED.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERYSPEED.DESC"
@@ -8887,7 +8888,7 @@ msgstr "Ramasse, Nettoie et désinfecte les objets au sein de la colonie."
 #. STRINGS.DUPLICANTS.CHOREGROUPS.BASEKEEPING.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.BASEKEEPING.NAME"
 msgid "Tidy"
-msgstr "Nettoie"
+msgstr "Nettoyage"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.BUILD.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.BUILD.DESC"
@@ -8897,7 +8898,7 @@ msgstr "Construit de nouveaux équipements."
 #. STRINGS.DUPLICANTS.CHOREGROUPS.BUILD.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.BUILD.NAME"
 msgid "Build"
-msgstr "Construire"
+msgstr "Construction"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COMBAT.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COMBAT.DESC"
@@ -8907,7 +8908,7 @@ msgstr "Combat de créatures sauvages."
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COMBAT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COMBAT.NAME"
 msgid "Combat"
-msgstr "Combattre"
+msgstr "Combat"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COOK.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COOK.DESC"
@@ -8917,7 +8918,7 @@ msgstr "Utilise les équipements pour la préparation des repas."
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COOK.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COOK.NAME"
 msgid "Cook"
-msgstr "Cuisiner"
+msgstr "Cuisine"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.DIG.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DIG.DESC"
@@ -8927,7 +8928,7 @@ msgstr "Mine les ressources brutes."
 #. STRINGS.DUPLICANTS.CHOREGROUPS.DIG.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DIG.NAME"
 msgid "Dig"
-msgstr "Creuser"
+msgstr "Fouille"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.FARMING.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.FARMING.DESC"
@@ -8937,7 +8938,7 @@ msgstr "Récolte les cultures des plantes arrivées à maturité."
 #. STRINGS.DUPLICANTS.CHOREGROUPS.FARMING.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.FARMING.NAME"
 msgid "Farm"
-msgstr "Ferme"
+msgstr "Exploitation Agricole"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.HAULING.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.HAULING.DESC"
@@ -8963,7 +8964,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.CHOREGROUPS.MACHINEOPERATING.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.MACHINEOPERATING.NAME"
 msgid "Operate"
-msgstr "Fonctionnement"
+msgstr "Exploitation"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.MASSAGE.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.MASSAGE.DESC"
@@ -8983,7 +8984,7 @@ msgstr "Traite les Duplicants malades ou blessés."
 #. STRINGS.DUPLICANTS.CHOREGROUPS.MEDICALAID.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.MEDICALAID.NAME"
 msgid "Care"
-msgstr "Soin"
+msgstr "Soins"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.REPAIR.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.REPAIR.DESC"
@@ -8993,7 +8994,7 @@ msgstr "Répare les équipement endommagés."
 #. STRINGS.DUPLICANTS.CHOREGROUPS.REPAIR.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.REPAIR.NAME"
 msgid "Repair"
-msgstr "Réparer"
+msgstr "Réparation"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.RESEARCH.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.RESEARCH.DESC"
@@ -9004,7 +9005,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.CHOREGROUPS.RESEARCH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.RESEARCH.NAME"
 msgid "Research"
-msgstr "Rechercher"
+msgstr "Recherche"
 
 #. STRINGS.DUPLICANTS.CHORES.ART.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.ART.NAME"
@@ -12151,7 +12152,7 @@ msgstr "Ce Duplicant mouille sa chemise"
 #. STRINGS.DUPLICANTS.NEEDS.DECOR.EXPECTATION_MOD_NAME
 msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.EXPECTATION_MOD_NAME"
 msgid "Expertise Request"
-msgstr "Requête d'Expertise"
+msgstr "Attente liée au niveau d'Expertise"
 
 #. STRINGS.DUPLICANTS.NEEDS.DECOR.EXPECTATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.EXPECTATION_TOOLTIP"
@@ -12239,7 +12240,7 @@ msgstr "Qualité de la Nourriture"
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.EXPECTATION_MOD_NAME
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.EXPECTATION_MOD_NAME"
 msgid "Expertise Request"
-msgstr "Requête d'Expertise"
+msgstr "Attente liée au niveau d'Expertise"
 
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.EXPECTATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.EXPECTATION_TOOLTIP"
@@ -12249,7 +12250,7 @@ msgid ""
 "This Duplicant desires Tier {0} or better food, and becomes <style=\"stress"
 "\">Stressed</style> when they eat meals of lower quality."
 msgstr ""
-"Chaque Duplicant a une qualité <style=\"food\">Nourriture</style> minimum "
+"Chaque Duplicant a une qualité de <style=\"food\">Nourriture</style> minimum "
 "qu'il acceptera de manger.\n"
 "Ce Duplicant souhaite une nourriture de qualité {0} ou plus, et sera <style="
 "\"stress\">Stressé</style> s'il mange de la nourriture de qualité inférieure."
@@ -13198,7 +13199,7 @@ msgstr "Ce Duplicant n'a pas de métier assigné"
 #. STRINGS.DUPLICANTS.ROLES.NO_ROLE.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.NO_ROLE.NAME"
 msgid "Jobless"
-msgstr "Sans Mission"
+msgstr "Pas de Poste"
 
 #. STRINGS.DUPLICANTS.ROLES.OIL_TECHNICIAN.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.OIL_TECHNICIAN.DESCRIPTION"
@@ -13304,7 +13305,7 @@ msgid ""
 msgstr ""
 "Vessie\n"
 "------------------\n"
-"Les Duplicants font des \"flaques\" si aucune toilettes ne sont disponibles "
+"Les Duplicants font des \"flaques\" s'il n'y a pas de toilettes disponibles "
 "quand leur vessie est remplie à cent pour cent"
 
 #. STRINGS.DUPLICANTS.STATS.BREATH.NAME
@@ -15265,7 +15266,7 @@ msgstr "Destructeur"
 #. STRINGS.DUPLICANTS.TRAITS.AGGRESSIVE.NOREPAIR
 msgctxt "STRINGS.DUPLICANTS.TRAITS.AGGRESSIVE.NOREPAIR"
 msgid "• Refuses to repair anything while stressed"
-msgstr "• Refuse de réparer quoi que ce soit quand stressé"
+msgstr "• Refuse de réparer quoi que ce soit quand il est stressé"
 
 #. STRINGS.DUPLICANTS.TRAITS.ANEMIC.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.ANEMIC.DESC"
@@ -17247,11 +17248,14 @@ msgid "Sedimentary Rock"
 msgstr "Roche Sédimentaire"
 
 #. STRINGS.ELEMENTS.SLABS.DESC
+#, fuzzy
 msgctxt "STRINGS.ELEMENTS.SLABS.DESC"
 msgid ""
 "Slabs are a refined mineral buildling block used for assembling advanced "
 "buildings."
 msgstr ""
+"Slabs are a refined mineral buildling block used for assembling advanced "
+"buildings."
 
 #. STRINGS.ELEMENTS.SLABS.NAME
 msgctxt "STRINGS.ELEMENTS.SLABS.NAME"
@@ -18964,9 +18968,10 @@ msgid "Reed Fiber"
 msgstr "Fibre de roseau"
 
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.FARM_STATION_TOOLS.DESC
+#, fuzzy
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.FARM_STATION_TOOLS.DESC"
 msgid "Special plant grow fast stuff"
-msgstr ""
+msgstr "Special plant grow fast stuff"
 
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.FARM_STATION_TOOLS.NAME
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.FARM_STATION_TOOLS.NAME"
@@ -25422,7 +25427,7 @@ msgstr "Trait Génétique: {0}"
 #. STRINGS.UI.CHARACTERCONTAINER_EXPECTATIONS_TITLE
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_EXPECTATIONS_TITLE"
 msgid "ADDITIONAL"
-msgstr "SUPPLÉMENTAIRE"
+msgstr "INFOS SUPPLÉMENTAIRES"
 
 #. STRINGS.UI.CHARACTERCONTAINER_NEED
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_NEED"
@@ -25564,8 +25569,8 @@ msgid ""
 "[{2} Quality / {3} Expectation]"
 msgstr ""
 "------------------\n"
-"Ce type de nourriture {0} {1} des attentes de qualité\n"
-"[{2} Quality / {3} Expectation]"
+"Ce type de nourriture {0} les critères de qualité de {1}\n"
+"[Qualité: {2}/ Attentes: {3}]"
 
 #. STRINGS.UI.CONSUMABLESSCREEN.FOOD_REFUSE
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.FOOD_REFUSE"
@@ -25617,7 +25622,7 @@ msgid ""
 msgstr ""
 "Stress\n"
 "------------------\n"
-"{0} d'un possible 100%"
+"{0} sur les 100% possibles"
 
 #. STRINGS.UI.CONSUMABLESSCREEN.TITLE
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.TITLE"
@@ -26914,7 +26919,7 @@ msgstr "Maladie: {0}"
 #. STRINGS.UI.ELEMENTAL.DISEASE.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.DISEASE.TOOLTIP"
 msgid "There are {0} on the selected object"
-msgstr "Il y a {0} sur la surface de l'objet sélectionné"
+msgstr "Il y a {0} sur l'objet sélectionné"
 
 #. STRINGS.UI.ELEMENTAL.FREEZEPOINT.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.FREEZEPOINT.NAME"
@@ -27795,7 +27800,7 @@ msgstr "Les Duplicants n'agiront pas à un maximum de stress"
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS_BREAKS.NAME"
 msgid "Stress Responses"
-msgstr "Réponses au stress"
+msgstr "Réponse au stress"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS_BREAKS.TOOLTIP
 msgctxt ""
@@ -29408,7 +29413,7 @@ msgid ""
 "Puts solids onto a conveyor system"
 msgstr ""
 "<b>Point d'Entrée</b>\n"
-"Mets des solides sur le système de convoyage"
+"Dépose des solides dans le système de convoyage"
 
 #. STRINGS.UI.OVERLAYS.CONVEYOR.TOOLTIPS.OUTPUT
 msgctxt "STRINGS.UI.OVERLAYS.CONVEYOR.TOOLTIPS.OUTPUT"
@@ -29458,7 +29463,7 @@ msgstr ""
 "Ces plantes sont arrivées à maturité\n"
 "-------------------\n"
 "Sélectionnez <style=\"misc\">L'OUTIL RÉCOLTE</style> <color=#F44A47><b>[Y]</"
-"b></color>pour récolter en masse"
+"b></color> pour planifier la récolte"
 
 #. STRINGS.UI.OVERLAYS.CROP.TOOLTIPS.GROWING
 msgctxt "STRINGS.UI.OVERLAYS.CROP.TOOLTIPS.GROWING"
@@ -29541,7 +29546,7 @@ msgstr "Éclairage"
 #. STRINGS.UI.OVERLAYS.DECOR.LOWDECOR
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.LOWDECOR"
 msgid "Low Decor"
-msgstr "Faible Décoration"
+msgstr "Décoration Faible"
 
 #. STRINGS.UI.OVERLAYS.DECOR.NAME
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.NAME"
@@ -29705,7 +29710,7 @@ msgstr "CALQUE GERME"
 #. STRINGS.UI.OVERLAYS.DISEASE.NO_DISEASE
 msgctxt "STRINGS.UI.OVERLAYS.DISEASE.NO_DISEASE"
 msgid "Zero surface germs"
-msgstr "Surface sans germes"
+msgstr "Zéro germes de surface"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.BUTTON"
@@ -29801,7 +29806,7 @@ msgid ""
 "These buildings generate power for a circuit"
 msgstr ""
 "<b>Producteur</b>\n"
-"Ces structures génèrent de l'énergie pour un circuit"
+"Ces équipements génèrent de l'énergie pour un circuit"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND4
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND4"
@@ -29865,7 +29870,7 @@ msgstr "Sortie"
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.DIAGRAM_AFTER_ARROW
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.DIAGRAM_AFTER_ARROW"
 msgid "<b>Building Intake</b>"
-msgstr "<b>Entrée de structure<b>"
+msgstr "<b>Entrée de l'équipement<b>"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.DIAGRAM_BEFORE_ARROW
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.DIAGRAM_BEFORE_ARROW"
@@ -30109,7 +30114,7 @@ msgstr "Sortie"
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.DIAGRAM_AFTER_ARROW
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.DIAGRAM_AFTER_ARROW"
 msgid "<b>Building Intake</b>"
-msgstr "<b>Entrée de structure<b>"
+msgstr "<b>Entrée de l'équipement<b>"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.DIAGRAM_BEFORE_ARROW
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.DIAGRAM_BEFORE_ARROW"
@@ -30144,7 +30149,7 @@ msgstr "Construction d'Entrée"
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.CONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.CONNECTED"
 msgid "Connected to a <style=\"LiquidPiping\">Liquid Pipe</style>"
-msgstr "Relié à une <style=\"LiquidPiping\">Conduite de liquide</style>"
+msgstr "Relié à une <style=\"LiquidPiping\">Conduite de Liquide</style>"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.CONSUMER
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.CONSUMER"
@@ -30863,7 +30868,7 @@ msgstr "Tempéré"
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.TOOLTIPS.TEMPERATURE
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.TOOLTIPS.TEMPERATURE"
 msgid "Temperatures reaching {0}"
-msgstr "Les températures atteignant {0}"
+msgstr "Les températures atteignent {0}"
 
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.VERYCOLD
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.VERYCOLD"
@@ -31048,7 +31053,7 @@ msgstr ""
 #. STRINGS.UI.ROLES
 msgctxt "STRINGS.UI.ROLES"
 msgid "JOB ASSIGNMENTS"
-msgstr "AFFECTATION DES TÂCHES"
+msgstr "AFFECTATION DES MISSIONS"
 
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.ALREADY_IS_ROLE
 msgctxt "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.ALREADY_IS_ROLE"
@@ -31593,7 +31598,7 @@ msgid ""
 "Tier 5 Job Expectations\n"
 "------------------"
 msgstr ""
-"Attentes de métier Tiers 5\n"
+"Attentes des métiers de Tiers 5\n"
 "------------------"
 
 #. STRINGS.UI.ROLES_SCREEN.TIER_NAMES.FOUR
@@ -31602,7 +31607,7 @@ msgid ""
 "Tier 4 Job Expectations\n"
 "------------------"
 msgstr ""
-"Attentes de métier Tiers 4\n"
+"Attentes des métiers de Tiers 4\n"
 "------------------"
 
 #. STRINGS.UI.ROLES_SCREEN.TIER_NAMES.ONE
@@ -31611,7 +31616,7 @@ msgid ""
 "Tier 1 Job Expectations\n"
 "------------------"
 msgstr ""
-"Attentes de métier Tiers 1\n"
+"Attentes des métiers de Tiers 1\n"
 "------------------"
 
 #. STRINGS.UI.ROLES_SCREEN.TIER_NAMES.SEVEN
@@ -31620,7 +31625,7 @@ msgid ""
 "Tier 7 Job Expectations\n"
 "------------------"
 msgstr ""
-"Attentes de métier Tiers 7\n"
+"Attentes des métiers de Tiers 7\n"
 "------------------"
 
 #. STRINGS.UI.ROLES_SCREEN.TIER_NAMES.SIX
@@ -31629,7 +31634,7 @@ msgid ""
 "Tier 6 Job Expectations\n"
 "------------------"
 msgstr ""
-"Attentes de métier Tiers 6\n"
+"Attentes des métiers de Tiers 6\n"
 "------------------"
 
 #. STRINGS.UI.ROLES_SCREEN.TIER_NAMES.THREE
@@ -31638,7 +31643,7 @@ msgid ""
 "Tier 3 Job Expectations\n"
 "------------------"
 msgstr ""
-"Attentes de métier Tiers 3\n"
+"Attentes des métiers de Tiers 3\n"
 "------------------"
 
 #. STRINGS.UI.ROLES_SCREEN.TIER_NAMES.TWO
@@ -31647,7 +31652,7 @@ msgid ""
 "Tier 2 Job Expectations\n"
 "------------------"
 msgstr ""
-"Attentes de métier Tiers 2\n"
+"Attentes des métiers de Tiers 2\n"
 "------------------"
 
 #. STRINGS.UI.ROLES_SCREEN.TIER_NAMES.ZERO
@@ -31656,7 +31661,7 @@ msgid ""
 "Tier 0 Job Expectations\n"
 "------------------"
 msgstr ""
-"Attentes de métier Tiers 0\n"
+"Attentes des métiers de Tiers 0\n"
 "------------------"
 
 #. STRINGS.UI.SCHEDULE
@@ -31952,7 +31957,7 @@ msgstr "Outil de déconstruction"
 #. STRINGS.UI.TOOLS.DIG.NAME
 msgctxt "STRINGS.UI.TOOLS.DIG.NAME"
 msgid "Dig"
-msgstr "Creuser"
+msgstr "Creuser "
 
 #. STRINGS.UI.TOOLS.DIG.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.DIG.TOOLACTION"
@@ -32047,7 +32052,7 @@ msgstr "Câbles Électriques"
 #. STRINGS.UI.TOOLS.FILTERSCREEN.OPTIONS
 msgctxt "STRINGS.UI.TOOLS.FILTERSCREEN.OPTIONS"
 msgid "Tool Filter"
-msgstr "Filtre Outil"
+msgstr "Filtre de l'Outil"
 
 #. STRINGS.UI.TOOLS.GENERIC.BACK
 msgctxt "STRINGS.UI.TOOLS.GENERIC.BACK"
@@ -32208,7 +32213,7 @@ msgstr "Fermer"
 #. STRINGS.UI.TOOLTIPS.CONVEYOR_OVERLAY_STRING
 msgctxt "STRINGS.UI.TOOLTIPS.CONVEYOR_OVERLAY_STRING"
 msgid "Displays conveyor transport components"
-msgstr "Affiche les composants desu convoyeurs"
+msgstr "Affiche les composants des convoyeurs"
 
 #. STRINGS.UI.TOOLTIPS.CROPS_OVERLAY_STRING
 msgctxt "STRINGS.UI.TOOLTIPS.CROPS_OVERLAY_STRING"
@@ -34335,7 +34340,7 @@ msgstr "Annuler cet ordre de déconstruction"
 #. STRINGS.UI.USERMENUACTIONS.DIG.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.DIG.NAME"
 msgid "Dig"
-msgstr "Fouilles"
+msgstr "Excavation"
 
 #. STRINGS.UI.USERMENUACTIONS.DIG.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.DIG.TOOLTIP"
