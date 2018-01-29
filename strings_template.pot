@@ -453,6 +453,16 @@ msgctxt "STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.TOOLTIP"
 msgid "Current State: {ControlState}\n------------------\nAuto: Duplicants open and close this door as needed\nLocked: Nothing may pass through\nOpen: This door will remain open"
 msgstr ""
 
+#. STRINGS.BUILDING.STATUSITEMS.DIGREQUIRESROLEPERK.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.DIGREQUIRESROLEPERK.NAME"
+msgid "Requires Miner"
+msgstr ""
+
+#. STRINGS.BUILDING.STATUSITEMS.DIGREQUIRESROLEPERK.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.DIGREQUIRESROLEPERK.TOOLTIP"
+msgid "Duplicants may only use this building if assigned to one of the following jobs: {Roles}"
+msgstr ""
+
 #. STRINGS.BUILDING.STATUSITEMS.DIGUNREACHABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DIGUNREACHABLE.NAME"
 msgid "Unreachable Dig"
@@ -1848,6 +1858,16 @@ msgctxt "STRINGS.BUILDING.STATUSITEMS.TOO_COLD.TOOLTIP"
 msgid "Either this building or its surrounding environment is too cold to operate"
 msgstr ""
 
+#. STRINGS.BUILDING.STATUSITEMS.TURBINE_ACTIVE.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_ACTIVE.NAME"
+msgid "Active"
+msgstr ""
+
+#. STRINGS.BUILDING.STATUSITEMS.TURBINE_ACTIVE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_ACTIVE.TOOLTIP"
+msgid "The turbine is active"
+msgstr ""
+
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_BLOCKED_OUTPUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_BLOCKED_OUTPUT.NAME"
 msgid "Output Blocked"
@@ -1875,7 +1895,7 @@ msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_SPINNING_UP.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_SPINNING_UP.TOOLTIP"
-msgid "The turbine is spinning up"
+msgid "The turbine is warming up"
 msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.UNASSIGNED.NAME
@@ -2121,6 +2141,26 @@ msgstr ""
 #. STRINGS.BUILDINGS.AUTODISINFECTABLE.NO_DISEASE.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.AUTODISINFECTABLE.NO_DISEASE.TOOLTIP"
 msgid "This building is clean"
+msgstr ""
+
+#. STRINGS.BUILDINGS.AUTOMATABLE.DISABLE_AUTOMATIONONLY.NAME
+msgctxt "STRINGS.BUILDINGS.AUTOMATABLE.DISABLE_AUTOMATIONONLY.NAME"
+msgid "Enable Manual"
+msgstr ""
+
+#. STRINGS.BUILDINGS.AUTOMATABLE.DISABLE_AUTOMATIONONLY.TOOLTIP
+msgctxt "STRINGS.BUILDINGS.AUTOMATABLE.DISABLE_AUTOMATIONONLY.TOOLTIP"
+msgid "Building may be used by duplicants or Transfer Arms."
+msgstr ""
+
+#. STRINGS.BUILDINGS.AUTOMATABLE.ENABLE_AUTOMATIONONLY.NAME
+msgctxt "STRINGS.BUILDINGS.AUTOMATABLE.ENABLE_AUTOMATIONONLY.NAME"
+msgid "Disable Manual"
+msgstr ""
+
+#. STRINGS.BUILDINGS.AUTOMATABLE.ENABLE_AUTOMATIONONLY.TOOLTIP
+msgctxt "STRINGS.BUILDINGS.AUTOMATABLE.ENABLE_AUTOMATIONONLY.TOOLTIP"
+msgid "Building may only be used by Transfer Arms, and not by duplicants."
 msgstr ""
 
 #. STRINGS.BUILDINGS.DAMAGESOURCES.BAD_INPUT_ELEMENT
@@ -4295,7 +4335,7 @@ msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUIT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUIT.EFFECT"
-msgid "Carries solids between loader arms and unloader arms\n\nCan be run through tiles."
+msgid "Carries solids between inboxes and outboxes\n\nCan be run through tiles."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUIT.NAME
@@ -4310,7 +4350,7 @@ msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITBRIDGE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITBRIDGE.EFFECT"
-msgid "Runs one Conveyor Belt section over another without joining them.\n\nCan be run through tiles."
+msgid "Runs one Conveyor Rail section over another without joining them.\n\nCan be run through tiles."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITBRIDGE.NAME
@@ -4355,7 +4395,7 @@ msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDTRANSFERARM.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDTRANSFERARM.EFFECT"
-msgid "Delivers solid goods between nearby storage containers, machines, and Conveyor Belt inputs and outputs."
+msgid "Delivers solid goods between nearby storage containers, machines, and Conveyor Inboxes and Outboxes."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDTRANSFERARM.NAME
@@ -6150,7 +6190,7 @@ msgstr ""
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.CARRYWEIGHT
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.CARRYWEIGHT"
-msgid "{0} Carrying Weight"
+msgid "{0} Carrying Capacity"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.CARRYWEIGHT_MODIFIER_DESCRIPTION
@@ -6260,16 +6300,6 @@ msgstr ""
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CARRYAMOUNT.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CARRYAMOUNT.NAME"
-msgid "Carrying Capacity"
-msgstr ""
-
-#. STRINGS.DUPLICANTS.ATTRIBUTES.CARRYWEIGHT.DESC
-msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CARRYWEIGHT.DESC"
-msgid "Determines the maximum weight that a Duplicant can carry."
-msgstr ""
-
-#. STRINGS.DUPLICANTS.ATTRIBUTES.CARRYWEIGHT.NAME
-msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CARRYWEIGHT.NAME"
 msgid "Carrying Capacity"
 msgstr ""
 
@@ -7331,6 +7361,11 @@ msgstr ""
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.HAS_URGE
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.HAS_URGE"
 msgid "Does not have urge"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_ALLOWED_BY_AUTOMATION
+msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_ALLOWED_BY_AUTOMATION"
+msgid "Allowed By Automation Setting"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_ASSIGNED_TO_ME
@@ -9420,7 +9455,7 @@ msgstr ""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.TERRIBLESLEEP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TERRIBLESLEEP.TOOLTIP"
-msgid "This Duplicant didn't get any shuteye last night because {Disturber} made a racket"
+msgid "This Duplicant didn't get any shuteye last night because of the racket"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.TIME_REMAINING
@@ -19128,6 +19163,16 @@ msgctxt "STRINGS.RESEARCH.OTHER_TECH_ITEMS.BETA_RESEARCH_POINT.NAME"
 msgid "Intermediate Research Point"
 msgstr ""
 
+#. STRINGS.RESEARCH.OTHER_TECH_ITEMS.CONVEYOR_OVERLAY.DESC
+msgctxt "STRINGS.RESEARCH.OTHER_TECH_ITEMS.CONVEYOR_OVERLAY.DESC"
+msgid "Enables access to the Conveyor Overlay."
+msgstr ""
+
+#. STRINGS.RESEARCH.OTHER_TECH_ITEMS.CONVEYOR_OVERLAY.NAME
+msgctxt "STRINGS.RESEARCH.OTHER_TECH_ITEMS.CONVEYOR_OVERLAY.NAME"
+msgid "Conveyor Overlay"
+msgstr ""
+
 #. STRINGS.RESEARCH.OTHER_TECH_ITEMS.SUITS_OVERLAY.DESC
 msgctxt "STRINGS.RESEARCH.OTHER_TECH_ITEMS.SUITS_OVERLAY.DESC"
 msgid "Enables access to the Exosuit Overlay."
@@ -20533,6 +20578,11 @@ msgctxt "STRINGS.UI.BUILDINGEFFECTS.PLANTERBOX_PENTALTY"
 msgid "Planter box penalty"
 msgstr ""
 
+#. STRINGS.UI.BUILDINGEFFECTS.PREFERS_ROOM
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.PREFERS_ROOM"
+msgid "Preferred Room: {0}"
+msgstr ""
+
 #. STRINGS.UI.BUILDINGEFFECTS.PROCESSEDITEM
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.PROCESSEDITEM"
 msgid "<style=\"{0}\">{1}</style>"
@@ -20636,6 +20686,11 @@ msgstr ""
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESSEED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESSEED"
 msgid "1 Unplanted <style=\"seed\">Seed</style>"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.RESEARCH_MATERIALS
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.RESEARCH_MATERIALS"
+msgid "<style={0}>{1}</style>: {2} per research point"
 msgstr ""
 
 #. STRINGS.UI.BUILDINGEFFECTS.STORAGECAPACITY
@@ -20853,6 +20908,11 @@ msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.PLANTERBOX_PENTALTY"
 msgid "Plants grow more slowly when contained within boxes"
 msgstr ""
 
+#. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.PREFERS_ROOM
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.PREFERS_ROOM"
+msgid "This building gains additional function or bonus effects if it is situated in a {0}"
+msgstr ""
+
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.PROCESSEDITEM
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.PROCESSEDITEM"
 msgid "Refining this material produces {0}"
@@ -20961,6 +21021,11 @@ msgstr ""
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESSEED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESSEED"
 msgid "Must receive a plant seed"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.RESEARCH_MATERIALS
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.RESEARCH_MATERIALS"
+msgid "This research station consumes {2} of {1} per point of research produced"
 msgstr ""
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.STORAGECAPACITY
@@ -24305,12 +24370,12 @@ msgstr ""
 
 #. STRINGS.UI.OVERLAYS.CONVEYOR.TOOLTIPS.INPUT
 msgctxt "STRINGS.UI.OVERLAYS.CONVEYOR.TOOLTIPS.INPUT"
-msgid "<b>Input Point</b>\nPuts solids onto a conveyor system"
+msgid "<b>Input Point</b>\nBrings solids into a building from a conveyor rail."
 msgstr ""
 
 #. STRINGS.UI.OVERLAYS.CONVEYOR.TOOLTIPS.OUTPUT
 msgctxt "STRINGS.UI.OVERLAYS.CONVEYOR.TOOLTIPS.OUTPUT"
-msgid "<b>Output Point</b>\nTakes solids out of a conveyor system"
+msgid "<b>Output Point</b>\nOutputs solids from a building onto a conveyor rail."
 msgstr ""
 
 #. STRINGS.UI.OVERLAYS.CROP.BUTTON
@@ -25830,7 +25895,7 @@ msgstr ""
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CONVEYOR_BUILD.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CONVEYOR_BUILD.DESCRIPTION"
-msgid "Can build conveyor belt systems"
+msgid "Can build conveyor rail systems"
 msgstr ""
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.EXOSUIT_EXPERTISE.DESCRIPTION
@@ -25860,7 +25925,7 @@ msgstr ""
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.INCREASED_CARRY_AMOUNT.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.INCREASED_CARRY_AMOUNT.DESCRIPTION"
-msgid "+{0}kg to Carry Weight"
+msgid "+{0}kg to Carrying Capacity"
 msgstr ""
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.INCREASED_CONSTRUCTION.DESCRIPTION
@@ -25886,11 +25951,6 @@ msgstr ""
 #. STRINGS.UI.ROLES_SCREEN.PERKS.INCREASED_MACHINERY.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.INCREASED_MACHINERY.DESCRIPTION"
 msgid "+{0} to Tinkering"
-msgstr ""
-
-#. STRINGS.UI.ROLES_SCREEN.PERKS.INCREASED_POWER_TINKER.DESCRIPTION
-msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.INCREASED_POWER_TINKER.DESCRIPTION"
-msgid "Can perform generator Tune-Ups"
 msgstr ""
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.INCREASED_STRENGTH.DESCRIPTION
@@ -26660,7 +26720,7 @@ msgstr ""
 
 #. STRINGS.UI.TOOLTIPS.HELP_REQUIRES_ROOM
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_REQUIRES_ROOM"
-msgid "Requires {0}"
+msgid "Must be in a room."
 msgstr ""
 
 #. STRINGS.UI.TOOLTIPS.HELP_ROTATE_KEY
