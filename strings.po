@@ -1,9 +1,10 @@
+#  <christophe@krop.fr>, 2018.
 msgid ""
 msgstr ""
 "Application: Oxygen Not Included\n"
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2018-01-30 02:01+0100\n"
+"PO-Revision-Date: 2018-01-31 01:03+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
@@ -5999,7 +6000,7 @@ msgstr "Stocke les ressources de votre choix."
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKERSMART.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKERSMART.NAME"
 msgid "Smart Storage Compactor"
-msgstr "Compacteur de Stockage"
+msgstr "Compacteur de Stockage Intelligent"
 
 #. STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.DESC"
@@ -6259,7 +6260,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.TRAVELTUBEENTRANCE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.TRAVELTUBEENTRANCE.NAME"
 msgid "Transit Tube Access"
-msgstr "Accès au Tube de Transit"
+msgstr "Accès Tube de Transit"
 
 #. STRINGS.BUILDINGS.PREFABS.TRAVELTUBEWALLBRIDGE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.TRAVELTUBEWALLBRIDGE.DESC"
@@ -6285,7 +6286,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.TRAVELTUBEWALLBRIDGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.TRAVELTUBEWALLBRIDGE.NAME"
 msgid "Transit Tube Crossing"
-msgstr "Passage de Tube de Transit"
+msgstr "Passage Tube de Transit"
 
 #. STRINGS.BUILDINGS.PREFABS.WASHBASIN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WASHBASIN.DESC"
@@ -9963,7 +9964,7 @@ msgstr "Pleurniche"
 #. STRINGS.DUPLICANTS.CHORES.UNEQUIP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.UNEQUIP.NAME"
 msgid "Unequip"
-msgstr "Déséquipe"
+msgstr "Enlever"
 
 #. STRINGS.DUPLICANTS.CHORES.UNEQUIP.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.UNEQUIP.STATUS"
@@ -20257,7 +20258,7 @@ msgstr "Recherche Complète"
 #. STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.TOOLTIP"
 msgid "<style=\"research\">{0}</style> research complete!"
-msgstr "<style=\"research\">{0}</style> recherche complète!"
+msgstr "Recherche terminée: <style=\"research\">{0}</style>"
 
 #. STRINGS.MISC.NOTIFICATIONS.RESOURCEMELTED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.RESOURCEMELTED.NAME"
@@ -26024,7 +26025,7 @@ msgstr "GERMES EN SURFACE"
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.DEATH_FORMAT
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.DETAILS.DEATH_FORMAT"
 msgid "{0} dead/cycle"
-msgstr "{0} mort/cycle"
+msgstr "{0} en moins/cycle"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.DEATH_FORMAT_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.DETAILS.DEATH_FORMAT_TOOLTIP"
@@ -26065,13 +26066,13 @@ msgstr ""
 msgctxt ""
 "STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.ENVIRONMENT.DIE_TOOLTIP"
 msgid "This atmosphere is causing germs to die off"
-msgstr "Cette atmosphérique fait mourir les germes"
+msgstr "Cette atmosphère fait mourir les germes"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.ENVIRONMENT.GROW_TOOLTIP
 msgctxt ""
 "STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.ENVIRONMENT.GROW_TOOLTIP"
 msgid "This atmosphere is causing germs to multiply"
-msgstr "Cette atmosphérique provoque la multiplication des germes"
+msgstr "Cette atmosphère provoque la multiplication des germes"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.ENVIRONMENT.TITLE
 msgctxt ""
@@ -26118,7 +26119,7 @@ msgstr "Dans {0} le nombre de germes sur cet objet aura doublé"
 msgctxt ""
 "STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.OVERPOPULATED.TITLE"
 msgid "    • <b>Overpopulated: {0}</b>"
-msgstr "    • <b>Surpeuplé: {0}</b>"
+msgstr "    • <b>Surpopulation: {0}</b>"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.OVERPOPULATED.TOOLTIP
 msgctxt ""
@@ -26130,10 +26131,10 @@ msgid ""
 "A maximum of {0} germs can be on this {1} of material.\n"
 "({2} germs/Kg)"
 msgstr ""
-"Trop de germes sont présents dans cette zone, entraînant une mortalité "
-"rapide jusqu'à ce que la population se stabilise\n"
+"Il y a trop de germes à cet endroit, ce qui cause une baisse "
+"rapide tant que leur nombre n'est pas stabilisé\n"
 "\n"
-"Un maximum de {0} germes peut être sur ce {1} matériau.\n"
+"{0} germes maximum peuvent être sur cet élément de {1}.\n"
 "({2} germes/Kg)"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.PRESSURE.DIE_TOOLTIP
@@ -26167,24 +26168,24 @@ msgstr "Le nombre de germes fluctue au taux de {0}"
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.SUBSTRATE.DIE
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.SUBSTRATE.DIE"
 msgid "    • Dying on {0}: {1}"
-msgstr "    • Meurt de {0}: {1}"
+msgstr "    • Baisse: {1} au contact de: {0}"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.SUBSTRATE.DIE_TOOLTIP
 msgctxt ""
 "STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.SUBSTRATE.DIE_TOOLTIP"
 msgid "Contact with this substance is causing germs to die off"
-msgstr "Entrer en contact avec cette substance causera la mort des germes"
+msgstr "Les germes meurent au contact de cette matière"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.SUBSTRATE.GROW
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.SUBSTRATE.GROW"
 msgid "    • Growing on {0}: {1}"
-msgstr "    • Croissance de {0}: {1}"
+msgstr "    • Hausse: {1} au contact de: {0}"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.SUBSTRATE.GROW_TOOLTIP
 msgctxt ""
 "STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.SUBSTRATE.GROW_TOOLTIP"
 msgid "Contact with this substance is causing germs to multiply"
-msgstr "Entrer en contact avec cette substance multipliera les germes"
+msgstr "Les germes prolifèrent au contact de cette matière"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.SUBSTRATE.NEUTRAL
 msgctxt ""
@@ -26198,8 +26199,7 @@ msgctxt ""
 "NEUTRAL_TOOLTIP"
 msgid "Contact with this substance has no effect on germ count"
 msgstr ""
-"Entrer en contact avec cette substance n'a aucun effet sur le nombre de "
-"germes"
+"Le contact avec cette matière n'a aucune incidence sur le nombre de germes"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.TEMPERATURE.DIE_TOOLTIP
 msgctxt ""
@@ -26236,7 +26236,7 @@ msgstr "Ces condition contribuent à la multiplication de germes"
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FORMAT
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FORMAT"
 msgid "{0} spawned/cycle"
-msgstr "{0} engendré/cycle"
+msgstr "{0} en plus/cycle"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FORMAT_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FORMAT_TOOLTIP"
@@ -29723,7 +29723,7 @@ msgstr "CALQUE GERME"
 #. STRINGS.UI.OVERLAYS.DISEASE.NO_DISEASE
 msgctxt "STRINGS.UI.OVERLAYS.DISEASE.NO_DISEASE"
 msgid "Zero surface germs"
-msgstr "Zéro germes de surface"
+msgstr "Pas de germes en surface"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.BUTTON"
@@ -31046,7 +31046,7 @@ msgid ""
 "({1} of {2} allocated to pending errands)"
 msgstr ""
 "Disponible: {0}\n"
-"({1} de {2} alloué aux missions en attente)"
+"({1} / {2} réservés aux tâches en attente)"
 
 #. STRINGS.UI.RESOURCESCREEN.CATEGORY_TOOLTIP
 msgctxt "STRINGS.UI.RESOURCESCREEN.CATEGORY_TOOLTIP"
@@ -31979,7 +31979,7 @@ msgstr "Outil pour creuser"
 #. STRINGS.UI.TOOLS.DISINFECT.NAME
 msgctxt "STRINGS.UI.TOOLS.DISINFECT.NAME"
 msgid "Disinfect"
-msgstr "Désinfecte"
+msgstr "Désinfecter"
 
 #. STRINGS.UI.TOOLS.DISINFECT.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.DISINFECT.TOOLACTION"
@@ -34690,7 +34690,7 @@ msgstr "Affecter du matériel au stockage"
 #. STRINGS.UI.USERMENUACTIONS.UNEQUIP.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.UNEQUIP.NAME"
 msgid "Unequip {0}"
-msgstr "Déséquipe {0}"
+msgstr "Enlever {0}"
 
 #. STRINGS.UI.USERMENUACTIONS.UNEQUIP.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.UNEQUIP.TOOLTIP"
@@ -35427,3 +35427,4 @@ msgstr "Aspersion de sable..."
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT9"
 msgid "Sprinkling sand..."
 msgstr "Aspersion de sable..."
+
