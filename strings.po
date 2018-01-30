@@ -35427,35 +35427,3 @@ msgstr "Aspersion de sable..."
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT9"
 msgid "Sprinkling sand..."
 msgstr "Aspersion de sable..."
-
-#~ msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.CARRYWEIGHT"
-#~ msgid "{0} Carrying Weight"
-#~ msgstr "Poids Transporté: {0}"
-
-#~ msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CARRYWEIGHT.DESC"
-#~ msgid "Determines the maximum weight that a Duplicant can carry."
-#~ msgstr "Détermine la charge maximale qu'un Duplicant peut porter."
-
-#~ msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CARRYWEIGHT.NAME"
-#~ msgid "Carrying Capacity"
-#~ msgstr "Poids Transportable"
-
-#~ msgctxt "STRINGS.UI.OVERLAYS.CONVEYOR.TOOLTIPS.OUTPUT"
-#~ msgid ""
-#~ "<b>Output Point</b>\n"
-#~ "Takes solids out of a conveyor system"
-#~ msgstr ""
-#~ "<b>Point de Sortie</b>\n"
-#~ "Extrait les solides du système de convoyage"
-
-#~ msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.INCREASED_CARRY_AMOUNT.DESCRIPTION"
-#~ msgid "+{0}kg to Carry Weight"
-#~ msgstr "+{0}kg de Poids Porté"
-
-#~ msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.INCREASED_POWER_TINKER.DESCRIPTION"
-#~ msgid "Can perform generator Tune-Ups"
-#~ msgstr "Peut améliorer les générateurs"
-
-#~ msgctxt "STRINGS.UI.TOOLTIPS.HELP_REQUIRES_ROOM"
-#~ msgid "Requires {0}"
-#~ msgstr "Requiert {0}"
