@@ -1,10 +1,9 @@
-# French translations for Oxygen Not Included
-#
-# Christophe <christophe@krop.fr>, 2018.
 msgid ""
 msgstr ""
+"Application: Oxygen Not Included\n"
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2018-01-30 00:12+0100\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2018-01-30 02:01+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
@@ -563,20 +562,19 @@ msgstr ""
 "Ouverte: Cette porte restera ouverte"
 
 #. STRINGS.BUILDING.STATUSITEMS.DIGREQUIRESROLEPERK.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DIGREQUIRESROLEPERK.NAME"
 msgid "Requires Miner"
-msgstr "A besoin d'être retourné"
+msgstr "Mineur Requis"
 
 #. STRINGS.BUILDING.STATUSITEMS.DIGREQUIRESROLEPERK.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DIGREQUIRESROLEPERK.TOOLTIP"
 msgid ""
 "Duplicants may only use this building if assigned to one of the following "
 "jobs: {Roles}"
 msgstr ""
-"Les Duplicants ne peuvent utiliser cet équipement s'ils sont assignés à un "
-"de ces postes: {Roles}"
+"Les Duplicants ne peuvent utiliser cet équipement que s'ils sont affectés à"
+" une "
+"de ces missions: {Roles}"
 
 #. STRINGS.BUILDING.STATUSITEMS.DIGUNREACHABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DIGUNREACHABLE.NAME"
@@ -1726,7 +1724,7 @@ msgstr "Cet équipement subit des dégâts et va fondre s'il n'est pas refroidi"
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.NAME"
 msgid "Deconstruction Errand Assigned"
-msgstr "Tâche Assignée: Déconstruction"
+msgstr "Tâche Assignée: Démolition"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.TOOLTIP"
@@ -1899,7 +1897,7 @@ msgstr "La pression accumulée est relâchée en toute sécurité"
 #. STRINGS.BUILDING.STATUSITEMS.REQUIRESROLEPERK.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.REQUIRESROLEPERK.NAME"
 msgid "Requires Job Assignment"
-msgstr "Requiert l'Affectation d'une Tâche"
+msgstr "En Attente d'Affectation d'une Tâche"
 
 #. STRINGS.BUILDING.STATUSITEMS.REQUIRESROLEPERK.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.REQUIRESROLEPERK.TOOLTIP"
@@ -1907,8 +1905,9 @@ msgid ""
 "Duplicants may only use this building if assigned to one of the following "
 "jobs: {Roles}"
 msgstr ""
-"Les Duplicants ne peuvent utiliser cet équipement s'ils sont assignés à un "
-"de ces postes: {Roles}"
+"Les Duplicants ne peuvent utiliser cet équipement que s'ils sont affectés à"
+" une "
+"de ces missions: {Roles}"
 
 #. STRINGS.BUILDING.STATUSITEMS.RESEARCHING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RESEARCHING.NAME"
@@ -2175,16 +2174,14 @@ msgid ""
 msgstr "Cet équipement ou son environnement est trop froid pour fonctionner"
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_ACTIVE.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_ACTIVE.NAME"
 msgid "Active"
-msgstr "Actif"
+msgstr "Active"
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_ACTIVE.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_ACTIVE.TOOLTIP"
 msgid "The turbine is active"
-msgstr "Cette turbine tourne"
+msgstr "Cette turbine est active"
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_BLOCKED_OUTPUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_BLOCKED_OUTPUT.NAME"
@@ -2213,10 +2210,9 @@ msgid "Warming Up"
 msgstr "En Chauffe"
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_SPINNING_UP.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_SPINNING_UP.TOOLTIP"
 msgid "The turbine is warming up"
-msgstr "Cette turbine tourne"
+msgstr "Cette turbine chauffe"
 
 #. STRINGS.BUILDING.STATUSITEMS.UNASSIGNED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNASSIGNED.NAME"
@@ -2399,7 +2395,6 @@ msgctxt "STRINGS.BUILDING.STATUSITEMS.WELL_PRESSURIZING.NAME"
 msgid "Backpressure: {0}"
 msgstr "Contre-pression: {0}"
 
-# Un puits ? ou ça ?
 #. STRINGS.BUILDING.STATUSITEMS.WELL_PRESSURIZING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WELL_PRESSURIZING.TOOLTIP"
 msgid ""
@@ -2412,7 +2407,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.WIRECIRCUITSTATUS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WIRECIRCUITSTATUS.NAME"
 msgid "Circuit Status: {CurrentLoad} / {MaxLoad}"
-msgstr "Statut du Circuit: {CurrentLoad} / {MaxLoad}"
+msgstr "État du Circuit: {CurrentLoad} / {MaxLoad}"
 
 #. STRINGS.BUILDING.STATUSITEMS.WIRECIRCUITSTATUS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WIRECIRCUITSTATUS.TOOLTIP"
@@ -2494,28 +2489,29 @@ msgctxt "STRINGS.BUILDINGS.AUTODISINFECTABLE.NO_DISEASE.TOOLTIP"
 msgid "This building is clean"
 msgstr "Cet équipement est propre"
 
+# Check where this string is used
 #. STRINGS.BUILDINGS.AUTOMATABLE.DISABLE_AUTOMATIONONLY.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.AUTOMATABLE.DISABLE_AUTOMATIONONLY.NAME"
 msgid "Enable Manual"
-msgstr "Activer l'équipement"
+msgstr "Activer Mode Manuel"
 
 #. STRINGS.BUILDINGS.AUTOMATABLE.DISABLE_AUTOMATIONONLY.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.AUTOMATABLE.DISABLE_AUTOMATIONONLY.TOOLTIP"
 msgid "Building may be used by duplicants or Transfer Arms."
 msgstr ""
+"L'équipement peut être utilisé par les Duplicants ou les Bras de Transfert."
 
-# Chaine sur un bouton, doit être courte
 #. STRINGS.BUILDINGS.AUTOMATABLE.ENABLE_AUTOMATIONONLY.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.AUTOMATABLE.ENABLE_AUTOMATIONONLY.NAME"
 msgid "Disable Manual"
-msgstr "Ne plus utiliser"
+msgstr "Désactiver Mode Manuel"
 
 #. STRINGS.BUILDINGS.AUTOMATABLE.ENABLE_AUTOMATIONONLY.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.AUTOMATABLE.ENABLE_AUTOMATIONONLY.TOOLTIP"
 msgid "Building may only be used by Transfer Arms, and not by duplicants."
 msgstr ""
+"L'équipement ne peut être utilisé que par les Bras de Transfert, pas par les"
+" Duplicants."
 
 #. STRINGS.BUILDINGS.DAMAGESOURCES.BAD_INPUT_ELEMENT
 msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.BAD_INPUT_ELEMENT"
@@ -2604,7 +2600,6 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.NAME"
 msgid "Super Computer"
 msgstr "Super Ordinateur"
 
-# shinebugs // lucioles
 #. STRINGS.BUILDINGS.PREFABS.AIRBORNECREATURELURE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRBORNECREATURELURE.DESC"
 msgid ""
@@ -2841,11 +2836,10 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYSMART.NAME"
 msgid "Smart Battery"
 msgstr "Batterie Intelligente"
 
-# actif / afctive. Voir en jeu
 #. STRINGS.BUILDINGS.PREFABS.BATTERYSMART.SIDESCREEN_ACTIVATE
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYSMART.SIDESCREEN_ACTIVATE"
 msgid "Active:"
-msgstr "Actif:"
+msgstr "Active:"
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERYSMART.SIDESCREEN_DEACTIVATE
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYSMART.SIDESCREEN_DEACTIVATE"
@@ -4669,11 +4663,10 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICMEMORY.STATUS_ITEM_VALUE"
 msgid "Stored Value: {0}"
 msgstr "Valeur Enregistrée: {0}"
 
-# missing context
 #. STRINGS.BUILDINGS.PREFABS.LOGICMEMORY.VALUE_PORT_DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICMEMORY.VALUE_PORT_DESC"
 msgid "Specify Value"
-msgstr "Spécifiez la Valeur"
+msgstr "Définir la Valeur"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICMEMORY.WRITE_PORT_DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICMEMORY.WRITE_PORT_DESC"
@@ -5827,15 +5820,13 @@ msgstr ""
 "Les convoyeurs de solides acheminent les objets solide dans votre base."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUIT.EFFECT
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUIT.EFFECT"
 msgid ""
 "Carries solids between inboxes and outboxes\n"
 "\n"
 "Can be run through tiles."
 msgstr ""
-"Transporte des solides depuis les bras de chargement jusqu'aux bras de "
-"déchargement\n"
+"Transporte des solides entre les entrées et les sorties\n"
 "\n"
 "Peut traverser les dalles."
 
@@ -5854,14 +5845,13 @@ msgstr ""
 "confusion et consternation."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITBRIDGE.EFFECT
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITBRIDGE.EFFECT"
 msgid ""
 "Runs one Conveyor Rail section over another without joining them.\n"
 "\n"
 "Can be run through tiles."
 msgstr ""
-"Fait passer une bande transporteuse par dessus une autre sans les relier.\n"
+"Fait passer un Rail de Convoyeur par dessus un autre sans les relier.\n"
 "\n"
 "Peut traverser les dalles."
 
@@ -5876,20 +5866,21 @@ msgid ""
 "Solid Conveyor Inboxes accept items to be transferred through the Solid "
 "Conveyor system."
 msgstr ""
-"Les Boîtes de Réception du Convoyeur de Solides acceptent que les objets "
-"soient transférés grâce au système de Convoyage de Solides."
+"Les Entrées du Convoyeur de Solides acceptent que les objets "
+"soient acheminés à travers le système de Convoyage de Solides."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITINBOX.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITINBOX.EFFECT"
 msgid "Accepts solid goods to be conveyed to a Solid Conveyor Outbox"
 msgstr ""
-"Accepte que les marchandises solides soient convoyées jusqu'à la Boîte "
-"d'Envoi du Convoyeur de Solides."
+"Accepte que les marchandises solides soient convoyées jusqu'à la sortie du "
+"Convoyeur de Solides."
 
+# Entrées vs. Admissions
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITINBOX.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITINBOX.NAME"
 msgid "Conveyor Inbox"
-msgstr "Boîte de Réception du Convoyeur"
+msgstr "Entrées du Convoyeur"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITOUTBOX.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITOUTBOX.DESC"
@@ -5920,14 +5911,13 @@ msgstr ""
 "les biens solides sur une courte distance."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDTRANSFERARM.EFFECT
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDTRANSFERARM.EFFECT"
 msgid ""
 "Delivers solid goods between nearby storage containers, machines, and "
 "Conveyor Inboxes and Outboxes."
 msgstr ""
-"Livre les biens solides à proximité des conteneurs de stockage, machines, et "
-"les entrées et sorties du convoyeur."
+"Livre les marchandises solides aux conteneurs proches, aux machines et aux "
+"entrées et sorties du convoyeur."
 
 # String shortened. Must fit a button
 #. STRINGS.BUILDINGS.PREFABS.SOLIDTRANSFERARM.NAME
@@ -6180,7 +6170,6 @@ msgstr ""
 "\n"
 "Possède une petite zone d'effet."
 
-# What's that ?
 #. STRINGS.BUILDINGS.PREFABS.THERMALBLOCK.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.THERMALBLOCK.NAME"
 msgid "Tempshift Plate"
@@ -6883,7 +6872,6 @@ msgid "This plant produces edible <style=\"food\">Mushrooms</style>."
 msgstr ""
 "Cette plante produit des<style=\"food\">Champignons</style> comestibles."
 
-# Where does that name come from ?
 #. STRINGS.CREATURES.SPECIES.MUSHROOMPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.MUSHROOMPLANT.NAME"
 msgid "Dusk Cap"
@@ -7257,14 +7245,13 @@ msgstr ""
 "Les Nénuphars produisent des <style=\"medicine\">Fleurs de Nénuphars</"
 "style>, une fleur adorable possédant des propriétés médicinales."
 
-# inconsistent with the previous string
 #. STRINGS.CREATURES.SPECIES.SWAMPLILY.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.SWAMPLILY.DOMESTICATEDDESC"
 msgid ""
 "This plant produces medicinal <style=\"medicine\">Balm Lily Flowers</style>."
 msgstr ""
-"Cette plante produit un <style=\"medicine\">Baume de Lys des Marais</style> "
-"qui sert de médicament."
+"Cette plante produit du <style=\"medicine\">Baume de Lys des Marais</style> "
+"à usage médical."
 
 #. STRINGS.CREATURES.SPECIES.SWAMPLILY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SWAMPLILY.NAME"
@@ -8337,10 +8324,9 @@ msgid "{0} Decorating Speed"
 msgstr "Vitesse de Décoration: {0}"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.CARRYWEIGHT
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.CARRYWEIGHT"
 msgid "{0} Carrying Capacity"
-msgstr "Poids Transportable"
+msgstr "Poids Transportable: {0}"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.CARRYWEIGHT_MODIFIER_DESCRIPTION
 msgctxt ""
@@ -8969,15 +8955,13 @@ msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.HAULING.NAME"
 msgid "Supply"
 msgstr "Fourniture"
 
-# Traduction bancale
 #. STRINGS.DUPLICANTS.CHOREGROUPS.MACHINEOPERATING.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.MACHINEOPERATING.DESC"
 msgid ""
 "Operating heavy machinery for production, fabrication, and utility purposes."
 msgstr ""
-"Opère sur la machinerie lourde à des fins de production, fabrication, et "
-"pour l'utilité."
+"Travaille sur la machinerie lourde à des fins de production, fabrication, et "
+"pour tout autre usage."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.MACHINEOPERATING.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.MACHINEOPERATING.NAME"
@@ -9135,7 +9119,6 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.COOK.STATUS"
 msgid "Going to cook"
 msgstr "Va cuisiner"
 
-# Voir en jeu si "refroidi" est plus propice
 #. STRINGS.DUPLICANTS.CHORES.COOLDOWN.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.COOLDOWN.NAME"
 msgid "Cool off"
@@ -9602,10 +9585,9 @@ msgid "Does not have urge"
 msgstr "Pas d'urgence"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_ALLOWED_BY_AUTOMATION
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_ALLOWED_BY_AUTOMATION"
 msgid "Allowed By Automation Setting"
-msgstr "Activé par le réseau d'Automatisation"
+msgstr "Autorisé par les paramètres d'Automatisation"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_ASSIGNED_TO_ME
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_ASSIGNED_TO_ME"
@@ -9648,7 +9630,7 @@ msgstr "Pas dans la Bonne Pièce"
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_MARKED_FOR_DECONSTRUCTION
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_MARKED_FOR_DECONSTRUCTION"
 msgid "Is Being Deconstructed"
-msgstr "En cours de Déconstruction"
+msgstr "En cours de Démolition"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_MARKED_FOR_DISABLE
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_MARKED_FOR_DISABLE"
@@ -11954,12 +11936,9 @@ msgid "Dead Tired"
 msgstr "Mort de Fatigue"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.TERRIBLESLEEP.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TERRIBLESLEEP.TOOLTIP"
 msgid "This Duplicant didn't get any shuteye last night because of the racket"
-msgstr ""
-"Ce Duplicant n'a pas pu fermer l'œil la nuit dernière parce que {Disturber} "
-"a fait du boucan"
+msgstr "Ce Duplicant n'a pas fermé l'œil de la nuit à cause du boucan"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.TIME_REMAINING
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TIME_REMAINING"
@@ -13567,11 +13546,10 @@ msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BREAKDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is transporting materials to {Target}"
 msgstr "Ce Duplicant transporte des matériaux vers {Target}"
 
-# Douteux, A voir dans le contexte
 #. STRINGS.DUPLICANTS.STATUSITEMS.BREAKWORKSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BREAKWORKSTATUS.NAME"
 msgid "Breaking {Target}"
-msgstr "Casse {Target}"
+msgstr "Démolit {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BREAKWORKSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BREAKWORKSTATUS.TOOLTIP"
@@ -14885,6 +14863,7 @@ msgstr "Attribue {Item} à {Target}"
 
 # Context ?
 #. STRINGS.DUPLICANTS.STATUSITEMS.STOREFORBUILDPRIORITIZEDDELIVERSTATUS.TOOLTIP
+#, fuzzy
 msgctxt ""
 "STRINGS.DUPLICANTS.STATUSITEMS.STOREFORBUILDPRIORITIZEDDELIVERSTATUS.TOOLTIP"
 msgid ""
@@ -15847,7 +15826,6 @@ msgctxt "STRINGS.DUPLICANTS.TRAITS.WEAKIMMUNESYSTEM.NAME"
 msgid "Biohazardous"
 msgstr "Risque biologique"
 
-# one CR removed to keep text on 4 lines
 #. STRINGS.ELEMENTS.ALGAE.DESC
 msgctxt "STRINGS.ELEMENTS.ALGAE.DESC"
 msgid ""
@@ -15856,8 +15834,8 @@ msgid ""
 "It can be used to produce <style=\"oxygen\">Oxygen</style> when grown in "
 "Algae Terrariums."
 msgstr ""
-"Les algues sont un ensemble de formes de vie non-mobiles et "
-"monocellulaires.\n"
+"Les algues sont un amas de formes de vie non-mobiles et monocellulaires.\n"
+"\n"
 "Cultivées dans un Terrarium d'Algues, elles peuvent être utilisées pour "
 "produire de l'<style=\"oxygen\">Oxygène</style>."
 
@@ -17263,14 +17241,13 @@ msgid "Sedimentary Rock"
 msgstr "Roche Sédimentaire"
 
 #. STRINGS.ELEMENTS.SLABS.DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.SLABS.DESC"
 msgid ""
 "Slabs are a refined mineral buildling block used for assembling advanced "
 "buildings."
 msgstr ""
-"Slabs are a refined mineral buildling block used for assembling advanced "
-"buildings."
+"Les Slabs sont des blocs de construction constitués de minéraux raffinés "
+"utilisés pour l'assemblage d'équipements avancés."
 
 #. STRINGS.ELEMENTS.SLABS.NAME
 msgctxt "STRINGS.ELEMENTS.SLABS.NAME"
@@ -18662,8 +18639,8 @@ msgstr "Petit Pain Gelé"
 msgctxt "STRINGS.ITEMS.FOOD.COLDWHEATBREAD.RECIPEDESC"
 msgid "A simple bun baked from <style=\"plant\">Sleet Wheat</style> grain."
 msgstr ""
-"Un simple petit pain cuit à partir de grain de <style=\"plant\">Blé de "
-"Grêle</style>."
+"Un simple petit pain cuit à partir de grain de <style=\"plant\">Blé Grêle<"
+"/style>."
 
 #. STRINGS.ITEMS.FOOD.COLDWHEATSEED.DESC
 msgctxt "STRINGS.ITEMS.FOOD.COLDWHEATSEED.DESC"
@@ -18983,10 +18960,9 @@ msgid "Reed Fiber"
 msgstr "Fibre de roseau"
 
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.FARM_STATION_TOOLS.DESC
-#, fuzzy
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.FARM_STATION_TOOLS.DESC"
 msgid "Special plant grow fast stuff"
-msgstr "Special plant grow fast stuff"
+msgstr "Équipement Spécial pour la croissance rapide des plantes"
 
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.FARM_STATION_TOOLS.NAME
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.FARM_STATION_TOOLS.NAME"
@@ -19375,7 +19351,6 @@ msgctxt "STRINGS.LORE.BUILDINGS.SetLocker.HEADER"
 msgid "Casual Friday!"
 msgstr "Vendredi décontracté!"
 
-# station gravitas / centre gravitas ?
 #. STRINGS.LORE.BUILDINGS.VendingMachine.ENTRY
 msgctxt "STRINGS.LORE.BUILDINGS.VendingMachine.ENTRY"
 msgid ""
@@ -21070,8 +21045,7 @@ msgstr "Surpression"
 #. STRINGS.MISC.STATUSITEMS.SPOUTOVERPRESSURE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTOVERPRESSURE.TOOLTIP"
 msgid "Spout cannot vent due to high environmental pressure"
-msgstr ""
-"La bouche ne peut pas ventiler à cause de la forte pression environnementale"
+msgstr "La pression environnante élevée empêche cette bouche d'évacuer le gaz"
 
 #. STRINGS.MISC.STATUSITEMS.SPOUTPRESSUREBUILDING.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTPRESSUREBUILDING.NAME"
@@ -23217,13 +23191,11 @@ msgid "Intermediate Research Point"
 msgstr "Recherche Intermédiaire"
 
 #. STRINGS.RESEARCH.OTHER_TECH_ITEMS.CONVEYOR_OVERLAY.DESC
-#, fuzzy
 msgctxt "STRINGS.RESEARCH.OTHER_TECH_ITEMS.CONVEYOR_OVERLAY.DESC"
 msgid "Enables access to the Conveyor Overlay."
-msgstr "Active l'accès au Calque Exosuit."
+msgstr "Active l'accès au Calque Convoyeur."
 
 #. STRINGS.RESEARCH.OTHER_TECH_ITEMS.CONVEYOR_OVERLAY.NAME
-#, fuzzy
 msgctxt "STRINGS.RESEARCH.OTHER_TECH_ITEMS.CONVEYOR_OVERLAY.NAME"
 msgid "Conveyor Overlay"
 msgstr "Calque Convoyeur"
@@ -23730,12 +23702,10 @@ msgctxt "STRINGS.RESEARCH.TECHS.SMELTING.NAME"
 msgid "Smelting"
 msgstr "Fonte"
 
-# Trouver une meilleure expression FR
 #. STRINGS.RESEARCH.TECHS.SOLIDTRANSPORT.DESC
-#, fuzzy
 msgctxt "STRINGS.RESEARCH.TECHS.SOLIDTRANSPORT.DESC"
 msgid "Save so much wear and tear on tired Duplicant feet."
-msgstr "Réduit l'usure des pieds fatigués des Duplicants."
+msgstr "Soulage les Duplicants qui sont sur les rotules."
 
 #. STRINGS.RESEARCH.TECHS.SOLIDTRANSPORT.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.SOLIDTRANSPORT.NAME"
@@ -24642,6 +24612,7 @@ msgstr "<style=\"solid\">Fertilisation</style> de Plante"
 
 # Voir en jeu
 #. STRINGS.UI.BUILDINGEFFECTS.ALLOWS_IRRIGATION
+#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ALLOWS_IRRIGATION"
 msgid "Plant <style=\"liquid\">Liquid</style>"
 msgstr "<style=\"liquid\">Liquide</style> de Plante"
@@ -24862,10 +24833,9 @@ msgid "Planter box penalty"
 msgstr "Pénalité de la jardinière"
 
 #. STRINGS.UI.BUILDINGEFFECTS.PREFERS_ROOM
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.PREFERS_ROOM"
 msgid "Preferred Room: {0}"
-msgstr "Pièce Dédiée: {0}"
+msgstr "Pièce Préférentielle: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.PROCESSEDITEM
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.PROCESSEDITEM"
@@ -24974,11 +24944,9 @@ msgid "1 Unplanted <style=\"seed\">Seed</style>"
 msgstr "1 <style=\"seed\">Graine</style> non plantée"
 
 #. STRINGS.UI.BUILDINGEFFECTS.RESEARCH_MATERIALS
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.RESEARCH_MATERIALS"
 msgid "<style={0}>{1}</style>: {2} per research point"
-msgstr ""
-"<style={0}>{1}</style>: <style=\"consumed\">-{2} à chaque utilisation</style>"
+msgstr "<style={0}>{1}</style>: {2} par point de recherche"
 
 #. STRINGS.UI.BUILDINGEFFECTS.STORAGECAPACITY
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.STORAGECAPACITY"
@@ -25292,6 +25260,8 @@ msgid ""
 "This building gains additional function or bonus effects if it is situated "
 "in a {0}"
 msgstr ""
+"L'équipement gagne des fonctions supplémentaires ou des effets bonus s'il est "
+"situé dans un {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.PROCESSEDITEM
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.PROCESSEDITEM"
@@ -25424,6 +25394,7 @@ msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.RESEARCH_MATERIALS"
 msgid ""
 "This research station consumes {2} of {1} per point of research produced"
 msgstr ""
+"Cette Station de Recherche consomme {2} de {1} par point de recherche produit"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.STORAGECAPACITY
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.STORAGECAPACITY"
@@ -26486,7 +26457,7 @@ msgstr "GERMES EN SURFACE"
 #. STRINGS.UI.DETAILTABS.DISEASE.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.TOOLTIP"
 msgid "View the disease risk presented by the selected object"
-msgstr "Voir le risque de maladie entraîné par l'objet sélectionné"
+msgstr "Voir le risque de maladie que présente l'objet sélectionné"
 
 #. STRINGS.UI.DETAILTABS.ENERGYCONSUMER.NAME
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYCONSUMER.NAME"
@@ -26496,7 +26467,7 @@ msgstr "Énergie"
 #. STRINGS.UI.DETAILTABS.ENERGYCONSUMER.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYCONSUMER.TOOLTIP"
 msgid "View how much power this building consumes"
-msgstr "Voir combien d'énergie cet équipement consomme"
+msgstr "Voir quelle quantité d'énergie cet équipement consomme"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.AVAILABLE_JOULES
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.AVAILABLE_JOULES"
@@ -26764,7 +26735,7 @@ msgstr "Info"
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.TOOLTIP"
 msgid "View the status of the selected object"
-msgstr "Voir le statut de l'objet sélectionné"
+msgstr "Voir l'état de l'objet sélectionné"
 
 #. STRINGS.UI.DETAILTABS.STATS.GROUPNAME_APTITUDES
 msgctxt "STRINGS.UI.DETAILTABS.STATS.GROUPNAME_APTITUDES"
@@ -27256,7 +27227,7 @@ msgstr ""
 #. STRINGS.UI.ENDOFDAYREPORT.DISEASE_STATUS.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DISEASE_STATUS.NAME"
 msgid "Disease Status:"
-msgstr "État de la Contamination:"
+msgstr "État de la Maladie:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DISEASE_STATUS.TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DISEASE_STATUS.TOOLTIP"
@@ -27467,7 +27438,6 @@ msgid ""
 msgstr ""
 "Le <style=\"stress\">Stress</style> cumulé de votre colonie a augmenté de {0}"
 
-# Voir à quoi ca correspond vraiment
 #. STRINGS.UI.ENDOFDAYREPORT.TIME_SPENT.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TIME_SPENT.NAME"
 msgid "Time Breakdown:"
@@ -29125,14 +29095,13 @@ msgctxt "STRINGS.UI.IMMIGRANTSCREEN.CANCELBUTTON"
 msgid "Cancel"
 msgstr "Annuler"
 
-# ooze these duplicants ?
 #. STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONBODY
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONBODY"
 msgid ""
 "The Printing Pod will need time to recharge if you Ooze these Duplicants."
 msgstr ""
 "La Station d'Impression aura besoin de temps pour se recharger si vous "
-"sortez ces Duplicants."
+"laissez passer ces Duplicants."
 
 #. STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONTITLE
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONTITLE"
@@ -29452,24 +29421,22 @@ msgid "Output Point"
 msgstr "Point de Sortie"
 
 #. STRINGS.UI.OVERLAYS.CONVEYOR.TOOLTIPS.INPUT
-#, fuzzy
 msgctxt "STRINGS.UI.OVERLAYS.CONVEYOR.TOOLTIPS.INPUT"
 msgid ""
 "<b>Input Point</b>\n"
 "Brings solids into a building from a conveyor rail."
 msgstr ""
 "<b>Point d'Entrée</b>\n"
-"Charge les solides dans le système de convoyage"
+"Transfère les solides vers un équipement depuis un rail de convoyeur."
 
 #. STRINGS.UI.OVERLAYS.CONVEYOR.TOOLTIPS.OUTPUT
-#, fuzzy
 msgctxt "STRINGS.UI.OVERLAYS.CONVEYOR.TOOLTIPS.OUTPUT"
 msgid ""
 "<b>Output Point</b>\n"
 "Outputs solids from a building onto a conveyor rail."
 msgstr ""
-"<b>Point d'Entrée</b>\n"
-"Charge les solides dans le système de convoyage"
+"<b>Point de Sortie</b>\n"
+"Transfère les solides d'un équipement vers un rail de convoyeur."
 
 #. STRINGS.UI.OVERLAYS.CROP.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.CROP.BUTTON"
@@ -29496,7 +29463,6 @@ msgctxt "STRINGS.UI.OVERLAYS.CROP.NAME"
 msgid "FARMING OVERLAY"
 msgstr "CALQUE AGRICULTURE"
 
-# récolter en gros
 #. STRINGS.UI.OVERLAYS.CROP.TOOLTIPS.FULLY_GROWN
 msgctxt "STRINGS.UI.OVERLAYS.CROP.TOOLTIPS.FULLY_GROWN"
 msgid ""
@@ -29510,7 +29476,7 @@ msgstr ""
 "Ces plantes sont arrivées à maturité\n"
 "-------------------\n"
 "Sélectionnez <style=\"misc\">L'OUTIL RÉCOLTE</style> <color=#F44A47><b>[Y]</"
-"b></color> pour planifier la récolte"
+"b></color> pour lancer la récolte"
 
 #. STRINGS.UI.OVERLAYS.CROP.TOOLTIPS.GROWING
 msgctxt "STRINGS.UI.OVERLAYS.CROP.TOOLTIPS.GROWING"
@@ -30253,7 +30219,6 @@ msgstr ""
 "Doit être dans le même réseau qu'au moins une <style=\"LiquidSource\">Sortie "
 "</style>"
 
-# s/Calque/Masque/ ?
 #. STRINGS.UI.OVERLAYS.LOGIC.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.LOGIC.BUTTON"
 msgid "Automation Overlay"
@@ -30289,11 +30254,10 @@ msgctxt "STRINGS.UI.OVERLAYS.LOGIC.OUTPUT"
 msgid "Output Port"
 msgstr "Port de Sortie"
 
-# réinitialisé ? rafraichi/actualisé ?
 #. STRINGS.UI.OVERLAYS.LOGIC.RESET_UPDATE
 msgctxt "STRINGS.UI.OVERLAYS.LOGIC.RESET_UPDATE"
 msgid "Refresh Port"
-msgstr "Port Réinitialisation"
+msgstr "Port Actualiser"
 
 #. STRINGS.UI.OVERLAYS.LOGIC.TOOLTIPS.DISCONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.LOGIC.TOOLTIPS.DISCONNECTED"
@@ -31035,7 +30999,6 @@ msgctxt "STRINGS.UI.PRODUCTINFO_RESEARCHREQUIRED"
 msgid "Research required..."
 msgstr "Recherche nécessaire..."
 
-# infinitif ou impératif ?
 #. STRINGS.UI.PRODUCTINFO_SELECTMATERIAL
 msgctxt "STRINGS.UI.PRODUCTINFO_SELECTMATERIAL"
 msgid "Select {0}:"
@@ -31266,13 +31229,13 @@ msgstr "Non Attribué"
 
 # Doit probablement être formulé autrement
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.WILL_BE_UNASSIGNED
-#, fuzzy
 msgctxt "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.WILL_BE_UNASSIGNED"
 msgid ""
 "Note: Assigning {0} to {1} will <color=#F44A47FF>unassign</color> them from "
 "{2}"
 msgstr ""
-"Note: Assigner {0} à {1} le <color=#F44A47FF>désassignera</color>  de {2}"
+"Note: Affecter {0} à la mission {1} le <color=#F44A47FF>libèrera</color> de"
+" {2}"
 
 #. STRINGS.UI.ROLES_SCREEN.DROPDOWN.ALREADY_ROLE
 msgctxt "STRINGS.UI.ROLES_SCREEN.DROPDOWN.ALREADY_ROLE"
@@ -31470,10 +31433,9 @@ msgid "Can tune up generators to increase power output"
 msgstr "Peut améliorer les générateurs pour produire plus d'énergie"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CONVEYOR_BUILD.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CONVEYOR_BUILD.DESCRIPTION"
 msgid "Can build conveyor rail systems"
-msgstr "Peut construire des systèmes de convoyage"
+msgstr "Peut construire des rails de convoyage"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.EXOSUIT_EXPERTISE.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.EXOSUIT_EXPERTISE.DESCRIPTION"
@@ -31502,10 +31464,9 @@ msgid "+{0} to Caring"
 msgstr "+{0} aux Soins"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.INCREASED_CARRY_AMOUNT.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.INCREASED_CARRY_AMOUNT.DESCRIPTION"
 msgid "+{0}kg to Carrying Capacity"
-msgstr "Poids Transportable"
+msgstr "Poids Transportable: +{0}kg"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.INCREASED_CONSTRUCTION.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.INCREASED_CONSTRUCTION.DESCRIPTION"
@@ -31988,7 +31949,7 @@ msgstr "Outil pour Coller les Paramètres"
 #. STRINGS.UI.TOOLS.DECONSTRUCT.NAME
 msgctxt "STRINGS.UI.TOOLS.DECONSTRUCT.NAME"
 msgid "Deconstruct"
-msgstr "Déconstruction"
+msgstr "Démolir"
 
 #. STRINGS.UI.TOOLS.DECONSTRUCT.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.DECONSTRUCT.TOOLACTION"
@@ -32115,7 +32076,6 @@ msgctxt "STRINGS.UI.TOOLS.HARVEST.NAME"
 msgid "Harvest"
 msgstr "Récolter"
 
-# s/LANCER/ACTIVER/
 #. STRINGS.UI.TOOLS.HARVEST.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.HARVEST.TOOLACTION"
 msgid "DRAG TO TOGGLE HARVEST"
@@ -32377,10 +32337,9 @@ msgid "Obstructed by wire"
 msgstr "Géné par un câble"
 
 #. STRINGS.UI.TOOLTIPS.HELP_REQUIRES_ROOM
-#, fuzzy
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_REQUIRES_ROOM"
 msgid "Must be in a room."
-msgstr "Doit être construit sur le sol"
+msgstr "Doit être dans une pièce."
 
 #. STRINGS.UI.TOOLTIPS.HELP_ROTATE_KEY
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_ROTATE_KEY"
@@ -33261,7 +33220,6 @@ msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.SUBTITLE"
 msgid "Recipes"
 msgstr "Recettes"
 
-# eg: Recettes: Grill Électrique
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.TITLE"
 msgid "{0} Recipes"
@@ -33758,7 +33716,7 @@ msgstr "Activé si:"
 #. STRINGS.UI.UISIDESCREENS.TEMPERATURESWITCHSIDESCREEN.COLDER_BUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.TEMPERATURESWITCHSIDESCREEN.COLDER_BUTTON"
 msgid "Below"
-msgstr "Dessous"
+msgstr "Inférieur à"
 
 #. STRINGS.UI.UISIDESCREENS.TEMPERATURESWITCHSIDESCREEN.CURRENT_TEMPERATURE
 msgctxt ""
@@ -33778,12 +33736,12 @@ msgstr "Seuil de Température"
 #. STRINGS.UI.UISIDESCREENS.TEMPERATURESWITCHSIDESCREEN.WARMER_BUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.TEMPERATURESWITCHSIDESCREEN.WARMER_BUTTON"
 msgid "Above"
-msgstr "Au dessus"
+msgstr "Supérieur à"
 
 #. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.ABOVE_BUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.ABOVE_BUTTON"
 msgid "Above"
-msgstr "Au dessus"
+msgstr "Supérieur à"
 
 #. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.ACTIVATE_IF
 msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.ACTIVATE_IF"
@@ -33793,7 +33751,7 @@ msgstr "Activer si:"
 #. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.BELOW_BUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.BELOW_BUTTON"
 msgid "Below"
-msgstr "Dessous"
+msgstr "Inférieur à"
 
 #. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.CURRENT_VALUE
 msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.CURRENT_VALUE"
@@ -33929,9 +33887,7 @@ msgctxt "STRINGS.UI.UISIDESCREENS.TIME_RANGE_SIDE_SCREEN.ON"
 msgid "Activation Time"
 msgstr "Heure d'Activation"
 
-# Test & Fix the string
 #. STRINGS.UI.UISIDESCREENS.TIME_RANGE_SIDE_SCREEN.ON_TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.TIME_RANGE_SIDE_SCREEN.ON_TOOLTIP"
 msgid ""
 "Activation time determines the time of day this sensor should enter its "
@@ -33939,10 +33895,10 @@ msgid ""
 "------------------\n"
 "This sensor becomes active {0} through the day"
 msgstr ""
-"Le temps d'Activation détermine l'heure à laquelle ce capture entrera dans "
+"L'Heure d'Activation détermine l'heure à laquelle ce capteur entrera dans "
 "sa période d'activité\n"
 "------------------\n"
-"Ce capteur devient actif {0} through the day "
+"Ce capteur devient actif {0} au fil de la journée"
 
 #. STRINGS.UI.UISIDESCREENS.TIME_RANGE_SIDE_SCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.TIME_RANGE_SIDE_SCREEN.TITLE"
@@ -34021,7 +33977,6 @@ msgctxt ""
 msgid "Add or remove this material from storage"
 msgstr "Ajouter ou retirer ce matériau du stockage"
 
-# Voir le contexte
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ONLYALLOWTRANSPORTITEMSBUTTON
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN."
@@ -34029,7 +33984,6 @@ msgctxt ""
 msgid "Sweep Only"
 msgstr "Ramasser Uniquement"
 
-# Voir le contexte
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ONLYALLOWTRANSPORTITEMSBUTTONTOOLTIP
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN."
@@ -34037,7 +33991,7 @@ msgctxt ""
 msgid ""
 "Only store objects marked Sweep <color=#F44A47>[K]</color> in this container"
 msgstr ""
-"Ne stocker que les objets marqués à Balayer <color=#F44A47>[K]</color> dans "
+"Ne stocker que les objets marqués à Ramasser <color=#F44A47>[K]</color> dans "
 "ce conteneur"
 
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.TITLE
@@ -34366,12 +34320,12 @@ msgstr ""
 #. STRINGS.UI.USERMENUACTIONS.DEMOLISH.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.DEMOLISH.NAME"
 msgid "Deconstruct"
-msgstr "Déconstruction"
+msgstr "Démolir"
 
 #. STRINGS.UI.USERMENUACTIONS.DEMOLISH.NAME_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.DEMOLISH.NAME_OFF"
 msgid "Cancel Deconstruct"
-msgstr "Annuler la Déconstruction"
+msgstr "Annuler la Démolition"
 
 #. STRINGS.UI.USERMENUACTIONS.DEMOLISH.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.DEMOLISH.TOOLTIP"
