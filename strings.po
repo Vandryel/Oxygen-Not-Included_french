@@ -4,7 +4,7 @@ msgstr ""
 "Application: Oxygen Not Included\n"
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2018-01-31 01:03+0100\n"
+"PO-Revision-Date: 2018-01-31 20:14+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
@@ -387,7 +387,7 @@ msgstr "Cet équipement utilise {ElementTypes} du stock"
 #. STRINGS.BUILDING.STATUSITEMS.CONVEYOR.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONVEYOR.NAME"
 msgid "Contents: {Contents}"
-msgstr "Contenus: {Contents}"
+msgstr "Contenu: {Contents}"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONVEYOR.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONVEYOR.TOOLTIP"
@@ -1410,7 +1410,7 @@ msgstr "Cette ressource ne peux pas être collectée par des outils de Duplicant
 #. STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NAME"
 msgid "New Duplicants Available"
-msgstr "Nouveau Duplicants Disponible"
+msgstr "Nouveaux Duplicants Disponibles"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_NAME"
@@ -1730,7 +1730,7 @@ msgstr "Tâche Assignée: Démolition"
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.TOOLTIP"
 msgid "Waiting for a Duplicant to deconstruct this building"
-msgstr "En attente d'un Duplicant pour démonter cet équipement"
+msgstr "En attente d'un Duplicant pour démolir cet équipement"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGFISH.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGFISH.NAME"
@@ -1799,7 +1799,7 @@ msgstr "En attente d'un Duplicant pour utiliser cet équipement"
 #. STRINGS.BUILDING.STATUSITEMS.PIPE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PIPE.NAME"
 msgid "Contents: {Contents}"
-msgstr "Contenus: {Contents}"
+msgstr "Contenu: {Contents}"
 
 #. STRINGS.BUILDING.STATUSITEMS.PIPE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PIPE.TOOLTIP"
@@ -2867,7 +2867,7 @@ msgid ""
 "\n"
 "Duplicants will automatically return to their cots to sleep at night."
 msgstr ""
-"Fournit un endroit où dormir à un Duplicant.\n"
+"Donne à un Duplicant un endroit où dormir.\n"
 "\n"
 "Les Duplicants retourneront dormir automatiquement dans leur lit  à la nuit "
 "tombée."
@@ -2940,8 +2940,8 @@ msgid ""
 "\n"
 "Must be painted by a Duplicant."
 msgstr ""
-"Augmente le <style=\"decor\">Décor</style> et réduit le <style=\"stress"
-"\">Stress</style>.\n"
+"Améliore la <style=\"decor\">Décoration</style> et réduit le <style=\"stress"
+"\">Stress</style> .\n"
 "\n"
 "Doit être peint par un Duplicant."
 
@@ -3533,8 +3533,8 @@ msgid ""
 "Houses a single <style=\"plant\">Plant</style> when sown with a <style=\"seed"
 "\">Seed</style>."
 msgstr ""
-"Augmente le <style=\"decor\">Décor</style> et réduit le <style=\"stress"
-"\">Stress</style>.\n"
+"Améliore la <style=\"decor\">Décoration</style> et réduit le <style=\"stress"
+"\">Stress</style> .\n"
 "\n"
 "Fait pousser une <style=\"plant\">Plante</style> quand une <style=\"seed"
 "\">Graine</style> y est plantée."
@@ -3882,9 +3882,10 @@ msgid ""
 "\n"
 "Living Duplicants will automatically place an unburied corpse inside."
 msgstr ""
-"Fournit un endroit où les Duplicants décédés peuvent reposer en paix.\n"
+"Un endroit où les Duplicants décédés peuvent reposer en paix.\n"
 "\n"
-"Les Duplicants vivants viendront automatiquement placer un corps dedans."
+"Les Duplicants survivants viendront automatiquement placer un corps à"
+" l'intérieur."
 
 #. STRINGS.BUILDINGS.PREFABS.GRAVE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVE.NAME"
@@ -4040,7 +4041,7 @@ msgid ""
 "\n"
 "Must be sculpted by a Duplicant."
 msgstr ""
-"Augmente le <style=\"decor\">Décor</style> et réduit le <style=\"stress"
+"Améliore la <style=\"decor\">Décoration</style> et réduit le <style=\"stress"
 "\">Stress</style> .\n"
 "\n"
 "Doit être sculpté par un Duplicant."
@@ -4931,10 +4932,10 @@ msgid ""
 "\n"
 "Duplicants will automatically sleep in their assigned beds at night."
 msgstr ""
-"Fournit un endroit où dormir à un Duplicant et restaure plus d'<style="
+"Donne à un Duplicant un endroit où dormir et restaure plus d'<style="
 "\"stress\">Endurance</style>.\n"
 "\n"
-"Les Duplicants iront dormir automatiquement dans leurs lit à la nuit tombée."
+"Les Duplicants rejoindront le lit qui leur est attribué à la nuit tombée."
 
 #. STRINGS.BUILDINGS.PREFABS.LUXURYBED.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.NAME"
@@ -5776,8 +5777,8 @@ msgid ""
 "\n"
 "Must be sculpted by a Duplicant."
 msgstr ""
-"Augmente le <style=\"decor\">Décor</style> et réduit le <style=\"stress"
-"\">Stress</style>.\n"
+"Améliore la <style=\"decor\">Décoration</style> et réduit le <style=\"stress"
+"\">Stress</style> .\n"
 "\n"
 "Doit être sculpté par un Duplicant."
 
@@ -8483,13 +8484,13 @@ msgid ""
 "<style=\"decor\">Decor</style> affects a Duplicant's <style=\"decor"
 "\">Stress</style> and their opinion of their surroundings."
 msgstr ""
-"Le <style=\"decor\">Décor</style> influe sur le <style=\"decor\">Stress</"
+"La <style=\"decor\">Décoration</style> influe sur le <style=\"decor\">Stress</"
 "style> du Duplicant et son opinion sur son environnement."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECOR.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECOR.NAME"
 msgid "Decor"
-msgstr "Décor"
+msgstr "Décoration"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECOREXPECTATION.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECOREXPECTATION.DESC"
@@ -8497,8 +8498,9 @@ msgid ""
 "Not meeting a Duplicant's <style=\"decor\">Decor</style> expectations will "
 "increase their <style=\"stress\">Stress</style>."
 msgstr ""
-"Les Duplicants qui ne remplissent pas leurs besoins de <style=\"decor"
-"\">Décor</style> verront leur <style=\"stress\">Stress</style> augmenter."
+"Ne pas fournir à un Duplicants le niveau de <style=\"decor\">Décoration<"
+"/style> "
+"qu'il souhaite augmentera son <style=\"stress\">Stress</style>."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECOREXPECTATION.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECOREXPECTATION.NAME"
@@ -8514,7 +8516,7 @@ msgstr "Zone d'effet d'un objet <style=\"decor\">Décoratif</style>."
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECORRADIUS.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECORRADIUS.NAME"
 msgid "Decor Radius"
-msgstr "Rayon de Décor"
+msgstr "Rayonnement de la Décoration"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.DESC"
@@ -8853,7 +8855,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.NAME"
 msgid "Bathroom Hustle"
-msgstr "Bousculade dans la Salle de Bain"
+msgstr ""
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.TOXICITYDELTA.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOXICITYDELTA.NAME"
@@ -8878,7 +8880,7 @@ msgstr "{0}: {1}"
 #. STRINGS.DUPLICANTS.CHOREGROUPS.ART.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.ART.DESC"
 msgid "Sculpt or paint to improve colony decor."
-msgstr "Sculpter ou peindre pour améliorer la décoration de votre colonie."
+msgstr "Sculptez ou peignez pour améliorer la décoration de votre colonie."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.ART.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.ART.NAME"
@@ -9160,7 +9162,6 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.DEBUGGOTO.STATUS"
 msgid "DebugGoTo"
 msgstr "DebugGoTo"
 
-# Déconstruire est trop long
 #. STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.NAME"
 msgid "Deconstruct"
@@ -9169,7 +9170,7 @@ msgstr "Démonter"
 #. STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.STATUS"
 msgid "Going to deconstruct"
-msgstr "Va déconstruire"
+msgstr "Va démolir"
 
 #. STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.NAME"
@@ -11221,8 +11222,9 @@ msgid ""
 "Duplicants will demand better decor and accommodations with each Expertise "
 "level they gain"
 msgstr ""
-"Les Duplicants demanderont un meilleur décor et hébergement à chaque niveau "
-"d'expertise qu'ils gagnent"
+"Les Duplicants exigeront une meilleure décoration et un meilleur hébergement"
+" à "
+"chaque niveau d'expertise qu'ils gagnent"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.FARMTINKER.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FARMTINKER.NAME"
@@ -12164,15 +12166,16 @@ msgid ""
 "This Duplicant desires decor values of {0} or higher, and becomes <style="
 "\"stress\">Stressed</style> in areas with lower decor."
 msgstr ""
-"La Plupart des objets ont une valeur de <style=\"decor\">Décor</style> qui "
+"La Plupart des objets ont une valeur de <style=\"decor\">Décoration</style>"
+" qui "
 "augmente ou diminue l'opinion d'un Duplicant sur son environnement.\n"
-"Ce Duplicant souhaite une valeur de décor de {0} ou plus, et sera <style="
-"\"stress\">Stressé</style> dans une zone qui a peu de décor."
+"Ce Duplicant souhaite une valeur de décoration de {0} ou plus, et sera <style="
+"\"stress\">Stressé</style> dans une zone qui a moins de décoration."
 
 #. STRINGS.DUPLICANTS.NEEDS.DECOR.NAME
 msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.NAME"
 msgid "Decor Expectation"
-msgstr "Décor Attendu"
+msgstr "Décoration Attendue"
 
 #. STRINGS.DUPLICANTS.NEEDS.DECOR.OBSERVED_DECOR
 msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.OBSERVED_DECOR"
@@ -13340,7 +13343,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATS.DECOR.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.DECOR.NAME"
 msgid "Decor"
-msgstr "Décor"
+msgstr "Décoration"
 
 #. STRINGS.DUPLICANTS.STATS.DECOR.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.DECOR.TOOLTIP"
@@ -13352,12 +13355,13 @@ msgid ""
 "Open the Decor Overlay <color=#F44A47>[F8]</color> to view current decor "
 "values"
 msgstr ""
-"Décor\n"
+"Décoration\n"
 "------------------\n"
-"Les Duplicants deviennent stressés dans une zone où le niveau de décor est "
-"plus bas que ce à quoi ils aspirent\n"
-"Ouvrez le Calque Décor <color=#F44A47>[F8]</color> pour voir la valeur du "
-"décor"
+"Les Duplicants deviennent stressés dans une zone où le niveau de Décoration "
+"est plus bas que ce à quoi ils aspirent\n"
+"Ouvrez le Calque Décoration <color=#F44A47>[F8]</color> pour voir la valeur"
+" de "
+"la décoration actuelle"
 
 #. STRINGS.DUPLICANTS.STATS.DISEASERECOVERYTIME.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.DISEASERECOVERYTIME.NAME"
@@ -13730,7 +13734,7 @@ msgstr "Ce Duplicant transporte des matériaux vers {Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTING.NAME"
 msgid "Deconstructing {Target}"
-msgstr "Déconstruit {Target}"
+msgstr "Démolit {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTING.TOOLTIP"
@@ -14434,13 +14438,13 @@ msgstr "Le dernier repas de ce Duplicant n'a pas rempli ses attentes"
 #. STRINGS.DUPLICANTS.STATUSITEMS.POORDECOR.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.POORDECOR.NAME"
 msgid "Drab decor"
-msgstr "Décor terne"
+msgstr "Décoration terne"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.POORDECOR.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.POORDECOR.TOOLTIP"
 msgid "This Duplicant is depressed by the lack of decor in this area"
 msgstr ""
-"Ce Duplicant trouve que le manque de Décor dans cette zone est déprimant"
+"Ce Duplicant trouve que le manque de Décoration dans cette zone est déprimant"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.PROCESSING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.PROCESSING.NAME"
@@ -15213,7 +15217,7 @@ msgstr "Mauvais Repas"
 #. STRINGS.DUPLICANTS.THOUGHTS.POORDECOR.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.POORDECOR.TOOLTIP"
 msgid "Poor Decor"
-msgstr "Décor Moche"
+msgstr "Décoration Moche"
 
 #. STRINGS.DUPLICANTS.THOUGHTS.PUTRIDODOUR.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.THOUGHTS.PUTRIDODOUR.TOOLTIP"
@@ -16115,7 +16119,7 @@ msgstr ""
 "composé de milliards d'organismes primordiaux morts.\n"
 "\n"
 "Il doit être raffiné en <style=\"liquid\">Pétrole</style> avant de pouvoir "
-"être pour générer de l'énergie."
+"utilisé pour générer de l'énergie."
 
 #. STRINGS.ELEMENTS.CRUDEOIL.NAME
 msgctxt "STRINGS.ELEMENTS.CRUDEOIL.NAME"
@@ -16711,7 +16715,7 @@ msgstr "<style=\"heat\">Température de surchauffe</style>: {0}"
 #. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.TOOLTIP.DECOR
 msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.TOOLTIP.DECOR"
 msgid "This material will add {0} to the finished building's Decor"
-msgstr "Ce matériau ajoutera {0} à la décoration finale de la structure"
+msgstr "Ce matériau ajoutera {0} à la Décoration finale de la structure"
 
 #. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.TOOLTIP.EFFECTS_HEADER
 msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.TOOLTIP.EFFECTS_HEADER"
@@ -17767,7 +17771,7 @@ msgstr "Transforme votre Duplicant en référence de charme et de style."
 msgctxt "STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.EFFECT"
 msgid "Increases Decor in a small area effect around the wearer."
 msgstr ""
-"Augmente le Décor dans un petit rayon autour du Duplicant qui le porte."
+"Améliore la Décoration dans un petit rayon autour du Duplicant qui le porte."
 
 #. STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.GENERICNAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.GENERICNAME"
@@ -17783,7 +17787,7 @@ msgstr "Veste tape-à-l'œil"
 msgctxt "STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.RECIPE_DESC"
 msgid "Increases Decor in a small area effect around the wearer."
 msgstr ""
-"Augmente le Décor dans un petit rayon autour du Duplicant qui le porte."
+"Améliore la Décoration dans un petit rayon autour du Duplicant qui le porte."
 
 #. STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK.EFFECT
 msgctxt "STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK.EFFECT"
@@ -23495,13 +23499,13 @@ msgid ""
 "<style=\"decor\">Decor</style> boosting items to counteract the gloom of "
 "underground living."
 msgstr ""
-"Objets <style=\"decor\">décoratifs</style> pour parer à la déprime causée "
+"Objets <style=\"decor\">décoratifs</style> pour pallier la déprime causée "
 "par la vie souterraine."
 
 #. STRINGS.RESEARCH.TECHS.INTERIORDECOR.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.INTERIORDECOR.NAME"
 msgid "Interior Decor"
-msgstr "Décor intérieur"
+msgstr "Décoration d'Intérieur"
 
 #. STRINGS.RESEARCH.TECHS.LIQUIDPIPING.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.LIQUIDPIPING.DESC"
@@ -23829,12 +23833,12 @@ msgstr "Un Lit Seul"
 #. STRINGS.ROOMS.CRITERIA.BUILDING_DECOR_POSITIVE.DESCRIPTION
 msgctxt "STRINGS.ROOMS.CRITERIA.BUILDING_DECOR_POSITIVE.DESCRIPTION"
 msgid "Requires at least one building with positive decor"
-msgstr "Nécessite au moins un équipement avec un décor positif"
+msgstr "Requiert au moins un équipement avec une décoration positive"
 
 #. STRINGS.ROOMS.CRITERIA.BUILDING_DECOR_POSITIVE.NAME
 msgctxt "STRINGS.ROOMS.CRITERIA.BUILDING_DECOR_POSITIVE.NAME"
 msgid "Positive decor"
-msgstr "Décor positif"
+msgstr "Décoration positive"
 
 #. STRINGS.ROOMS.CRITERIA.CLINIC.DESCRIPTION
 msgctxt "STRINGS.ROOMS.CRITERIA.CLINIC.DESCRIPTION"
@@ -24544,12 +24548,12 @@ msgstr "Un remède pour tout sauf le rhume."
 #. STRINGS.UI.BUILDCATEGORIES.MISC.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.MISC.NAME"
 msgid "Decor"
-msgstr "Décor"
+msgstr "Décoration"
 
 #. STRINGS.UI.BUILDCATEGORIES.MISC.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.MISC.TOOLTIP"
 msgid "Spruce up your colony with some lovely interior decorating."
-msgstr "Embellissez votre colonie avec une belle décoration intérieure."
+msgstr "Embellissez votre colonie avec une belle décoration d'intérieur."
 
 #. STRINGS.UI.BUILDCATEGORIES.OXYGEN.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.OXYGEN.NAME"
@@ -25027,12 +25031,13 @@ msgstr ""
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORDECREASED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORDECREASED"
 msgid "Decreases Decor values by {0} in a {1} tile radius"
-msgstr "Valeurs de décor: {0} sur {1} dalle(s) de rayon"
+msgstr "Valeurs de décoration: {0} sur {1} dalle(s) de rayon"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORPROVIDED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORPROVIDED"
 msgid "Improves Decor values by {0} in a {1} tile radius"
-msgstr "Améliore les valeurs de Décor par {0} dans un rayon de {1} dalle(s)"
+msgstr ""
+"Améliore les valeurs de Décoration par {0} dans un rayon de {1} dalle(s)"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DISEASECONSUMEDPERUSE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DISEASECONSUMEDPERUSE"
@@ -25850,7 +25855,7 @@ msgstr "Nettoyer la Sélection"
 #. STRINGS.UI.DEBUG_TOOLS.SAVE_BASE_TEMPLATE.DECONSTRUCT_BUTTON
 msgctxt "STRINGS.UI.DEBUG_TOOLS.SAVE_BASE_TEMPLATE.DECONSTRUCT_BUTTON"
 msgid "Deconstruct"
-msgstr "Déconstruire"
+msgstr "Démolir"
 
 #. STRINGS.UI.DEBUG_TOOLS.SAVE_BASE_TEMPLATE.DEFAULT_SAVE_NAME
 msgctxt "STRINGS.UI.DEBUG_TOOLS.SAVE_BASE_TEMPLATE.DEFAULT_SAVE_NAME"
@@ -29592,7 +29597,7 @@ msgstr ""
 #. STRINGS.UI.OVERLAYS.DECOR.TOTAL
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.TOTAL"
 msgid "Total Decor: "
-msgstr "Décor Total: "
+msgstr "Décoration Totale: "
 
 #. STRINGS.UI.OVERLAYS.DECOR.VALUE
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.VALUE"
@@ -31251,8 +31256,8 @@ msgstr "{0} <color=#F44A47FF>({1})</color>"
 msgctxt "STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.DECOR.HIGH.DESCRIPTION"
 msgid "Duplicants in this job have higher than normal decor standards"
 msgstr ""
-"Les Duplicants à ce poste ont des exigences en décoration plus élevées que "
-"la moyenne"
+"Les Duplicants affectés à cette mission ont des exigences en décoration plus "
+"élevées que la moyenne"
 
 #. STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.DECOR.HIGH.NAME
 msgctxt "STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.DECOR.HIGH.NAME"
@@ -31262,7 +31267,9 @@ msgstr "Décoration Élevée"
 #. STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.DECOR.MEDIUM.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.DECOR.MEDIUM.DESCRIPTION"
 msgid "Duplicants in this job have fairly reasonable decor standards"
-msgstr "Les Duplicants à ce poste ont des exigences en décoration raisonnables"
+msgstr ""
+"Les Duplicants affectés à cette mission ont des exigences en décoration"
+" raisonnables"
 
 #. STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.DECOR.MEDIUM.NAME
 msgctxt "STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.DECOR.MEDIUM.NAME"
@@ -31272,7 +31279,8 @@ msgstr "Décoration Moyenne"
 #. STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.DECOR.MINOR.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.DECOR.MINOR.DESCRIPTION"
 msgid "Duplicants in this job have low decor standards"
-msgstr "Les Duplicants à ce poste ont des exigences en décoration faibles"
+msgstr ""
+"Les Duplicants affectés à cette mission ont de faibles besoins en décoration"
 
 #. STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.DECOR.MINOR.NAME
 msgctxt "STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.DECOR.MINOR.NAME"
@@ -31285,7 +31293,8 @@ msgid ""
 "Duplicants in this job have much higher decor standards than could "
 "realistically be provided"
 msgstr ""
-"Les Duplicants à ce poste ont des exigences en décoration plus élevées que "
+"Les Duplicants affectés à cette mission exigent une décoration plus élevée"
+" que "
 "ce qui peut être raisonnablement fourni"
 
 #. STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.DECOR.UNREASONABLE.NAME
@@ -31297,12 +31306,13 @@ msgstr "Décoration Décadente"
 msgctxt "STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.DECOR.VERY_HIGH.DESCRIPTION"
 msgid "Duplicants in this job have quite high decor standards"
 msgstr ""
-"Les Duplicants qui exercent ce métier ont des besoins en décor plutôt élevés"
+"Les Duplicants affectés à cette mission ont des besoins en décoration plutôt"
+" élevés"
 
 #. STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.DECOR.VERY_HIGH.NAME
 msgctxt "STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.DECOR.VERY_HIGH.NAME"
 msgid "Superb Decor"
-msgstr "Décoration Superbe"
+msgstr "Superbe Décoration"
 
 #. STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.FOOD_QUALITY.EXCEPTIONAL.DESCRIPTION
 msgctxt ""
@@ -31954,12 +31964,12 @@ msgstr "Démolir"
 #. STRINGS.UI.TOOLS.DECONSTRUCT.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.DECONSTRUCT.TOOLACTION"
 msgid "DRAG TO DECONSTRUCT"
-msgstr "FAITES GLISSER POUR DÉCONSTRUIRE"
+msgstr "FAITES GLISSER POUR DÉMOLIR"
 
 #. STRINGS.UI.TOOLS.DECONSTRUCT.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.DECONSTRUCT.TOOLNAME"
 msgid "Deconstruct tool"
-msgstr "Outil de déconstruction"
+msgstr "Outil de démolition"
 
 #. STRINGS.UI.TOOLS.DIG.NAME
 msgctxt "STRINGS.UI.TOOLS.DIG.NAME"
@@ -32198,8 +32208,7 @@ msgstr "Faites glisser pour annuler les travaux en attente"
 #. STRINGS.UI.TOOLTIPS.CANCELDECONSTRUCTIONBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.CANCELDECONSTRUCTIONBUTTON"
 msgid "Cancel queued orders or deconstruct existing buildings"
-msgstr ""
-"Annuler les commandes en attente ou déconstruire les bâtiments existants"
+msgstr "Annuler les ordres en attente ou démolitions des équipements existants"
 
 #. STRINGS.UI.TOOLTIPS.CLEANUPMAINBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.CLEANUPMAINBUTTON"
@@ -32229,12 +32238,12 @@ msgstr "Affiche la croissance de la flore"
 #. STRINGS.UI.TOOLTIPS.DECONSTRUCTBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.DECONSTRUCTBUTTON"
 msgid "Drag to demolish buildings"
-msgstr "Faîtes glisser pour démonter les structures"
+msgstr "Faîtes glisser pour démolir les structures"
 
 #. STRINGS.UI.TOOLTIPS.DECOROVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.DECOROVERLAYSTRING"
 msgid "Displays decor values"
-msgstr "Affiche les valeurs de décor"
+msgstr "Affiche les valeurs de décoration"
 
 #. STRINGS.UI.TOOLTIPS.DIGBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.DIGBUTTON"
@@ -33759,7 +33768,7 @@ msgid ""
 "Current {0}:\n"
 "{1}"
 msgstr ""
-"Actuel {0}:\n"
+"{0} Actuel(le):\n"
 "{1}"
 
 #. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.DISEASE
@@ -35427,4 +35436,5 @@ msgstr "Aspersion de sable..."
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT9"
 msgid "Sprinkling sand..."
 msgstr "Aspersion de sable..."
+
 
