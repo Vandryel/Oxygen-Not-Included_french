@@ -1185,22 +1185,22 @@ msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDIN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDIN.NAME"
-msgid "No Conveyor Intake"
+msgid "No Conveyor Loader"
 msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDIN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDIN.TOOLTIP"
-msgid "This building has no conveyor source"
+msgid "Material cannot be fed onto this Conveyor Rail system for transport\n------------------\nEnter the Shipping Tab <color=#F44A47>[7]</color> of the Build Menu to build and connect a Conveyor Loader"
 msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDOUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDOUT.NAME"
-msgid "No Conveyor Output"
+msgid "No Conveyor Receptacle"
 msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDOUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDOUT.TOOLTIP"
-msgid "This building has no conveyor output"
+msgid "Material cannot be offloaded from this Conveyor system and will backup the rails\n------------------\nEnter the Shipping Tab <color=#F44A47>[7]</color> of the Build Menu to build and connect a Conveyor Receptacle"
 msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.NEUTRONIUMUNMINABLE.NAME
@@ -1391,6 +1391,16 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.NOTENOUGHPOWER.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOTENOUGHPOWER.TOOLTIP"
 msgid "This building does not have enough stored charge to run"
+msgstr ""
+
+#. STRINGS.BUILDING.STATUSITEMS.NOTINRECOMMENDEDROOM.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.NOTINRECOMMENDEDROOM.NAME"
+msgid "Outside of {0}"
+msgstr ""
+
+#. STRINGS.BUILDING.STATUSITEMS.NOTINRECOMMENDEDROOM.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.NOTINRECOMMENDEDROOM.TOOLTIP"
+msgid "It is recommended to place this building inside a {0}\n\nOpen the Room Overlay <color=#F44A47>[F11]</color> to view full room status"
 msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.NOTINREQUIREDROOM.NAME
@@ -1650,12 +1660,12 @@ msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.SOLIDPIPEOBSTRUCTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SOLIDPIPEOBSTRUCTED.NAME"
-msgid "Conveyor is full"
+msgid "Conveyor Rail Backup"
 msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.SOLIDPIPEOBSTRUCTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SOLIDPIPEOBSTRUCTED.TOOLTIP"
-msgid "Conveyor is full"
+msgid "This Conveyor Rail cannot carry anymore material\n------------------\nRemove material from the Conveyor Receptacle to free space for more objects"
 msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.STORAGELOCKER.NAME
@@ -1865,7 +1875,7 @@ msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_ACTIVE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_ACTIVE.TOOLTIP"
-msgid "The turbine is active"
+msgid "The turbine is running at {0} RPM"
 msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_BLOCKED_OUTPUT.NAME
@@ -1885,17 +1895,17 @@ msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_MASS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_MASS.TOOLTIP"
-msgid "This turbine requires {MASS} of {ELEMENT} at {TEMPERATURE} to run"
+msgid "The turbine must have at least {MASS} more {ELEMENT} below it than above it for things to run."
 msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_SPINNING_UP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_SPINNING_UP.NAME"
-msgid "Warming Up"
+msgid "Spinning Up"
 msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_SPINNING_UP.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_SPINNING_UP.TOOLTIP"
-msgid "The turbine is warming up"
+msgid "The turbine needs more time to spin up"
 msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.UNASSIGNED.NAME
@@ -2150,7 +2160,7 @@ msgstr ""
 
 #. STRINGS.BUILDINGS.AUTOMATABLE.DISABLE_AUTOMATIONONLY.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.AUTOMATABLE.DISABLE_AUTOMATIONONLY.TOOLTIP"
-msgid "Building may be used by duplicants or Transfer Arms."
+msgid "This building's storage may be accessed by both Duplicants and Auto-Sweeper buildings"
 msgstr ""
 
 #. STRINGS.BUILDINGS.AUTOMATABLE.ENABLE_AUTOMATIONONLY.NAME
@@ -2160,7 +2170,7 @@ msgstr ""
 
 #. STRINGS.BUILDINGS.AUTOMATABLE.ENABLE_AUTOMATIONONLY.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.AUTOMATABLE.ENABLE_AUTOMATIONONLY.TOOLTIP"
-msgid "Building may only be used by Transfer Arms, and not by duplicants."
+msgid "This building's storage may be accessed by Auto-Sweepers only\n------------------\nDuplicants will not be permitted to add or remove materials from this building"
 msgstr ""
 
 #. STRINGS.BUILDINGS.DAMAGESOURCES.BAD_INPUT_ELEMENT
@@ -4330,7 +4340,7 @@ msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUIT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUIT.DESC"
-msgid "Solid conveyors carry solid items around your base."
+msgid "Conveyor rails carry solid items around your base."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUIT.EFFECT
@@ -4360,47 +4370,47 @@ msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITINBOX.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITINBOX.DESC"
-msgid "Solid Conveyor Inboxes accept items to be transferred through the Solid Conveyor system."
+msgid "Conveyor Loaders accept items to be transferred through the Conveyor Rail system."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITINBOX.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITINBOX.EFFECT"
-msgid "Accepts solid goods to be conveyed to a Solid Conveyor Outbox"
+msgid "Accepts solid goods to be conveyed to a Conveyor Receptacle."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITINBOX.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITINBOX.NAME"
-msgid "Conveyor Inbox"
+msgid "Conveyor Loader"
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITOUTBOX.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITOUTBOX.DESC"
-msgid "Solid Conveyor Outboxes allow items to be removed from the Solid Conveyor system."
+msgid "Conveyor Receptacles allow items to be removed from the Conveyor Rail system."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITOUTBOX.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITOUTBOX.EFFECT"
-msgid "Receives solid goods for removal from the Solid Conveyor system."
+msgid "Receives solid goods for removal from the Conveyor Rail system."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITOUTBOX.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITOUTBOX.NAME"
-msgid "Conveyor Outbox"
+msgid "Conveyor Receptacle"
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDTRANSFERARM.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDTRANSFERARM.DESC"
-msgid "Ore Transfer Arms will automatically pick up and deliver solid goods within a short range."
+msgid "Auto-Sweepers will automatically pick up and deliver solid goods within a short range."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDTRANSFERARM.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDTRANSFERARM.EFFECT"
-msgid "Delivers solid goods between nearby storage containers, machines, and Conveyor Inboxes and Outboxes."
+msgid "Delivers solid goods between nearby storage containers, machines, and Conveyor Loaders and Receptacles."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDTRANSFERARM.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDTRANSFERARM.NAME"
-msgid "Ore Transfer Arm"
+msgid "Auto-Sweeper"
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.SPACEHEATER.DESC
@@ -4425,7 +4435,7 @@ msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.STEAMTURBINE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.STEAMTURBINE.EFFECT"
-msgid "Generates exceptional electrical <style=\"power\">Power</style> when supplied with <style=\"gas\">Steam</style>."
+msgid "Generates exceptional electrical <style=\"power\">Power</style> when there is at least 3000 g more <style=\"gas\">Steam</style> below it than above it."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.STEAMTURBINE.NAME
@@ -7363,6 +7373,11 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.HAS_URGE"
 msgid "Does not have urge"
 msgstr ""
 
+#. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.HEADER
+msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.HEADER"
+msgid "{Selected}'s Pending Errands:"
+msgstr ""
+
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_ALLOWED_BY_AUTOMATION
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_ALLOWED_BY_AUTOMATION"
 msgid "Allowed By Automation Setting"
@@ -7680,7 +7695,7 @@ msgstr ""
 
 #. STRINGS.DUPLICANTS.CHORES.SWITCHROLE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.SWITCHROLE.STATUS"
-msgid "Switching to newly assigned job"
+msgid "Switching to new job assignment"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.CHORES.TAKEMEDICINE.NAME
@@ -8820,12 +8835,12 @@ msgstr ""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.FARMTINKER.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FARMTINKER.NAME"
-msgid "Farmer's Tune-Up"
+msgid "Farmer's Touch"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.FARMTINKER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FARMTINKER.TOOLTIP"
-msgid "A skilled farmer has given this plant a growth speed bonus"
+msgid "A skilled Farmer has encouraged this plant to grow a little bit faster"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.FRESH_AND_CLEAN.CAUSE
@@ -8970,12 +8985,12 @@ msgstr ""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.MACHINETINKER.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MACHINETINKER.NAME"
-msgid "Engineer's Tune-Up"
+msgid "Engineer's Jerryrig"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.MACHINETINKER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MACHINETINKER.TOOLTIP"
-msgid "A skilled engineer has fine tuned all the gears and sprockets to make things run faster."
+msgid "A skilled Engineer has fine tuned all the gears and sprockets to make things run faster"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.MANAGEDCOLONY.NAME
@@ -9190,7 +9205,7 @@ msgstr ""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.POWERTINKER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.POWERTINKER.TOOLTIP"
-msgid "A skilled technician has given this generator an overhaul to improve its efficiency."
+msgid "A skilled Technician has given this generator an overhaul to improve its efficiency"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.PROPERBATHROOM.NAME
@@ -9435,7 +9450,7 @@ msgstr ""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STRESSREDUCTION.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STRESSREDUCTION.NAME"
-msgid "Getting Massage"
+msgid "Receiving Massage"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STRESSREDUCTION.TOOLTIP
@@ -11843,16 +11858,6 @@ msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.ROLE.TOOLTIP"
 msgid "This Duplicant is working as a(n) {Role}\n\nThey have {Progress} mastery of this job"
 msgstr ""
 
-#. STRINGS.DUPLICANTS.STATUSITEMS.ROLEPROMOTIONAVAILABLE.NAME
-msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.ROLEPROMOTIONAVAILABLE.NAME"
-msgid "Job Promotion Available"
-msgstr ""
-
-#. STRINGS.DUPLICANTS.STATUSITEMS.ROLEPROMOTIONAVAILABLE.TOOLTIP
-msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.ROLEPROMOTIONAVAILABLE.TOOLTIP"
-msgid "This Duplicant has mastered their job and may be eligible for a promotion"
-msgstr ""
-
 #. STRINGS.DUPLICANTS.STATUSITEMS.ROTTEN.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.ROTTEN.NAME"
 msgid "Rotten"
@@ -12185,7 +12190,7 @@ msgstr ""
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.TINKERING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.TINKERING.TOOLTIP"
-msgid "Aligning widgets"
+msgid "This Duplicant is making functional improvements to a building"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.TIRED.NAME
@@ -12405,7 +12410,7 @@ msgstr ""
 
 #. STRINGS.DUPLICANTS.TRAITS.AGGRESSIVE.NOREPAIR
 msgctxt "STRINGS.DUPLICANTS.TRAITS.AGGRESSIVE.NOREPAIR"
-msgid "• Refuses to repair anything while stressed"
+msgid "• Will not repair buildings during stress outbursts"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.TRAITS.ANEMIC.DESC
@@ -14010,7 +14015,7 @@ msgstr ""
 
 #. STRINGS.ELEMENTS.SLABS.DESC
 msgctxt "STRINGS.ELEMENTS.SLABS.DESC"
-msgid "Slabs are a refined mineral buildling block used for assembling advanced buildings."
+msgid "Slabs are a refined mineral building block used for assembling advanced buildings."
 msgstr ""
 
 #. STRINGS.ELEMENTS.SLABS.NAME
@@ -14736,6 +14741,11 @@ msgstr ""
 #. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGINVINCIBLE
 msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGINVINCIBLE"
 msgid "DebugInvincible"
+msgstr ""
+
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGNEXTCALL
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGNEXTCALL"
+msgid "DebugNextCall"
 msgstr ""
 
 #. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGNOTIFICATION
@@ -17123,6 +17133,11 @@ msgctxt "STRINGS.MISC.TAGS.ANYWATER"
 msgid "Water Based"
 msgstr ""
 
+#. STRINGS.MISC.TAGS.ART
+msgctxt "STRINGS.MISC.TAGS.ART"
+msgid "Wiring-related delivery and building"
+msgstr ""
+
 #. STRINGS.MISC.TAGS.BAGABLECREATURE
 msgctxt "STRINGS.MISC.TAGS.BAGABLECREATURE"
 msgid "Creatures"
@@ -17156,6 +17171,11 @@ msgstr ""
 #. STRINGS.MISC.TAGS.BUILDABLERAW
 msgctxt "STRINGS.MISC.TAGS.BUILDABLERAW"
 msgid "Raw Mineral"
+msgstr ""
+
+#. STRINGS.MISC.TAGS.BUILDING
+msgctxt "STRINGS.MISC.TAGS.BUILDING"
+msgid "Build-related delivery and digging"
 msgstr ""
 
 #. STRINGS.MISC.TAGS.BURNS
@@ -17198,6 +17218,16 @@ msgctxt "STRINGS.MISC.TAGS.CONSUMABLEORE"
 msgid "Consumable Ore"
 msgstr ""
 
+#. STRINGS.MISC.TAGS.CONVEYOR
+msgctxt "STRINGS.MISC.TAGS.CONVEYOR"
+msgid "Shipping-related building"
+msgstr ""
+
+#. STRINGS.MISC.TAGS.COOKING
+msgctxt "STRINGS.MISC.TAGS.COOKING"
+msgid "Cooking-related delivery"
+msgstr ""
+
 #. STRINGS.MISC.TAGS.COOKINGINGREDIENT
 msgctxt "STRINGS.MISC.TAGS.COOKINGINGREDIENT"
 msgid "Cooking Ingredient"
@@ -17211,6 +17241,11 @@ msgstr ""
 #. STRINGS.MISC.TAGS.DECORATION
 msgctxt "STRINGS.MISC.TAGS.DECORATION"
 msgid "Decoration"
+msgstr ""
+
+#. STRINGS.MISC.TAGS.DOCTORING
+msgctxt "STRINGS.MISC.TAGS.DOCTORING"
+msgid "Medicine-related delivery"
 msgstr ""
 
 #. STRINGS.MISC.TAGS.EDIBLE
@@ -17228,9 +17263,19 @@ msgctxt "STRINGS.MISC.TAGS.EXTRUDABLE"
 msgid "Extrudable"
 msgstr ""
 
+#. STRINGS.MISC.TAGS.FABRICATING
+msgctxt "STRINGS.MISC.TAGS.FABRICATING"
+msgid "Fabrication-related delivery"
+msgstr ""
+
 #. STRINGS.MISC.TAGS.FARMABLE
 msgctxt "STRINGS.MISC.TAGS.FARMABLE"
 msgid "Cultivable Soil"
+msgstr ""
+
+#. STRINGS.MISC.TAGS.FARMING
+msgctxt "STRINGS.MISC.TAGS.FARMING"
+msgid "Farming-related building and delivery"
 msgstr ""
 
 #. STRINGS.MISC.TAGS.FARMSTATION
@@ -17363,6 +17408,11 @@ msgctxt "STRINGS.MISC.TAGS.PLUMBABLE"
 msgid "Plumbable"
 msgstr ""
 
+#. STRINGS.MISC.TAGS.POWER
+msgctxt "STRINGS.MISC.TAGS.POWER"
+msgid "Power-related delivery"
+msgstr ""
+
 #. STRINGS.MISC.TAGS.POWERSTATION
 msgctxt "STRINGS.MISC.TAGS.POWERSTATION"
 msgid "Power Station"
@@ -17386,6 +17436,11 @@ msgstr ""
 #. STRINGS.MISC.TAGS.RELAXATION_POINT
 msgctxt "STRINGS.MISC.TAGS.RELAXATION_POINT"
 msgid "Leisure Area"
+msgstr ""
+
+#. STRINGS.MISC.TAGS.RESEARCH
+msgctxt "STRINGS.MISC.TAGS.RESEARCH"
+msgid "Research-related delivery"
 msgstr ""
 
 #. STRINGS.MISC.TAGS.SEED
@@ -17431,6 +17486,11 @@ msgstr ""
 #. STRINGS.MISC.TAGS.UNSTABLE
 msgctxt "STRINGS.MISC.TAGS.UNSTABLE"
 msgid "Unstable"
+msgstr ""
+
+#. STRINGS.MISC.TAGS.WIRING
+msgctxt "STRINGS.MISC.TAGS.WIRING"
+msgid "Wiring-related delivery and building"
 msgstr ""
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.ACIDIC
@@ -19110,17 +19170,17 @@ msgstr ""
 
 #. STRINGS.RESEARCH.MESSAGING.MISSING_RESEARCH_STATION
 msgctxt "STRINGS.RESEARCH.MESSAGING.MISSING_RESEARCH_STATION"
-msgid "No {0}s"
+msgid "Missing Research Station"
 msgstr ""
 
 #. STRINGS.RESEARCH.MESSAGING.MISSING_RESEARCH_STATION_TOOLTIP
 msgctxt "STRINGS.RESEARCH.MESSAGING.MISSING_RESEARCH_STATION_TOOLTIP"
-msgid "The selected research focus requires a {0} to perform\n\nOpen the Build Menu - Research <color=#F44A47>[R]</color> to construct one"
+msgid "The selected research focus requires a {0} to perform\n\nOpen the Stations Tab <color=#F44A47>[=]</color> of the Build Menu to construct one"
 msgstr ""
 
 #. STRINGS.RESEARCH.MESSAGING.NO_RESEARCHER_ROLE
 msgctxt "STRINGS.RESEARCH.MESSAGING.NO_RESEARCHER_ROLE"
-msgid "Colony has no Researchers"
+msgid "No Researchers assigned"
 msgstr ""
 
 #. STRINGS.RESEARCH.MESSAGING.NO_RESEARCHER_ROLE_TOOLTIP
@@ -20255,7 +20315,7 @@ msgstr ""
 
 #. STRINGS.UI.BUILDCATEGORIES.CONVEYANCE.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.CONVEYANCE.NAME"
-msgid "Ore\nTransport"
+msgid "Shipping"
 msgstr ""
 
 #. STRINGS.UI.BUILDCATEGORIES.CONVEYANCE.TOOLTIP
@@ -20690,7 +20750,7 @@ msgstr ""
 
 #. STRINGS.UI.BUILDINGEFFECTS.RESEARCH_MATERIALS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.RESEARCH_MATERIALS"
-msgid "<style={0}>{1}</style>: {2} per research point"
+msgid "<style={0}>{1}</style>: {2} per <style=\"research\">Research</style> point"
 msgstr ""
 
 #. STRINGS.UI.BUILDINGEFFECTS.STORAGECAPACITY
@@ -21655,7 +21715,7 @@ msgstr ""
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.OVERPOPULATED.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.OVERPOPULATED.TOOLTIP"
-msgid "Too many germs are present in this area, resulting in rapid die-off until the population stabilizes\n\nA maximum of {0} germs can be on this {1} of material.\n({2} germs/Kg)"
+msgid "Too many germs are present in this area, resulting in rapid die-off until the population stabilizes\n\nA maximum of {0} can be on this {1} of material.\n({2} germs/Kg)"
 msgstr ""
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.PRESSURE.DIE_TOOLTIP
@@ -25480,22 +25540,22 @@ msgstr ""
 
 #. STRINGS.UI.PRIORITYSCREEN.BASIC
 msgctxt "STRINGS.UI.PRIORITYSCREEN.BASIC"
-msgid "<b>Standard Priority {0}</b>\nLevel 1: Least urgent\nLevel 5: Most urgent\n------------------\nDuplicants will perform errands in order of priority. All preferred jobs will be done before non-preferred jobs."
+msgid "<b>Priority {0}</b>\n1: Least urgent\n5: Most urgent\n------------------\nPriority numbers increase or decrease the importance of errands against other errands of the same type.\nDuplicants will still rank overall errand types based on preferences instilled by their Job assignment."
 msgstr ""
 
 #. STRINGS.UI.PRIORITYSCREEN.EMERGENCY
 msgctxt "STRINGS.UI.PRIORITYSCREEN.EMERGENCY"
-msgid "<b>Critical Priority</b>\nThe highest possible priority, ignoring even their basic needs."
+msgid "<b>Critical Priority</b>\nThis priority overrides all other tasks, including Duplicants' basic survival needs."
 msgstr ""
 
 #. STRINGS.UI.PRIORITYSCREEN.HIGH
 msgctxt "STRINGS.UI.PRIORITYSCREEN.HIGH"
-msgid "<b>Strict Priority {0}</b>\nLevel 1: Least urgent\nLevel 5: Most urgent\n------------------\nDuplicants will perform errands in priority order regardless of their job preferences."
+msgid "<b>Fixed Priority {0}</b>\n1: Least urgent\n5: Most urgent\n------------------\nFixed Priority errands will be carried out in order, regardless of Duplicants' assigned Job preferences."
 msgstr ""
 
 #. STRINGS.UI.PRIORITYSCREEN.HIGH_TOGGLE
 msgctxt "STRINGS.UI.PRIORITYSCREEN.HIGH_TOGGLE"
-msgid "<b>Toggle Strict Priority</b>\nDuplicants will perform Standard Priority errands that match their job preference before other standard priority errands.\nStrict Priority errands will be performed in priority order regardles of a Duplicant's preferences."
+msgid "<b>Toggle Fixed Priority</b>\nFixed Priority sets a universal priority on an errand for all Duplicants colonywide, regardless of their job preferences."
 msgstr ""
 
 #. STRINGS.UI.PRODUCTINFO_APPLICABLERESOURCES
@@ -26055,42 +26115,42 @@ msgstr ""
 
 #. STRINGS.UI.ROLES_SCREEN.TIER_NAMES.FIVE
 msgctxt "STRINGS.UI.ROLES_SCREEN.TIER_NAMES.FIVE"
-msgid "Tier 5 Job Expectations\n------------------"
+msgid "Tier 5"
 msgstr ""
 
 #. STRINGS.UI.ROLES_SCREEN.TIER_NAMES.FOUR
 msgctxt "STRINGS.UI.ROLES_SCREEN.TIER_NAMES.FOUR"
-msgid "Tier 4 Job Expectations\n------------------"
+msgid "Tier 4"
 msgstr ""
 
 #. STRINGS.UI.ROLES_SCREEN.TIER_NAMES.ONE
 msgctxt "STRINGS.UI.ROLES_SCREEN.TIER_NAMES.ONE"
-msgid "Tier 1 Job Expectations\n------------------"
+msgid "Tier 1"
 msgstr ""
 
 #. STRINGS.UI.ROLES_SCREEN.TIER_NAMES.SEVEN
 msgctxt "STRINGS.UI.ROLES_SCREEN.TIER_NAMES.SEVEN"
-msgid "Tier 7 Job Expectations\n------------------"
+msgid "Tier 7"
 msgstr ""
 
 #. STRINGS.UI.ROLES_SCREEN.TIER_NAMES.SIX
 msgctxt "STRINGS.UI.ROLES_SCREEN.TIER_NAMES.SIX"
-msgid "Tier 6 Job Expectations\n------------------"
+msgid "Tier 6"
 msgstr ""
 
 #. STRINGS.UI.ROLES_SCREEN.TIER_NAMES.THREE
 msgctxt "STRINGS.UI.ROLES_SCREEN.TIER_NAMES.THREE"
-msgid "Tier 3 Job Expectations\n------------------"
+msgid "Tier 3"
 msgstr ""
 
 #. STRINGS.UI.ROLES_SCREEN.TIER_NAMES.TWO
 msgctxt "STRINGS.UI.ROLES_SCREEN.TIER_NAMES.TWO"
-msgid "Tier 2 Job Expectations\n------------------"
+msgid "Tier 2"
 msgstr ""
 
 #. STRINGS.UI.ROLES_SCREEN.TIER_NAMES.ZERO
 msgctxt "STRINGS.UI.ROLES_SCREEN.TIER_NAMES.ZERO"
-msgid "Tier 0 Job Expectations\n------------------"
+msgid "Tier 0"
 msgstr ""
 
 #. STRINGS.UI.SCHEDULE
@@ -28450,7 +28510,7 @@ msgstr ""
 
 #. STRINGS.UI.USERMENUACTIONS.COPY_BUILDING_SETTINGS.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.COPY_BUILDING_SETTINGS.TOOLTIP"
-msgid "Apply the settings and priorities of this building to others of the same type"
+msgid "Apply the settings and priorities of this building to other buildings of the same type"
 msgstr ""
 
 #. STRINGS.UI.USERMENUACTIONS.DEMOLISH.NAME
