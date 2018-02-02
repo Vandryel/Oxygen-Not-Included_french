@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2018-02-02 00:28+0100\n"
+"PO-Revision-Date: 2018-02-02 20:00+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
@@ -1388,8 +1388,8 @@ msgid ""
 "Enter the Shipping Tab <color=#F44A47>[7]</color> of the Build Menu to build "
 "and connect a Conveyor Loader"
 msgstr ""
-"Le Matériau ne peut pas être chargé sur ce Rail de Convoyeur pour le"
-" transport\n"
+"Le Matériau ne peut pas être chargé sur ce Rail de Convoyeur pour le "
+"transport\n"
 "------------------\n"
 "Ouvrez l'Onglet Livraison <color=#F44A47>[7]</color> du Menu de Construction "
 "pour fabriquer et connecter un Chargeur de Convoyeur"
@@ -1408,13 +1408,11 @@ msgid ""
 "Enter the Shipping Tab <color=#F44A47>[7]</color> of the Build Menu to build "
 "and connect a Conveyor Receptacle"
 msgstr ""
-"Le Matériau ne peut pas être déchargé de ce système de Convoyeur et restera"
-" sur "
-"les rails\n"
+"Le Matériau ne peut pas être déchargé de ce système de Convoyeur et restera "
+"sur les rails\n"
 "------------------\n"
-"Ouvrez l'Onglet Livraison <color=#F44A47>[7]</color> of the Build Menu to"
-" build "
-"and connect a Conveyor Receptacle"
+"Ouvrez l'Onglet Livraison <color=#F44A47>[7]</color> of the Build Menu to "
+"build and connect a Conveyor Receptacle"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEUTRONIUMUNMINABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEUTRONIUMUNMINABLE.NAME"
@@ -2562,8 +2560,7 @@ msgid ""
 "Duplicants will not be permitted to add or remove materials from this "
 "building"
 msgstr ""
-"Le stock de cet équipement n'est accessible qu'aux Collecteurs "
-"Automatiques\n"
+"Le stock de cet équipement n'est accessible qu'aux Collecteurs Automatiques\n"
 "------------------\n"
 "Les Duplicants ne sont pas autorisés à ajouter ou prendre des matériaux de "
 "cet équipement"
@@ -5023,9 +5020,11 @@ msgid "Mechanics Station"
 msgstr "Station de Mécanique"
 
 #. STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.DESC
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.DESC"
 msgid ""
-"Manual generators power buildings when connected by wire and require no fuel."
+"Manual generators require no fuel and power buildings when connected to them "
+"by wire."
 msgstr ""
 "Les générateurs manuels alimentent les équipements lorsqu'ils sont reliés "
 "par un câble et n'ont pas besoin de carburant."
@@ -5809,6 +5808,23 @@ msgid ""
 msgstr ""
 "Écrase du <style=\"RawMineral\">{0}</style> en<style=\"solid\">{1}</style>."
 
+#. STRINGS.BUILDINGS.PREFABS.ROLESTATION.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.ROLESTATION.DESC"
+msgid "Job Station are necessary for assigning Duplicants to Jobs"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.ROLESTATION.EFFECT
+#, fuzzy
+msgctxt "STRINGS.BUILDINGS.PREFABS.ROLESTATION.EFFECT"
+msgid "Allows assignment to <style=\"research\">Jobs</style>"
+msgstr "Recherche <style=\"research\">{Tech}</style>"
+
+#. STRINGS.BUILDINGS.PREFABS.ROLESTATION.NAME
+#, fuzzy
+msgctxt "STRINGS.BUILDINGS.PREFABS.ROLESTATION.NAME"
+msgid "Job Station"
+msgstr "Centrale d'énergie"
+
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.AVERAGEQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.AVERAGEQUALITYNAME"
 msgid "Genius Sculpture"
@@ -5871,18 +5887,23 @@ msgstr "Douche"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUIT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUIT.DESC"
-msgid "Conveyor rails carry solid items around your base."
+msgid ""
+"Rails automatically move materials where they'll be needed most, saving "
+"Duplicants the walk."
 msgstr ""
-"Les rails de convoyeur acheminent les objets solides dans toute votre base."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUIT.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUIT.EFFECT"
 msgid ""
-"Carries solids between inboxes and outboxes\n"
+"Transports <style=\"solid\">Solid Materials</style> on a track between "
+"<style=\"misc\">Conveyor Loaders</style> and <style=\"misc\">Receptacles</"
+"style>.\n"
 "\n"
 "Can be run through tiles."
 msgstr ""
-"Transporte des solides entre les entrées et les sorties\n"
+"Transporte du <style=\"gas\">Gaz</style> entre les <style=\"GasPiping"
+"\">Sorties</style> et <style=\"GasPiping\">Entrées</style> des structures.\n"
 "\n"
 "Peut traverser les dalles."
 
@@ -5894,16 +5915,16 @@ msgstr "Rail de Convoyeur"
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITBRIDGE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITBRIDGE.DESC"
 msgid ""
-"Separate conveyor systems prevent mingled contents from causing confusion "
-"and dismay."
+"Separating rail systems helps prevent materials from reaching the wrong "
+"destinations."
 msgstr ""
-"Des systèmes de convoi séparés empêchent le mélange des contenus de causer "
-"confusion et consternation."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITBRIDGE.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITBRIDGE.EFFECT"
 msgid ""
-"Runs one Conveyor Rail section over another without joining them.\n"
+"Runs one <style=\"misc\">Conveyor Rail</style> section over another without "
+"joining them.\n"
 "\n"
 "Can be run through tiles."
 msgstr ""
@@ -5920,18 +5941,18 @@ msgstr "Pont Convoyeur"
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITINBOX.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITINBOX.DESC"
 msgid ""
-"Conveyor Loaders accept items to be transferred through the Conveyor Rail "
-"system."
+"The filters on a loader can be used to determine what materials should be "
+"sent down the rail."
 msgstr ""
-"Les Chargeurs de Convoyeur acceptent que les objets soient "
-"acheminés à travers le système de Rail de Convoyeur."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITINBOX.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITINBOX.EFFECT"
-msgid "Accepts solid goods to be conveyed to a Conveyor Receptacle."
+msgid ""
+"Loads <style=\"solid\">Solid Materials</style> onto <style=\"misc\">Conveyor "
+"Rails</style> for transport.\n"
+"\n"
+"Only loads the resources of your choosing."
 msgstr ""
-"Accepte que les marchandises solides soient convoyées jusqu'au bac du"
-"Convoyeur."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITINBOX.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITINBOX.NAME"
@@ -5941,16 +5962,19 @@ msgstr "Chargeur du Convoyeur"
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITOUTBOX.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITOUTBOX.DESC"
 msgid ""
-"Conveyor Receptacles allow items to be removed from the Conveyor Rail system."
+"When materials reach the end of a rail they enter a receptacle to be used by "
+"Duplicants."
 msgstr ""
-"Les bacs de Convoyeur permettent d'extraire les objets du système de "
-"Rails de Convoyeur."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITOUTBOX.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITOUTBOX.EFFECT"
-msgid "Receives solid goods for removal from the Conveyor Rail system."
+msgid ""
+"Unloads <style=\"solid\">Solid Materials</style> from a <style=\"misc"
+"\">Conveyor Rail</style> into storage."
 msgstr ""
-"Reçoit les marchandises solides à extraire du système de Rails de Convoyeur."
+"Utilise de l'<style=\"liquid\">Eau</style> pour filtrer le <style=\"gas"
+"\">Dioxyde de Carbone </style> dans l'air."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITOUTBOX.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITOUTBOX.NAME"
@@ -5960,21 +5984,20 @@ msgstr "Bac de Convoyeur"
 #. STRINGS.BUILDINGS.PREFABS.SOLIDTRANSFERARM.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDTRANSFERARM.DESC"
 msgid ""
-"Auto-Sweepers will automatically pick up and deliver solid goods within a "
-"short range."
+"An auto-sweeper's suction range can be viewed at any time by clicking on the "
+"building."
 msgstr ""
-"Les Collecteurs Automatiques ramasseront et livreront automatiquement "
-"les biens solides sur une courte distance."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDTRANSFERARM.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDTRANSFERARM.EFFECT"
 msgid ""
-"Delivers solid goods between nearby storage containers, machines, and "
-"Conveyor Loaders and Receptacles."
+"Automates <style=\"misc\">Sweeping</style> and <style=\"misc\">Supplying</"
+"style> errands by sucking up all nearby <style=\"solid\">Debris</style>.\n"
+"\n"
+"Materials are automatically delivered to any <style=\"misc\">Conveyor "
+"Loaders</style>, <style=\"misc\">Receptacles</style>, storage, or buildings "
+"within range."
 msgstr ""
-"Transfère des marchandises solides entre les conteneurs proches, les"
-" machines, "
-"et les Chargeurs et Bacs de Convoyeur."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDTRANSFERARM.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDTRANSFERARM.NAME"
@@ -6011,9 +6034,9 @@ msgid ""
 "Generates exceptional electrical <style=\"power\">Power</style> when there "
 "is at least 3000 g more <style=\"gas\">Steam</style> below it than above it."
 msgstr ""
-"Génère une <style=\"power\">Énergie</style> électrique exceptionnelle "
-"quand il y a au moins 3000g de <style=\"gas\">Vapeur</style> en plus dessous "
-"qu'au dessus."
+"Génère une <style=\"power\">Énergie</style> électrique exceptionnelle quand "
+"il y a au moins 3000g de <style=\"gas\">Vapeur</style> en plus dessous qu'au "
+"dessus."
 
 #. STRINGS.BUILDINGS.PREFABS.STEAMTURBINE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.STEAMTURBINE.NAME"
@@ -6275,9 +6298,11 @@ msgstr ""
 "d'atterrissage sûre est disponible en dessous."
 
 #. STRINGS.BUILDINGS.PREFABS.TRAVELTUBE.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.TRAVELTUBE.EFFECT"
 msgid ""
-"Quickly transports Duplicants from a Transit Tube Access to the tube's end.\n"
+"Quickly transports Duplicants from a <style=\"misc\">Transit Tube Access</"
+"style> to the tube's end.\n"
 "\n"
 "Only transports Duplicants."
 msgstr ""
@@ -6302,9 +6327,11 @@ msgstr ""
 "tubes, mais ne sont pas nécessaires pour en sortir."
 
 #. STRINGS.BUILDINGS.PREFABS.TRAVELTUBEENTRANCE.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.TRAVELTUBEENTRANCE.EFFECT"
 msgid ""
-"Allows Duplicants to enter the connected Transit Tube system.\n"
+"Allows Duplicants to enter the connected <style=\"misc\">Transit Tube</"
+"style> system.\n"
 "\n"
 "Stops drawing <style=\"power\">Power</style> once fully charged."
 msgstr ""
@@ -6328,9 +6355,11 @@ msgstr ""
 "les murs sans laisser s'échapper le gaz ou les liquides."
 
 #. STRINGS.BUILDINGS.PREFABS.TRAVELTUBEWALLBRIDGE.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.TRAVELTUBEWALLBRIDGE.EFFECT"
 msgid ""
-"Allows Transit Tubes to be run through wall and floor tiles.\n"
+"Allows <style=\"misc\">Transit Tubes</style> to be run through wall and "
+"floor tiles.\n"
 "\n"
 "Functions as a regular tile."
 msgstr ""
@@ -8380,17 +8409,6 @@ msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ART.SPEEDMODIFIER"
 msgid "{0} Decorating Speed"
 msgstr "Vitesse de Décoration: {0}"
 
-#. STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.CARRYWEIGHT
-msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.CARRYWEIGHT"
-msgid "{0} Carrying Capacity"
-msgstr "Poids Transportable: {0}"
-
-#. STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.CARRYWEIGHT_MODIFIER_DESCRIPTION
-msgctxt ""
-"STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.CARRYWEIGHT_MODIFIER_DESCRIPTION"
-msgid "Athletics"
-msgstr "Forme Physique"
-
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.DESC"
 msgid "Determines a Duplicant's default runspeed and carrying capacity."
@@ -8866,6 +8884,31 @@ msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.NAME"
 msgid "Stamina Change"
 msgstr "Modification d'Endurance"
 
+#. STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.CARRYMODIFIER
+#, fuzzy
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.CARRYMODIFIER"
+msgid "{0} Carrying Capacity"
+msgstr "Poids Transportable: {0}"
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.DESC
+#, fuzzy
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.DESC"
+msgid "Determines a Duplicant's carrying capacity and combat ability."
+msgstr ""
+"Détermine la vitesse de course d'un Duplicant et le poids qu'il peut porter."
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.NAME
+#, fuzzy
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.NAME"
+msgid "Strength"
+msgstr "+{0} à la Force"
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.SPEEDMODIFIER
+#, fuzzy
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.SPEEDMODIFIER"
+msgid "{0} Tidying Speed"
+msgstr "Vitesse des Soins: {0}"
+
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRESSDELTA.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRESSDELTA.DESC"
 msgid ""
@@ -9126,6 +9169,18 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDDIG.STATUS"
 msgid "Going to dig"
 msgstr "Va miner"
 
+#. STRINGS.DUPLICANTS.CHORES.BUILDFETCH.NAME
+#, fuzzy
+msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDFETCH.NAME"
+msgid "Deliver"
+msgstr "Livre"
+
+#. STRINGS.DUPLICANTS.CHORES.BUILDFETCH.STATUS
+#, fuzzy
+msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDFETCH.STATUS"
+msgid "Delivering"
+msgstr "Livre"
+
 #. STRINGS.DUPLICANTS.CHORES.CHECKPOINT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.CHECKPOINT.NAME"
 msgid "Wait at Checkpoint"
@@ -9176,9 +9231,22 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.COOK.STATUS"
 msgid "Going to cook"
 msgstr "Va cuisiner"
 
+#. STRINGS.DUPLICANTS.CHORES.COOKFETCH.NAME
+#, fuzzy
+msgctxt "STRINGS.DUPLICANTS.CHORES.COOKFETCH.NAME"
+msgid "Deliver"
+msgstr "Livre"
+
+#. STRINGS.DUPLICANTS.CHORES.COOKFETCH.STATUS
+#, fuzzy
+msgctxt "STRINGS.DUPLICANTS.CHORES.COOKFETCH.STATUS"
+msgid "Delivering"
+msgstr "Livre"
+
 #. STRINGS.DUPLICANTS.CHORES.COOLDOWN.NAME
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.COOLDOWN.NAME"
-msgid "Cool off"
+msgid "Cool Off"
 msgstr "Refroidit"
 
 #. STRINGS.DUPLICANTS.CHORES.COOLDOWN.STATUS
@@ -9197,13 +9265,15 @@ msgid "Coughing"
 msgstr "Tousse"
 
 #. STRINGS.DUPLICANTS.CHORES.CROP_TEND.NAME
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.CROP_TEND.NAME"
-msgid "Tend Crop"
+msgid "Tend"
 msgstr "S'occuper des Cultures"
 
 #. STRINGS.DUPLICANTS.CHORES.CROP_TEND.STATUS
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.CROP_TEND.STATUS"
-msgid "Tending Crop"
+msgid "Tending plant"
 msgstr "S'occupe des Cultures"
 
 #. STRINGS.DUPLICANTS.CHORES.DEBUGGOTO.NAME
@@ -9227,8 +9297,9 @@ msgid "Going to deconstruct"
 msgstr "Va démolir"
 
 #. STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.NAME
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.NAME"
-msgid "Deliver food"
+msgid "Deliver Food"
 msgstr "Livre de la nourriture"
 
 #. STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.STATUS
@@ -9277,8 +9348,9 @@ msgid "Going to disinfect"
 msgstr "Va désinfecter"
 
 #. STRINGS.DUPLICANTS.CHORES.DOCTOR.NAME
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.DOCTOR.NAME"
-msgid "Treat patient"
+msgid "Treat Patient"
 msgstr "Traitement d'un patient"
 
 #. STRINGS.DUPLICANTS.CHORES.DOCTOR.STATUS
@@ -9287,9 +9359,10 @@ msgid "Treating patient"
 msgstr "Traite un patient"
 
 #. STRINGS.DUPLICANTS.CHORES.DROPUNUSEDINVENTORY.NAME
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.DROPUNUSEDINVENTORY.NAME"
-msgid "Drop unused inventory"
-msgstr "Lâche l'inventaire inutilisé"
+msgid "Drop Inventory"
+msgstr "Inventaire du Dock"
 
 #. STRINGS.DUPLICANTS.CHORES.DROPUNUSEDINVENTORY.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DROPUNUSEDINVENTORY.STATUS"
@@ -9307,9 +9380,10 @@ msgid "Going to eat"
 msgstr "Va manger"
 
 #. STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.NAME
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.NAME"
-msgid "Emoting"
-msgstr "Emotion"
+msgid "Express Themselves"
+msgstr "Ce Duplicant s'exprime artistiquement"
 
 #. STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.STATUS"
@@ -9317,9 +9391,10 @@ msgid "Expressing themselves"
 msgstr "Ce Duplicant s'exprime artistiquement"
 
 #. STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.NAME
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.NAME"
-msgid "Empty storage"
-msgstr "Stockage vide"
+msgid "Empty Storage"
+msgstr "Stockage Vide"
 
 #. STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.STATUS"
@@ -9347,24 +9422,39 @@ msgid "Moving to equip"
 msgstr "Va équiper"
 
 #. STRINGS.DUPLICANTS.CHORES.EQUIPPINGSUIT.NAME
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.EQUIPPINGSUIT.NAME"
-msgid "Equip Suit"
+msgid "Equip Exosuit"
 msgstr "S'équipe d'une combinaison"
 
 #. STRINGS.DUPLICANTS.CHORES.EQUIPPINGSUIT.STATUS
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.EQUIPPINGSUIT.STATUS"
-msgid "Equipping Suit"
+msgid "Equipping exosuit"
 msgstr "S'équipe d'une combinaison"
 
 #. STRINGS.DUPLICANTS.CHORES.FABRICATE.NAME
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.FABRICATE.NAME"
-msgid "Fabricating"
-msgstr "Fabriquer"
+msgid "Fabricate"
+msgstr "Fabrique"
 
 #. STRINGS.DUPLICANTS.CHORES.FABRICATE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.FABRICATE.STATUS"
 msgid "Going to fabricate"
 msgstr "Va fabriquer"
+
+#. STRINGS.DUPLICANTS.CHORES.FABRICATEFETCH.NAME
+#, fuzzy
+msgctxt "STRINGS.DUPLICANTS.CHORES.FABRICATEFETCH.NAME"
+msgid "Deliver"
+msgstr "Livre"
+
+#. STRINGS.DUPLICANTS.CHORES.FABRICATEFETCH.STATUS
+#, fuzzy
+msgctxt "STRINGS.DUPLICANTS.CHORES.FABRICATEFETCH.STATUS"
+msgid "Delivering"
+msgstr "Livre"
 
 #. STRINGS.DUPLICANTS.CHORES.FETCH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.FETCH.NAME"
@@ -9422,9 +9512,10 @@ msgid "Going to generate power"
 msgstr "Va générer de l'énergie"
 
 #. STRINGS.DUPLICANTS.CHORES.GENESHUFFLE.NAME
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.GENESHUFFLE.NAME"
-msgid "Neural Vacillator"
-msgstr "Vacillateur Neuronal"
+msgid "Use Neural Vacillator"
+msgstr "Utilise le Vacillateur Neuronal"
 
 #. STRINGS.DUPLICANTS.CHORES.GENESHUFFLE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.GENESHUFFLE.STATUS"
@@ -9504,8 +9595,9 @@ msgid "Moving to location"
 msgstr "Va à la position"
 
 #. STRINGS.DUPLICANTS.CHORES.MOVETOLOCATION.NAME
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOLOCATION.NAME"
-msgid "Move to location"
+msgid "Move to Location"
 msgstr "Va à la position"
 
 #. STRINGS.DUPLICANTS.CHORES.MOVETOLOCATION.STATUS
@@ -9514,8 +9606,9 @@ msgid "Moving to location"
 msgstr "Va à la position"
 
 #. STRINGS.DUPLICANTS.CHORES.MOVETOQUARANTINE.NAME
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOQUARANTINE.NAME"
-msgid "Move to quarantine"
+msgid "Move to Quarantine"
 msgstr "Part en quarantaine"
 
 #. STRINGS.DUPLICANTS.CHORES.MOVETOQUARANTINE.STATUS
@@ -9524,8 +9617,9 @@ msgid "Moving to quarantine"
 msgstr "Part en quarantaine"
 
 #. STRINGS.DUPLICANTS.CHORES.MOVETOSAFETY.NAME
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOSAFETY.NAME"
-msgid "Move to safety"
+msgid "Move to Safety"
 msgstr "Va en sécurité"
 
 #. STRINGS.DUPLICANTS.CHORES.MOVETOSAFETY.STATUS
@@ -9543,6 +9637,18 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.MUSH.STATUS"
 msgid "Going to mush"
 msgstr "Va faire de la bouillie"
 
+#. STRINGS.DUPLICANTS.CHORES.MUSHFETCH.NAME
+#, fuzzy
+msgctxt "STRINGS.DUPLICANTS.CHORES.MUSHFETCH.NAME"
+msgid "Deliver"
+msgstr "Livre"
+
+#. STRINGS.DUPLICANTS.CHORES.MUSHFETCH.STATUS
+#, fuzzy
+msgctxt "STRINGS.DUPLICANTS.CHORES.MUSHFETCH.STATUS"
+msgid "Delivering"
+msgstr "Livre"
+
 #. STRINGS.DUPLICANTS.CHORES.NARCOLEPSY.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.NARCOLEPSY.NAME"
 msgid "Narcoleptic Sleep"
@@ -9555,13 +9661,14 @@ msgstr "Dort"
 
 #. STRINGS.DUPLICANTS.CHORES.PEE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.PEE.NAME"
-msgid "Pee"
-msgstr "Urine"
+msgid "Relieve Self"
+msgstr ""
 
 #. STRINGS.DUPLICANTS.CHORES.PEE.STATUS
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.PEE.STATUS"
-msgid "Bio Break"
-msgstr "Pause bio"
+msgid "Relieving self"
+msgstr "Se fait Masser"
 
 #. STRINGS.DUPLICANTS.CHORES.POWER_TINKER.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.POWER_TINKER.NAME"
@@ -9573,10 +9680,23 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.POWER_TINKER.STATUS"
 msgid "Tinkering"
 msgstr "Bricolage"
 
+#. STRINGS.DUPLICANTS.CHORES.POWERFETCH.NAME
+#, fuzzy
+msgctxt "STRINGS.DUPLICANTS.CHORES.POWERFETCH.NAME"
+msgid "Deliver"
+msgstr "Livre"
+
+#. STRINGS.DUPLICANTS.CHORES.POWERFETCH.STATUS
+#, fuzzy
+msgctxt "STRINGS.DUPLICANTS.CHORES.POWERFETCH.STATUS"
+msgid "Delivering"
+msgstr "Livre"
+
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.ALLOWED_TO_DEPRESSURIZE
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.ALLOWED_TO_DEPRESSURIZE"
-msgid "Not Over Pressure"
-msgstr "Pas en Sur-Pression"
+msgid "Not currently overpressure"
+msgstr "Aération en suppression"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.CAN_CHAT
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.CAN_CHAT"
@@ -9584,8 +9704,9 @@ msgid "Unreachable"
 msgstr "Inaccessible"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.CAN_CURE
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.CAN_CURE"
-msgid "No Applicable Diseases"
+msgid "No applicable diseases"
 msgstr "Pas de Maladie Valable"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.CAN_MOVE_TO
@@ -9594,26 +9715,30 @@ msgid "Unreachable"
 msgstr "Inaccessible"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.CAN_PICKUP
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.CAN_PICKUP"
-msgid "Cannot Pickup"
+msgid "Cannot pickup"
 msgstr "Ne peut pas Ramasser"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.CHORE_DRIVER_IS_NULL
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.CHORE_DRIVER_IS_NULL"
-msgid "Assigned To: {Assignee}"
+msgid "Assigned to: {Assignee}"
 msgstr "Assigné à: {Assignee}"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.DOES_SUIT_NEED_RECHARGING_IDLE
+#, fuzzy
 msgctxt ""
 "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.DOES_SUIT_NEED_RECHARGING_IDLE"
-msgid "Suit Does Not Require Charging"
-msgstr "La combinaison n'a pas besoin d'être chargée"
+msgid "Suit is currently charged"
+msgstr "Cet objet est actuellement utilisé"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.DOES_SUIT_NEED_RECHARGING_URGENT
+#, fuzzy
 msgctxt ""
 "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.DOES_SUIT_NEED_RECHARGING_URGENT"
-msgid "Suit Does Not Require Charging"
-msgstr "La combinaison n'a pas besoin d'être chargée"
+msgid "Suit is currently charged"
+msgstr "Cet objet est actuellement utilisé"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.EDIBLE_IS_NOT_NULL
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.EDIBLE_IS_NOT_NULL"
@@ -9621,9 +9746,10 @@ msgid "EdibleIsNotNull"
 msgstr "EdibleIsNotNull"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.HAS_ROLE_PERK
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.HAS_ROLE_PERK"
-msgid "Missing Role Perk"
-msgstr "Bonus au Rôle Manquant"
+msgid "Requires job perk"
+msgstr "Mineur Requis"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.HAS_SUIT_MARKER
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.HAS_SUIT_MARKER"
@@ -9631,115 +9757,128 @@ msgid "No Suit Checkpoint"
 msgstr "Pas de Point de Contrôle"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.HAS_TRAIT
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.HAS_TRAIT"
-msgid "Missing Required Trait"
+msgid "Missing required trait"
 msgstr "Trait Requis Manquant"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.HAS_URGE
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.HAS_URGE"
-msgid "Does not have urge"
-msgstr "Pas d'urgence"
+msgid "No current need"
+msgstr ""
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.HEADER
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.HEADER"
-msgid "{Selected}'s Pending Errands:"
-msgstr "{Selected} tâches en attente:"
+msgid "Errands {Selected} could perform here:"
+msgstr ""
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_ALLOWED_BY_AUTOMATION
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_ALLOWED_BY_AUTOMATION"
-msgid "Allowed By Automation Setting"
-msgstr "Autorisé par les paramètres d'Automatisation"
+msgid "Automated"
+msgstr "Automatisation"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_ASSIGNED_TO_ME
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_ASSIGNED_TO_ME"
-msgid "Not Assigned to Target"
-msgstr "Pas assigné à cette Cible"
+msgid "Not assigned to {Selected}"
+msgstr "Pas d'Appât Sélectionné"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_AWAKE
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_AWAKE"
-msgid "Is Not Awake"
-msgstr "N'est Pas Réveillé"
+msgid "{Selected} is sleeping"
+msgstr "{Selected} tâches en attente:"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_CONSUMPTION_PERMITTED
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_CONSUMPTION_PERMITTED"
-msgid "Consumption Not Allowed"
-msgstr "Consommation Non Autorisée"
+msgid "Disallowed by consumable permissions"
+msgstr ""
 
-# Context ?
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_FETCH_TARGET_AVAILABLE
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_FETCH_TARGET_AVAILABLE"
-msgid "Deliverable Not Available"
-msgstr "Livraison Pas Disponible"
+msgid "No pending deliveries"
+msgstr ""
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_FUNCTIONAL
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_FUNCTIONAL"
-msgid "Is Not Functional"
+msgid "Not functioning"
 msgstr "N'est Pas Fonctionnel"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_GETTING_MORE_STRESSED
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_GETTING_MORE_STRESSED"
-msgid "Stress Decreasing"
-msgstr "Stress en Baisse"
+msgid "{Selected}'s stress is dcreasing"
+msgstr "{Selected} tâches en attente:"
 
-# A voir ingame
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_IN_MY_ROOM
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_IN_MY_ROOM"
-msgid "Not in Target's Room"
-msgstr "Pas dans la Bonne Pièce"
+msgid "Outside {Selected}'s room"
+msgstr ""
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_MARKED_FOR_DECONSTRUCTION
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_MARKED_FOR_DECONSTRUCTION"
-msgid "Is Being Deconstructed"
+msgid "Being deconstructed"
 msgstr "En cours de Démolition"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_MARKED_FOR_DISABLE
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_MARKED_FOR_DISABLE"
-msgid "Is Being Disabled"
+msgid "Being disabled"
 msgstr "En Cours d'Arrêt"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_MORE_SATISFYING
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_MORE_SATISFYING"
-msgid "Lower Priority"
+msgid "Low priority"
 msgstr "Priorité plus Basse"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_MOVING
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_MOVING"
-msgid "Is Not Moving"
-msgstr "Ne Bouge Pas"
+msgid "{Selected} is not moving"
+msgstr "{Selected} tâches en attente:"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_NARCOLEPSING
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_NARCOLEPSING"
-msgid "Is Not Sleeping"
-msgstr "Ne Dort Pas"
+msgid "{Selected} is currently napping"
+msgstr "{Target} est actuellement utilisé"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_NOT_ANGRY
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_NOT_ANGRY"
-msgid "Angry"
-msgstr "En Colère"
+msgid "{Selected} is too angry"
+msgstr "Choisissez une graine à planter."
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_NOT_BEING_ATTACKED
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_NOT_BEING_ATTACKED"
-msgid "In Combat"
-msgstr "En Combat"
+msgid "{Selected} is in combat"
+msgstr "{Selected} tâches en attente:"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_NOT_RED_ALERT
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_NOT_RED_ALERT"
-msgid "Not During Red Alert"
-msgstr "Pas Pendant l'Alerte Rouge"
+msgid "Unavailable in Red Alert"
+msgstr "Activer l'Alerte Rouge"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_OFF_LADDER
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_OFF_LADDER"
-msgid "Is On Ladder"
-msgstr "Sur une Échelle"
+msgid "{Selected} is busy climbing"
+msgstr ""
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_OKAY_TIME_TO_SLEEP
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_OKAY_TIME_TO_SLEEP"
-msgid "Not Tired"
-msgstr "Pas Fatigué"
+msgid "No current need"
+msgstr ""
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_OPERATIONAL
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_OPERATIONAL"
-msgid "Is Not Operational"
+msgid "Not operational"
 msgstr "N'est Pas Opérationnel"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_OVERRIDE_TARGET_NULL_OR_ME
@@ -9748,47 +9887,52 @@ msgid "DebugIsOverrideTargetNullOrMe"
 msgstr "DebugIsOverrideTargetNullOrMe"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_PERMITTED
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_PERMITTED"
-msgid "Not Permitted"
+msgid "Not permitted"
 msgstr "Non Autorisé"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_PREFERRED_ASSIGNABLE
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_PREFERRED_ASSIGNABLE"
-msgid "Not Target's Preferred Assignment"
+msgid "Not preferred assignment"
 msgstr "N'est Pas la Mission Préférée de la Cible"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_PREFERRED_ASSIGNABLE_OR_URGENT_BLADDER
+#, fuzzy
 msgctxt ""
 "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS."
 "IS_PREFERRED_ASSIGNABLE_OR_URGENT_BLADDER"
-msgid "Not Target's Preferred Assignment"
+msgid "Not preferred assignment"
 msgstr "N'est Pas la Mission Préférée de la Cible"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_ROLE
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_ROLE"
-msgid "Incorrect Role"
-msgstr "Rôle Incorrect"
+msgid "Incorrect job assignment"
+msgstr "Gérer les missions des Duplicants"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_SCHEDULED_TIME
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_SCHEDULED_TIME"
-msgid "Is Not Scheduled Time"
-msgstr "N'est Pas Planifié"
+msgid "Not allowed by schedule"
+msgstr ""
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_STANDING
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_STANDING"
-msgid "Is Not Standing"
-msgstr "N'est Pas Debout"
+msgid "{Selected} must stand"
+msgstr ""
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_STRESS_ABOVE_ACTIVATION_RANGE
 msgctxt ""
 "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_STRESS_ABOVE_ACTIVATION_RANGE"
-msgid "Not Stressed Enough"
-msgstr "Pas Suffisamment Stressé"
+msgid "{Selected} is not stressed right now"
+msgstr ""
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_VALID
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_VALID"
-msgid "Not Valid"
-msgstr "Pas Valide"
+msgid "Invalid"
+msgstr "Zone incorrecte"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.NOT_CHORE_CREATOR
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.NOT_CHORE_CREATOR"
@@ -9796,9 +9940,10 @@ msgid "DebugNotChoreCreator"
 msgstr "DebugNotChoreCreator"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.NOT_IN_TUBE
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.NOT_IN_TUBE"
-msgid "Is In Tube"
-msgstr "Est Dans un Tube"
+msgid "{Selected} is busy in transit"
+msgstr "{Selected} tâches en attente:"
 
 #. STRINGS.DUPLICANTS.CHORES.RECHARGE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RECHARGE.NAME"
@@ -9811,8 +9956,9 @@ msgid "Recharging equipment"
 msgstr "Equipement en recharge"
 
 #. STRINGS.DUPLICANTS.CHORES.RECOVERBREATH.NAME
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.RECOVERBREATH.NAME"
-msgid "Recover breath"
+msgid "Recover Breath"
 msgstr "Retrouve son souffle"
 
 #. STRINGS.DUPLICANTS.CHORES.RECOVERBREATH.STATUS
@@ -9851,8 +9997,9 @@ msgid "Going to repair"
 msgstr "Va réparer"
 
 #. STRINGS.DUPLICANTS.CHORES.RESCUEINCAPACITATED.NAME
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.RESCUEINCAPACITATED.NAME"
-msgid "Rescue friend"
+msgid "Rescue Friend"
 msgstr "Sauve un ami"
 
 #. STRINGS.DUPLICANTS.CHORES.RESCUEINCAPACITATED.STATUS
@@ -9870,6 +10017,18 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.RESEARCH.STATUS"
 msgid "Going to research"
 msgstr "Va rechercher"
 
+#. STRINGS.DUPLICANTS.CHORES.RESEARCHFETCH.NAME
+#, fuzzy
+msgctxt "STRINGS.DUPLICANTS.CHORES.RESEARCHFETCH.NAME"
+msgid "Deliver"
+msgstr "Livre"
+
+#. STRINGS.DUPLICANTS.CHORES.RESEARCHFETCH.STATUS
+#, fuzzy
+msgctxt "STRINGS.DUPLICANTS.CHORES.RESEARCHFETCH.STATUS"
+msgid "Delivering"
+msgstr "Livre"
+
 #. STRINGS.DUPLICANTS.CHORES.RESTDUETODISEASE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RESTDUETODISEASE.NAME"
 msgid "Rest"
@@ -9881,14 +10040,16 @@ msgid "Resting"
 msgstr "Se repose"
 
 #. STRINGS.DUPLICANTS.CHORES.RETURNSUIT.NAME
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.RETURNSUIT.NAME"
-msgid "Return Suit"
-msgstr "Combinaison de retour"
+msgid "Dock Exosuit"
+msgstr "Décrocher l'Exosuit"
 
 #. STRINGS.DUPLICANTS.CHORES.RETURNSUIT.STATUS
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.RETURNSUIT.STATUS"
-msgid "Returning Suit"
-msgstr "Retourne la Combinaison"
+msgid "Docking exosuit"
+msgstr "Décrocher l'Exosuit"
 
 #. STRINGS.DUPLICANTS.CHORES.SCRUBORE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.SCRUBORE.NAME"
@@ -9896,8 +10057,9 @@ msgid "Scrub Ore"
 msgstr "Épurer le Minerai"
 
 #. STRINGS.DUPLICANTS.CHORES.SCRUBORE.STATUS
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.SCRUBORE.STATUS"
-msgid "Scrubbing Ore"
+msgid "Scrubbing ore"
 msgstr "Récure du Minerai"
 
 #. STRINGS.DUPLICANTS.CHORES.SHOWER.NAME
@@ -9931,8 +10093,9 @@ msgid "Sleeping"
 msgstr "Dort"
 
 #. STRINGS.DUPLICANTS.CHORES.STRESSACTINGOUT.NAME
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSACTINGOUT.NAME"
-msgid "Lash out"
+msgid "Lash Out"
 msgstr "Péter les plombs"
 
 #. STRINGS.DUPLICANTS.CHORES.STRESSACTINGOUT.STATUS
@@ -9951,8 +10114,9 @@ msgid "Antsy"
 msgstr "Nerveux"
 
 #. STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.NAME
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.NAME"
-msgid "Stress vomit"
+msgid "Stress Vomit"
 msgstr "Vomis de stress"
 
 #. STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.STATUS
@@ -9962,17 +10126,19 @@ msgstr "Vomissements dû au Stress"
 
 #. STRINGS.DUPLICANTS.CHORES.SWITCHROLE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.SWITCHROLE.NAME"
-msgid "Switch Job"
-msgstr "Changer de Métier"
+msgid "Change Job"
+msgstr ""
 
 #. STRINGS.DUPLICANTS.CHORES.SWITCHROLE.STATUS
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.SWITCHROLE.STATUS"
-msgid "Switching to new job assignment"
+msgid "Changing to new job assignment"
 msgstr "Change pour la mission nouvellement assignée"
 
 #. STRINGS.DUPLICANTS.CHORES.TAKEMEDICINE.NAME
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.TAKEMEDICINE.NAME"
-msgid "Take medicine"
+msgid "Take Medicine"
 msgstr "Prendre un médicament"
 
 #. STRINGS.DUPLICANTS.CHORES.TAKEMEDICINE.STATUS
@@ -10051,8 +10217,9 @@ msgid "Going to uproot"
 msgstr "Va déraciner"
 
 #. STRINGS.DUPLICANTS.CHORES.USETOILET.NAME
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.USETOILET.NAME"
-msgid "Use toilet"
+msgid "Use Toilet"
 msgstr "Est aux toilettes"
 
 #. STRINGS.DUPLICANTS.CHORES.USETOILET.STATUS
@@ -10071,8 +10238,9 @@ msgid "Vomiting"
 msgstr "Vomit"
 
 #. STRINGS.DUPLICANTS.CHORES.WARMUP.NAME
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.WARMUP.NAME"
-msgid "Warm up"
+msgid "Warm Up"
 msgstr "Réchauffer"
 
 #. STRINGS.DUPLICANTS.CHORES.WARMUP.STATUS
@@ -10081,8 +10249,9 @@ msgid "Going to warm up"
 msgstr "Va réchauffer"
 
 #. STRINGS.DUPLICANTS.CHORES.WASHHANDS.NAME
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.WASHHANDS.NAME"
-msgid "Wash hands"
+msgid "Wash Hands"
 msgstr "Laver les mains"
 
 #. STRINGS.DUPLICANTS.CHORES.WASHHANDS.STATUS
@@ -12979,133 +13148,14 @@ msgid "Farmer"
 msgstr "Fermier"
 
 #. STRINGS.DUPLICANTS.ROLES.GROUPS.APTITUDE_DESCRIPTION
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.APTITUDE_DESCRIPTION"
 msgid ""
-"This Duplicant will gain mastery in <style=\"misc\">{0}</style> jobs <style="
-"\"misc\">{1}%</style> faster than normal"
+"This Duplicant enjoys performing <style=\"misc\">{0}</style> jobs and will "
+"master them <style=\"misc\">{1}%</style> faster"
 msgstr ""
 "Ce Duplicant deviendra un maître en <style=\"misc\">{0}</style> <style=\"misc"
 "\">{1}%</style> plus vite que la normale"
-
-#. STRINGS.DUPLICANTS.ROLES.GROUPS.ART.NAME
-msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.ART.NAME"
-msgid "Art"
-msgstr "Art"
-
-#. STRINGS.DUPLICANTS.ROLES.GROUPS.ART.WORKER_DESCRIPTION
-msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.ART.WORKER_DESCRIPTION"
-msgid "Artist"
-msgstr "Artiste"
-
-#. STRINGS.DUPLICANTS.ROLES.GROUPS.BASEKEEPING.NAME
-msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.BASEKEEPING.NAME"
-msgid "Maintenance"
-msgstr "Maintenance"
-
-#. STRINGS.DUPLICANTS.ROLES.GROUPS.BASEKEEPING.WORKER_DESCRIPTION
-msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.BASEKEEPING.WORKER_DESCRIPTION"
-msgid "Maintenance Worker"
-msgstr "Agent de Maintenance"
-
-#. STRINGS.DUPLICANTS.ROLES.GROUPS.BUILDING.NAME
-msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.BUILDING.NAME"
-msgid "Building"
-msgstr "Équipement"
-
-#. STRINGS.DUPLICANTS.ROLES.GROUPS.BUILDING.WORKER_DESCRIPTION
-msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.BUILDING.WORKER_DESCRIPTION"
-msgid "Architect"
-msgstr "Architecte"
-
-#. STRINGS.DUPLICANTS.ROLES.GROUPS.COOKING.NAME
-msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.COOKING.NAME"
-msgid "Cooking"
-msgstr "Cuisine"
-
-#. STRINGS.DUPLICANTS.ROLES.GROUPS.COOKING.WORKER_DESCRIPTION
-msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.COOKING.WORKER_DESCRIPTION"
-msgid "Chef"
-msgstr "Chef Cuisinier"
-
-#. STRINGS.DUPLICANTS.ROLES.GROUPS.DOCTOR.NAME
-msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.DOCTOR.NAME"
-msgid "Doctor"
-msgstr "Docteur"
-
-#. STRINGS.DUPLICANTS.ROLES.GROUPS.DOCTOR.WORKER_DESCRIPTION
-msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.DOCTOR.WORKER_DESCRIPTION"
-msgid "Doctor"
-msgstr "Docteur"
-
-#. STRINGS.DUPLICANTS.ROLES.GROUPS.FARMING.NAME
-msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.FARMING.NAME"
-msgid "Farming"
-msgstr "Agriculture"
-
-#. STRINGS.DUPLICANTS.ROLES.GROUPS.FARMING.WORKER_DESCRIPTION
-msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.FARMING.WORKER_DESCRIPTION"
-msgid "Farmer"
-msgstr "Fermier"
-
-#. STRINGS.DUPLICANTS.ROLES.GROUPS.HAULING.NAME
-msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.HAULING.NAME"
-msgid "Supplying"
-msgstr "Approvisionnement"
-
-#. STRINGS.DUPLICANTS.ROLES.GROUPS.HAULING.WORKER_DESCRIPTION
-msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.HAULING.WORKER_DESCRIPTION"
-msgid "Courier"
-msgstr "Coursier"
-
-#. STRINGS.DUPLICANTS.ROLES.GROUPS.MANAGEMENT.NAME
-msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.MANAGEMENT.NAME"
-msgid "Management"
-msgstr "Gestion"
-
-#. STRINGS.DUPLICANTS.ROLES.GROUPS.MANAGEMENT.WORKER_DESCRIPTION
-msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.MANAGEMENT.WORKER_DESCRIPTION"
-msgid "Manager"
-msgstr "Gérant"
-
-#. STRINGS.DUPLICANTS.ROLES.GROUPS.MINING.NAME
-msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.MINING.NAME"
-msgid "Mining"
-msgstr "Minage"
-
-#. STRINGS.DUPLICANTS.ROLES.GROUPS.MINING.WORKER_DESCRIPTION
-msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.MINING.WORKER_DESCRIPTION"
-msgid "Miner"
-msgstr "Mineur"
-
-#. STRINGS.DUPLICANTS.ROLES.GROUPS.RESEARCH.NAME
-msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.RESEARCH.NAME"
-msgid "Research"
-msgstr "Recherche"
-
-#. STRINGS.DUPLICANTS.ROLES.GROUPS.RESEARCH.WORKER_DESCRIPTION
-msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.RESEARCH.WORKER_DESCRIPTION"
-msgid "Researcher"
-msgstr "Chercheur"
-
-#. STRINGS.DUPLICANTS.ROLES.GROUPS.SUITS.NAME
-msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.SUITS.NAME"
-msgid "Exosuits"
-msgstr "Exosuits"
-
-#. STRINGS.DUPLICANTS.ROLES.GROUPS.SUITS.WORKER_DESCRIPTION
-msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.SUITS.WORKER_DESCRIPTION"
-msgid "Suit Specialist"
-msgstr "Spécialiste en Combinaison"
-
-#. STRINGS.DUPLICANTS.ROLES.GROUPS.TECHNICALS.NAME
-msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.TECHNICALS.NAME"
-msgid "Technical"
-msgstr "Technique"
-
-#. STRINGS.DUPLICANTS.ROLES.GROUPS.TECHNICALS.WORKER_DESCRIPTION
-msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.TECHNICALS.WORKER_DESCRIPTION"
-msgid "Technician"
-msgstr "Technicien"
 
 #. STRINGS.DUPLICANTS.ROLES.HANDYMAN.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.HANDYMAN.DESCRIPTION"
@@ -13137,9 +13187,10 @@ msgid "Artists make better art"
 msgstr "Les Artistes expriment mieux l'Art"
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_ARTIST.NAME
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_ARTIST.NAME"
-msgid "Junior Interior Designer"
-msgstr "Décorateur d'Intérieur Débutant"
+msgid "Junior Artist"
+msgstr "Artiste"
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_BUILDER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_BUILDER.DESCRIPTION"
@@ -13157,9 +13208,10 @@ msgid "A cook can make better food"
 msgstr "Un cuisinier peut préparer de meilleurs plats"
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_COOK.NAME
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_COOK.NAME"
-msgid "Junior Chef"
-msgstr "Cuisinier Débutant"
+msgid "Sous Chef"
+msgstr "Chef Cuisinier"
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_FARMER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_FARMER.DESCRIPTION"
@@ -15292,10 +15344,11 @@ msgid "Unhappy"
 msgstr "Malheureux"
 
 #. STRINGS.DUPLICANTS.TRAITS.AGGRESSIVE.DESC
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.AGGRESSIVE.DESC"
 msgid ""
-"This Duplicant will take out their frustrations on defenseless machines when "
-"stressed"
+"This Duplicant handles stress by taking their frustrations out on "
+"defenseless machines"
 msgstr ""
 "Ce Duplicant passera ses nerfs en matraquant de pauvres équipements sans "
 "défense"
@@ -15306,8 +15359,9 @@ msgid "Destructive"
 msgstr "Destructeur"
 
 #. STRINGS.DUPLICANTS.TRAITS.AGGRESSIVE.NOREPAIR
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.AGGRESSIVE.NOREPAIR"
-msgid "• Will not repair buildings during stress outbursts"
+msgid "• Will not repair buildings above 60% stress"
 msgstr "• Ne réparera pas les équipements pendant les accès de stress"
 
 #. STRINGS.DUPLICANTS.TRAITS.ANEMIC.DESC
@@ -19490,17 +19544,19 @@ msgid "Helpful tips to get you started"
 msgstr "Conseils pratiques pour vous aider à démarrer"
 
 #. STRINGS.MISC.NOTIFICATIONS.BEING_INFECTED.MESSAGEBODY
+#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BEING_INFECTED.MESSAGEBODY"
 msgid ""
-"Duplicants must spend points of immunity to fight the various <style="
-"\"disease\">Germs</style> they're exposed to. If their immunity reaches 0%, "
-"they'll be unable to fight off any more germs and contract the next disease "
-"they encounter.\n"
+"When Duplicants come into contact with various <style=\"disease\">Germs</"
+"style>, they'll need to expend points of <style=\"misc\">Immunity</style> to "
+"resist them and remain healthy. If repeated exposes causes their Immunity to "
+"drop to 0%, they'll be unable to resist germs and will contract the next "
+"disease they encounter.\n"
 "\n"
 "Doors with Access Permissions can be built from the <style=\"misc\">BASE "
-"TAB</style> of the <style=\"misc\">BUILD MENU</style> to block Duplicants "
-"from entering biohazardous areas while they recover their spent immunity "
-"points."
+"TAB</style><color=#F44A47> <b>[1]</b></color> of the <style=\"misc\">BUILD "
+"MENU</style> to block Duplicants from entering biohazardous areas while they "
+"recover their spent immunity points."
 msgstr ""
 "Les Duplicants doivent dépenser des point d'immunité pour combattre les "
 "différents <style=\"disease\">Germes</style> auxquels ils sont exposés. Si "
@@ -19745,16 +19801,18 @@ msgstr ""
 "Ces Duplicants sont morts d'un manque d'<style=\"oxygen\">Oxygène</style>:"
 
 #. STRINGS.MISC.NOTIFICATIONS.DISEASE_COOKING.MESSAGEBODY
+#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DISEASE_COOKING.MESSAGEBODY"
 msgid ""
-"The <style=\"food\">food</style> your Duplicants make is only as clean as "
-"the <style=\"solid\">ingredients</style> used to make it. Storing food in "
-"sterile or <style=\"heat\">Refrigerated</style> environments will keep the "
-"produced food clean, while carefully placed hygiene systems will prevent "
-"your cooks from infecting the food while they handle it.\n"
+"The <style=\"food\">Food</style> your Duplicants cook will only ever be as "
+"clean as the ingredients used to make it. Storing food in sterile or <style="
+"\"heat\">Refrigerated</style> environments will keep food free of <style="
+"\"disease\">Germs</style>, while carefully placed hygiene stations like "
+"<style=\"hygiene\">Wash Basins</style> or <style=\"hygiene\">Showers</style> "
+"will prevent your cooks from infecting the food by handling it.\n"
 "\n"
-"Dangerously contaminated food can be recycled by clicking the <style=\"misc"
-"\">COMPOST</style> button on the selected item."
+"Dangerously contaminated food can be sent to compost by clicking the <style="
+"\"misc\">COMPOST</style> button on the selected item."
 msgstr ""
 "La <style=\"food\">nourriture</style> faite par vos Duplicant est aussi "
 "propre que les <style=\"solid\">ingrédients</style> utilisés. Stocker la "
@@ -20070,6 +20128,7 @@ msgid "Understanding your Duplicants' maneuverability"
 msgstr "Comprendre la maniabilité de vos Duplicants"
 
 #. STRINGS.MISC.NOTIFICATIONS.LOTS_OF_GERMS.MESSAGEBODY
+#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LOTS_OF_GERMS.MESSAGEBODY"
 msgid ""
 "<style=\"disease\">Germs</style> are an invisible peril that cause <style="
@@ -20080,7 +20139,7 @@ msgid ""
 "Wash Basins can be built in dirty areas from the <style=\"misc\">MEDICINE "
 "TAB</style> <color=#F44A47><b>[9]</b></color> to tell your Duplicants to "
 "where to wash up. If you keep your base clean and your Duplicants hygienic, "
-"your colony's Immunity will handle the rest."
+"their <style=\"misc\">Immunity</style> will handle the rest."
 msgstr ""
 "Les <style=\"disease\">Germes</style> sont un risque invisible qui cause des "
 "<style=\"disease\">Maladies</style>. Le <style=\"misc\">CALQUE GERME</style> "
@@ -20446,17 +20505,18 @@ msgstr ""
 "vides disponibles"
 
 #. STRINGS.MISC.NOTIFICATIONS.SUITS.MESSAGEBODY
+#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SUITS.MESSAGEBODY"
 msgid ""
-"<style=\"equipment\">Exosuits</style> protect your Duplicants from "
-"environmental hazards like extreme <style=\"heat\">Heat</style>, airborne "
-"<style=\"disease\">Germs</style>, and unbreathable <style=\"gas\">Gases</"
-"style>. In order to utilize these suits, you'll need to store them in an "
-"Exosuit Dock and hook that dock up to a Suit Checkpoint.\n"
+"<style=\"equipment\">Exosuits</style> can be equipped to protect your "
+"Duplicants from environmental hazards like extreme <style=\"heat\">Heat</"
+"style>, airborne <style=\"disease\">Germs</style>, or unbreathable <style="
+"\"gas\">Gas</style>. In order to utilize these suits, you'll need to hook up "
+"an Exosuit Dock to a Suit Checkpoint, then store one of your suits inside.\n"
 "\n"
-"Duplicants will equip an exosuit when walking past a Checkpoint in the "
-"direction it's facing and will unequip the suit when walking the oppposite "
-"way."
+"Duplicants will equip an exosuit when they walk past the Checkpoint in the "
+"chosen direction, and will unequip their suit when walking back the "
+"oppposite way."
 msgstr ""
 "Les <style=\"equipment\">Exosuits</style> protègent vos Duplicants des "
 "dangers environnementaux comme la <style=\"heat\">Chaleur</style> extrême, "
@@ -20475,8 +20535,9 @@ msgid "TIP: Exosuits"
 msgstr "CONSEIL: Exosuits"
 
 #. STRINGS.MISC.NOTIFICATIONS.SUITS.TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SUITS.TOOLTIP"
-msgid "Learn about exosuits"
+msgid "Learn how to use exosuits"
 msgstr "Apprenez au sujet des exosuits"
 
 #. STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.MESSAGEBODY
@@ -23235,8 +23296,7 @@ msgid ""
 msgstr ""
 "La recherche sélectionnée requiert un {0} pour être achevée\n"
 "\n"
-"Ouvrez le Menu Stations <color=#F44A47>[=]</color> pour en "
-"fabriquer un"
+"Ouvrez le Menu Stations <color=#F44A47>[=]</color> pour en fabriquer un"
 
 #. STRINGS.RESEARCH.MESSAGING.NO_RESEARCHER_ROLE
 msgctxt "STRINGS.RESEARCH.MESSAGING.NO_RESEARCHER_ROLE"
@@ -24389,8 +24449,8 @@ msgid ""
 "Leisure time will relieve additional stress for Duplicants inside a "
 "Recreation Room."
 msgstr ""
-"Le temps de pause soulagera davantage le stress des Duplicants s'il "
-"est passé dans une Pièce Récréative."
+"Le temps de pause soulagera davantage le stress des Duplicants s'il est "
+"passé dans une Pièce Récréative."
 
 #. STRINGS.SETITEMS.BREAKROOM_TABLE.DESC
 msgctxt "STRINGS.SETITEMS.BREAKROOM_TABLE.DESC"
@@ -26155,9 +26215,8 @@ msgid ""
 "Less than {0} germs are on this {1} of material.\n"
 "({2} germs/Kg)"
 msgstr ""
-"Un faible nombre de germes dans cette zone entraîne une disparition rapide"
-" des "
-"germes\n"
+"Un faible nombre de germes dans cette zone entraîne une disparition rapide "
+"des germes\n"
 "\n"
 "Moins de {0} germes à la surface de ce  matériau de {1}.\n"
 "({2} germes/Kg)"
@@ -26857,6 +26916,11 @@ msgctxt "STRINGS.UI.DETAILTABS.STATS.GROUPNAME_EXPECTATIONS"
 msgid "EXPECTATIONS"
 msgstr "ATTENTES"
 
+#. STRINGS.UI.DETAILTABS.STATS.GROUPNAME_RESUME
+msgctxt "STRINGS.UI.DETAILTABS.STATS.GROUPNAME_RESUME"
+msgid "CURRENT JOB"
+msgstr ""
+
 #. STRINGS.UI.DETAILTABS.STATS.GROUPNAME_STRESS
 msgctxt "STRINGS.UI.DETAILTABS.STATS.GROUPNAME_STRESS"
 msgid "TODAY'S STRESS"
@@ -26871,6 +26935,26 @@ msgstr "TRAITS"
 msgctxt "STRINGS.UI.DETAILTABS.STATS.NAME"
 msgid "Stats"
 msgstr "Stats"
+
+#. STRINGS.UI.DETAILTABS.STATS.RESUME.MASTERED_ROLES
+msgctxt "STRINGS.UI.DETAILTABS.STATS.RESUME.MASTERED_ROLES"
+msgid "<b>Mastered Jobs:</b>"
+msgstr ""
+
+#. STRINGS.UI.DETAILTABS.STATS.RESUME.MASTERED_ROLES_TOOLTIP
+msgctxt "STRINGS.UI.DETAILTABS.STATS.RESUME.MASTERED_ROLES_TOOLTIP"
+msgid ""
+"The following jobs have been completely mastered.\n"
+"\n"
+"Duplicants retain both the perks and the expecations of any job they've "
+"mastered."
+msgstr ""
+
+#. STRINGS.UI.DETAILTABS.STATS.RESUME.NO_MASTERED_ROLES
+#, fuzzy
+msgctxt "STRINGS.UI.DETAILTABS.STATS.RESUME.NO_MASTERED_ROLES"
+msgid "No jobs mastered yet"
+msgstr "Postes Maitrisés"
 
 #. STRINGS.UI.DETAILTABS.STATS.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.STATS.TOOLTIP"
@@ -31027,9 +31111,8 @@ msgstr ""
 "1: Le Moins urgent\n"
 "5: Le Plus urgent\n"
 "------------------\n"
-"La valeur de Priorité augmente ou diminue l'importance d'une tâche comparé"
-" aux "
-"autres tâches du même type.\n"
+"La valeur de Priorité augmente ou diminue l'importance d'une tâche comparé "
+"aux autres tâches du même type.\n"
 "Les Duplicants donneront quand même la priorité aux tâches induites par les "
 "missions qui leurs sont affectées."
 
@@ -31041,8 +31124,8 @@ msgid ""
 "survival needs."
 msgstr ""
 "<b>Priorité Critique</b>\n"
-"Cette priorité surpasse toutes les autres, y compris les besoins élémentaires "
-"des Duplicants."
+"Cette priorité surpasse toutes les autres, y compris les besoins "
+"élémentaires des Duplicants."
 
 #. STRINGS.UI.PRIORITYSCREEN.HIGH
 msgctxt "STRINGS.UI.PRIORITYSCREEN.HIGH"
@@ -31069,8 +31152,8 @@ msgid ""
 "colonywide, regardless of their job preferences."
 msgstr ""
 "<b>Active une Priorité Fixe</b>\n"
-"La Priorité Fixe définit une priorité universelle pour une tâche applicable à "
-"tous les Duplicants, quelles que soient les priorités de leur mission."
+"La Priorité Fixe définit une priorité universelle pour une tâche applicable "
+"à tous les Duplicants, quelles que soient les priorités de leur mission."
 
 #. STRINGS.UI.PRODUCTINFO_APPLICABLERESOURCES
 msgctxt "STRINGS.UI.PRODUCTINFO_APPLICABLERESOURCES"
@@ -31504,6 +31587,12 @@ msgctxt "STRINGS.UI.ROLES_SCREEN.MANAGEMENT_BUTTON"
 msgid "JOBS"
 msgstr "MISSIONS"
 
+#. STRINGS.UI.ROLES_SCREEN.NO_JOB_STATION_WARNING
+#, fuzzy
+msgctxt "STRINGS.UI.ROLES_SCREEN.NO_JOB_STATION_WARNING"
+msgid "Build a Job Station to access Job assignments"
+msgstr "Change pour la mission nouvellement assignée"
+
 #. STRINGS.UI.ROLES_SCREEN.PERKS.ADVANCED_RESEARCH.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.ADVANCED_RESEARCH.DESCRIPTION"
 msgid "Can use Super Computers"
@@ -31686,6 +31775,12 @@ msgctxt "STRINGS.UI.ROLES_SCREEN.SIDEBAR.UNASSIGNED_DUPLICANTS"
 msgid "Unassigned Duplicants"
 msgstr "Duplicants non Assignés"
 
+#. STRINGS.UI.ROLES_SCREEN.SLOTS.ASSIGNMENT_PENDING
+#, fuzzy
+msgctxt "STRINGS.UI.ROLES_SCREEN.SLOTS.ASSIGNMENT_PENDING"
+msgid "(Pending)"
+msgstr "Attaque en Attente"
+
 #. STRINGS.UI.ROLES_SCREEN.SLOTS.NO_ELIGIBLE_DUPLICANTS
 msgctxt "STRINGS.UI.ROLES_SCREEN.SLOTS.NO_ELIGIBLE_DUPLICANTS"
 msgid "No Duplicants meet the requirements for this job"
@@ -31695,6 +31790,17 @@ msgstr "Aucun Duplicant ne répond aux critères pour ce métier"
 msgctxt "STRINGS.UI.ROLES_SCREEN.SLOTS.NOSLOTS"
 msgid "No slots available"
 msgstr "Pas d'emplacement disponible"
+
+#. STRINGS.UI.ROLES_SCREEN.SLOTS.PICK_DUPLICANT
+#, fuzzy
+msgctxt "STRINGS.UI.ROLES_SCREEN.SLOTS.PICK_DUPLICANT"
+msgid "Duplicant..."
+msgstr "Duplicant"
+
+#. STRINGS.UI.ROLES_SCREEN.SLOTS.PICK_JOB
+msgctxt "STRINGS.UI.ROLES_SCREEN.SLOTS.PICK_JOB"
+msgid "Job..."
+msgstr ""
 
 #. STRINGS.UI.ROLES_SCREEN.SLOTS.UNASSIGNED
 msgctxt "STRINGS.UI.ROLES_SCREEN.SLOTS.UNASSIGNED"
@@ -32521,6 +32627,20 @@ msgstr ""
 "Les Stations de recherche se trouvent dans l'Onglet Station "
 "<color=#F44A47>[0]</color> du Menu Construire"
 
+#. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_REQUIRES_ROLES_STATION
+#, fuzzy
+msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_REQUIRES_ROLES_STATION"
+msgid ""
+"Build a Job Station to unlock\n"
+"------------------\n"
+"The Job Station can be found in the Stations Tab <color=#F44A47>[0]</color> "
+"of the Build Menu"
+msgstr ""
+"Construire une Station de Recherche pour débloquer\n"
+"-----------------\n"
+"Les Stations de recherche se trouvent dans l'Onglet Station "
+"<color=#F44A47>[0]</color> du Menu Construire"
+
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_RESEARCH
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_RESEARCH"
 msgid "View the Research Tree"
@@ -33012,6 +33132,25 @@ msgstr "Assigné à {0}"
 msgctxt "STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.UNASSIGNED"
 msgid "-"
 msgstr "-"
+
+#. STRINGS.UI.UISIDESCREENS.AUTOMATABLE_SIDE_SCREEN.ALLOWMANUALBUTTON
+#, fuzzy
+msgctxt "STRINGS.UI.UISIDESCREENS.AUTOMATABLE_SIDE_SCREEN.ALLOWMANUALBUTTON"
+msgid "Allow Manual Operation"
+msgstr "Opération normale"
+
+#. STRINGS.UI.UISIDESCREENS.AUTOMATABLE_SIDE_SCREEN.ALLOWMANUALBUTTONTOOLTIP
+#, fuzzy
+msgctxt ""
+"STRINGS.UI.UISIDESCREENS.AUTOMATABLE_SIDE_SCREEN.ALLOWMANUALBUTTONTOOLTIP"
+msgid "Allow duplicants to manually interact with this building."
+msgstr "Ne pas désinfecter automatiquement cet équipement"
+
+#. STRINGS.UI.UISIDESCREENS.AUTOMATABLE_SIDE_SCREEN.TITLE
+#, fuzzy
+msgctxt "STRINGS.UI.UISIDESCREENS.AUTOMATABLE_SIDE_SCREEN.TITLE"
+msgid "Automatable"
+msgstr "Automatisation"
 
 #. STRINGS.UI.UISIDESCREENS.CAPACITY_CONTROL_SIDE_SCREEN.MAX_LABEL
 msgctxt "STRINGS.UI.UISIDESCREENS.CAPACITY_CONTROL_SIDE_SCREEN.MAX_LABEL"
@@ -33657,6 +33796,18 @@ msgstr "RECHERCHE"
 msgctxt "STRINGS.UI.UISIDESCREENS.RESEARCHSIDESCREEN.TITLE"
 msgid "Select Research"
 msgstr "Choisissez une Recherche"
+
+#. STRINGS.UI.UISIDESCREENS.ROLESTATION.OPENROLESBUTTON
+#, fuzzy
+msgctxt "STRINGS.UI.UISIDESCREENS.ROLESTATION.OPENROLESBUTTON"
+msgid "JOBS"
+msgstr "MISSIONS"
+
+#. STRINGS.UI.UISIDESCREENS.ROLESTATION.TITLE
+#, fuzzy
+msgctxt "STRINGS.UI.UISIDESCREENS.ROLESTATION.TITLE"
+msgid "Job Station"
+msgstr "Centrale d'énergie"
 
 #. STRINGS.UI.UISIDESCREENS.SEALEDDOORSIDESCREEN.AWAITINGBUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.SEALEDDOORSIDESCREEN.AWAITINGBUTTON"
@@ -35502,6 +35653,332 @@ msgstr "Aspersion de sable..."
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT9"
 msgid "Sprinkling sand..."
 msgstr "Aspersion de sable..."
+
+#~ msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUIT.DESC"
+#~ msgid "Conveyor rails carry solid items around your base."
+#~ msgstr ""
+#~ "Les rails de convoyeur acheminent les objets solides dans toute votre "
+#~ "base."
+
+#~ msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUIT.EFFECT"
+#~ msgid ""
+#~ "Carries solids between inboxes and outboxes\n"
+#~ "\n"
+#~ "Can be run through tiles."
+#~ msgstr ""
+#~ "Transporte des solides entre les entrées et les sorties\n"
+#~ "\n"
+#~ "Peut traverser les dalles."
+
+#~ msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITBRIDGE.DESC"
+#~ msgid ""
+#~ "Separate conveyor systems prevent mingled contents from causing confusion "
+#~ "and dismay."
+#~ msgstr ""
+#~ "Des systèmes de convoi séparés empêchent le mélange des contenus de "
+#~ "causer confusion et consternation."
+
+#~ msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITINBOX.DESC"
+#~ msgid ""
+#~ "Conveyor Loaders accept items to be transferred through the Conveyor Rail "
+#~ "system."
+#~ msgstr ""
+#~ "Les Chargeurs de Convoyeur acceptent que les objets soient acheminés à "
+#~ "travers le système de Rail de Convoyeur."
+
+#~ msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITINBOX.EFFECT"
+#~ msgid "Accepts solid goods to be conveyed to a Conveyor Receptacle."
+#~ msgstr ""
+#~ "Accepte que les marchandises solides soient convoyées jusqu'au bac "
+#~ "duConvoyeur."
+
+#~ msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITOUTBOX.DESC"
+#~ msgid ""
+#~ "Conveyor Receptacles allow items to be removed from the Conveyor Rail "
+#~ "system."
+#~ msgstr ""
+#~ "Les bacs de Convoyeur permettent d'extraire les objets du système de "
+#~ "Rails de Convoyeur."
+
+#~ msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITOUTBOX.EFFECT"
+#~ msgid "Receives solid goods for removal from the Conveyor Rail system."
+#~ msgstr ""
+#~ "Reçoit les marchandises solides à extraire du système de Rails de "
+#~ "Convoyeur."
+
+#~ msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDTRANSFERARM.DESC"
+#~ msgid ""
+#~ "Auto-Sweepers will automatically pick up and deliver solid goods within a "
+#~ "short range."
+#~ msgstr ""
+#~ "Les Collecteurs Automatiques ramasseront et livreront automatiquement les "
+#~ "biens solides sur une courte distance."
+
+#~ msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDTRANSFERARM.EFFECT"
+#~ msgid ""
+#~ "Delivers solid goods between nearby storage containers, machines, and "
+#~ "Conveyor Loaders and Receptacles."
+#~ msgstr ""
+#~ "Transfère des marchandises solides entre les conteneurs proches, les "
+#~ "machines, et les Chargeurs et Bacs de Convoyeur."
+
+#~ msgctxt ""
+#~ "STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.CARRYWEIGHT_MODIFIER_DESCRIPTION"
+#~ msgid "Athletics"
+#~ msgstr "Forme Physique"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.DROPUNUSEDINVENTORY.NAME"
+#~ msgid "Drop unused inventory"
+#~ msgstr "Lâche l'inventaire inutilisé"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.NAME"
+#~ msgid "Emoting"
+#~ msgstr "Emotion"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.NAME"
+#~ msgid "Empty storage"
+#~ msgstr "Stockage vide"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.FABRICATE.NAME"
+#~ msgid "Fabricating"
+#~ msgstr "Fabriquer"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.GENESHUFFLE.NAME"
+#~ msgid "Neural Vacillator"
+#~ msgstr "Vacillateur Neuronal"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.PEE.NAME"
+#~ msgid "Pee"
+#~ msgstr "Urine"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.PEE.STATUS"
+#~ msgid "Bio Break"
+#~ msgstr "Pause bio"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.ALLOWED_TO_DEPRESSURIZE"
+#~ msgid "Not Over Pressure"
+#~ msgstr "Pas en Sur-Pression"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.CHORE_DRIVER_IS_NULL"
+#~ msgid "Assigned To: {Assignee}"
+#~ msgstr "Assigné à: {Assignee}"
+
+#~ msgctxt ""
+#~ "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.DOES_SUIT_NEED_RECHARGING_IDLE"
+#~ msgid "Suit Does Not Require Charging"
+#~ msgstr "La combinaison n'a pas besoin d'être chargée"
+
+#~ msgctxt ""
+#~ "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.DOES_SUIT_NEED_RECHARGING_URGENT"
+#~ msgid "Suit Does Not Require Charging"
+#~ msgstr "La combinaison n'a pas besoin d'être chargée"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.HAS_ROLE_PERK"
+#~ msgid "Missing Role Perk"
+#~ msgstr "Bonus au Rôle Manquant"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.HAS_URGE"
+#~ msgid "Does not have urge"
+#~ msgstr "Pas d'urgence"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_ALLOWED_BY_AUTOMATION"
+#~ msgid "Allowed By Automation Setting"
+#~ msgstr "Autorisé par les paramètres d'Automatisation"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_ASSIGNED_TO_ME"
+#~ msgid "Not Assigned to Target"
+#~ msgstr "Pas assigné à cette Cible"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_AWAKE"
+#~ msgid "Is Not Awake"
+#~ msgstr "N'est Pas Réveillé"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_CONSUMPTION_PERMITTED"
+#~ msgid "Consumption Not Allowed"
+#~ msgstr "Consommation Non Autorisée"
+
+# Context ?
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_FETCH_TARGET_AVAILABLE"
+#~ msgid "Deliverable Not Available"
+#~ msgstr "Livraison Pas Disponible"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_GETTING_MORE_STRESSED"
+#~ msgid "Stress Decreasing"
+#~ msgstr "Stress en Baisse"
+
+# A voir ingame
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_IN_MY_ROOM"
+#~ msgid "Not in Target's Room"
+#~ msgstr "Pas dans la Bonne Pièce"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_MOVING"
+#~ msgid "Is Not Moving"
+#~ msgstr "Ne Bouge Pas"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_NARCOLEPSING"
+#~ msgid "Is Not Sleeping"
+#~ msgstr "Ne Dort Pas"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_NOT_ANGRY"
+#~ msgid "Angry"
+#~ msgstr "En Colère"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_NOT_BEING_ATTACKED"
+#~ msgid "In Combat"
+#~ msgstr "En Combat"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_NOT_RED_ALERT"
+#~ msgid "Not During Red Alert"
+#~ msgstr "Pas Pendant l'Alerte Rouge"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_OFF_LADDER"
+#~ msgid "Is On Ladder"
+#~ msgstr "Sur une Échelle"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_OKAY_TIME_TO_SLEEP"
+#~ msgid "Not Tired"
+#~ msgstr "Pas Fatigué"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_ROLE"
+#~ msgid "Incorrect Role"
+#~ msgstr "Rôle Incorrect"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_SCHEDULED_TIME"
+#~ msgid "Is Not Scheduled Time"
+#~ msgstr "N'est Pas Planifié"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_STANDING"
+#~ msgid "Is Not Standing"
+#~ msgstr "N'est Pas Debout"
+
+#~ msgctxt ""
+#~ "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_STRESS_ABOVE_ACTIVATION_RANGE"
+#~ msgid "Not Stressed Enough"
+#~ msgstr "Pas Suffisamment Stressé"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_VALID"
+#~ msgid "Not Valid"
+#~ msgstr "Pas Valide"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.NOT_IN_TUBE"
+#~ msgid "Is In Tube"
+#~ msgstr "Est Dans un Tube"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.RETURNSUIT.NAME"
+#~ msgid "Return Suit"
+#~ msgstr "Combinaison de retour"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.RETURNSUIT.STATUS"
+#~ msgid "Returning Suit"
+#~ msgstr "Retourne la Combinaison"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.SWITCHROLE.NAME"
+#~ msgid "Switch Job"
+#~ msgstr "Changer de Métier"
+
+#~ msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.ART.NAME"
+#~ msgid "Art"
+#~ msgstr "Art"
+
+#~ msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.ART.WORKER_DESCRIPTION"
+#~ msgid "Artist"
+#~ msgstr "Artiste"
+
+#~ msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.BASEKEEPING.NAME"
+#~ msgid "Maintenance"
+#~ msgstr "Maintenance"
+
+#~ msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.BASEKEEPING.WORKER_DESCRIPTION"
+#~ msgid "Maintenance Worker"
+#~ msgstr "Agent de Maintenance"
+
+#~ msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.BUILDING.NAME"
+#~ msgid "Building"
+#~ msgstr "Équipement"
+
+#~ msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.BUILDING.WORKER_DESCRIPTION"
+#~ msgid "Architect"
+#~ msgstr "Architecte"
+
+#~ msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.COOKING.NAME"
+#~ msgid "Cooking"
+#~ msgstr "Cuisine"
+
+#~ msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.COOKING.WORKER_DESCRIPTION"
+#~ msgid "Chef"
+#~ msgstr "Chef Cuisinier"
+
+#~ msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.DOCTOR.NAME"
+#~ msgid "Doctor"
+#~ msgstr "Docteur"
+
+#~ msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.DOCTOR.WORKER_DESCRIPTION"
+#~ msgid "Doctor"
+#~ msgstr "Docteur"
+
+#~ msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.FARMING.NAME"
+#~ msgid "Farming"
+#~ msgstr "Agriculture"
+
+#~ msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.FARMING.WORKER_DESCRIPTION"
+#~ msgid "Farmer"
+#~ msgstr "Fermier"
+
+#~ msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.HAULING.NAME"
+#~ msgid "Supplying"
+#~ msgstr "Approvisionnement"
+
+#~ msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.HAULING.WORKER_DESCRIPTION"
+#~ msgid "Courier"
+#~ msgstr "Coursier"
+
+#~ msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.MANAGEMENT.NAME"
+#~ msgid "Management"
+#~ msgstr "Gestion"
+
+#~ msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.MANAGEMENT.WORKER_DESCRIPTION"
+#~ msgid "Manager"
+#~ msgstr "Gérant"
+
+#~ msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.MINING.NAME"
+#~ msgid "Mining"
+#~ msgstr "Minage"
+
+#~ msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.MINING.WORKER_DESCRIPTION"
+#~ msgid "Miner"
+#~ msgstr "Mineur"
+
+#~ msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.RESEARCH.NAME"
+#~ msgid "Research"
+#~ msgstr "Recherche"
+
+#~ msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.RESEARCH.WORKER_DESCRIPTION"
+#~ msgid "Researcher"
+#~ msgstr "Chercheur"
+
+#~ msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.SUITS.NAME"
+#~ msgid "Exosuits"
+#~ msgstr "Exosuits"
+
+#~ msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.SUITS.WORKER_DESCRIPTION"
+#~ msgid "Suit Specialist"
+#~ msgstr "Spécialiste en Combinaison"
+
+#~ msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.TECHNICALS.NAME"
+#~ msgid "Technical"
+#~ msgstr "Technique"
+
+#~ msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.TECHNICALS.WORKER_DESCRIPTION"
+#~ msgid "Technician"
+#~ msgstr "Technicien"
+
+#~ msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_ARTIST.NAME"
+#~ msgid "Junior Interior Designer"
+#~ msgstr "Décorateur d'Intérieur Débutant"
+
+#~ msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_COOK.NAME"
+#~ msgid "Junior Chef"
+#~ msgstr "Cuisinier Débutant"
 
 # La phrase n'est pas claire en l'état.
 #~ msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDIN.TOOLTIP"
