@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2018-02-02 23:29+0100\n"
+"PO-Revision-Date: 2018-02-03 15:58+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
@@ -1408,11 +1408,11 @@ msgid ""
 "Enter the Shipping Tab <color=#F44A47>[7]</color> of the Build Menu to build "
 "and connect a Conveyor Receptacle"
 msgstr ""
-"Le Matériau ne peut pas être déchargé de ce système de Convoyeur et restera "
-"sur les rails\n"
+"Le Matériau ne peut pas être déchargé de ce système de Convoyeur et bloquera "
+"les rails\n"
 "------------------\n"
-"Ouvrez l'Onglet Livraison <color=#F44A47>[7]</color> of the Build Menu to "
-"build and connect a Conveyor Receptacle"
+"Ouvrez l'Onglet Livraison <color=#F44A47>[7]</color> du Menu de Construction "
+"pour construire et connecter un Bac de Convoyeur"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEUTRONIUMUNMINABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEUTRONIUMUNMINABLE.NAME"
@@ -1956,7 +1956,7 @@ msgstr "Les recherches effectuées à cette station seront investies dans {Tech}
 #. STRINGS.BUILDING.STATUSITEMS.SOLIDPIPEOBSTRUCTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SOLIDPIPEOBSTRUCTED.NAME"
 msgid "Conveyor Rail Backup"
-msgstr "Rail de Secours du Convoyeur"
+msgstr "Bouchon au Rail de Convoyeur"
 
 #. STRINGS.BUILDING.STATUSITEMS.SOLIDPIPEOBSTRUCTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SOLIDPIPEOBSTRUCTED.TOOLTIP"
@@ -3751,7 +3751,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GASMINIPUMP.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASMINIPUMP.NAME"
 msgid "Mini Gas Pump"
-msgstr "Mini Pompe à Gaz"
+msgstr "Pompe à Gaz Miniature"
 
 #. STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.DESC"
@@ -4451,7 +4451,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDMINIPUMP.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDMINIPUMP.NAME"
 msgid "Mini Liquid Pump"
-msgstr "Mini Pompe à Liquides"
+msgstr "Pompe à Liquides Miniature"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDPUMP.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDPUMP.DESC"
@@ -5891,7 +5891,7 @@ msgid ""
 "Duplicants the walk."
 msgstr ""
 "Les Rails déplacent automatiquement les matériaux aux endroits où ils sont "
-"le plus nécessaires, ce qui fait un trajet en moins pour les Duplicants."
+"le plus nécessaires, ce qui fait de la marche en moins pour les Duplicants."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUIT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUIT.EFFECT"
@@ -5902,11 +5902,11 @@ msgid ""
 "\n"
 "Can be run through tiles."
 msgstr ""
-"Transporte des <style=\"solid\">Matériaux Solides </style> sur une piste"
-" entre "
-"les <style=\"misc\">Chargeurs de Convoyeur</style> et les <style=\"misc\""
-">Bacs</"
-"style>.\n"
+"Transporte des <style=\"solid\">Matériaux Solides </style> sur un rail entre"
+" les "
+"<style=\"misc\">Chargeurs de Convoyeur</style> et les <style=\"misc\">Bacs<"
+"/style>."
+"\n"
 "\n"
 "Peut traverser les dalles."
 
@@ -5978,7 +5978,7 @@ msgid ""
 "When materials reach the end of a rail they enter a receptacle to be used by "
 "Duplicants."
 msgstr ""
-"Quand les matériaux atteignent l'extrémité du rail, ils entrent dans un bac "
+"Quand les matériaux atteignent l'extrémité du rail, ils entrent dans un Bac "
 "pour être utilisés par les Duplicants."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITOUTBOX.EFFECT
@@ -6542,8 +6542,8 @@ msgid ""
 "\n"
 "Functions as a regular tile."
 msgstr ""
-"Permet de faire passer les câbles à Haute Tension à travers les dalles de "
-"sol et les cloisons.\n"
+"Permet de faire passer les câbles à Haute Tension à travers les dalles et les "
+"cloisons.\n"
 "\n"
 "Fonctionne comme une dalle standard."
 
@@ -17815,7 +17815,7 @@ msgstr "Transforme votre Duplicant en référence de charme et de style."
 msgctxt "STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.EFFECT"
 msgid "Increases Decor in a small area effect around the wearer."
 msgstr ""
-"Améliore la Décoration dans un petit rayon autour du Duplicant qui le porte."
+"Améliore la Décoration dans un petit rayon autour du Duplicant qui la porte."
 
 #. STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.GENERICNAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.GENERICNAME"
@@ -17831,7 +17831,7 @@ msgstr "Veste tape-à-l'œil"
 msgctxt "STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.RECIPE_DESC"
 msgid "Increases Decor in a small area effect around the wearer."
 msgstr ""
-"Améliore la Décoration dans un petit rayon autour du Duplicant qui le porte."
+"Améliore la Décoration dans un petit rayon autour du Duplicant qui la porte."
 
 #. STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK.EFFECT
 msgctxt "STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK.EFFECT"
@@ -20241,7 +20241,7 @@ msgid ""
 "\t• {1}"
 msgstr ""
 "{0} a développé la capacité:\n"
-"\t• {1}"
+"  • {1}"
 
 #. STRINGS.MISC.NOTIFICATIONS.NO_MEDICAL_COTS.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NO_MEDICAL_COTS.NAME"
@@ -20310,7 +20310,7 @@ msgstr ""
 "Eurêka ! La Technologie <style=\"research\">{0}</style> a été débloquée.\n"
 "\n"
 "De nouvelles constructions sont disponibles:\n"
-"\t• <style=\"misc\">{1}</style>"
+"  • <style=\"misc\">{1}</style>"
 
 #. STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.NAME"
@@ -26061,7 +26061,7 @@ msgid ""
 "\t• {0}"
 msgstr ""
 "\n"
-"\t• {0}"
+"  • {0}"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.CONTENTS_MASS
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.CONTENTS_MASS"
@@ -26075,7 +26075,7 @@ msgid ""
 "\t• {0}"
 msgstr ""
 "\n"
-"\t• {0}"
+"  • {0}"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.CONTENTS_TEMPERATURE
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.CONTENTS_TEMPERATURE"
@@ -33848,7 +33848,7 @@ msgstr ""
 #. STRINGS.UI.UISIDESCREENS.SUIT_SIDE_SCREEN.CONFIG_REQUEST_SUIT
 msgctxt "STRINGS.UI.UISIDESCREENS.SUIT_SIDE_SCREEN.CONFIG_REQUEST_SUIT"
 msgid "Deliver Exosuit"
-msgstr "Livre l'Exosuit"
+msgstr "Livrer l'Exosuit"
 
 #. STRINGS.UI.UISIDESCREENS.SUIT_SIDE_SCREEN.CONFIG_REQUEST_SUIT_TOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.SUIT_SIDE_SCREEN.CONFIG_REQUEST_SUIT_TOOLTIP"
