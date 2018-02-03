@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2018-02-03 15:58+0100\n"
+"PO-Revision-Date: 2018-02-03 16:08+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
@@ -5822,7 +5822,7 @@ msgstr "Permet l'affectation à des <style=\"research\">Missions</style>"
 #. STRINGS.BUILDINGS.PREFABS.ROLESTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROLESTATION.NAME"
 msgid "Job Station"
-msgstr "Centrale d'énergie"
+msgstr "Centre de Formation"
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.AVERAGEQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.AVERAGEQUALITYNAME"
