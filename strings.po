@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2018-02-03 16:08+0100\n"
+"PO-Revision-Date: 2018-02-04 13:36+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
@@ -9758,7 +9758,7 @@ msgstr "Pas de besoin"
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.HEADER
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.HEADER"
 msgid "Errands {Selected} could perform here:"
-msgstr "La Tâche {Selected} peut être effectuée ici:"
+msgstr "Les tâches que {Selected} peut effectuer ici:"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_ALLOWED_BY_AUTOMATION
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_ALLOWED_BY_AUTOMATION"
