@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2018-02-04 14:13+0100\n"
+"PO-Revision-Date: 2018-02-04 14:42+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
@@ -6762,8 +6762,9 @@ msgid ""
 "Wheezeworts can be grown in flower pots and absorb <style=\"heat\">Heat</"
 "style> by respiring through their porous outer membranes."
 msgstr ""
-"Les Wheezeworts peuvent pousser dans des pots de fleurs et absorbent la "
-"<style=\"heat\">Chaleur</style> en l'aspirant à travers ses membranes "
+"Les plantes sifflantes peuvent pousser dans des pots de fleurs et absorbent"
+" la "
+"<style=\"heat\">Chaleur</style> en l'aspirant à travers leurs membranes "
 "poreuses."
 
 #. STRINGS.CREATURES.SPECIES.COLDBREATHER.DOMESTICATEDDESC
@@ -6774,7 +6775,7 @@ msgstr "Cette plante absorbe la <style=\"heat\">Chaleur</style>."
 #. STRINGS.CREATURES.SPECIES.COLDBREATHER.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.COLDBREATHER.NAME"
 msgid "Wheezewort"
-msgstr "Wheezewort"
+msgstr "Plante Sifflante"
 
 #. STRINGS.CREATURES.SPECIES.COLDWHEAT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.COLDWHEAT.DESC"
@@ -7154,9 +7155,11 @@ msgid ""
 "\n"
 "Digging up Buried Objects may uncover a Wort Seed."
 msgstr ""
-"La<style=\"seed\">Graine</style> D'un <style=\"plant\">Wheezewort</style>.\n"
+"La<style=\"seed\">Graine</style> D'une <style=\"plant\">Plante Sifflante<"
+"/style>.\n"
 "\n"
-"Déterrer les Objets Enfouis peut mettre au jour une Graine de Wheezewort."
+"Déterrer les Objets Enfouis peut mettre au jour une Graine de Plante"
+" Sifflante."
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.COLDBREATHER.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.COLDBREATHER.NAME"
@@ -18761,7 +18764,7 @@ msgstr ""
 #. STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.NAME
 msgctxt "STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.NAME"
 msgid "Mush Fry"
-msgstr "Barre de Mush Frit"
+msgstr "Bouillie de Boue Frite"
 
 #. STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.RECIPEDESC"
@@ -18861,12 +18864,12 @@ msgid ""
 msgstr ""
 "Une bouillie de moisissures comestible.\n"
 "\n"
-"Les barres de Mush sont préférables à la faim, mais c'est tout juste."
+"La Bouillie de Boue est préférable à la faim, mais c'est tout juste."
 
 #. STRINGS.ITEMS.FOOD.MUSHBAR.NAME
 msgctxt "STRINGS.ITEMS.FOOD.MUSHBAR.NAME"
 msgid "Mush Bar"
-msgstr "Barre de Mush"
+msgstr "Bouillie de Boue"
 
 #. STRINGS.ITEMS.FOOD.MUSHBAR.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.MUSHBAR.RECIPEDESC"
@@ -18877,7 +18880,7 @@ msgid ""
 msgstr ""
 "Une bouillie de moisissures comestible.\n"
 "\n"
-"Les barres de Mush sont préférables à la faim, mais c'est tout juste."
+"La Bouillie de Boue est préférable à la faim, mais c'est tout juste."
 
 #. STRINGS.ITEMS.FOOD.MUSHROOM.DESC
 msgctxt "STRINGS.ITEMS.FOOD.MUSHROOM.DESC"
