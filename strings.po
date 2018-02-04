@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2018-02-04 13:36+0100\n"
+"PO-Revision-Date: 2018-02-04 14:13+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
@@ -6726,19 +6726,21 @@ msgid ""
 "Mealwoods produce <style=\"food\">Meal Lice</style>, an oddly wriggly grain "
 "that can be harvested for <style=\"food\">Food</style>."
 msgstr ""
-"Les Mealwoods produisent du <style=\"food\">Meal Lice</style>, une céréale "
+"Les Arbres à Poux produisent des <style=\"food\">larves de farine</style>,"
+" une céréale "
 "étrangement tortillée qui peut être récoltée pour l'<style=\"food"
 "\">Alimentation</style>."
 
 #. STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.DOMESTICATEDDESC"
 msgid "This plant produces edible <style=\"food\">Meal Lice</style>."
-msgstr "Cette plante produit du <style=\"food\">Meal Lice</style> comestible."
+msgstr ""
+"Cette plante produit des <style=\"food\">larves de farine</style> comestibles."
 
 #. STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.NAME"
 msgid "Mealwood"
-msgstr "Mealwood"
+msgstr "Arbre à Poux"
 
 #. STRINGS.CREATURES.SPECIES.CHLORINEGEYSER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.CHLORINEGEYSER.DESC"
@@ -7135,14 +7137,15 @@ msgid ""
 "\n"
 "Digging up Buried Objects may uncover a Mealwood Seed."
 msgstr ""
-"La <style=\"seed\">Graine</style> d'une <style=\"plant\">Mealwood</style>.\n"
+"La <style=\"seed\">Graine</style> d'un <style=\"plant\">Arbre à Poux</style"
+">.\n"
 "\n"
-"Déterrer les Objets Enfouis peut mettre au jour une Graine de Mealwood."
+"Déterrer les Objets Enfouis peut mettre au jour une Graine d'Arbre à Poux."
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.BASICSINGLEHARVESTPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.BASICSINGLEHARVESTPLANT.NAME"
 msgid "Mealwood Seed"
-msgstr "Graine de Mealwood"
+msgstr "Graine d'Arbre à Poux"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.COLDBREATHER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.COLDBREATHER.DESC"
@@ -18643,31 +18646,32 @@ msgctxt "STRINGS.ITEMS.FOOD.BASICPLANTBAR.DESC"
 msgid ""
 "<style=\"food\">Meal Lice</style> compacted into a dense, immobile loaf."
 msgstr ""
-"<style=\"food\">Meal Lice</style> compacté en un pain dense et immobile."
+"<style=\"food\">larves de farine</style> compactées en un pain dense et"
+" immobile."
 
 #. STRINGS.ITEMS.FOOD.BASICPLANTBAR.NAME
 msgctxt "STRINGS.ITEMS.FOOD.BASICPLANTBAR.NAME"
 msgid "Liceloaf"
-msgstr "Liceloaf"
+msgstr "pain de larves"
 
 #. STRINGS.ITEMS.FOOD.BASICPLANTBAR.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.BASICPLANTBAR.RECIPEDESC"
 msgid ""
 "<style=\"food\">Meal Lice</style> compacted into a dense, immobile loaf."
 msgstr ""
-"<style=\"food\">Meal Lice</style> compacté en un pain dense et immobile."
+"<style=\"food\">larves de farine</style> compactées en un pain dense et"
+" immobile."
 
 #. STRINGS.ITEMS.FOOD.BASICPLANTFOOD.DESC
 msgctxt "STRINGS.ITEMS.FOOD.BASICPLANTFOOD.DESC"
 msgid "A flavorless grain that almost never wiggles on its own."
 msgstr "Un grain sans saveur qui ne gigote presque jamais de son plein gré."
 
-# On ne parle sans doute pas d'un pou. Dans les autres messages, il est question d'une céréale et on le compacte pour en faire un pain dense.
 #
 #. STRINGS.ITEMS.FOOD.BASICPLANTFOOD.NAME
 msgctxt "STRINGS.ITEMS.FOOD.BASICPLANTFOOD.NAME"
 msgid "Meal Lice"
-msgstr "Meal Lice"
+msgstr "larves de farine"
 
 #. STRINGS.ITEMS.FOOD.COLDWHEATBREAD.DESC
 msgctxt "STRINGS.ITEMS.FOOD.COLDWHEATBREAD.DESC"
@@ -18892,9 +18896,9 @@ msgid ""
 "\n"
 "It's a rarely acquired taste."
 msgstr ""
-"Meal Lice conservé dans du vinaigre.\n"
+"larves de farine conservées dans du vinaigre.\n"
 "\n"
-"Possède un goût inhabituel."
+"Possèdent un goût inhabituel."
 
 #. STRINGS.ITEMS.FOOD.PICKLEDMEAL.NAME
 msgctxt "STRINGS.ITEMS.FOOD.PICKLEDMEAL.NAME"
@@ -18904,7 +18908,7 @@ msgstr "Repas Mariné"
 #. STRINGS.ITEMS.FOOD.PICKLEDMEAL.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.PICKLEDMEAL.RECIPEDESC"
 msgid "Meal Lice regrettably preserved in vinegar."
-msgstr "Poux malencontreusement conservés dans du vinaigre."
+msgstr "larves de farine malencontreusement conservées dans du vinaigre."
 
 #. STRINGS.ITEMS.FOOD.PRICKLEFRUIT.DESC
 msgctxt "STRINGS.ITEMS.FOOD.PRICKLEFRUIT.DESC"
