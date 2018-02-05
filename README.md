@@ -1,5 +1,5 @@
-Oxygen-Not-Included_french
-==========================
+Oxygen Not Included - French l10n
+=================================
 
 Traduction en français pour le jeu *Oxygen Not Included* de l'éditeur Klei Entertainment.
 
