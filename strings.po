@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2018-02-06 08:22+0100\n"
+"PO-Revision-Date: 2018-02-06 17:15+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
@@ -1269,7 +1269,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.MOPUNREACHABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MOPUNREACHABLE.NAME"
 msgid "Unreachable Mop"
-msgstr "Serpillière inaccessible"
+msgstr "Nettoyage inaccessible"
 
 #. STRINGS.BUILDING.STATUSITEMS.MOPUNREACHABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MOPUNREACHABLE.TOOLTIP"
@@ -5822,7 +5822,6 @@ msgstr ""
 " Duplicants et développer des caractéristiques uniques."
 
 #. STRINGS.BUILDINGS.PREFABS.ROLESTATION.EFFECT
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROLESTATION.EFFECT"
 msgid ""
 "Allows Duplicants to be assigned to specialized <style=\"research\">Jobs</"
@@ -5831,7 +5830,7 @@ msgid ""
 "Unlocks <style=\"misc\">Hats</style>."
 msgstr ""
 "Permet d'assigner les Duplicants à des <style=\"research\">Missions</style> "
-"spécialisée.\n"
+"spécialisées.\n"
 "\n"
 "Débloque les <style=\"misc\">Chapeaux</style>."
 
@@ -14280,7 +14279,7 @@ msgstr "Ce Duplicant transporte des matériaux vers {Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOPPING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOPPING.NAME"
 msgid "Mopping"
-msgstr "Serpiller"
+msgstr "Nettoyer"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOPPING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOPPING.TOOLTIP"
@@ -32149,7 +32148,7 @@ msgstr "Équipements"
 #. STRINGS.UI.TOOLS.FILTERLAYERS.CLEANANDCLEAR
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.CLEANANDCLEAR"
 msgid "Sweep & Mop Orders"
-msgstr "Ordres Balai & Serpillière"
+msgstr "Ordres Ramasser & Nettoyer"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.DIGPLACER
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.DIGPLACER"
@@ -34388,7 +34387,7 @@ msgstr "Annuler le Lavage"
 #. STRINGS.UI.USERMENUACTIONS.CANCELMOP.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.CANCELMOP.TOOLTIP"
 msgid "Cancel this mop order"
-msgstr "Annuler l'ordre de passer la serpillière"
+msgstr "Annuler l'ordre de nettoyer"
 
 #. STRINGS.UI.USERMENUACTIONS.CANCELUPROOT.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.CANCELUPROOT.NAME"
@@ -35604,3 +35603,4 @@ msgstr "Aspersion de sable..."
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT9"
 msgid "Sprinkling sand..."
 msgstr "Aspersion de sable..."
+
