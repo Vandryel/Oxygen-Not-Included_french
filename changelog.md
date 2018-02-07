@@ -2,9 +2,9 @@ Changelog :
 
 v1.1.0 - xx-fev-2018
 --------------------
-Chaines traduites: 5815/5815 (100%)
+Chaines traduites: 5829/5829 (100%)
 
-* Mise à jour des chaines pour la mise à jour «Occupational Upgrade»
+* Mise à jour et traduction des chaines de la mise à jour « Occupational Upgrade »
 * Encore beaucoup de corrections et d'adaptation des chaînes
 * La 'Déconstruction' avec un détonateur d'explosifs n'était pas assez violente,
   place à la 'Démolition'
