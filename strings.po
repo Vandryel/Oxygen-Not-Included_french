@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2018-02-07 12:48+0100\n"
+"PO-Revision-Date: 2018-02-07 16:56+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
@@ -26540,7 +26540,7 @@ msgid ""
 msgstr ""
 "Ce Duplicant se bat contre l'infection {0}\n"
 "------------------\n"
-"Son corps est porteur du germe {1}"
+"Son corps est porteur de {1}"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.IMMUNE_SYSTEM
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.IMMUNE_SYSTEM"
@@ -26992,7 +26992,7 @@ msgstr "Stats"
 #. STRINGS.UI.DETAILTABS.STATS.RESUME.CURRENT_ROLE
 msgctxt "STRINGS.UI.DETAILTABS.STATS.RESUME.CURRENT_ROLE"
 msgid "<b>Current Job:</b> {0}\n"
-msgstr "<b>Mission Actuelle:</b>{0}\n"
+msgstr "<b>Mission Actuelle:</b> {0}\n"
 
 #. STRINGS.UI.DETAILTABS.STATS.RESUME.MASTERED_ROLES
 msgctxt "STRINGS.UI.DETAILTABS.STATS.RESUME.MASTERED_ROLES"
@@ -27007,7 +27007,7 @@ msgid ""
 "------------------\n"
 "Switching jobs will not remove these traits."
 msgstr ""
-"Tous les traits et les attentes qu'un Duplicant apprend pendant une mission "
+"Tous les traits et les attentes qu'un Duplicant acquiert pendant une mission "
 "deviennent permanents une fois que la mission est maîtrisée.\n"
 "------------------\n"
 "Changer de mission ne supprimera pas ces traits."
@@ -32234,7 +32234,7 @@ msgstr "Attaquer"
 #. STRINGS.UI.TOOLS.FILTERLAYERS.BACKWALL
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.BACKWALL"
 msgid "Background Buildings"
-msgstr "Équipements en Arrière Plan"
+msgstr "Arrière Plan"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.BUILDINGS
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.BUILDINGS"
@@ -32244,7 +32244,7 @@ msgstr "Équipements"
 #. STRINGS.UI.TOOLS.FILTERLAYERS.CLEANANDCLEAR
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.CLEANANDCLEAR"
 msgid "Sweep & Mop Orders"
-msgstr "Ordres Ramasser & Nettoyer"
+msgstr "Ramassage & Nettoyage"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.DIGPLACER
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.DIGPLACER"
@@ -35729,4 +35729,5 @@ msgstr "Aspersion de sable..."
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT9"
 msgid "Sprinkling sand..."
 msgstr "Aspersion de sable..."
+
 
