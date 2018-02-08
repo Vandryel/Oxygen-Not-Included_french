@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2018-02-07 16:56+0100\n"
+"PO-Revision-Date: 2018-02-08 18:52+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
@@ -564,17 +564,18 @@ msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.DIGREQUIRESROLEPERK.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DIGREQUIRESROLEPERK.NAME"
-msgid "Requires Miner"
-msgstr "Mineur Requis"
+msgid "Ready For Miner"
+msgstr "Prêt pour le Mineur"
 
 #. STRINGS.BUILDING.STATUSITEMS.DIGREQUIRESROLEPERK.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DIGREQUIRESROLEPERK.TOOLTIP"
 msgid ""
-"Duplicants may only use this building if assigned to one of the following "
+"Duplicants may only mine this tile if proficient at one of the following "
 "jobs: {Roles}"
 msgstr ""
-"Les Duplicants ne peuvent utiliser cet équipement que s'ils sont affectés à "
-"une de ces missions: {Roles}"
+"Les Duplicants ne peuvent miner à cet endroit s'ils sont compétents dans une"
+" de "
+"ces missions: {Roles}"
 
 #. STRINGS.BUILDING.STATUSITEMS.DIGUNREACHABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DIGUNREACHABLE.NAME"
@@ -1802,13 +1803,13 @@ msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGSWITCHTOGGLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGSWITCHTOGGLE.NAME"
-msgid "Toggle Switch Errand Assigned"
-msgstr "Tâche Assignée: Activation de l'Interrupteur"
+msgid "Change Setting Errand Assigned"
+msgstr "Tâche Assignée: Modifier les réglages"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGSWITCHTOGGLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGSWITCHTOGGLE.TOOLTIP"
-msgid "Waiting for a Duplicant to toggle switch"
-msgstr "En attente d'un Duplicant pour basculer l'interrupteur"
+msgid "Waiting for a Duplicant to change setting"
+msgstr "En attente d'un Duplicant pour modifier les réglages"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.NAME"
@@ -1931,17 +1932,17 @@ msgstr "La pression accumulée est relâchée en toute sécurité"
 
 #. STRINGS.BUILDING.STATUSITEMS.REQUIRESROLEPERK.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.REQUIRESROLEPERK.NAME"
-msgid "Requires Job Assignment"
-msgstr "En Attente d'Affectation d'une Tâche"
+msgid "Ready For Specialist"
+msgstr "Prêt pour les Spécialistes"
 
 #. STRINGS.BUILDING.STATUSITEMS.REQUIRESROLEPERK.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.REQUIRESROLEPERK.TOOLTIP"
 msgid ""
-"Duplicants may only use this building if assigned to one of the following "
+"This building is ready to be used by a Duplicant with one of the following "
 "jobs: {Roles}"
 msgstr ""
-"Les Duplicants ne peuvent utiliser cet équipement que s'ils sont affectés à "
-"une de ces missions: {Roles}"
+"Cet équipement est prêt à être utilisé par un Duplicant affectés à une de ces "
+"missions: {Roles}"
 
 #. STRINGS.BUILDING.STATUSITEMS.RESEARCHING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RESEARCHING.NAME"
@@ -2266,8 +2267,8 @@ msgstr "Trop Froid"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_TEMPERATURE.TOOLTIP"
 msgid "The {ELEMENT} used to power the turbine must be at least {TEMPERATURE}."
 msgstr ""
-"L'{ELEMENT} utilisé pour alimenter la turbine doit être au moins à"
-" {TEMPERATURE}."
+"L'{ELEMENT} utilisé pour alimenter la turbine doit être au moins à "
+"{TEMPERATURE}."
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_SPINNING_UP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_SPINNING_UP.NAME"
@@ -2754,8 +2755,8 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.EFFECT"
 msgid ""
 "Refines <style=\"solid\">Slime</style> into <style=\"solid\">Algae</style>."
 msgstr ""
-"Transforme la <style=\"solid\">Vase</style> en <style=\"solid\">Algues</style"
-">."
+"Transforme la <style=\"solid\">Vase</style> en <style=\"solid\">Algues</"
+"style>."
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.NAME"
@@ -3456,16 +3457,18 @@ msgid ""
 "Produces <style=\"solid\">Micronutrient Fertilizer</style> to increase "
 "<style=\"plant\">Plant</style> growth rates.\n"
 "\n"
-"Must be assigned to a <style=\"job\">Farmer</style>.\n"
+"Assigned Duplicants must possess the <style=\"misc\">Crop Tending</style> "
+"trait.\n"
 "\n"
 "This building is a necessary component of the Greenhouse room."
 msgstr ""
-"Produit de l'<style=\"solid\">Engrais Micro-Élément</style> pour augmenter le "
-"taux de croissance des <style=\"plant\">Plantes</style>.\n"
+"Produit de l'<style=\"solid\">Engrais à Micro-Éléments</style> pour augmenter "
+"le taux de croissance des <style=\"plant\">Plantes</style>.\n"
 "\n"
-"Doit être assigné à un <style=\"job\">Fermier</style>.\n"
+"Les Duplicants affectés doivent posséder l'attribut <style=\"misc\">Soin des "
+"Plantes</misc>.\n"
 "\n"
-"Cet équipement est un composant nécéssaire à la serre."
+"Cet équipement est un composant nécessaire à la serre."
 
 #. STRINGS.BUILDINGS.PREFABS.FARMSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FARMSTATION.NAME"
@@ -5175,7 +5178,7 @@ msgstr ""
 msgctxt "STRINGS.BUILDINGS.PREFABS.MEDICALBED.EFFECT"
 msgid "Greatly accelerates recovery from <style=\"disease\">Diseases</style>."
 msgstr ""
-"Augmente grandement la récupération des <style=\"disease\">Maladies</style>."
+"Accélère largement la guérison des <style=\"disease\">Maladies</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.MEDICALBED.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MEDICALBED.NAME"
@@ -5602,17 +5605,17 @@ msgid ""
 "Produces <style=\"solid\">Oil Cans</style> to increase the <style=\"power"
 "\">Power</style> output of generators.\n"
 "\n"
-"Must be assigned to a <style=\"job\">Electrical Engineer</style>.\n"
+"Assigned Duplicants must possess the <style=\"misc\">Tune Up</style> trait.\n"
 "\n"
 "This building is a necessary component of the Power Plant room."
 msgstr ""
-"Produit des <style=\"solid\">Burettes d'Huile</style> pour augmenter l'<"
-"style=\"power"
-"\">Énergie</style> en sortie des générateurs.\n"
+"Produit des <style=\"solid\">Burettes d'Huile</style> pour augmenter "
+"l'<style=\"power\">Énergie</style> en sortie des générateurs.\n"
 "\n"
-"Doit être assigné à un <style=\"job\">Ingénieur Électricien</style>.\n"
+"Les Duplicants affectés doivent posséder l'attribut <style=\"misc\""
+">Amélioration</style>.\n"
 "\n"
-"Cet équipement est un composant nécéssaire à la Centrale d'Énergie."
+"Cet équipement est un composant nécessaire à la Centrale d'Énergie."
 
 #. STRINGS.BUILDINGS.PREFABS.POWERCONTROLSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.POWERCONTROLSTATION.NAME"
@@ -5872,8 +5875,8 @@ msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.ROLESTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROLESTATION.NAME"
-msgid "Employment Desk"
-msgstr "Bureau de Recrutement"
+msgid "Jobs Board"
+msgstr "Tableau des Missions"
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.AVERAGEQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.AVERAGEQUALITYNAME"
@@ -6696,7 +6699,7 @@ msgstr "Câble Très Conducteur"
 #. STRINGS.BUILDINGS.REPAIRABLE.DISABLE_AUTOREPAIR.NAME
 msgctxt "STRINGS.BUILDINGS.REPAIRABLE.DISABLE_AUTOREPAIR.NAME"
 msgid "Disable Autorepair"
-msgstr "Réparation Auto: Non"
+msgstr "Désactiver Réparation Automatique"
 
 #. STRINGS.BUILDINGS.REPAIRABLE.DISABLE_AUTOREPAIR.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.REPAIRABLE.DISABLE_AUTOREPAIR.TOOLTIP"
@@ -6707,7 +6710,7 @@ msgstr "Réparer cet équipement à la demande uniquement"
 #. STRINGS.BUILDINGS.REPAIRABLE.ENABLE_AUTOREPAIR.NAME
 msgctxt "STRINGS.BUILDINGS.REPAIRABLE.ENABLE_AUTOREPAIR.NAME"
 msgid "Enable Autorepair"
-msgstr "Réparation Auto: Oui"
+msgstr "Activer Réparation Automatique"
 
 #. STRINGS.BUILDINGS.REPAIRABLE.ENABLE_AUTOREPAIR.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.REPAIRABLE.ENABLE_AUTOREPAIR.TOOLTIP"
@@ -8686,14 +8689,13 @@ msgid ""
 "Recovery speed bonus is increased when another Duplicant provides medical "
 "care to the patient"
 msgstr ""
-"Le bonus de Vitesse de Récupération est augmenté quand un autre Duplicant "
+"Le bonus de Vitesse de Guérison est augmenté quand un autre Duplicant "
 "fournit des soins médicaux au patient"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DISEASECURESPEED.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DISEASECURESPEED.NAME"
 msgid "<style=\"disease\">Disease</style> Recovery Speed Bonus"
-msgstr ""
-"Bonus de vitesse de récupération d'une <style=\"disease\">Maladie</style>"
+msgstr "Bonus de vitesse de guérison d'une <style=\"disease\">Maladie</style>"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DOCTOREDLEVEL.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DOCTOREDLEVEL.DESC"
@@ -8788,8 +8790,7 @@ msgstr "Attributs d'immunité"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.IMMUNITY.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.IMMUNITY.DESC"
 msgid "Determines a Duplicant's disease susceptibility and recovery time."
-msgstr ""
-"Détermine le risque de maladie et le temps de récupération d'un Duplicant."
+msgstr "Détermine le risque de maladie et le temps de guérison d'un Duplicant."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.IMMUNITY.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.IMMUNITY.NAME"
@@ -8970,8 +8971,8 @@ msgid ""
 "Determines a Duplicant's carrying capacity, and how much elbow grease they "
 "can put into cleaning errands."
 msgstr ""
-"Détermine le poids qu'un Duplicant peut porter et l'huile de coude qu'il peut "
-"utiliser pour les tâches de nettoyage."
+"Détermine le poids qu'un Duplicant peut porter et l'huile de coude qu'il "
+"peut utiliser pour les tâches de nettoyage."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.NAME"
@@ -9193,6 +9194,11 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.ART.STATUS"
 msgid "Going to decorate"
 msgstr "Va décorer"
 
+#. STRINGS.DUPLICANTS.CHORES.ART.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.ART.TOOLTIP"
+msgid "This Duplicant is going to work on their art"
+msgstr "Ce Duplicant va développer son art"
+
 #. STRINGS.DUPLICANTS.CHORES.ATTACK.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.ATTACK.NAME"
 msgid "Attack"
@@ -9202,6 +9208,11 @@ msgstr "Attaquer"
 msgctxt "STRINGS.DUPLICANTS.CHORES.ATTACK.STATUS"
 msgid "Attacking"
 msgstr "Attaque"
+
+#. STRINGS.DUPLICANTS.CHORES.ATTACK.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.ATTACK.TOOLTIP"
+msgid "Chaaaarge!"
+msgstr "Chaaargez!"
 
 #. STRINGS.DUPLICANTS.CHORES.BEINCAPACITATED.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.BEINCAPACITATED.NAME"
@@ -9213,6 +9224,11 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.BEINCAPACITATED.STATUS"
 msgid "Dying"
 msgstr "Meurt"
 
+#. STRINGS.DUPLICANTS.CHORES.BEINCAPACITATED.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.BEINCAPACITATED.TOOLTIP"
+msgid "This Duplicant will die soon if they do not receive assistance"
+msgstr "Ce Duplicant va mourir bientôt s'il ne reçoit pas d'assistance"
+
 #. STRINGS.DUPLICANTS.CHORES.BINGE_EAT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.BINGE_EAT.NAME"
 msgid "Binge Eat"
@@ -9222,6 +9238,11 @@ msgstr "Dévore"
 msgctxt "STRINGS.DUPLICANTS.CHORES.BINGE_EAT.STATUS"
 msgid "Binge eating"
 msgstr "En train de dévorer"
+
+#. STRINGS.DUPLICANTS.CHORES.BINGE_EAT.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.BINGE_EAT.TOOLTIP"
+msgid "This Duplicant is attempting to eat their emotions due to stress"
+msgstr "Ce Duplicant essaie de cacher ses émotions causées par le stress"
 
 #. STRINGS.DUPLICANTS.CHORES.BUILD.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.BUILD.NAME"
@@ -9233,25 +9254,43 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.BUILD.STATUS"
 msgid "Going to build"
 msgstr "Va construire"
 
+#. STRINGS.DUPLICANTS.CHORES.BUILD.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.BUILD.TOOLTIP"
+msgid "This Duplicant is constructing a new building"
+msgstr "Ce Duplicant construit un nouvel équipement"
+
 #. STRINGS.DUPLICANTS.CHORES.BUILDDIG.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDDIG.NAME"
-msgid "Dig"
-msgstr "Creuse"
+msgid "Construction Dig"
+msgstr "Minage avant Construction"
 
 #. STRINGS.DUPLICANTS.CHORES.BUILDDIG.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDDIG.STATUS"
-msgid "Going to dig"
-msgstr "Va miner"
+msgid "Going to construction dig"
+msgstr "Va creuser avant de construire"
+
+#. STRINGS.DUPLICANTS.CHORES.BUILDDIG.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDDIG.TOOLTIP"
+msgid "This dig will make room for a planned building to be constructed"
+msgstr ""
+"Cette excavation fera de la place pour l'équipement qui doit être construit"
+" ici"
 
 #. STRINGS.DUPLICANTS.CHORES.BUILDFETCH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDFETCH.NAME"
-msgid "Deliver"
-msgstr "Livre"
+msgid "Construction Deliver"
+msgstr "Livraison pour la Construction"
 
 #. STRINGS.DUPLICANTS.CHORES.BUILDFETCH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDFETCH.STATUS"
-msgid "Delivering"
-msgstr "Livre"
+msgid "Construction Delivering"
+msgstr "En Livraison pour la Construction"
+
+#. STRINGS.DUPLICANTS.CHORES.BUILDFETCH.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDFETCH.TOOLTIP"
+msgid "This delivery will provide materials to a planned construction site"
+msgstr ""
+"Cette livraison apportera les matériaux là ou la construction est planifiée"
 
 #. STRINGS.DUPLICANTS.CHORES.CHECKPOINT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.CHECKPOINT.NAME"
@@ -9263,6 +9302,11 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.CHECKPOINT.STATUS"
 msgid "Waiting at Checkpoint"
 msgstr "En attente au Point de Contrôle"
 
+#. STRINGS.DUPLICANTS.CHORES.CHECKPOINT.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.CHECKPOINT.TOOLTIP"
+msgid "This Duplicant is waiting for permission to pass"
+msgstr "Ce Duplicant attend d'avoir l'autorisation de passer"
+
 #. STRINGS.DUPLICANTS.CHORES.CLEANTOILET.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.CLEANTOILET.NAME"
 msgid "Clean"
@@ -9272,6 +9316,11 @@ msgstr "Nettoye"
 msgctxt "STRINGS.DUPLICANTS.CHORES.CLEANTOILET.STATUS"
 msgid "Going to clean"
 msgstr "Va nettoyer"
+
+#. STRINGS.DUPLICANTS.CHORES.CLEANTOILET.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.CLEANTOILET.TOOLTIP"
+msgid "This Duplicant is cleaning out the Outhouse"
+msgstr "Ce Duplicant nettoie les Toilettes"
 
 #. STRINGS.DUPLICANTS.CHORES.COMPOSTWORKABLE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.COMPOSTWORKABLE.NAME"
@@ -9283,15 +9332,10 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.COMPOSTWORKABLE.STATUS"
 msgid "Going to compost"
 msgstr "Va composter"
 
-#. STRINGS.DUPLICANTS.CHORES.CONVEYORBUILD.NAME
-msgctxt "STRINGS.DUPLICANTS.CHORES.CONVEYORBUILD.NAME"
-msgid "Build"
-msgstr "Construction"
-
-#. STRINGS.DUPLICANTS.CHORES.CONVEYORBUILD.STATUS
-msgctxt "STRINGS.DUPLICANTS.CHORES.CONVEYORBUILD.STATUS"
-msgid "Going to build"
-msgstr "Va construire"
+#. STRINGS.DUPLICANTS.CHORES.COMPOSTWORKABLE.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.COMPOSTWORKABLE.TOOLTIP"
+msgid "This Duplicant is dropping off organic material at the compost"
+msgstr "Ce Duplicant va déposer les matériaux organiques au compost"
 
 #. STRINGS.DUPLICANTS.CHORES.COOK.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.COOK.NAME"
@@ -9303,15 +9347,10 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.COOK.STATUS"
 msgid "Going to cook"
 msgstr "Va cuisiner"
 
-#. STRINGS.DUPLICANTS.CHORES.COOKFETCH.NAME
-msgctxt "STRINGS.DUPLICANTS.CHORES.COOKFETCH.NAME"
-msgid "Deliver"
-msgstr "Livre"
-
-#. STRINGS.DUPLICANTS.CHORES.COOKFETCH.STATUS
-msgctxt "STRINGS.DUPLICANTS.CHORES.COOKFETCH.STATUS"
-msgid "Delivering"
-msgstr "Livre"
+#. STRINGS.DUPLICANTS.CHORES.COOK.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.COOK.TOOLTIP"
+msgid "This Duplicant is cooking food"
+msgstr "Ce Duplicant cuisine"
 
 #. STRINGS.DUPLICANTS.CHORES.COOLDOWN.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.COOLDOWN.NAME"
@@ -9323,6 +9362,11 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.COOLDOWN.STATUS"
 msgid "Going to cool off"
 msgstr "Va refroidir"
 
+#. STRINGS.DUPLICANTS.CHORES.COOLDOWN.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.COOLDOWN.TOOLTIP"
+msgid "This Duplicant got too hot and is going to cool off"
+msgstr "Ce Duplicant a eu trop chaud et essaie de se rafraîchir"
+
 #. STRINGS.DUPLICANTS.CHORES.COUGH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.COUGH.NAME"
 msgid "Cough"
@@ -9333,6 +9377,11 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.COUGH.STATUS"
 msgid "Coughing"
 msgstr "Tousse"
 
+#. STRINGS.DUPLICANTS.CHORES.COUGH.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.COUGH.TOOLTIP"
+msgid "Coughing is a symptom of illness and spreads airborne Germs"
+msgstr "Tousser est un symptôme d'une maladie et répand des germes dans l'air"
+
 #. STRINGS.DUPLICANTS.CHORES.CROP_TEND.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.CROP_TEND.NAME"
 msgid "Tend"
@@ -9342,6 +9391,11 @@ msgstr "S'occuper des Cultures"
 msgctxt "STRINGS.DUPLICANTS.CHORES.CROP_TEND.STATUS"
 msgid "Tending plant"
 msgstr "S'occupe des Cultures"
+
+#. STRINGS.DUPLICANTS.CHORES.CROP_TEND.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.CROP_TEND.TOOLTIP"
+msgid "Tending plants increases their growth rate"
+msgstr "S'occuper des plantes améliore leur taux de croissance"
 
 #. STRINGS.DUPLICANTS.CHORES.DEBUGGOTO.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DEBUGGOTO.NAME"
@@ -9363,6 +9417,11 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.STATUS"
 msgid "Going to deconstruct"
 msgstr "Va démolir"
 
+#. STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.TOOLTIP"
+msgid "This Duplicant is demolishing a building"
+msgstr "Ce Duplicant Démolit un équipement"
+
 #. STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.NAME"
 msgid "Deliver Food"
@@ -9372,6 +9431,11 @@ msgstr "Livre de la nourriture"
 msgctxt "STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.STATUS"
 msgid "Delivering food"
 msgstr "Livre de la nourriture"
+
+#. STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.TOOLTIP"
+msgid "Under thirty minutes or it's free"
+msgstr "Sous trente minutes ou c'est gratuit"
 
 #. STRINGS.DUPLICANTS.CHORES.DEPRESSURIZE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DEPRESSURIZE.NAME"
@@ -9383,6 +9447,13 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.DEPRESSURIZE.STATUS"
 msgid "Going to depressurize well"
 msgstr "Va dépressuriser le puits"
 
+#. STRINGS.DUPLICANTS.CHORES.DEPRESSURIZE.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.DEPRESSURIZE.TOOLTIP"
+msgid "Oil Wells need to be periodically depressurized to function"
+msgstr ""
+"Les Puits de Pétrole doivent être dépressurisés périodiquement pour"
+" fonctionner"
+
 #. STRINGS.DUPLICANTS.CHORES.DIE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DIE.NAME"
 msgid "Die"
@@ -9392,6 +9463,11 @@ msgstr "Meurt"
 msgctxt "STRINGS.DUPLICANTS.CHORES.DIE.STATUS"
 msgid "Dying"
 msgstr "Meurt"
+
+#. STRINGS.DUPLICANTS.CHORES.DIE.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.DIE.TOOLTIP"
+msgid "Fare thee well, brave soul"
+msgstr "Ce n'est qu'un adieu, mon ami "
 
 #. STRINGS.DUPLICANTS.CHORES.DIG.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DIG.NAME"
@@ -9403,6 +9479,13 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.DIG.STATUS"
 msgid "Going to dig"
 msgstr "Va miner"
 
+#. STRINGS.DUPLICANTS.CHORES.DIG.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.DIG.TOOLTIP"
+msgid "Digging produces useable ores and materials and makes space"
+msgstr ""
+"Creuser produit des minerais utilisables et des matériaux en plus de faire de "
+"la place"
+
 #. STRINGS.DUPLICANTS.CHORES.DISINFECT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DISINFECT.NAME"
 msgid "Disinfect"
@@ -9412,6 +9495,15 @@ msgstr "Désinfecter"
 msgctxt "STRINGS.DUPLICANTS.CHORES.DISINFECT.STATUS"
 msgid "Going to disinfect"
 msgstr "Va désinfecter"
+
+#. STRINGS.DUPLICANTS.CHORES.DISINFECT.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.DISINFECT.TOOLTIP"
+msgid ""
+"Buildings can be disinfected to remove contagious Germs on their surfaces"
+msgstr ""
+"Les Équipements peuvent être désinfectés pour supprmier les Germes Contagieux"
+" à "
+"leur surface"
 
 #. STRINGS.DUPLICANTS.CHORES.DOCTOR.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DOCTOR.NAME"
@@ -9423,6 +9515,11 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.DOCTOR.STATUS"
 msgid "Treating patient"
 msgstr "Traite un patient"
 
+#. STRINGS.DUPLICANTS.CHORES.DOCTOR.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.DOCTOR.TOOLTIP"
+msgid "This Duplicant is trying to make one of their peers feel better"
+msgstr "Ce Duplicant essaie d'aider un de ses pairs à aller mieux"
+
 #. STRINGS.DUPLICANTS.CHORES.DROPUNUSEDINVENTORY.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DROPUNUSEDINVENTORY.NAME"
 msgid "Drop Inventory"
@@ -9432,6 +9529,11 @@ msgstr "Abandonne l'Inventaire"
 msgctxt "STRINGS.DUPLICANTS.CHORES.DROPUNUSEDINVENTORY.STATUS"
 msgid "Dropping unused inventory"
 msgstr "Lâche l'inventaire inutilisé"
+
+#. STRINGS.DUPLICANTS.CHORES.DROPUNUSEDINVENTORY.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.DROPUNUSEDINVENTORY.TOOLTIP"
+msgid "This Duplicant is dropping carried items they no longer need"
+msgstr "Ce Duplicant abandonne les objets transportés dont il n'a plus besoin"
 
 #. STRINGS.DUPLICANTS.CHORES.EAT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.EAT.NAME"
@@ -9443,15 +9545,29 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.EAT.STATUS"
 msgid "Going to eat"
 msgstr "Va manger"
 
+#. STRINGS.DUPLICANTS.CHORES.EAT.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.EAT.TOOLTIP"
+msgid "Duplicants eat to replenish their calorie stores"
+msgstr "Les Duplicants mangent pour refaire leur stock de calories"
+
 #. STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.NAME"
 msgid "Express Themselves"
-msgstr "Ce Duplicant s'exprime"
+msgstr "S'exprime"
 
 #. STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.STATUS"
 msgid "Expressing themselves"
-msgstr "Ce Duplicant s'exprime artistiquement"
+msgstr " Ce Duplicant s'exprime"
+
+#. STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.TOOLTIP"
+msgid ""
+"This Duplicant needs a moment to express their feelings, then they'll be on "
+"their way"
+msgstr ""
+"Ce Duplicant a besoin d'un moment pour exprimer ses sentiments. Il reprendra"
+" sa route après"
 
 #. STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.NAME"
@@ -9463,6 +9579,11 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.STATUS"
 msgid "Going to empty storage"
 msgstr "Va vider le stockage"
 
+#. STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.TOOLTIP"
+msgid "This Duplicant is taking items out of storage"
+msgstr "Ce Duplicant sort des objets du stockage"
+
 #. STRINGS.DUPLICANTS.CHORES.ENTOMBED.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.ENTOMBED.NAME"
 msgid "Entombed"
@@ -9472,6 +9593,15 @@ msgstr "Enterré"
 msgctxt "STRINGS.DUPLICANTS.CHORES.ENTOMBED.STATUS"
 msgid "Entombed"
 msgstr "Enterré"
+
+#. STRINGS.DUPLICANTS.CHORES.ENTOMBED.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.ENTOMBED.TOOLTIP"
+msgid ""
+"Entombed Duplicants are at risk of suffocating and must be dug out by others "
+"in the colony"
+msgstr ""
+"Les Duplicants Enterrés risquent de suffoquer et doivent être libérés par les "
+"autres membres de la colonie"
 
 #. STRINGS.DUPLICANTS.CHORES.EQUIP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.EQUIP.NAME"
@@ -9483,6 +9613,11 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.EQUIP.STATUS"
 msgid "Moving to equip"
 msgstr "Va équiper"
 
+#. STRINGS.DUPLICANTS.CHORES.EQUIP.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.EQUIP.TOOLTIP"
+msgid "This Duplicant is putting on a piece of equipment"
+msgstr "Ce Duplicant enfile une pièce d'équipement"
+
 #. STRINGS.DUPLICANTS.CHORES.EQUIPPINGSUIT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.EQUIPPINGSUIT.NAME"
 msgid "Equip Exosuit"
@@ -9492,6 +9627,11 @@ msgstr "S'équipe d'une Exosuit"
 msgctxt "STRINGS.DUPLICANTS.CHORES.EQUIPPINGSUIT.STATUS"
 msgid "Equipping exosuit"
 msgstr "S'équipe d'une Exosuit"
+
+#. STRINGS.DUPLICANTS.CHORES.EQUIPPINGSUIT.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.EQUIPPINGSUIT.TOOLTIP"
+msgid "This Duplicant is putting on protective gear"
+msgstr "Ce Duplicant enfile son équipement de protection"
 
 #. STRINGS.DUPLICANTS.CHORES.FABRICATE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.FABRICATE.NAME"
@@ -9503,15 +9643,10 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.FABRICATE.STATUS"
 msgid "Going to fabricate"
 msgstr "Va fabriquer"
 
-#. STRINGS.DUPLICANTS.CHORES.FABRICATEFETCH.NAME
-msgctxt "STRINGS.DUPLICANTS.CHORES.FABRICATEFETCH.NAME"
-msgid "Deliver"
-msgstr "Livre"
-
-#. STRINGS.DUPLICANTS.CHORES.FABRICATEFETCH.STATUS
-msgctxt "STRINGS.DUPLICANTS.CHORES.FABRICATEFETCH.STATUS"
-msgid "Delivering"
-msgstr "Livre"
+#. STRINGS.DUPLICANTS.CHORES.FABRICATE.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.FABRICATE.TOOLTIP"
+msgid "This Duplicant is crafting something"
+msgstr "Ce Duplicant fabrique quelque chose"
 
 #. STRINGS.DUPLICANTS.CHORES.FETCH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.FETCH.NAME"
@@ -9528,15 +9663,10 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.FETCH.STATUS"
 msgid "Delivering"
 msgstr "Livre"
 
-#. STRINGS.DUPLICANTS.CHORES.FETCHCRITICAL.NAME
-msgctxt "STRINGS.DUPLICANTS.CHORES.FETCHCRITICAL.NAME"
-msgid "Deliver"
-msgstr "Livre"
-
-#. STRINGS.DUPLICANTS.CHORES.FETCHCRITICAL.STATUS
-msgctxt "STRINGS.DUPLICANTS.CHORES.FETCHCRITICAL.STATUS"
-msgid "Delivering"
-msgstr "Livre"
+#. STRINGS.DUPLICANTS.CHORES.FETCH.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.FETCH.TOOLTIP"
+msgid "This Duplicant is delivering materials to where they'll be needed"
+msgstr "Ce Duplicant livre des matériaux là où ils sont requis"
 
 #. STRINGS.DUPLICANTS.CHORES.FLEE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.FLEE.NAME"
@@ -9548,6 +9678,11 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.FLEE.STATUS"
 msgid "Fleeing"
 msgstr "Fuit"
 
+#. STRINGS.DUPLICANTS.CHORES.FLEE.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.FLEE.TOOLTIP"
+msgid "Run away!"
+msgstr "Fuyez!"
+
 #. STRINGS.DUPLICANTS.CHORES.FLIPCOMPOST.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.FLIPCOMPOST.NAME"
 msgid "Flip"
@@ -9557,6 +9692,11 @@ msgstr "Retourner (Compost)"
 msgctxt "STRINGS.DUPLICANTS.CHORES.FLIPCOMPOST.STATUS"
 msgid "Going to flip compost"
 msgstr "Va retourner le compost"
+
+#. STRINGS.DUPLICANTS.CHORES.FLIPCOMPOST.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.FLIPCOMPOST.TOOLTIP"
+msgid "Composts need to be flipped to produce Fertilizer"
+msgstr "Le compost doit être retourné pour produire de l'engrais"
 
 #. STRINGS.DUPLICANTS.CHORES.GENERATEPOWER.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.GENERATEPOWER.NAME"
@@ -9568,6 +9708,11 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.GENERATEPOWER.STATUS"
 msgid "Going to generate power"
 msgstr "Va générer de l'énergie"
 
+#. STRINGS.DUPLICANTS.CHORES.GENERATEPOWER.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.GENERATEPOWER.TOOLTIP"
+msgid "This Duplicant is producing electrical power"
+msgstr "Ce Duplicant produit de l'énergie électrique"
+
 #. STRINGS.DUPLICANTS.CHORES.GENESHUFFLE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.GENESHUFFLE.NAME"
 msgid "Use Neural Vacillator"
@@ -9578,6 +9723,11 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.GENESHUFFLE.STATUS"
 msgid "Using Neural Vacillator"
 msgstr "Utilise le Vacillateur Neuronal"
 
+#. STRINGS.DUPLICANTS.CHORES.GENESHUFFLE.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.GENESHUFFLE.TOOLTIP"
+msgid "This Duplicant is being experimented on!"
+msgstr "Ce Duplicant est un sujet d'expérimentation"
+
 #. STRINGS.DUPLICANTS.CHORES.HARVEST.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.HARVEST.NAME"
 msgid "Harvest"
@@ -9587,6 +9737,12 @@ msgstr "Récolter"
 msgctxt "STRINGS.DUPLICANTS.CHORES.HARVEST.STATUS"
 msgid "Going to harvest"
 msgstr "Va récolter"
+
+#. STRINGS.DUPLICANTS.CHORES.HARVEST.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.HARVEST.TOOLTIP"
+msgid "This Duplicant is harvesting useable materials from a mature plant"
+msgstr ""
+"Ce Duplicant collecte des matériaux utilisables d'une plante à maturité"
 
 #. STRINGS.DUPLICANTS.CHORES.HEAL.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.HEAL.NAME"
@@ -9599,15 +9755,10 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.HEAL.STATUS"
 msgid "Healing"
 msgstr "Soigne"
 
-#. STRINGS.DUPLICANTS.CHORES.HEALCRITICAL.NAME
-msgctxt "STRINGS.DUPLICANTS.CHORES.HEALCRITICAL.NAME"
-msgid "Heal"
-msgstr "Soigne"
-
-#. STRINGS.DUPLICANTS.CHORES.HEALCRITICAL.STATUS
-msgctxt "STRINGS.DUPLICANTS.CHORES.HEALCRITICAL.STATUS"
-msgid "Healing"
-msgstr "Soigne"
+#. STRINGS.DUPLICANTS.CHORES.HEAL.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.HEAL.TOOLTIP"
+msgid "This Duplicant is taking some time to recover from their wounds"
+msgstr "Ce Duplicant prend du temps pour guérir de ses blessures"
 
 #. STRINGS.DUPLICANTS.CHORES.IDLE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.IDLE.NAME"
@@ -9619,6 +9770,11 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.IDLE.STATUS"
 msgid "Idle"
 msgstr "En pause"
 
+#. STRINGS.DUPLICANTS.CHORES.IDLE.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.IDLE.TOOLTIP"
+msgid "This Duplicant cannot reach any pending errands"
+msgstr "Ce Duplicant ne peut accéder à aucune des tâches en attente"
+
 #. STRINGS.DUPLICANTS.CHORES.LIQUIDCOOLEDFAN.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.LIQUIDCOOLEDFAN.NAME"
 msgid "Use Fan"
@@ -9629,6 +9785,11 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.LIQUIDCOOLEDFAN.STATUS"
 msgid "Going to use fan"
 msgstr "Va ventiler"
 
+#. STRINGS.DUPLICANTS.CHORES.LIQUIDCOOLEDFAN.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.LIQUIDCOOLEDFAN.TOOLTIP"
+msgid "This Duplicant is attempting to cool down the area"
+msgstr "Ce Duplicant essaie de rafraîchir la zone"
+
 #. STRINGS.DUPLICANTS.CHORES.MOP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOP.NAME"
 msgid "Mop"
@@ -9638,6 +9799,12 @@ msgstr "Nettoyer"
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOP.STATUS"
 msgid "Going to mop"
 msgstr "Va essuyer"
+
+#. STRINGS.DUPLICANTS.CHORES.MOP.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.MOP.TOOLTIP"
+msgid "Mopping removes liquids from the floor and bottles them for transport"
+msgstr ""
+"Le Nettoyage enlève les liquides au sol et les embouteille pour le transport"
 
 #. STRINGS.DUPLICANTS.CHORES.MOVETO.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETO.NAME"
@@ -9650,15 +9817,10 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETO.STATUS"
 msgid "Moving to location"
 msgstr "Va à la position"
 
-#. STRINGS.DUPLICANTS.CHORES.MOVETOLOCATION.NAME
-msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOLOCATION.NAME"
-msgid "Move to Location"
-msgstr "Va à la position"
-
-#. STRINGS.DUPLICANTS.CHORES.MOVETOLOCATION.STATUS
-msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOLOCATION.STATUS"
-msgid "Moving to location"
-msgstr "Va à la position"
+#. STRINGS.DUPLICANTS.CHORES.MOVETO.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETO.TOOLTIP"
+msgid "This Duplicant was manually directed to move to a specific location"
+msgstr "Ce Duplicant a reçu l'ordre de se déplacer à un endroit spécifique"
 
 #. STRINGS.DUPLICANTS.CHORES.MOVETOQUARANTINE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOQUARANTINE.NAME"
@@ -9670,6 +9832,14 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOQUARANTINE.STATUS"
 msgid "Moving to quarantine"
 msgstr "Part en quarantaine"
 
+#. STRINGS.DUPLICANTS.CHORES.MOVETOQUARANTINE.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOQUARANTINE.TOOLTIP"
+msgid ""
+"This Duplicant will isolate themselves to keep their illness away from the "
+"colony"
+msgstr ""
+"Ce Duplicant va s'isoler pour garder sa maladie à l'écart de la colonie"
+
 #. STRINGS.DUPLICANTS.CHORES.MOVETOSAFETY.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOSAFETY.NAME"
 msgid "Move to Safety"
@@ -9679,6 +9849,11 @@ msgstr "Va en sécurité"
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOSAFETY.STATUS"
 msgid "Moving to safety"
 msgstr "Va en sécurité"
+
+#. STRINGS.DUPLICANTS.CHORES.MOVETOSAFETY.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOSAFETY.TOOLTIP"
+msgid "This Duplicant's getting out of here!"
+msgstr "Ce Duplicant sort d'ici"
 
 #. STRINGS.DUPLICANTS.CHORES.MUSH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MUSH.NAME"
@@ -9690,25 +9865,25 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.MUSH.STATUS"
 msgid "Going to mush"
 msgstr "Va faire de la bouillie"
 
-#. STRINGS.DUPLICANTS.CHORES.MUSHFETCH.NAME
-msgctxt "STRINGS.DUPLICANTS.CHORES.MUSHFETCH.NAME"
-msgid "Deliver"
-msgstr "Livre"
-
-#. STRINGS.DUPLICANTS.CHORES.MUSHFETCH.STATUS
-msgctxt "STRINGS.DUPLICANTS.CHORES.MUSHFETCH.STATUS"
-msgid "Delivering"
-msgstr "Livre"
+#. STRINGS.DUPLICANTS.CHORES.MUSH.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.MUSH.TOOLTIP"
+msgid "This Duplicant is producing food"
+msgstr "Ce Duplicant produit de la nourriture"
 
 #. STRINGS.DUPLICANTS.CHORES.NARCOLEPSY.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.NARCOLEPSY.NAME"
-msgid "Narcoleptic Sleep"
+msgid "Narcoleptic Nap"
 msgstr "Sieste Narcoleptique"
 
 #. STRINGS.DUPLICANTS.CHORES.NARCOLEPSY.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.NARCOLEPSY.STATUS"
-msgid "Sleeping"
-msgstr "Dort"
+msgid "Narcolepsy Napping"
+msgstr "Sieste Narcoleptique"
+
+#. STRINGS.DUPLICANTS.CHORES.NARCOLEPSY.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.NARCOLEPSY.TOOLTIP"
+msgid "Zzzzzz..."
+msgstr "Zzzzzz..."
 
 #. STRINGS.DUPLICANTS.CHORES.PEE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.PEE.NAME"
@@ -9720,6 +9895,11 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.PEE.STATUS"
 msgid "Relieving self"
 msgstr "Se Soulage"
 
+#. STRINGS.DUPLICANTS.CHORES.PEE.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.PEE.TOOLTIP"
+msgid "This Duplicant didn't find a toilet in time. Oops"
+msgstr "Ce Duplicant n'a pas trouvé de toilettes à temps. Oups"
+
 #. STRINGS.DUPLICANTS.CHORES.POWER_TINKER.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.POWER_TINKER.NAME"
 msgid "Tinker"
@@ -9730,15 +9910,10 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.POWER_TINKER.STATUS"
 msgid "Tinkering"
 msgstr "Bricolage"
 
-#. STRINGS.DUPLICANTS.CHORES.POWERFETCH.NAME
-msgctxt "STRINGS.DUPLICANTS.CHORES.POWERFETCH.NAME"
-msgid "Deliver"
-msgstr "Livre"
-
-#. STRINGS.DUPLICANTS.CHORES.POWERFETCH.STATUS
-msgctxt "STRINGS.DUPLICANTS.CHORES.POWERFETCH.STATUS"
-msgid "Delivering"
-msgstr "Livre"
+#. STRINGS.DUPLICANTS.CHORES.POWER_TINKER.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.POWER_TINKER.TOOLTIP"
+msgid "Tinkering with buildings improves their functionality"
+msgstr "Bricoler les équipements améliore leur fonctionnement"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.ALLOWED_TO_DEPRESSURIZE
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.ALLOWED_TO_DEPRESSURIZE"
@@ -9810,7 +9985,7 @@ msgstr "Pas de besoin"
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.HEADER
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.HEADER"
 msgid "Errands {Selected} could perform here:"
-msgstr "Les tâches que {Selected} peut effectuer ici:"
+msgstr "Tâches que {Selected} peut effectuer ici:"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_ALLOWED_BY_AUTOMATION
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_ALLOWED_BY_AUTOMATION"
@@ -9967,13 +10142,18 @@ msgstr "{Selected} est en transit"
 
 #. STRINGS.DUPLICANTS.CHORES.RECHARGE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RECHARGE.NAME"
-msgid "Recharge"
-msgstr "Recharge"
+msgid "Recharge Equipment"
+msgstr "Équipement en recharge"
 
 #. STRINGS.DUPLICANTS.CHORES.RECHARGE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.RECHARGE.STATUS"
 msgid "Recharging equipment"
 msgstr "Equipement en recharge"
+
+#. STRINGS.DUPLICANTS.CHORES.RECHARGE.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.RECHARGE.TOOLTIP"
+msgid "This Duplicant is recharging their equipment"
+msgstr "Ce Duplicant recharge son équipement"
 
 #. STRINGS.DUPLICANTS.CHORES.RECOVERBREATH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RECOVERBREATH.NAME"
@@ -9995,6 +10175,11 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.RELAX.STATUS"
 msgid "Relaxing"
 msgstr "Se détend"
 
+#. STRINGS.DUPLICANTS.CHORES.RELAX.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.RELAX.TOOLTIP"
+msgid "This Duplicant is taking it easy"
+msgstr "Ce Duplicant laisse couler"
+
 #. STRINGS.DUPLICANTS.CHORES.RELOCATE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RELOCATE.NAME"
 msgid "Relocate"
@@ -10004,6 +10189,11 @@ msgstr "Réinstaller"
 msgctxt "STRINGS.DUPLICANTS.CHORES.RELOCATE.STATUS"
 msgid "Going to relocate"
 msgstr "Réinstalle"
+
+#. STRINGS.DUPLICANTS.CHORES.RELOCATE.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.RELOCATE.TOOLTIP"
+msgid "This Duplicant is moving a building to a new location"
+msgstr "Ce Duplicant déplace un équipement à un nouvel endroit"
 
 #. STRINGS.DUPLICANTS.CHORES.REPAIR.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.REPAIR.NAME"
@@ -10015,6 +10205,11 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.REPAIR.STATUS"
 msgid "Going to repair"
 msgstr "Va réparer"
 
+#. STRINGS.DUPLICANTS.CHORES.REPAIR.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.REPAIR.TOOLTIP"
+msgid "This Duplicant is fixing a broken building"
+msgstr "Ce Duplicant répare un équipement cassé"
+
 #. STRINGS.DUPLICANTS.CHORES.RESCUEINCAPACITATED.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RESCUEINCAPACITATED.NAME"
 msgid "Rescue Friend"
@@ -10024,6 +10219,12 @@ msgstr "Sauve un ami"
 msgctxt "STRINGS.DUPLICANTS.CHORES.RESCUEINCAPACITATED.STATUS"
 msgid "Rescuing friend"
 msgstr "Sauve un ami"
+
+#. STRINGS.DUPLICANTS.CHORES.RESCUEINCAPACITATED.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.RESCUEINCAPACITATED.TOOLTIP"
+msgid ""
+"This Duplicant is rescuing another Duplicant that has been incapacitated"
+msgstr "Ce Duplicant sauve un autre Duplicant qui est frappé d'incapacité"
 
 #. STRINGS.DUPLICANTS.CHORES.RESEARCH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RESEARCH.NAME"
@@ -10035,15 +10236,10 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.RESEARCH.STATUS"
 msgid "Going to research"
 msgstr "Va rechercher"
 
-#. STRINGS.DUPLICANTS.CHORES.RESEARCHFETCH.NAME
-msgctxt "STRINGS.DUPLICANTS.CHORES.RESEARCHFETCH.NAME"
-msgid "Deliver"
-msgstr "Livre"
-
-#. STRINGS.DUPLICANTS.CHORES.RESEARCHFETCH.STATUS
-msgctxt "STRINGS.DUPLICANTS.CHORES.RESEARCHFETCH.STATUS"
-msgid "Delivering"
-msgstr "Livre"
+#. STRINGS.DUPLICANTS.CHORES.RESEARCH.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.RESEARCH.TOOLTIP"
+msgid "This Duplicant is working on the currently selected research focus"
+msgstr "Ce Duplicant travaille sur la recherche actuellement sélectionnée"
 
 #. STRINGS.DUPLICANTS.CHORES.RESTDUETODISEASE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RESTDUETODISEASE.NAME"
@@ -10055,6 +10251,11 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.RESTDUETODISEASE.STATUS"
 msgid "Resting"
 msgstr "Se repose"
 
+#. STRINGS.DUPLICANTS.CHORES.RESTDUETODISEASE.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.RESTDUETODISEASE.TOOLTIP"
+msgid "This Duplicant isn't feeling well and is taking a rest"
+msgstr "Ce Duplicant ne se sent pas bien et prend du repos"
+
 #. STRINGS.DUPLICANTS.CHORES.RETURNSUIT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RETURNSUIT.NAME"
 msgid "Dock Exosuit"
@@ -10064,6 +10265,11 @@ msgstr "Suspendre l'Exosuit"
 msgctxt "STRINGS.DUPLICANTS.CHORES.RETURNSUIT.STATUS"
 msgid "Docking exosuit"
 msgstr "Suspend l'Exosuit"
+
+#. STRINGS.DUPLICANTS.CHORES.RETURNSUIT.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.RETURNSUIT.TOOLTIP"
+msgid "This Duplicant is plugging an exosuit in for refilling"
+msgstr "Ce Duplicant branche une exosuit pour la recharger"
 
 #. STRINGS.DUPLICANTS.CHORES.SCRUBORE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.SCRUBORE.NAME"
@@ -10075,6 +10281,12 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.SCRUBORE.STATUS"
 msgid "Scrubbing ore"
 msgstr "Récure du Minerai"
 
+#. STRINGS.DUPLICANTS.CHORES.SCRUBORE.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.SCRUBORE.TOOLTIP"
+msgid "Material ore can be scrubbed to remove Germs present on its surface"
+msgstr ""
+"Le Minerai peut être purifié pour supprimer les Germes présents à sa surface"
+
 #. STRINGS.DUPLICANTS.CHORES.SHOWER.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.SHOWER.NAME"
 msgid "Shower"
@@ -10084,6 +10296,11 @@ msgstr "Douche"
 msgctxt "STRINGS.DUPLICANTS.CHORES.SHOWER.STATUS"
 msgid "Showering"
 msgstr "Se douche"
+
+#. STRINGS.DUPLICANTS.CHORES.SHOWER.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.SHOWER.TOOLTIP"
+msgid "This Duplicant is having a refreshing shower"
+msgstr "Ce Duplicant prend une douche rafraîchissante"
 
 #. STRINGS.DUPLICANTS.CHORES.SIGH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.SIGH.NAME"
@@ -10095,6 +10312,11 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.SIGH.STATUS"
 msgid "Sighing"
 msgstr "Soupire"
 
+#. STRINGS.DUPLICANTS.CHORES.SIGH.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.SIGH.TOOLTIP"
+msgid "Ho-hum."
+msgstr "Ho-hum."
+
 #. STRINGS.DUPLICANTS.CHORES.SLEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.SLEEP.NAME"
 msgid "Sleep"
@@ -10104,6 +10326,11 @@ msgstr "Dormir"
 msgctxt "STRINGS.DUPLICANTS.CHORES.SLEEP.STATUS"
 msgid "Sleeping"
 msgstr "Dort"
+
+#. STRINGS.DUPLICANTS.CHORES.SLEEP.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.SLEEP.TOOLTIP"
+msgid "Zzzzzz..."
+msgstr "Zzzzzz..."
 
 #. STRINGS.DUPLICANTS.CHORES.STRESSACTINGOUT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSACTINGOUT.NAME"
@@ -10115,6 +10342,11 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSACTINGOUT.STATUS"
 msgid "Lashing out"
 msgstr "Pète les plombs"
 
+#. STRINGS.DUPLICANTS.CHORES.STRESSACTINGOUT.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSACTINGOUT.TOOLTIP"
+msgid "This Duplicant is having a stress-induced tantrum"
+msgstr "Ce Duplicant a un excès de colère causé par le stress"
+
 #. STRINGS.DUPLICANTS.CHORES.STRESSIDLE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSIDLE.NAME"
 msgid "Antsy"
@@ -10125,6 +10357,13 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSIDLE.STATUS"
 msgid "Antsy"
 msgstr "Nerveux"
 
+#. STRINGS.DUPLICANTS.CHORES.STRESSIDLE.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSIDLE.TOOLTIP"
+msgid ""
+"This Duplicant is a workaholic and gets stressed when they have nothing to do"
+msgstr ""
+"Ce Duplicant est un drogué du travail et stresse quand il n'a rien à faire"
+
 #. STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.NAME"
 msgid "Stress Vomit"
@@ -10134,6 +10373,11 @@ msgstr "Vomit à cause du Stress"
 msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.STATUS"
 msgid "Stress vomiting"
 msgstr "Vomissements dû au Stress"
+
+#. STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.TOOLTIP"
+msgid "Some people deal with stress better than others"
+msgstr "Des personnes gèrent le stress mieux que d'autres"
 
 # mission de départ ? autre chose ?
 #. STRINGS.DUPLICANTS.CHORES.SWITCHROLE.NAME
@@ -10146,6 +10390,11 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.SWITCHROLE.STATUS"
 msgid "Starting job assignment"
 msgstr "Assignation de la mission initiale"
 
+#. STRINGS.DUPLICANTS.CHORES.SWITCHROLE.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.SWITCHROLE.TOOLTIP"
+msgid "This Duplicant is preparing for their new job assignment"
+msgstr "Ce Duplicant se prépare pour sa nouvelle mission"
+
 #. STRINGS.DUPLICANTS.CHORES.TAKEMEDICINE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.TAKEMEDICINE.NAME"
 msgid "Take Medicine"
@@ -10156,15 +10405,25 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.TAKEMEDICINE.STATUS"
 msgid "Taking medicine"
 msgstr "Prend un médicament"
 
+#. STRINGS.DUPLICANTS.CHORES.TAKEMEDICINE.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.TAKEMEDICINE.TOOLTIP"
+msgid "This Duplicant is taking a dose of medicine to keep disease at bay"
+msgstr "Ce Duplicant prend une dose de médicament pour contenir la maladie"
+
 #. STRINGS.DUPLICANTS.CHORES.TOGGLE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.TOGGLE.NAME"
-msgid "Toggle"
-msgstr "Basculer"
+msgid "Change Setting"
+msgstr "Modifie les Paramètres"
 
 #. STRINGS.DUPLICANTS.CHORES.TOGGLE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.TOGGLE.STATUS"
-msgid "Going to toggle"
-msgstr "Va basculer"
+msgid "Going to change setting"
+msgstr "Va modifier les paramètres"
+
+#. STRINGS.DUPLICANTS.CHORES.TOGGLE.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.TOGGLE.TOOLTIP"
+msgid "This Duplicant is going to change the settings on a building"
+msgstr "Ce Duplicant va modifier les paramètres d'un équipement"
 
 #. STRINGS.DUPLICANTS.CHORES.TRANSPORT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.TRANSPORT.NAME"
@@ -10176,6 +10435,11 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.TRANSPORT.STATUS"
 msgid "Going to sweep"
 msgstr "Va ramasser"
 
+#. STRINGS.DUPLICANTS.CHORES.TRANSPORT.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.TRANSPORT.TOOLTIP"
+msgid "Sweeping debris from the ground improves colony decor"
+msgstr "Ramasser les débris au sol améliore la décoration de la colonie"
+
 #. STRINGS.DUPLICANTS.CHORES.TRAVELTUBEENTRANCE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.TRAVELTUBEENTRANCE.NAME"
 msgid "Enter Transit Tube"
@@ -10185,6 +10449,11 @@ msgstr "Entrée de Tube de Transit"
 msgctxt "STRINGS.DUPLICANTS.CHORES.TRAVELTUBEENTRANCE.STATUS"
 msgid "Entering Transit Tube"
 msgstr "Entre dans un Tube de Transit"
+
+#. STRINGS.DUPLICANTS.CHORES.TRAVELTUBEENTRANCE.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.TRAVELTUBEENTRANCE.TOOLTIP"
+msgid "Nyoooom!"
+msgstr "Nyoooom!"
 
 #. STRINGS.DUPLICANTS.CHORES.UGLY_CRY.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.UGLY_CRY.NAME"
@@ -10196,6 +10465,12 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.UGLY_CRY.STATUS"
 msgid "Ugly crying"
 msgstr "Pleurniche"
 
+#. STRINGS.DUPLICANTS.CHORES.UGLY_CRY.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.UGLY_CRY.TOOLTIP"
+msgid ""
+"This Duplicant is having a healthy cry to alleviate their negative emotions"
+msgstr "Ce Duplicant pleurniche pour soulager ses émotions négatives"
+
 #. STRINGS.DUPLICANTS.CHORES.UNEQUIP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.UNEQUIP.NAME"
 msgid "Unequip"
@@ -10206,15 +10481,10 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.UNEQUIP.STATUS"
 msgid "Moving to unequip"
 msgstr "Va déséquiper"
 
-#. STRINGS.DUPLICANTS.CHORES.UPGRADE.NAME
-msgctxt "STRINGS.DUPLICANTS.CHORES.UPGRADE.NAME"
-msgid "Upgrade"
-msgstr "Améliore"
-
-#. STRINGS.DUPLICANTS.CHORES.UPGRADE.STATUS
-msgctxt "STRINGS.DUPLICANTS.CHORES.UPGRADE.STATUS"
-msgid "Going to upgrade"
-msgstr "Va améliorer"
+#. STRINGS.DUPLICANTS.CHORES.UNEQUIP.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.UNEQUIP.TOOLTIP"
+msgid "This Duplicant is removing a piece of their equipment"
+msgstr "Ce Duplicant enlève une pièce de son équipement"
 
 #. STRINGS.DUPLICANTS.CHORES.UPROOT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.UPROOT.NAME"
@@ -10226,6 +10496,11 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.UPROOT.STATUS"
 msgid "Going to uproot"
 msgstr "Va déraciner"
 
+#. STRINGS.DUPLICANTS.CHORES.UPROOT.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.UPROOT.TOOLTIP"
+msgid "This Duplicant is uprooting a plant for a seed"
+msgstr "Ce Duplicant arrache une plante pour sa graine"
+
 #. STRINGS.DUPLICANTS.CHORES.USETOILET.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.USETOILET.NAME"
 msgid "Use Toilet"
@@ -10235,6 +10510,12 @@ msgstr "Est aux toilettes"
 msgctxt "STRINGS.DUPLICANTS.CHORES.USETOILET.STATUS"
 msgid "Going to use toilet"
 msgstr "Va aux toilettes"
+
+#. STRINGS.DUPLICANTS.CHORES.USETOILET.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.USETOILET.TOOLTIP"
+msgid "Duplicants have to use the toilet at least once per day"
+msgstr ""
+"Les Duplicants doivent utiliser les toilettes au moins une fois par jour"
 
 #. STRINGS.DUPLICANTS.CHORES.VOMIT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.VOMIT.NAME"
@@ -10246,6 +10527,11 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.VOMIT.STATUS"
 msgid "Vomiting"
 msgstr "Vomit"
 
+#. STRINGS.DUPLICANTS.CHORES.VOMIT.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.VOMIT.TOOLTIP"
+msgid "Vomiting produces Polluted Water and can spread disease"
+msgstr "Vomir produit de l'Eau Polluée et peut répandre des maladies"
+
 #. STRINGS.DUPLICANTS.CHORES.WARMUP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.WARMUP.NAME"
 msgid "Warm Up"
@@ -10255,6 +10541,11 @@ msgstr "Se Réchauffe"
 msgctxt "STRINGS.DUPLICANTS.CHORES.WARMUP.STATUS"
 msgid "Going to warm up"
 msgstr "Va réchauffer"
+
+#. STRINGS.DUPLICANTS.CHORES.WARMUP.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.WARMUP.TOOLTIP"
+msgid "This Duplicant got too cold and is going to warm up"
+msgstr "Ce Duplicant a eu trop froid et va se réchauffer"
 
 #. STRINGS.DUPLICANTS.CHORES.WASHHANDS.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.WASHHANDS.NAME"
@@ -10266,15 +10557,11 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.WASHHANDS.STATUS"
 msgid "Washing hands"
 msgstr "Se lave les mains"
 
-#. STRINGS.DUPLICANTS.CHORES.WIREBUILD.NAME
-msgctxt "STRINGS.DUPLICANTS.CHORES.WIREBUILD.NAME"
-msgid "Build"
-msgstr "Construction"
-
-#. STRINGS.DUPLICANTS.CHORES.WIREBUILD.STATUS
-msgctxt "STRINGS.DUPLICANTS.CHORES.WIREBUILD.STATUS"
-msgid "Going to build"
-msgstr "Va construire"
+#. STRINGS.DUPLICANTS.CHORES.WASHHANDS.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.WASHHANDS.TOOLTIP"
+msgid "Good hygiene removes germs and prevents the spread of disease"
+msgstr ""
+"Une Bonne hygiène supprimer les germes et empêche de répandre les maladies"
 
 #. STRINGS.DUPLICANTS.CONGENITALTRAITS.ELLIE.DESC
 msgctxt "STRINGS.DUPLICANTS.CONGENITALTRAITS.ELLIE.DESC"
@@ -11006,7 +11293,7 @@ msgid ""
 "Med-Bed assignment will increases recovery chance"
 msgstr ""
 "\n"
-"Les Lits Médicaux augmenteront les chances de rétablissement"
+"L'assignation d'un lit médical augmentera les chances de guérison"
 
 #. STRINGS.DUPLICANTS.DISEASES.STATUS_ITEM_TOOLTIP.CURES
 msgctxt "STRINGS.DUPLICANTS.DISEASES.STATUS_ITEM_TOOLTIP.CURES"
@@ -11664,7 +11951,7 @@ msgstr "Repos Médical"
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MEDICALCOT.TOOLTIP"
 msgid "This Duplicant's injury and disease recovery times are being improved"
 msgstr ""
-"Le temps de récupération de maladie et de blessure de ce Duplicant est "
+"Le temps de guérison de maladie et de blessure de ce Duplicant est "
 "amélioré"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.MEDICALCOTDOCTORED.NAME
@@ -11918,14 +12205,13 @@ msgstr "L'Alerte Rouge stresse ce Duplicant"
 #. STRINGS.DUPLICANTS.MODIFIERS.REJUVENATOR.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.REJUVENATOR.NAME"
 msgid "Pharma Chamber Recovery"
-msgstr "Récupération de chambre pharmaceutique"
+msgstr "Guérison dans la Chambre Pharmaceutique"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.REJUVENATOR.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.REJUVENATOR.TOOLTIP"
 msgid ""
 "This chamber is vastly accelerating this Duplicant's disease recovery time"
-msgstr ""
-"Cette chambre améliore grandement le temps de récupération de ce Duplicant"
+msgstr "Cette chambre Accélère largement le temps de guérison de ce Duplicant"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.REJUVENATORDOCTORED.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.REJUVENATORDOCTORED.NAME"
@@ -13486,7 +13772,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATS.DISEASERECOVERYTIME.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.DISEASERECOVERYTIME.NAME"
 msgid "Disease Recovery"
-msgstr "Récupération de maladie"
+msgstr "Guérison d'une maladie"
 
 #. STRINGS.DUPLICANTS.STATS.EXTERNALTEMPERATURE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.EXTERNALTEMPERATURE.NAME"
@@ -13614,8 +13900,8 @@ msgstr "Décorer"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.ARTING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.ARTING.TOOLTIP"
-msgid "This Duplicant is expressing themselves artistically"
-msgstr "Ce Duplicant s'exprime artistiquement"
+msgid "This Duplicant is hard at work on their art"
+msgstr "Ce Duplicant Travaille dur sur son art"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BEDUNREACHABLE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BEDUNREACHABLE.NAME"
@@ -13856,8 +14142,8 @@ msgstr "Démolit {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTING.TOOLTIP"
-msgid "This Duplicant is tearing down the {Target}"
-msgstr "Ce Duplicant détruit le {Target}"
+msgid "This Duplicant is demolishing the {Target}"
+msgstr "Ce Duplicant démolit: {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DIGGING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DIGGING.NAME"
@@ -13995,13 +14281,13 @@ msgstr "Ce Duplicant transporte des matériaux vers {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EQUIPPING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EQUIPPING.NAME"
-msgid "Equipping <style=\"equipment\">{Item}</style>"
-msgstr "S'équipe de <style=\"equipment\">{Item}</style>"
+msgid "Equipping <style=\"equipment\">{Target}</style>"
+msgstr "S'équipe de <style=\"equipment\">{Target}</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EQUIPPING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EQUIPPING.TOOLTIP"
-msgid "This Duplicant is equipping a {Item}"
-msgstr "Ce Duplicant s'équipe de {Item}"
+msgid "This Duplicant is equipping a {Target}"
+msgstr "Ce Duplicant s'équipe de {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FABRICATEDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FABRICATEDELIVERSTATUS.NAME"
@@ -14015,13 +14301,13 @@ msgstr "Ce Duplicant transporte des matériaux vers {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FABRICATING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FABRICATING.NAME"
-msgid "Fabricating {Item}"
-msgstr "Fabrique {Item}"
+msgid "Fabricating {Target}"
+msgstr "Construit {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FABRICATING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FABRICATING.TOOLTIP"
-msgid "This Duplicant is making a {Item}"
-msgstr "Ce Duplicant fabrique un {Item}"
+msgid "This Duplicant is crafting a {Target}"
+msgstr "Ce Duplicant construit un(e) {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FIGHTING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FIGHTING.NAME"
@@ -14573,35 +14859,13 @@ msgstr ""
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.PROCESSING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.PROCESSING.NAME"
-msgid "Refining {Item}"
-msgstr "Raffine {Item}"
+msgid "Refining {Target}"
+msgstr "Raffinage de {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.PROCESSING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.PROCESSING.TOOLTIP"
-msgid "This Duplicant is refining {Item}"
-msgstr "Ce Duplicant raffine {Item}"
-
-#. STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNASSIGNED.NAME
-msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNASSIGNED.NAME"
-msgid "No quarantine zone assigned"
-msgstr "Pas de zone de quarantaine assignée"
-
-#. STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNASSIGNED.NOTIFICATION_NAME
-msgctxt ""
-"STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNASSIGNED.NOTIFICATION_NAME"
-msgid "No quarantine zone assigned"
-msgstr "Pas de zone de quarantaine assignée"
-
-#. STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNASSIGNED.NOTIFICATION_TOOLTIP
-msgctxt ""
-"STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNASSIGNED.NOTIFICATION_TOOLTIP"
-msgid "These Duplicants have not been assigned a room:"
-msgstr "Ces Duplicants n'ont pas de chambre attitrée:"
-
-#. STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNASSIGNED.TOOLTIP
-msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNASSIGNED.TOOLTIP"
-msgid "This Duplicant has not been assigned a room"
-msgstr "Ce Duplicant n'a pas de chambre attitrée"
+msgid "This Duplicant is refining {Target}"
+msgstr "Ce Duplicant raffine {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNREACHABLE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNREACHABLE.NAME"
@@ -15007,7 +15271,7 @@ msgstr "Stockage {Item}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.STORING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STORING.TOOLTIP"
 msgid "This Duplicant is putting {Item} away in {Target}"
-msgstr "Ce Duplicant met de côté {Item} dans {Target}"
+msgstr "Ce Duplicant dépose {Item} dans {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESS_SIGNAL_AGGRESIVE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESS_SIGNAL_AGGRESIVE.NAME"
@@ -15036,7 +15300,7 @@ msgstr "Larme à l'œil"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESS_SIGNAL_UGLY_CRIER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESS_SIGNAL_UGLY_CRIER.TOOLTIP"
-msgid "This Duplicant is trying to suppress their emotions and failing"
+msgid "This Duplicant is trying to swallow their emotions and failing"
 msgstr "Ce Duplicant essaie de cacher ses émotions mais échoue"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESS_SIGNAL_VOMITER.NAME
@@ -15176,13 +15440,13 @@ msgstr "Ce Duplicant transporte des matériaux vers {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.TOGGLING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.TOGGLING.NAME"
-msgid "Toggling {Target} switch"
-msgstr "Basculer l'interrupteur {Target}"
+msgid "Change {Target} setting"
+msgstr "Modifie les paramètres de: {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.TOGGLING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.TOGGLING.TOOLTIP"
-msgid "This Duplicant is toggling the {Target}'s switch"
-msgstr "Ce Duplicant fait basculer l'interrupteur {Target}"
+msgid "This Duplicant is changing the {Target}'s setting"
+msgstr "Ce Duplicant modifie les paramètres de: {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.TOILETUNREACHABLE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.TOILETUNREACHABLE.NAME"
@@ -15206,13 +15470,13 @@ msgstr "Ce Duplicant ne peut pas accéder à des toilettes fonctionnelles"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.UPROOTING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.UPROOTING.NAME"
-msgid "Digging up {Target}"
-msgstr "Déterre {Target}"
+msgid "Uprooting {Target}"
+msgstr "Arrache {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.UPROOTING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.UPROOTING.TOOLTIP"
-msgid "This Duplicant is turning a {Target} into a seed"
-msgstr "Ce Duplicant transforme un(e) {Target} en une graine"
+msgid "This Duplicant is digging up a {Target}"
+msgstr "Ce Duplicant Creuse: {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.USEITEMDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.USEITEMDELIVERSTATUS.NAME"
@@ -19174,8 +19438,8 @@ msgid ""
 msgstr ""
 "<style=\"misc\">Pétrole</style> synthétisé par un ingénieur professionnel.\n"
 "\n"
-"Améliore les générateurs pour augmenter l'<style=\"power\">Énergie</style> en"
-" sortie."
+"Améliore les générateurs pour augmenter l'<style=\"power\">Énergie</style> "
+"en sortie."
 
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.POWER_STATION_TOOLS.NAME
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.POWER_STATION_TOOLS.NAME"
@@ -24684,9 +24948,8 @@ msgstr "Livraison"
 msgctxt "STRINGS.UI.BUILDCATEGORIES.CONVEYANCE.TOOLTIP"
 msgid "Effortlessly transport ore and solid materials around your base."
 msgstr ""
-"Transporte le minerai et les matériaux solides sans effort aux quatre coins"
-" de "
-"votre base."
+"Transporte le minerai et les matériaux solides sans effort aux quatre coins "
+"de votre base."
 
 # Voir le contexte
 #. STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.NAME
@@ -25164,12 +25427,12 @@ msgstr ""
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ADDED_EFFECT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ADDED_EFFECT"
 msgid ""
-"This effect will be added after work is complete:\n"
+"Effect being applied:\n"
 "\n"
 "{0}\n"
 "{1}"
 msgstr ""
-"Cet effet sera appliqué quand le travail sera terminé:\n"
+"Effets Appliqués:\n"
 "\n"
 "{0}\n"
 "{1}"
@@ -25214,13 +25477,13 @@ msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.COOLANT"
 msgid ""
 "This building will require {1} of {0} for use as coolant each time it "
 "finishes processing an order\n"
-"\n"
+"------------------\n"
 "The temperature of the coolant will be raised depending on how much energy "
 "was required to cool the product"
 msgstr ""
 "Cet équipement nécessitera {1} sur {0} pour être utilisé comme liquide de "
 "refroidissement chaque fois qu'il aura fini de traiter une commande\n"
-"\n"
+"------------------\n"
 "La température du liquide de refroidissement sera augmentée en fonction de "
 "la quantité d'énergie nécessaire pour refroidir le produit"
 
@@ -25355,12 +25618,12 @@ msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED_AIRCONDITIONER"
 msgid ""
 "Generates heat based on the volume, temperature, and specific heat capacity "
 "of the pumped gas\n"
-"\n"
+"------------------\n"
 "Cooling 1 Kg of room temperature oxygen will output {0} per second"
 msgstr ""
 "Génère de la chaleur en fonction du volume, de la température et de la "
 "capacité calorifique spécifique du gaz pompé\n"
-"\n"
+"------------------\n"
 "Refroidir 1 Kg d'oxygène contenu dans la pièce émettra {0} par seconde"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED_LIQUIDCONDITIONER
@@ -25368,18 +25631,18 @@ msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED_LIQUIDCONDITIONER"
 msgid ""
 "Generates heat based on the volume, temperature, and specific heat capacity "
 "of the pumped liquid\n"
-"\n"
+"------------------\n"
 "Cooling 1 Kg of room temperature water will output {0} per second"
 msgstr ""
 "Génère de la chaleur en fonction du volume, de la température et de la "
 "capacité calorifique spécifique du liquide pompé\n"
-"\n"
+"------------------\n"
 "Refroidir 1 Kg d'eau contenu dans la pièce émettra {0} par seconde"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.IMPROVED_BUILDINGS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.IMPROVED_BUILDINGS"
-msgid "These buildings will be improved by a Tune Up"
-msgstr "Ces équipements seront améliorés grâce à un réglage"
+msgid "Tune Ups will improve these buildings:"
+msgstr "Les Réglages amélioreront ces équipements:"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.IMPROVED_BUILDINGS_ITEM
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.IMPROVED_BUILDINGS_ITEM"
@@ -25600,7 +25863,7 @@ msgstr "Doit recevoir une graine de plante"
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.RESEARCH_MATERIALS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.RESEARCH_MATERIALS"
 msgid ""
-"This research station consumes {2} of {1} per point of research produced"
+"This research station consumes {2} of {1} for each research point produced"
 msgstr ""
 "Cette Station de Recherche consomme {2} de {1} par point de recherche produit"
 
@@ -27886,7 +28149,7 @@ msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS."
 "STRONG.TOOLTIP"
 msgid "Duplicants have increased immune recovery"
-msgstr "Les Duplicants ont augmenté leur récupération immunitaire"
+msgstr "Les Duplicants ont augmenté leurs défenses immunitaires"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS.WEAK.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
@@ -27907,7 +28170,7 @@ msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS."
 "WEAK.TOOLTIP"
 msgid "Duplicants have reduced immune recovery"
-msgstr "Les Duplicants ont une récupération immunitaire réduite"
+msgstr "Les Duplicants ont des défenses immunitaires amoindries"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.NAME
 msgctxt ""
@@ -31616,7 +31879,7 @@ msgstr "MISSIONS"
 
 #. STRINGS.UI.ROLES_SCREEN.NO_JOB_STATION_WARNING
 msgctxt "STRINGS.UI.ROLES_SCREEN.NO_JOB_STATION_WARNING"
-msgid "Build an Employment Desk to unlock Job Assignments"
+msgid "Build a Jobs Desk to unlock Job Assignments"
 msgstr ""
 "Construisez un Bureau de Recrutement pour accéder à l'assignation des "
 "missions"
@@ -32686,14 +32949,14 @@ msgstr ""
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_REQUIRES_ROLES_STATION
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_REQUIRES_ROLES_STATION"
 msgid ""
-"Build an Employment Desk to unlock\n"
+"Build a Jobs Board to unlock\n"
 "------------------\n"
-"The Employment Desk can be found in the Stations Tab <color=#F44A47>[0]</"
-"color> of the Build Menu"
+"The Jobs Board can be found in the Stations Tab <color=#F44A47>[0]</color> "
+"of the Build Menu"
 msgstr ""
-"Construire un Bureau de Recrutement pour débloquer\n"
+"Construire un Tableau des Missions pour débloquer\n"
 "-----------------\n"
-"Le Bureau de Recrutement se trouve dans l'Onglet Stations "
+"Le Tableau des Mission peut être trouvé dans l'Onglet Stations "
 "<color=#F44A47>[0]</color> du Menu de Construction"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_RESEARCH
@@ -33284,8 +33547,8 @@ msgstr "Cette porte ne peut pas être contrôlée manuellement."
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.TITLE"
-msgid "Door Toggle"
-msgstr "Commande d'Ouverture"
+msgid "Door Setting"
+msgstr "Paramètres de la Porte"
 
 #. STRINGS.UI.UISIDESCREENS.ENCRYPTEDLORESIDESCREEN.AWAITINGBUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.ENCRYPTEDLORESIDESCREEN.AWAITINGBUTTON"
@@ -35730,4 +35993,225 @@ msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT9"
 msgid "Sprinkling sand..."
 msgstr "Aspersion de sable..."
 
+#~ msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGSWITCHTOGGLE.NAME"
+#~ msgid "Toggle Switch Errand Assigned"
+#~ msgstr "Tâche Assignée: Activation de l'Interrupteur"
 
+#~ msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGSWITCHTOGGLE.TOOLTIP"
+#~ msgid "Waiting for a Duplicant to toggle switch"
+#~ msgstr "En attente d'un Duplicant pour basculer l'interrupteur"
+
+#~ msgctxt "STRINGS.BUILDING.STATUSITEMS.REQUIRESROLEPERK.NAME"
+#~ msgid "Requires Job Assignment"
+#~ msgstr "En Attente d'Affectation d'une Tâche"
+
+#~ msgctxt "STRINGS.BUILDINGS.PREFABS.ROLESTATION.NAME"
+#~ msgid "Employment Desk"
+#~ msgstr "Bureau de Recrutement"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDDIG.NAME"
+#~ msgid "Dig"
+#~ msgstr "Creuse"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDDIG.STATUS"
+#~ msgid "Going to dig"
+#~ msgstr "Va miner"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDFETCH.NAME"
+#~ msgid "Deliver"
+#~ msgstr "Livre"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDFETCH.STATUS"
+#~ msgid "Delivering"
+#~ msgstr "Livre"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.CONVEYORBUILD.NAME"
+#~ msgid "Build"
+#~ msgstr "Construction"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.CONVEYORBUILD.STATUS"
+#~ msgid "Going to build"
+#~ msgstr "Va construire"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.COOKFETCH.NAME"
+#~ msgid "Deliver"
+#~ msgstr "Livre"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.COOKFETCH.STATUS"
+#~ msgid "Delivering"
+#~ msgstr "Livre"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.FABRICATEFETCH.NAME"
+#~ msgid "Deliver"
+#~ msgstr "Livre"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.FABRICATEFETCH.STATUS"
+#~ msgid "Delivering"
+#~ msgstr "Livre"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.FETCHCRITICAL.NAME"
+#~ msgid "Deliver"
+#~ msgstr "Livre"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.FETCHCRITICAL.STATUS"
+#~ msgid "Delivering"
+#~ msgstr "Livre"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.HEALCRITICAL.NAME"
+#~ msgid "Heal"
+#~ msgstr "Soigne"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.HEALCRITICAL.STATUS"
+#~ msgid "Healing"
+#~ msgstr "Soigne"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOLOCATION.NAME"
+#~ msgid "Move to Location"
+#~ msgstr "Va à la position"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOLOCATION.STATUS"
+#~ msgid "Moving to location"
+#~ msgstr "Va à la position"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.MUSHFETCH.NAME"
+#~ msgid "Deliver"
+#~ msgstr "Livre"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.MUSHFETCH.STATUS"
+#~ msgid "Delivering"
+#~ msgstr "Livre"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.NARCOLEPSY.NAME"
+#~ msgid "Narcoleptic Sleep"
+#~ msgstr "Sieste Narcoleptique"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.NARCOLEPSY.STATUS"
+#~ msgid "Sleeping"
+#~ msgstr "Dort"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.POWERFETCH.NAME"
+#~ msgid "Deliver"
+#~ msgstr "Livre"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.POWERFETCH.STATUS"
+#~ msgid "Delivering"
+#~ msgstr "Livre"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.RECHARGE.NAME"
+#~ msgid "Recharge"
+#~ msgstr "Recharge"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.RESEARCHFETCH.NAME"
+#~ msgid "Deliver"
+#~ msgstr "Livre"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.RESEARCHFETCH.STATUS"
+#~ msgid "Delivering"
+#~ msgstr "Livre"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.TOGGLE.NAME"
+#~ msgid "Toggle"
+#~ msgstr "Basculer"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.TOGGLE.STATUS"
+#~ msgid "Going to toggle"
+#~ msgstr "Va basculer"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.UPGRADE.NAME"
+#~ msgid "Upgrade"
+#~ msgstr "Améliore"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.UPGRADE.STATUS"
+#~ msgid "Going to upgrade"
+#~ msgstr "Va améliorer"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.WIREBUILD.NAME"
+#~ msgid "Build"
+#~ msgstr "Construction"
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.WIREBUILD.STATUS"
+#~ msgid "Going to build"
+#~ msgstr "Va construire"
+
+#~ msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.ARTING.TOOLTIP"
+#~ msgid "This Duplicant is expressing themselves artistically"
+#~ msgstr "Ce Duplicant s'exprime artistiquement"
+
+#~ msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FABRICATING.NAME"
+#~ msgid "Fabricating {Item}"
+#~ msgstr "Fabrique {Item}"
+
+#~ msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FABRICATING.TOOLTIP"
+#~ msgid "This Duplicant is making a {Item}"
+#~ msgstr "Ce Duplicant fabrique un {Item}"
+
+#~ msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.PROCESSING.NAME"
+#~ msgid "Refining {Item}"
+#~ msgstr "Raffine {Item}"
+
+#~ msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.PROCESSING.TOOLTIP"
+#~ msgid "This Duplicant is refining {Item}"
+#~ msgstr "Ce Duplicant raffine {Item}"
+
+#~ msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNASSIGNED.NAME"
+#~ msgid "No quarantine zone assigned"
+#~ msgstr "Pas de zone de quarantaine assignée"
+
+#~ msgctxt ""
+#~ "STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNASSIGNED.NOTIFICATION_NAME"
+#~ msgid "No quarantine zone assigned"
+#~ msgstr "Pas de zone de quarantaine assignée"
+
+#~ msgctxt ""
+#~ "STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNASSIGNED."
+#~ "NOTIFICATION_TOOLTIP"
+#~ msgid "These Duplicants have not been assigned a room:"
+#~ msgstr "Ces Duplicants n'ont pas de chambre attitrée:"
+
+#~ msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNASSIGNED.TOOLTIP"
+#~ msgid "This Duplicant has not been assigned a room"
+#~ msgstr "Ce Duplicant n'a pas de chambre attitrée"
+
+#~ msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.TOGGLING.NAME"
+#~ msgid "Toggling {Target} switch"
+#~ msgstr "Basculer l'interrupteur {Target}"
+
+#~ msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.TOGGLING.TOOLTIP"
+#~ msgid "This Duplicant is toggling the {Target}'s switch"
+#~ msgstr "Ce Duplicant fait basculer l'interrupteur {Target}"
+
+#~ msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.UPROOTING.NAME"
+#~ msgid "Digging up {Target}"
+#~ msgstr "Déterre {Target}"
+
+#~ msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ADDED_EFFECT"
+#~ msgid ""
+#~ "This effect will be added after work is complete:\n"
+#~ "\n"
+#~ "{0}\n"
+#~ "{1}"
+#~ msgstr ""
+#~ "Cet effet sera appliqué quand le travail sera terminé:\n"
+#~ "\n"
+#~ "{0}\n"
+#~ "{1}"
+
+#~ msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.IMPROVED_BUILDINGS"
+#~ msgid "These buildings will be improved by a Tune Up"
+#~ msgstr "Ces équipements seront améliorés grâce à un réglage"
+
+#~ msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_REQUIRES_ROLES_STATION"
+#~ msgid ""
+#~ "Build an Employment Desk to unlock\n"
+#~ "------------------\n"
+#~ "The Employment Desk can be found in the Stations Tab <color=#F44A47>[0]</"
+#~ "color> of the Build Menu"
+#~ msgstr ""
+#~ "Construire un Bureau de Recrutement pour débloquer\n"
+#~ "-----------------\n"
+#~ "Le Bureau de Recrutement se trouve dans l'Onglet Stations "
+#~ "<color=#F44A47>[0]</color> du Menu de Construction"
+
+#~ msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.TITLE"
+#~ msgid "Door Toggle"
+#~ msgstr "Commande d'Ouverture"

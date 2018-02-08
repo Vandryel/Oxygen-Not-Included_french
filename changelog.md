@@ -2,7 +2,7 @@ Changelog :
 
 v1.1.0 - xx-fev-2018
 --------------------
-Chaines traduites: 5829/5829 (100%)
+Chaines traduites: 5876/5876 (100%)
 
 * Mise à jour et traduction des chaines de la mise à jour « Occupational Upgrade »
 * Encore beaucoup de corrections et d'adaptation des chaînes
