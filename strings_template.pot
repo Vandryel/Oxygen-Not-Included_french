@@ -455,12 +455,12 @@ msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.DIGREQUIRESROLEPERK.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DIGREQUIRESROLEPERK.NAME"
-msgid "Ready For Miner"
+msgid "Awaiting Miner"
 msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.DIGREQUIRESROLEPERK.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DIGREQUIRESROLEPERK.TOOLTIP"
-msgid "Duplicants may only mine this tile if proficient at one of the following jobs: {Roles}"
+msgid "Only a Duplicant employed in one of the following jobs can complete this errand:\n{Roles}"
 msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.DIGUNREACHABLE.NAME
@@ -1640,12 +1640,12 @@ msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.REQUIRESROLEPERK.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.REQUIRESROLEPERK.NAME"
-msgid "Ready For Specialist"
+msgid "Awaiting Specialist"
 msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.REQUIRESROLEPERK.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.REQUIRESROLEPERK.TOOLTIP"
-msgid "This building is ready to be used by a Duplicant with one of the following jobs: {Roles}"
+msgid "Only a Duplicant employed in one of the following jobs can complete this errand:\n{Roles}"
 msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.RESEARCHING.NAME
@@ -1875,7 +1875,7 @@ msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_ACTIVE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_ACTIVE.TOOLTIP"
-msgid "The turbine is running at {0} RPM"
+msgid "This turbine is running at {0}RPM"
 msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_BLOCKED_INPUT.NAME
@@ -1885,7 +1885,7 @@ msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_BLOCKED_INPUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_BLOCKED_INPUT.TOOLTIP"
-msgid "This turbine's input is blocked"
+msgid "A blocked input has stopped this turbine from functioning"
 msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_BLOCKED_OUTPUT.NAME
@@ -1895,17 +1895,17 @@ msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_BLOCKED_OUTPUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_BLOCKED_OUTPUT.TOOLTIP"
-msgid "This turbine's output is blocked"
+msgid "A blocked output has stopped this turbine from functioning"
 msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_MASS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_MASS.NAME"
-msgid "Under-Pressurized"
+msgid "Underpressure"
 msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_MASS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_MASS.TOOLTIP"
-msgid "The turbine must have at least {MASS} more {ELEMENT} below it than above it for things to run."
+msgid "This turbine must have {MASS} more {ELEMENT} below it than above it in order to run"
 msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_TEMPERATURE.NAME
@@ -1915,7 +1915,7 @@ msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_TEMPERATURE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_TEMPERATURE.TOOLTIP"
-msgid "The {ELEMENT} used to power the turbine must be at least {TEMPERATURE}."
+msgid "The {ELEMENT} used to power the turbine must be at least {TEMPERATURE}"
 msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_SPINNING_UP.NAME
@@ -4180,7 +4180,7 @@ msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.POWERCONTROLSTATION.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.POWERCONTROLSTATION.EFFECT"
-msgid "Produces <style=\"solid\">Oil Cans</style> to increase the <style=\"power\">Power</style> output of generators.\n\nAssigned Duplicants must possess the <style=\"misc\">Tune Up</style> trait.\n\nThis building is a necessary component of the Power Plant room."
+msgid "Produces <style=\"solid\">Microchips</style> to increase the <style=\"power\">Power</style> output of generators.\n\nAssigned Duplicants must possess the <style=\"misc\">Tune Up</style> trait.\n\nThis building is a necessary component of the Power Plant room."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.POWERCONTROLSTATION.NAME
@@ -4470,12 +4470,12 @@ msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.STEAMTURBINE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.STEAMTURBINE.DESC"
-msgid "Turbines are capable of industrial strength power generation with virtually no waste."
+msgid "Useful for translating the geothermal energy of magma into useable power."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.STEAMTURBINE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.STEAMTURBINE.EFFECT"
-msgid "Generates exceptional electrical <style=\"power\">Power</style> when there is at least 3000g more <style=\"gas\">Steam</style> below it than above it."
+msgid "Generates exceptional electrical <style=\"power\">Power</style> using pressurized, <style=\"heat\">Scalding</style> <style=\"gas\">Steam</style>.\n\nOutputs significantly cooler <style=\"gas\">Steam</style> than it receives.\n\nAir pressure beneath this building must be higher than pressure above for air to flow."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.STEAMTURBINE.NAME
@@ -9580,7 +9580,7 @@ msgstr ""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.POWERTINKER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.POWERTINKER.TOOLTIP"
-msgid "A skilled Electrical Engineer has improved this generator's power output efficiency\n------------------\nApplying this effect consumed one Oil Can."
+msgid "A skilled Electrical Engineer has improved this generator's power output efficiency\n------------------\nApplying this effect consumed one Microchip."
 msgstr ""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.PROPERBATHROOM.NAME
@@ -15695,12 +15695,12 @@ msgstr ""
 
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.POWER_STATION_TOOLS.DESC
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.POWER_STATION_TOOLS.DESC"
-msgid "Specialized <style=\"misc\">Oil</style> synthesized by a professional engineer.\n\nTunes up generators to increase their <style=\"power\">Power</style> output."
+msgid "A specialized <style=\"misc\">Microchip</style> created by a professional engineer.\n\nTunes up generators to increase their <style=\"power\">Power</style> output."
 msgstr ""
 
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.POWER_STATION_TOOLS.NAME
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.POWER_STATION_TOOLS.NAME"
-msgid "Oil Can"
+msgid "Microchip"
 msgstr ""
 
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.POWER_STATION_TOOLS.TINKER_EFFECT_NAME
@@ -20975,7 +20975,7 @@ msgstr ""
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.COOLANT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.COOLANT"
-msgid "This building will require {1} of {0} for use as coolant each time it finishes processing an order\n------------------\nThe temperature of the coolant will be raised depending on how much energy was required to cool the product"
+msgid "{1} of {0} coolant is required to cool off an item produced by this building\n------------------\nCoolant temperature increase is variable and dictated by the amount of energy needed to cool the produced item"
 msgstr ""
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORDECREASED
@@ -21170,12 +21170,12 @@ msgstr ""
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REFINEMENT_ENERGY_HAS_COOLANT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REFINEMENT_ENERGY_HAS_COOLANT"
-msgid "Cooling the output materials will produce {0} of heat, which will raise the temperature of the contained {1} by {2} along with warming the building."
+msgid "{0} of heat will be produced to cool off the fabricated item\n\nThis will raise the temperature of the contained {1} by {2}, and heat the containing building"
 msgstr ""
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REFINEMENT_ENERGY_NO_COOLANT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REFINEMENT_ENERGY_NO_COOLANT"
-msgid "Cooling the output materials will produce {0} of heat. If {1} was used for coolant, its temperature would be raised by {2} along with warming the building."
+msgid "{0} of heat will be produced to cool off the fabricated item\n\nIf {1} is used for coolant, its temperature will be raised by {2}, and will heat the containing building"
 msgstr ""
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REMOVEDEFFECT
@@ -23675,7 +23675,7 @@ msgstr ""
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.BODY
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.BODY"
-msgid "<b>Welcome to the Tubular Upgrade!</b>\n\n{0}"
+msgid "<b>Welcome to the Occupational Upgrade!</b>\n\n{0}"
 msgstr ""
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.OK_BUTTON
@@ -23685,12 +23685,12 @@ msgstr ""
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.PATCHNOTES
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.PATCHNOTES"
-msgid "<b>Update Features:</b>\n\n• New Transit Tube networks allow rapid Duplicant transport to and from the furthest reaches of your base\n• Ice Sculptures can now be built in cold areas for a special decor boost\n• Berry Sludge, a new recipe made from Bristle Berries, can now be found at the Microbe Musher\n• Extensive performance improvements, affecting late game bases, stored items, Duplicant navigation, memory usage, and more\n\nPlease view the full patch notes for further details!"
+msgid "<b>Update Features:</b>\n\n• Jobs Board added! Employ your Duplicants in new job positions for skill improvements, unique traits, and cool new hats\n• New Conveyor Rail System to quickly transport solid materials around your base\n• Food and Plant rebalances for a more rewarding overall farming experience\n• Tons of bug fixes, performance enhancements, QOL additions, and more!\n\nPlease view the full patch notes for further details!"
 msgstr ""
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.TITLE"
-msgid "TUBULAR UPGRADE"
+msgid "OCCUPATIONAL UPGRADE"
 msgstr ""
 
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.DESKTOPQUIT
@@ -26170,7 +26170,7 @@ msgstr ""
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_POWER_TINKER.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_POWER_TINKER.DESCRIPTION"
-msgid "Trait: <style=\"misc\">Generator</style> Tuning\n    • Trait: <style=\"misc\">Oil Can</style> Crafting"
+msgid "Trait: <style=\"misc\">Generator</style> Tuning\n    • Trait: <style=\"misc\">Microchip</style> Crafting"
 msgstr ""
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_SCULPT.DESCRIPTION

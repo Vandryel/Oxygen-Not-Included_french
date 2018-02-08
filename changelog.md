@@ -1,6 +1,6 @@
 Changelog :
 
-v1.1.0 - xx-fev-2018
+v1.1.0 - 08-fev-2018
 --------------------
 Chaines traduites: 5876/5876 (100%)
 
