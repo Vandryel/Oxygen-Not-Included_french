@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2018-02-13 17:40+0100\n"
+"PO-Revision-Date: 2018-02-15 17:08+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
@@ -7113,7 +7113,7 @@ msgid ""
 "Bristle Blossoms produce <style=\"food\">Bristle Berries</style>, a prickly "
 "edible bud."
 msgstr ""
-"Les Bristle Blossoms produisent des <style=\"food\">Baies Velues</style>, "
+"Les Fleurs Velues produisent des <style=\"food\">Baies Velues</style>, "
 "épineuses et comestibles."
 
 #. STRINGS.CREATURES.SPECIES.PRICKLEFLOWER.DOMESTICATEDDESC
@@ -19180,7 +19180,7 @@ msgstr ""
 #. STRINGS.ITEMS.FOOD.GRILLEDPRICKLEFRUIT.NAME
 msgctxt "STRINGS.ITEMS.FOOD.GRILLEDPRICKLEFRUIT.NAME"
 msgid "Gristle Berry"
-msgstr "Baie Hérissée"
+msgstr "Baie Fibreuse"
 
 #. STRINGS.ITEMS.FOOD.GRILLEDPRICKLEFRUIT.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.GRILLEDPRICKLEFRUIT.RECIPEDESC"
@@ -19263,7 +19263,7 @@ msgstr "Un fruit doux et plutôt agréable, couvert de poils drus."
 #. STRINGS.ITEMS.FOOD.PRICKLEFRUIT.NAME
 msgctxt "STRINGS.ITEMS.FOOD.PRICKLEFRUIT.NAME"
 msgid "Bristle Berry"
-msgstr "Baie Hérissée"
+msgstr "Baie Velue"
 
 #. STRINGS.ITEMS.FOOD.ROTPILE.DESC
 msgctxt "STRINGS.ITEMS.FOOD.ROTPILE.DESC"
@@ -19288,7 +19288,7 @@ msgid ""
 "A baked <style=\"food\">Bristle Berry</style> stuffed with delectable spices "
 "and vibrantly flavored."
 msgstr ""
-"Une <style=\"food\">Baie Velue</style> cuite accompagnée de délicieux épices "
+"Une <style=\"food\">Baie Velue</style> farcie avec de délicieuses épices "
 "et délicatement parfumée."
 
 #. STRINGS.ITEMS.FOOD.SALSA.NAME
@@ -19302,7 +19302,7 @@ msgid ""
 "A baked <style=\"food\">Bristle Berry</style> stuffed with delectable spices "
 "and vibrantly flavored."
 msgstr ""
-"Une <style=\"food\">Baie Velue</style> cuite accompagnée de délicieux épices "
+"Une <style=\"food\">Baie Velue</style> farcie avec de délicieuses épices "
 "et délicatement parfumée."
 
 #. STRINGS.ITEMS.FOOD.SPICEBREAD.DESC
@@ -26209,7 +26209,7 @@ msgstr "RAPPORTER LE PLANTAGE"
 #. STRINGS.UI.CRASHSCREEN.REPORTING
 msgctxt "STRINGS.UI.CRASHSCREEN.REPORTING"
 msgid "REPORTING, PLEASE WAIT..."
-msgstr "ENVOIE DU RAPPORT, PATIENTEZ S'IL VOUS PLAIT..."
+msgstr "ENVOI DU RAPPORT, PATIENTEZ S'IL VOUS PLAIT..."
 
 #. STRINGS.UI.CRASHSCREEN.SAVEFAILED
 msgctxt "STRINGS.UI.CRASHSCREEN.SAVEFAILED"
@@ -36012,4 +36012,5 @@ msgstr "Aspersion de sable..."
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT9"
 msgid "Sprinkling sand..."
 msgstr "Aspersion de sable..."
+
 
