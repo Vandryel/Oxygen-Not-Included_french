@@ -1,5 +1,12 @@
 Changelog :
 
+v1.1.0 - 16-fev-2018 (OC-255486)
+--------------------------------
+Chaines traduites: 5880/5880 (100%)
+
+* Mise à jour pour le hotfix OC-255486
+* Correction de la traduction pour une recette
+
 v1.1.0 - 08-fev-2018
 --------------------
 Chaines traduites: 5876/5876 (100%)
