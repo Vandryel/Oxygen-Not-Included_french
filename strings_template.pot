@@ -1400,7 +1400,7 @@ msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.NOTINRECOMMENDEDROOM.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOTINRECOMMENDEDROOM.TOOLTIP"
-msgid "It is recommended to place this building inside a {0}\n\nOpen the Room Overlay <color=#F44A47>[F11]</color> to view full room status"
+msgid "It is recommended to build this building inside a {0}\n\nOpen the Room Overlay <color=#F44A47>[F11]</color> to view full room status"
 msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.NOTINREQUIREDROOM.NAME
@@ -1905,17 +1905,17 @@ msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_MASS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_MASS.TOOLTIP"
-msgid "This turbine must have {MASS} more {ELEMENT} below it than above it in order to run"
+msgid "The {ELEMENT} present below this turbine must be {MASS} more pressurized than the {ELEMENT} above it in order to turn the turbine"
 msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_TEMPERATURE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_TEMPERATURE.NAME"
-msgid "Too Cold"
+msgid "Cold {ELEMENT}"
 msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_TEMPERATURE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_TEMPERATURE.TOOLTIP"
-msgid "The {ELEMENT} used to power the turbine must be at least {TEMPERATURE}"
+msgid "This turbine requires {ELEMENT} that is a minimum of {TEMPERATURE}"
 msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_SPINNING_UP.NAME
@@ -1925,7 +1925,7 @@ msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_SPINNING_UP.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_SPINNING_UP.TOOLTIP"
-msgid "The turbine needs more time to spin up"
+msgid "This turbine is currently spinning up\n\nSpinning up allows a turbine to continue running for a short period if the pressure it needs to run becomes unanavailable"
 msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.UNASSIGNED.NAME
@@ -4805,7 +4805,7 @@ msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.WIREREFINEDBRIDGE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREREFINEDBRIDGE.EFFECT"
-msgid "Runs one wire section over another without joining them.\n\nCan be run through tiles."
+msgid "Carries more <style=\"power\">Wattage</style> than a regular Wire Bridge without overloading.\n\nRuns one wire section over another without joining them.\n\nCan be run through tiles."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.WIREREFINEDBRIDGE.NAME
@@ -4820,7 +4820,7 @@ msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.WIREREFINEDBRIDGEHIGHWATTAGE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREREFINEDBRIDGEHIGHWATTAGE.EFFECT"
-msgid "Allows Heavi-Watt Wire to be run through wall and floor tiles.\n\nFunctions as a regular tile."
+msgid "Carries more <style=\"power\">Wattage</style> than a regular Heavi-Watt Joint Plate without overloading.\n\nAllows Heavi-Watt Wire to be run through wall and floor tiles.\n\nFunctions as a regular tile."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.WIREREFINEDBRIDGEHIGHWATTAGE.NAME
@@ -6468,6 +6468,11 @@ msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.FOODEXPECTATION.NAME"
 msgid "Food Quality Expectation"
 msgstr ""
 
+#. STRINGS.DUPLICANTS.ATTRIBUTES.GENERATOROUTPUT.NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.GENERATOROUTPUT.NAME"
+msgid "Power Output"
+msgstr ""
+
 #. STRINGS.DUPLICANTS.ATTRIBUTES.HITPOINTSDELTA.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.HITPOINTSDELTA.DESC"
 msgid "Health regeneration is increased when another Duplicant provides medical care to the patient"
@@ -7635,7 +7640,7 @@ msgstr ""
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.HEADER
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.HEADER"
-msgid "Errands {Selected} could perform here:"
+msgid "The selected {Selected} could:"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_ALLOWED_BY_AUTOMATION
@@ -9370,7 +9375,7 @@ msgstr ""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.MACHINETINKER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MACHINETINKER.TOOLTIP"
-msgid "A skilled Engineer has fine tuned all the gears and sprockets to make things run faster"
+msgid "A skilled Engineer has jerryrigged this generator to temporarily run faster"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.MANAGEDCOLONY.NAME
@@ -9855,12 +9860,12 @@ msgstr ""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.TIME_REMAINING
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TIME_REMAINING"
-msgid "\nWears off in: {0}"
+msgid "\nTime Remaining: {0}"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.TIME_TOTAL
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TIME_TOTAL"
-msgid "\nEffect duration: {0}"
+msgid "\nDuration: {0}"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.TOXICENVIRONMENT.NAME
@@ -10575,7 +10580,7 @@ msgstr ""
 
 #. STRINGS.DUPLICANTS.ROLES.ARTIST.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.ARTIST.DESCRIPTION"
-msgid "Artists make better art"
+msgid "Artists are experienced sculptors and painters and create higher quality art."
 msgstr ""
 
 #. STRINGS.DUPLICANTS.ROLES.ARTIST.NAME
@@ -10595,7 +10600,7 @@ msgstr ""
 
 #. STRINGS.DUPLICANTS.ROLES.BUILDER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.BUILDER.DESCRIPTION"
-msgid "Builders can build buildings faster"
+msgid "Architects are competent builders with moderately improved construction speeds."
 msgstr ""
 
 #. STRINGS.DUPLICANTS.ROLES.BUILDER.NAME
@@ -10670,7 +10675,7 @@ msgstr ""
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_ARTIST.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_ARTIST.DESCRIPTION"
-msgid "Artists make better art"
+msgid "Artist Students are new artists who make improved paintings and sculptures."
 msgstr ""
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_ARTIST.NAME
@@ -10680,7 +10685,7 @@ msgstr ""
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_BUILDER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_BUILDER.DESCRIPTION"
-msgid "Builders can build buildings faster"
+msgid "Apprentice Architects are new builders with marginally improved construction speeds."
 msgstr ""
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_BUILDER.NAME
@@ -10780,7 +10785,7 @@ msgstr ""
 
 #. STRINGS.DUPLICANTS.ROLES.NO_ROLE.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.NO_ROLE.DESCRIPTION"
-msgid "This Duplicant has not been assigned a job"
+msgid "No job assignment."
 msgstr ""
 
 #. STRINGS.DUPLICANTS.ROLES.NO_ROLE.NAME
@@ -10825,7 +10830,7 @@ msgstr ""
 
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_BUILDER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_BUILDER.DESCRIPTION"
-msgid "Builders can build buildings faster"
+msgid "Senior Architects are experienced builders with vastly improved construction speeds."
 msgstr ""
 
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_BUILDER.NAME
@@ -12220,7 +12225,7 @@ msgstr ""
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STOREFORBUILDPRIORITIZEDDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STOREFORBUILDPRIORITIZEDDELIVERSTATUS.TOOLTIP"
-msgid "This Duplicant is delivering {Item} resources to a {Target} construction errand"
+msgid "This Duplicant is delivering materials to a {Target} construction errand"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STOREPRIORITYDELIVERSTATUS.NAME
@@ -13228,6 +13233,11 @@ msgctxt "STRINGS.ELEMENTS.CEMENTMIX.NAME"
 msgid "Cement Mix"
 msgstr ""
 
+#. STRINGS.ELEMENTS.CHLORINE.BUILD_DESC
+msgctxt "STRINGS.ELEMENTS.CHLORINE.BUILD_DESC"
+msgid ""
+msgstr ""
+
 #. STRINGS.ELEMENTS.CHLORINE.DESC
 msgctxt "STRINGS.ELEMENTS.CHLORINE.DESC"
 msgid "(Cl) Chlorine is an extremely toxic element in a <style=\"solid\">Solid</style> state."
@@ -13318,6 +13328,11 @@ msgctxt "STRINGS.ELEMENTS.CRUDEOIL.NAME"
 msgid "Crude Oil"
 msgstr ""
 
+#. STRINGS.ELEMENTS.CRUSHEDICE.BUILD_DESC
+msgctxt "STRINGS.ELEMENTS.CRUSHEDICE.BUILD_DESC"
+msgid ""
+msgstr ""
+
 #. STRINGS.ELEMENTS.CRUSHEDICE.DESC
 msgctxt "STRINGS.ELEMENTS.CRUSHEDICE.DESC"
 msgid "(H<sub>2</sub>0) A slush of crushed, semi-solid ice."
@@ -13386,6 +13401,11 @@ msgstr ""
 #. STRINGS.ELEMENTS.DIRT.NAME
 msgctxt "STRINGS.ELEMENTS.DIRT.NAME"
 msgid "Dirt"
+msgstr ""
+
+#. STRINGS.ELEMENTS.DIRTYICE.BUILD_DESC
+msgctxt "STRINGS.ELEMENTS.DIRTYICE.BUILD_DESC"
+msgid ""
 msgstr ""
 
 #. STRINGS.ELEMENTS.DIRTYICE.DESC
@@ -13601,6 +13621,11 @@ msgstr ""
 #. STRINGS.ELEMENTS.HYDROGEN.NAME
 msgctxt "STRINGS.ELEMENTS.HYDROGEN.NAME"
 msgid "Hydrogen"
+msgstr ""
+
+#. STRINGS.ELEMENTS.ICE.BUILD_DESC
+msgctxt "STRINGS.ELEMENTS.ICE.BUILD_DESC"
+msgid ""
 msgstr ""
 
 #. STRINGS.ELEMENTS.ICE.DESC
@@ -13998,6 +14023,11 @@ msgctxt "STRINGS.ELEMENTS.OXYGEN.NAME"
 msgid "Oxygen"
 msgstr ""
 
+#. STRINGS.ELEMENTS.OXYROCK.BUILD_DESC
+msgctxt "STRINGS.ELEMENTS.OXYROCK.BUILD_DESC"
+msgid ""
+msgstr ""
+
 #. STRINGS.ELEMENTS.OXYROCK.DESC
 msgctxt "STRINGS.ELEMENTS.OXYROCK.DESC"
 msgid "(Ir<sub>3</sub>O<sub>2</sub>) Oxylite is a chemical compound that slowly emits breathable <style=\"oxygen\">Oxygen</style>.\n\nExcavating Oxylite increases its emission rate, but depletes the ore more rapidly."
@@ -14106,6 +14136,11 @@ msgstr ""
 #. STRINGS.ELEMENTS.PROPANE.NAME
 msgctxt "STRINGS.ELEMENTS.PROPANE.NAME"
 msgid "Propane"
+msgstr ""
+
+#. STRINGS.ELEMENTS.RADIUM.BUILD_DESC
+msgctxt "STRINGS.ELEMENTS.RADIUM.BUILD_DESC"
+msgid ""
 msgstr ""
 
 #. STRINGS.ELEMENTS.RADIUM.DESC
@@ -14218,6 +14253,11 @@ msgctxt "STRINGS.ELEMENTS.SLIMEMOLD.NAME"
 msgid "Slime"
 msgstr ""
 
+#. STRINGS.ELEMENTS.SNOW.BUILD_DESC
+msgctxt "STRINGS.ELEMENTS.SNOW.BUILD_DESC"
+msgid ""
+msgstr ""
+
 #. STRINGS.ELEMENTS.SNOW.DESC
 msgctxt "STRINGS.ELEMENTS.SNOW.DESC"
 msgid "(H<sub>2</sub>0) Snow is a mass of loose, crystalline ice particles.\n\nIt becomes <style=\"liquid\">Water</style> when melted."
@@ -14238,6 +14278,11 @@ msgctxt "STRINGS.ELEMENTS.SOLIDCARBONDIOXIDE.NAME"
 msgid "Carbon Dioxide"
 msgstr ""
 
+#. STRINGS.ELEMENTS.SOLIDCHLORINE.BUILD_DESC
+msgctxt "STRINGS.ELEMENTS.SOLIDCHLORINE.BUILD_DESC"
+msgid ""
+msgstr ""
+
 #. STRINGS.ELEMENTS.SOLIDCHLORINE.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDCHLORINE.DESC"
 msgid "(Cl) Chlorine is a toxic chemical element in a <style=\"solid\">Solid</style> state."
@@ -14248,6 +14293,11 @@ msgctxt "STRINGS.ELEMENTS.SOLIDCHLORINE.NAME"
 msgid "Chlorine"
 msgstr ""
 
+#. STRINGS.ELEMENTS.SOLIDCRUDEOIL.BUILD_DESC
+msgctxt "STRINGS.ELEMENTS.SOLIDCRUDEOIL.BUILD_DESC"
+msgid ""
+msgstr ""
+
 #. STRINGS.ELEMENTS.SOLIDCRUDEOIL.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDCRUDEOIL.DESC"
 msgid "Crude Oil is a raw potential <style=\"power\">Power</style> source in a <style=\"solid\">Solid</style> state."
@@ -14256,6 +14306,11 @@ msgstr ""
 #. STRINGS.ELEMENTS.SOLIDCRUDEOIL.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDCRUDEOIL.NAME"
 msgid "Crude Oil"
+msgstr ""
+
+#. STRINGS.ELEMENTS.SOLIDHYDROGEN.BUILD_DESC
+msgctxt "STRINGS.ELEMENTS.SOLIDHYDROGEN.BUILD_DESC"
+msgid ""
 msgstr ""
 
 #. STRINGS.ELEMENTS.SOLIDHYDROGEN.DESC
@@ -14283,6 +14338,11 @@ msgctxt "STRINGS.ELEMENTS.SOLIDMERCURY.NAME"
 msgid "Mercury"
 msgstr ""
 
+#. STRINGS.ELEMENTS.SOLIDMETHANE.BUILD_DESC
+msgctxt "STRINGS.ELEMENTS.SOLIDMETHANE.BUILD_DESC"
+msgid ""
+msgstr ""
+
 #. STRINGS.ELEMENTS.SOLIDMETHANE.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDMETHANE.DESC"
 msgid "(CH<sub>4</sub>) Methane is an alkane in a <style=\"solid\">Solid</style> state."
@@ -14291,6 +14351,11 @@ msgstr ""
 #. STRINGS.ELEMENTS.SOLIDMETHANE.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDMETHANE.NAME"
 msgid "Methane"
+msgstr ""
+
+#. STRINGS.ELEMENTS.SOLIDNAPHTHA.BUILD_DESC
+msgctxt "STRINGS.ELEMENTS.SOLIDNAPHTHA.BUILD_DESC"
+msgid ""
 msgstr ""
 
 #. STRINGS.ELEMENTS.SOLIDNAPHTHA.DESC
@@ -14303,6 +14368,11 @@ msgctxt "STRINGS.ELEMENTS.SOLIDNAPHTHA.NAME"
 msgid "Naphtha"
 msgstr ""
 
+#. STRINGS.ELEMENTS.SOLIDOXYGEN.BUILD_DESC
+msgctxt "STRINGS.ELEMENTS.SOLIDOXYGEN.BUILD_DESC"
+msgid ""
+msgstr ""
+
 #. STRINGS.ELEMENTS.SOLIDOXYGEN.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDOXYGEN.DESC"
 msgid "(O<sub>2</sub>) Oxygen is a breathable element in a <style=\"solid\">Solid</style> state."
@@ -14311,6 +14381,11 @@ msgstr ""
 #. STRINGS.ELEMENTS.SOLIDOXYGEN.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDOXYGEN.NAME"
 msgid "Oxygen"
+msgstr ""
+
+#. STRINGS.ELEMENTS.SOLIDPETROLEUM.BUILD_DESC
+msgctxt "STRINGS.ELEMENTS.SOLIDPETROLEUM.BUILD_DESC"
+msgid ""
 msgstr ""
 
 #. STRINGS.ELEMENTS.SOLIDPETROLEUM.DESC
@@ -14393,6 +14468,11 @@ msgctxt "STRINGS.ELEMENTS.STEELGAS.NAME"
 msgid "Steel"
 msgstr ""
 
+#. STRINGS.ELEMENTS.TOXICSAND.BUILD_DESC
+msgctxt "STRINGS.ELEMENTS.TOXICSAND.BUILD_DESC"
+msgid ""
+msgstr ""
+
 #. STRINGS.ELEMENTS.TOXICSAND.DESC
 msgctxt "STRINGS.ELEMENTS.TOXICSAND.DESC"
 msgid "Polluted Dirt is toxic biological waste.\n\nIt emits <style=\"disease\">Polluted Oxygen</style> over time."
@@ -14416,6 +14496,11 @@ msgstr ""
 #. STRINGS.ELEMENTS.TUNGSTEN.NAME
 msgctxt "STRINGS.ELEMENTS.TUNGSTEN.NAME"
 msgid "Tungsten"
+msgstr ""
+
+#. STRINGS.ELEMENTS.TUNGSTENDISELENIDE.BUILD_DESC
+msgctxt "STRINGS.ELEMENTS.TUNGSTENDISELENIDE.BUILD_DESC"
+msgid ""
 msgstr ""
 
 #. STRINGS.ELEMENTS.TUNGSTENDISELENIDE.DESC
@@ -14446,6 +14531,11 @@ msgstr ""
 #. STRINGS.ELEMENTS.TUNGSTENGAS.NAME
 msgctxt "STRINGS.ELEMENTS.TUNGSTENGAS.NAME"
 msgid "Tungsten"
+msgstr ""
+
+#. STRINGS.ELEMENTS.UNOBTANIUM.BUILD_DESC
+msgctxt "STRINGS.ELEMENTS.UNOBTANIUM.BUILD_DESC"
+msgid ""
 msgstr ""
 
 #. STRINGS.ELEMENTS.UNOBTANIUM.DESC
@@ -17315,7 +17405,7 @@ msgstr ""
 
 #. STRINGS.MISC.TAGS.ART
 msgctxt "STRINGS.MISC.TAGS.ART"
-msgid "Wiring-related delivery and building"
+msgid "Art Build-Delivery"
 msgstr ""
 
 #. STRINGS.MISC.TAGS.BAGABLECREATURE
@@ -17355,7 +17445,7 @@ msgstr ""
 
 #. STRINGS.MISC.TAGS.BUILDING
 msgctxt "STRINGS.MISC.TAGS.BUILDING"
-msgid "Build-related delivery and digging"
+msgid "Build Dig-Delivery"
 msgstr ""
 
 #. STRINGS.MISC.TAGS.BURNS
@@ -17400,12 +17490,12 @@ msgstr ""
 
 #. STRINGS.MISC.TAGS.CONVEYOR
 msgctxt "STRINGS.MISC.TAGS.CONVEYOR"
-msgid "Shipping-related building"
+msgid "Shipping Build"
 msgstr ""
 
 #. STRINGS.MISC.TAGS.COOKING
 msgctxt "STRINGS.MISC.TAGS.COOKING"
-msgid "Cooking-related delivery"
+msgid "Cook Delivery"
 msgstr ""
 
 #. STRINGS.MISC.TAGS.COOKINGINGREDIENT
@@ -17425,7 +17515,7 @@ msgstr ""
 
 #. STRINGS.MISC.TAGS.DOCTORING
 msgctxt "STRINGS.MISC.TAGS.DOCTORING"
-msgid "Medicine-related delivery"
+msgid "Care Delivery"
 msgstr ""
 
 #. STRINGS.MISC.TAGS.EDIBLE
@@ -17445,7 +17535,7 @@ msgstr ""
 
 #. STRINGS.MISC.TAGS.FABRICATING
 msgctxt "STRINGS.MISC.TAGS.FABRICATING"
-msgid "Fabrication-related delivery"
+msgid "Fabricate Delivery"
 msgstr ""
 
 #. STRINGS.MISC.TAGS.FARMABLE
@@ -17455,7 +17545,7 @@ msgstr ""
 
 #. STRINGS.MISC.TAGS.FARMING
 msgctxt "STRINGS.MISC.TAGS.FARMING"
-msgid "Farming-related building and delivery"
+msgid "Farm Build-Delivery"
 msgstr ""
 
 #. STRINGS.MISC.TAGS.FARMSTATION
@@ -17590,7 +17680,7 @@ msgstr ""
 
 #. STRINGS.MISC.TAGS.POWER
 msgctxt "STRINGS.MISC.TAGS.POWER"
-msgid "Power-related delivery"
+msgid "Generator Delivery"
 msgstr ""
 
 #. STRINGS.MISC.TAGS.POWERSTATION
@@ -17620,7 +17710,7 @@ msgstr ""
 
 #. STRINGS.MISC.TAGS.RESEARCH
 msgctxt "STRINGS.MISC.TAGS.RESEARCH"
-msgid "Research-related delivery"
+msgid "Research Delivery"
 msgstr ""
 
 #. STRINGS.MISC.TAGS.SEED
@@ -17670,7 +17760,7 @@ msgstr ""
 
 #. STRINGS.MISC.TAGS.WIRING
 msgctxt "STRINGS.MISC.TAGS.WIRING"
-msgid "Wiring-related delivery and building"
+msgid "Wire Build-Delivery"
 msgstr ""
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.ACIDIC
@@ -26145,7 +26235,7 @@ msgstr ""
 
 #. STRINGS.UI.ROLES_SCREEN.NO_JOB_STATION_WARNING
 msgctxt "STRINGS.UI.ROLES_SCREEN.NO_JOB_STATION_WARNING"
-msgid "Build a Jobs Desk to unlock Job Assignments"
+msgid "Build a Jobs Board to unlock Job Assignments"
 msgstr ""
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.ADVANCED_RESEARCH.DESCRIPTION
@@ -26963,6 +27053,11 @@ msgctxt "STRINGS.UI.TOOLTIPS.DISMISSMESSAGE"
 msgid "Dismiss message"
 msgstr ""
 
+#. STRINGS.UI.TOOLTIPS.EDITCREATURENAME
+msgctxt "STRINGS.UI.TOOLTIPS.EDITCREATURENAME"
+msgid "Give this lil' creature a new name"
+msgstr ""
+
 #. STRINGS.UI.TOOLTIPS.EDITNAME
 msgctxt "STRINGS.UI.TOOLTIPS.EDITNAME"
 msgid "Give this Duplicant a new name"
@@ -27246,6 +27341,11 @@ msgstr ""
 #. STRINGS.UI.TOOLTIPS.PRIORITIZEMAINBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.PRIORITIZEMAINBUTTON"
 msgid ""
+msgstr ""
+
+#. STRINGS.UI.TOOLTIPS.RANDOMIZECREATURENAME
+msgctxt "STRINGS.UI.TOOLTIPS.RANDOMIZECREATURENAME"
+msgid "Randomize this creature's name"
 msgstr ""
 
 #. STRINGS.UI.TOOLTIPS.RANDOMIZENAME

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2018-02-15 17:08+0100\n"
+"PO-Revision-Date: 2018-02-16 19:58+0100\n"
 "Last-Translator: Christophe <christophe@krop.fr>\n"
 "Language-Team: French <>\n"
 "Language: fr\n"
@@ -1646,7 +1646,7 @@ msgstr "À l'extérieur de {0}"
 #. STRINGS.BUILDING.STATUSITEMS.NOTINRECOMMENDEDROOM.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOTINRECOMMENDEDROOM.TOOLTIP"
 msgid ""
-"It is recommended to place this building inside a {0}\n"
+"It is recommended to build this building inside a {0}\n"
 "\n"
 "Open the Room Overlay <color=#F44A47>[F11]</color> to view full room status"
 msgstr ""
@@ -2255,23 +2255,22 @@ msgstr "Sous-Pression"
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_MASS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_MASS.TOOLTIP"
 msgid ""
-"This turbine must have {MASS} more {ELEMENT} below it than above it in order "
-"to run"
+"The {ELEMENT} present below this turbine must be {MASS} more pressurized "
+"than the {ELEMENT} above it in order to turn the turbine"
 msgstr ""
-"La turbine doit avoir {MASS} d'{ELEMENT} en plus au dessous qu'au dessus "
-"pour fonctionner."
+"L'élément {ELEMENT} présent sous cette turbine doit avoir {MASS} de pression "
+"en plus que l'élément {ELEMENT} au dessus pour faire fonctionner la turbine"
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_TEMPERATURE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_TEMPERATURE.NAME"
-msgid "Too Cold"
-msgstr "Trop Froid"
+msgid "Cold {ELEMENT}"
+msgstr "{ELEMENT} froid"
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_TEMPERATURE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_TEMPERATURE.TOOLTIP"
-msgid "The {ELEMENT} used to power the turbine must be at least {TEMPERATURE}"
+msgid "This turbine requires {ELEMENT} that is a minimum of {TEMPERATURE}"
 msgstr ""
-"L'{ELEMENT} utilisé pour alimenter la turbine doit être au moins à "
-"{TEMPERATURE}."
+"Cette turbine requiert: {ELEMENT} à une température minimum de {TEMPERATURE}"
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_SPINNING_UP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_SPINNING_UP.NAME"
@@ -2280,8 +2279,16 @@ msgstr "Accélération"
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_SPINNING_UP.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_SPINNING_UP.TOOLTIP"
-msgid "The turbine needs more time to spin up"
-msgstr "Cette turbine a besoin de plus de temps pour tourner"
+msgid ""
+"This turbine is currently spinning up\n"
+"\n"
+"Spinning up allows a turbine to continue running for a short period if the "
+"pressure it needs to run becomes unanavailable"
+msgstr ""
+"Cette turbine est en rotation\n"
+"\n"
+"La rotation permet à une turbine de continuer à fonctionner pendant une "
+"courte période si la pression nécessaire n'est plus suffisante"
 
 #. STRINGS.BUILDING.STATUSITEMS.UNASSIGNED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNASSIGNED.NAME"
@@ -6503,8 +6510,8 @@ msgid ""
 msgstr ""
 "Supprime la plupart des <style=\"disease\">Germes</style> des Duplicants.\n"
 "\n"
-"Les Duplicants pleins de germes utilisent les éviers en passant "
-"devant, dans la direction sélectionnée."
+"Les Duplicants pleins de germes utilisent les éviers en passant devant, dans "
+"la direction sélectionnée."
 
 #. STRINGS.BUILDINGS.PREFABS.WASHSINK.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WASHSINK.NAME"
@@ -6646,10 +6653,16 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.WIREREFINEDBRIDGE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREREFINEDBRIDGE.EFFECT"
 msgid ""
+"Carries more <style=\"power\">Wattage</style> than a regular Wire Bridge "
+"without overloading.\n"
+"\n"
 "Runs one wire section over another without joining them.\n"
 "\n"
 "Can be run through tiles."
 msgstr ""
+"Transporte plus de <style=\"power\">Puissance</style> qu'un pont isolé sans "
+"surcharger.\n"
+"\n"
 "Fait passer un câble par dessus un autre sans les relier.\n"
 "\n"
 "Peut traverser les dalles."
@@ -6670,13 +6683,17 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.WIREREFINEDBRIDGEHIGHWATTAGE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREREFINEDBRIDGEHIGHWATTAGE.EFFECT"
 msgid ""
+"Carries more <style=\"power\">Wattage</style> than a regular Heavi-Watt "
+"Joint Plate without overloading.\n"
+"\n"
 "Allows Heavi-Watt Wire to be run through wall and floor tiles.\n"
 "\n"
 "Functions as a regular tile."
 msgstr ""
-"Permet de faire passer les câbles Haute Tension à travers les dalles et les "
-"cloisons.\n"
+"Transporte plus de <style=\"power\">Puissance</style> qu'une plaque de "
+"jonction HT sans surcharger.\n"
 "\n"
+"Permet aux câbles Haute-Tension de traverser les cloisons et dalles.\n"
 "Fonctionne comme une dalle normale."
 
 #. STRINGS.BUILDINGS.PREFABS.WIREREFINEDBRIDGEHIGHWATTAGE.NAME
@@ -8761,6 +8778,11 @@ msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.FOODEXPECTATION.NAME"
 msgid "Food Quality Expectation"
 msgstr "Qualité de l'Alimentation Attendue"
 
+#. STRINGS.DUPLICANTS.ATTRIBUTES.GENERATOROUTPUT.NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.GENERATOROUTPUT.NAME"
+msgid "Power Output"
+msgstr "Sorties de Puissance"
+
 #. STRINGS.DUPLICANTS.ATTRIBUTES.HITPOINTSDELTA.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.HITPOINTSDELTA.DESC"
 msgid ""
@@ -9279,7 +9301,7 @@ msgstr "Ce Duplicant construit un nouvel équipement"
 #. STRINGS.DUPLICANTS.CHORES.BUILDDIG.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDDIG.NAME"
 msgid "Construction Dig"
-msgstr "Minage avant Construction"
+msgstr "Miner avant Construction"
 
 #. STRINGS.DUPLICANTS.CHORES.BUILDDIG.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDDIG.STATUS"
@@ -9327,7 +9349,7 @@ msgstr "Ce Duplicant attend d'avoir l'autorisation de passer"
 #. STRINGS.DUPLICANTS.CHORES.CLEANTOILET.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.CLEANTOILET.NAME"
 msgid "Clean"
-msgstr "Nettoye"
+msgstr "Nettoyer"
 
 #. STRINGS.DUPLICANTS.CHORES.CLEANTOILET.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.CLEANTOILET.STATUS"
@@ -9372,7 +9394,7 @@ msgstr "Ce Duplicant cuisine"
 #. STRINGS.DUPLICANTS.CHORES.COOLDOWN.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.COOLDOWN.NAME"
 msgid "Cool Off"
-msgstr "Refroidit"
+msgstr "Refroidir"
 
 #. STRINGS.DUPLICANTS.CHORES.COOLDOWN.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.COOLDOWN.STATUS"
@@ -9387,7 +9409,7 @@ msgstr "Ce Duplicant a eu trop chaud et essaie de se rafraîchir"
 #. STRINGS.DUPLICANTS.CHORES.COUGH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.COUGH.NAME"
 msgid "Cough"
-msgstr "Toux"
+msgstr "Tousser"
 
 #. STRINGS.DUPLICANTS.CHORES.COUGH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.COUGH.STATUS"
@@ -9524,7 +9546,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.CHORES.DOCTOR.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DOCTOR.NAME"
 msgid "Treat Patient"
-msgstr "Traitement d'un patient"
+msgstr "Traiter un patient"
 
 #. STRINGS.DUPLICANTS.CHORES.DOCTOR.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DOCTOR.STATUS"
@@ -9539,7 +9561,7 @@ msgstr "Ce Duplicant essaie d'aider un de ses pairs à aller mieux"
 #. STRINGS.DUPLICANTS.CHORES.DROPUNUSEDINVENTORY.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DROPUNUSEDINVENTORY.NAME"
 msgid "Drop Inventory"
-msgstr "Abandonne l'Inventaire"
+msgstr "Abandonner l'Inventaire"
 
 #. STRINGS.DUPLICANTS.CHORES.DROPUNUSEDINVENTORY.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DROPUNUSEDINVENTORY.STATUS"
@@ -9588,7 +9610,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.NAME"
 msgid "Empty Storage"
-msgstr "Stockage Vide"
+msgstr "Vider le stockage"
 
 #. STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.STATUS"
@@ -9652,7 +9674,7 @@ msgstr "Ce Duplicant enfile son équipement de protection"
 #. STRINGS.DUPLICANTS.CHORES.FABRICATE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.FABRICATE.NAME"
 msgid "Fabricate"
-msgstr "Fabrique"
+msgstr "Fabriquer"
 
 #. STRINGS.DUPLICANTS.CHORES.FABRICATE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.FABRICATE.STATUS"
@@ -9667,7 +9689,7 @@ msgstr "Ce Duplicant fabrique quelque chose"
 #. STRINGS.DUPLICANTS.CHORES.FETCH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.FETCH.NAME"
 msgid "Deliver"
-msgstr "Livre"
+msgstr "Livrer"
 
 #. STRINGS.DUPLICANTS.CHORES.FETCH.REPORT_NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.FETCH.REPORT_NAME"
@@ -9732,7 +9754,7 @@ msgstr "Ce Duplicant produit de l'énergie électrique"
 #. STRINGS.DUPLICANTS.CHORES.GENESHUFFLE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.GENESHUFFLE.NAME"
 msgid "Use Neural Vacillator"
-msgstr "Utilise le Vacillateur Neuronal"
+msgstr "Utiliser le Vacillateur Neuronal"
 
 #. STRINGS.DUPLICANTS.CHORES.GENESHUFFLE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.GENESHUFFLE.STATUS"
@@ -9763,7 +9785,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.CHORES.HEAL.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.HEAL.NAME"
 msgid "Heal"
-msgstr "Soigne"
+msgstr "Soigner"
 
 # "En tran de soigner" ou "en rémission" ?
 #. STRINGS.DUPLICANTS.CHORES.HEAL.STATUS
@@ -9825,7 +9847,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.CHORES.MOVETO.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETO.NAME"
 msgid "Move to"
-msgstr "Va à"
+msgstr "Aller à"
 
 # Location : position / endroit..
 #. STRINGS.DUPLICANTS.CHORES.MOVETO.STATUS
@@ -9859,7 +9881,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.CHORES.MOVETOSAFETY.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOSAFETY.NAME"
 msgid "Move to Safety"
-msgstr "Va en sécurité"
+msgstr "Se mettre en Sécurité"
 
 #. STRINGS.DUPLICANTS.CHORES.MOVETOSAFETY.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOSAFETY.STATUS"
@@ -9904,7 +9926,7 @@ msgstr "Zzzzzz..."
 #. STRINGS.DUPLICANTS.CHORES.PEE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.PEE.NAME"
 msgid "Relieve Self"
-msgstr "Se soulage"
+msgstr "Se soulager"
 
 #. STRINGS.DUPLICANTS.CHORES.PEE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.PEE.STATUS"
@@ -9919,7 +9941,7 @@ msgstr "Ce Duplicant n'a pas trouvé de toilettes à temps. Oups"
 #. STRINGS.DUPLICANTS.CHORES.POWER_TINKER.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.POWER_TINKER.NAME"
 msgid "Tinker"
-msgstr "Bricolage"
+msgstr "Bricoler"
 
 #. STRINGS.DUPLICANTS.CHORES.POWER_TINKER.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.POWER_TINKER.STATUS"
@@ -10000,8 +10022,8 @@ msgstr "Pas de besoin"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.HEADER
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.HEADER"
-msgid "Errands {Selected} could perform here:"
-msgstr "Tâches que {Selected} peut effectuer ici:"
+msgid "The selected {Selected} could:"
+msgstr "Ce que {Selected} peut faire ici:"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_ALLOWED_BY_AUTOMATION
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_ALLOWED_BY_AUTOMATION"
@@ -10184,7 +10206,7 @@ msgstr "Retrouve son souffle"
 #. STRINGS.DUPLICANTS.CHORES.RELAX.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RELAX.NAME"
 msgid "Relax"
-msgstr "Se détend"
+msgstr "Se détendre"
 
 #. STRINGS.DUPLICANTS.CHORES.RELAX.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.RELAX.STATUS"
@@ -10245,7 +10267,7 @@ msgstr "Ce Duplicant sauve un autre Duplicant qui est frappé d'incapacité"
 #. STRINGS.DUPLICANTS.CHORES.RESEARCH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RESEARCH.NAME"
 msgid "Research"
-msgstr "Recherche"
+msgstr "Rechercher"
 
 #. STRINGS.DUPLICANTS.CHORES.RESEARCH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.RESEARCH.STATUS"
@@ -10260,7 +10282,7 @@ msgstr "Ce Duplicant travaille sur la recherche actuellement sélectionnée"
 #. STRINGS.DUPLICANTS.CHORES.RESTDUETODISEASE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RESTDUETODISEASE.NAME"
 msgid "Rest"
-msgstr "Repos"
+msgstr "Se Reposer"
 
 #. STRINGS.DUPLICANTS.CHORES.RESTDUETODISEASE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.RESTDUETODISEASE.STATUS"
@@ -10306,7 +10328,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.CHORES.SHOWER.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.SHOWER.NAME"
 msgid "Shower"
-msgstr "Douche"
+msgstr "Se Doucher"
 
 #. STRINGS.DUPLICANTS.CHORES.SHOWER.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.SHOWER.STATUS"
@@ -10321,7 +10343,7 @@ msgstr "Ce Duplicant prend une douche rafraîchissante"
 #. STRINGS.DUPLICANTS.CHORES.SIGH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.SIGH.NAME"
 msgid "Sigh"
-msgstr "Soupire"
+msgstr "Soupirer"
 
 #. STRINGS.DUPLICANTS.CHORES.SIGH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.SIGH.STATUS"
@@ -10395,11 +10417,10 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.TOOLTIP"
 msgid "Some people deal with stress better than others"
 msgstr "Des personnes gèrent le stress mieux que d'autres"
 
-# mission de départ ? autre chose ?
 #. STRINGS.DUPLICANTS.CHORES.SWITCHROLE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.SWITCHROLE.NAME"
 msgid "Start Job"
-msgstr "Mission Initiale"
+msgstr "Démarrer une Mission"
 
 #. STRINGS.DUPLICANTS.CHORES.SWITCHROLE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.SWITCHROLE.STATUS"
@@ -10429,7 +10450,7 @@ msgstr "Ce Duplicant prend une dose de médicament pour contenir la maladie"
 #. STRINGS.DUPLICANTS.CHORES.TOGGLE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.TOGGLE.NAME"
 msgid "Change Setting"
-msgstr "Modifie les Paramètres"
+msgstr "Modifier les Paramètres"
 
 #. STRINGS.DUPLICANTS.CHORES.TOGGLE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.TOGGLE.STATUS"
@@ -10551,7 +10572,7 @@ msgstr "Vomir produit de l'Eau Polluée et peut répandre des maladies"
 #. STRINGS.DUPLICANTS.CHORES.WARMUP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.WARMUP.NAME"
 msgid "Warm Up"
-msgstr "Se Réchauffe"
+msgstr "Se Réchauffer"
 
 #. STRINGS.DUPLICANTS.CHORES.WARMUP.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.WARMUP.STATUS"
@@ -10566,7 +10587,7 @@ msgstr "Ce Duplicant a eu trop froid et va se réchauffer"
 #. STRINGS.DUPLICANTS.CHORES.WASHHANDS.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.WASHHANDS.NAME"
 msgid "Wash Hands"
-msgstr "Se Lave les mains"
+msgstr "Se Laver les mains"
 
 #. STRINGS.DUPLICANTS.CHORES.WASHHANDS.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.WASHHANDS.STATUS"
@@ -11932,11 +11953,10 @@ msgstr "Amélioré par un Ingé"
 #. STRINGS.DUPLICANTS.MODIFIERS.MACHINETINKER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MACHINETINKER.TOOLTIP"
 msgid ""
-"A skilled Engineer has fine tuned all the gears and sprockets to make things "
-"run faster"
+"A skilled Engineer has jerryrigged this generator to temporarily run faster"
 msgstr ""
-"Un ingénieur expérimenté a réglé finement les engrenages et pignons pour "
-"rendre les choses plus rapides."
+"Un ingénieur expérimenté a bidouillé ce générateur pour le rendre "
+"temporairement plus rapides."
 
 #. STRINGS.DUPLICANTS.MODIFIERS.MANAGEDCOLONY.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MANAGEDCOLONY.NAME"
@@ -12490,19 +12510,19 @@ msgstr "Ce Duplicant n'a pas fermé l'œil de la nuit à cause du boucan"
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TIME_REMAINING"
 msgid ""
 "\n"
-"Wears off in: {0}"
+"Time Remaining: {0}"
 msgstr ""
 "\n"
-"Se dissipe dans: {0}"
+"Temps Restant: {0}"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.TIME_TOTAL
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TIME_TOTAL"
 msgid ""
 "\n"
-"Effect duration: {0}"
+"Duration: {0}"
 msgstr ""
 "\n"
-"Durée de l'effet: {0}"
+"Durée: {0}"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.TOXICENVIRONMENT.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TOXICENVIRONMENT.NAME"
@@ -13395,8 +13415,11 @@ msgstr "Espèces: {0}"
 
 #. STRINGS.DUPLICANTS.ROLES.ARTIST.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.ARTIST.DESCRIPTION"
-msgid "Artists make better art"
-msgstr "Les Artistes expriment mieux l'Art"
+msgid ""
+"Artists are experienced sculptors and painters and create higher quality art."
+msgstr ""
+"Les Artistes sont des sculpteurs et peintres expérimentés qui créent des "
+"œuvres de haute qualité."
 
 #. STRINGS.DUPLICANTS.ROLES.ARTIST.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.ARTIST.NAME"
@@ -13416,8 +13439,12 @@ msgstr "Botaniste"
 
 #. STRINGS.DUPLICANTS.ROLES.BUILDER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.BUILDER.DESCRIPTION"
-msgid "Builders can build buildings faster"
-msgstr "Les Constructeurs peuvent construire des équipements plus vite"
+msgid ""
+"Architects are competent builders with moderately improved construction "
+"speeds."
+msgstr ""
+"Les Architectes sont des constructeurs compétents avec une vitesse de "
+"construction légèrement augmentée."
 
 #. STRINGS.DUPLICANTS.ROLES.BUILDER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.BUILDER.NAME"
@@ -13499,8 +13526,11 @@ msgstr "Manœuvre"
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_ARTIST.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_ARTIST.DESCRIPTION"
-msgid "Artists make better art"
-msgstr "Les Artistes expriment mieux l'Art"
+msgid ""
+"Artist Students are new artists who make improved paintings and sculptures."
+msgstr ""
+"Les Étudiants en Art sont de nouveaux artistes qui créent des peintures et "
+"sculptures améliorées."
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_ARTIST.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_ARTIST.NAME"
@@ -13509,8 +13539,12 @@ msgstr "Étudiant en Art"
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_BUILDER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_BUILDER.DESCRIPTION"
-msgid "Builders can build buildings faster"
-msgstr "Les Bâtisseurs peuvent construire des équipements plus rapidement"
+msgid ""
+"Apprentice Architects are new builders with marginally improved construction "
+"speeds."
+msgstr ""
+"Les Apprenti Architectes sont de nouveaux constructeurs qui bénéficient "
+"d'une vitesse de construction légèrement augmentée."
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_BUILDER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_BUILDER.NAME"
@@ -13615,8 +13649,8 @@ msgstr "Mineur"
 
 #. STRINGS.DUPLICANTS.ROLES.NO_ROLE.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.NO_ROLE.DESCRIPTION"
-msgid "This Duplicant has not been assigned a job"
-msgstr "Ce Duplicant n'a pas de mission assignée"
+msgid "No job assignment."
+msgstr "Pas d'assignation de mission."
 
 #. STRINGS.DUPLICANTS.ROLES.NO_ROLE.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.NO_ROLE.NAME"
@@ -13662,8 +13696,12 @@ msgstr "Mission Maîtrisée"
 
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_BUILDER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_BUILDER.DESCRIPTION"
-msgid "Builders can build buildings faster"
-msgstr "Les Constructeurs peuvent fabriquer les équipements plus vite"
+msgid ""
+"Senior Architects are experienced builders with vastly improved construction "
+"speeds."
+msgstr ""
+"Les Architectes Seniors sont des constructeurs expérimentés qui bénéficient "
+"d'une vitesse de construction largement améliorée."
 
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_BUILDER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_BUILDER.NAME"
@@ -15263,10 +15301,8 @@ msgstr "Attribue {Item} à {Target}"
 msgctxt ""
 "STRINGS.DUPLICANTS.STATUSITEMS.STOREFORBUILDPRIORITIZEDDELIVERSTATUS.TOOLTIP"
 msgid ""
-"This Duplicant is delivering {Item} resources to a {Target} construction "
-"errand"
-msgstr ""
-"Ce Duplicant livre {Item} ressources à un site de construction de {Target}"
+"This Duplicant is delivering materials to a {Target} construction errand"
+msgstr "Ce Duplicant livre des matériaux à un site de construction de {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STOREPRIORITYDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STOREPRIORITYDELIVERSTATUS.NAME"
@@ -19288,8 +19324,8 @@ msgid ""
 "A baked <style=\"food\">Bristle Berry</style> stuffed with delectable spices "
 "and vibrantly flavored."
 msgstr ""
-"Une <style=\"food\">Baie Velue</style> farcie avec de délicieuses épices "
-"et délicatement parfumée."
+"Une <style=\"food\">Baie Velue</style> farcie avec de délicieuses épices et "
+"délicatement parfumée."
 
 #. STRINGS.ITEMS.FOOD.SALSA.NAME
 msgctxt "STRINGS.ITEMS.FOOD.SALSA.NAME"
@@ -19302,8 +19338,8 @@ msgid ""
 "A baked <style=\"food\">Bristle Berry</style> stuffed with delectable spices "
 "and vibrantly flavored."
 msgstr ""
-"Une <style=\"food\">Baie Velue</style> farcie avec de délicieuses épices "
-"et délicatement parfumée."
+"Une <style=\"food\">Baie Velue</style> farcie avec de délicieuses épices et "
+"délicatement parfumée."
 
 #. STRINGS.ITEMS.FOOD.SPICEBREAD.DESC
 msgctxt "STRINGS.ITEMS.FOOD.SPICEBREAD.DESC"
@@ -21552,8 +21588,8 @@ msgstr "À Base d'Eau"
 
 #. STRINGS.MISC.TAGS.ART
 msgctxt "STRINGS.MISC.TAGS.ART"
-msgid "Wiring-related delivery and building"
-msgstr "Livraison et fabrication en lien avec l'Art"
+msgid "Art Build-Delivery"
+msgstr "Livraison pour les objets d'Art"
 
 #. STRINGS.MISC.TAGS.BAGABLECREATURE
 msgctxt "STRINGS.MISC.TAGS.BAGABLECREATURE"
@@ -21592,8 +21628,8 @@ msgstr "Minéral brut"
 
 #. STRINGS.MISC.TAGS.BUILDING
 msgctxt "STRINGS.MISC.TAGS.BUILDING"
-msgid "Build-related delivery and digging"
-msgstr "Livraison et minage en lien avec la Construction"
+msgid "Build Dig-Delivery"
+msgstr "Livraison pour l'Excavation"
 
 #. STRINGS.MISC.TAGS.BURNS
 msgctxt "STRINGS.MISC.TAGS.BURNS"
@@ -21637,13 +21673,13 @@ msgstr "Minerai consommable"
 
 #. STRINGS.MISC.TAGS.CONVEYOR
 msgctxt "STRINGS.MISC.TAGS.CONVEYOR"
-msgid "Shipping-related building"
-msgstr "Équipements liés aux Livraisons"
+msgid "Shipping Build"
+msgstr "Construction en lien avec la Livraison"
 
 #. STRINGS.MISC.TAGS.COOKING
 msgctxt "STRINGS.MISC.TAGS.COOKING"
-msgid "Cooking-related delivery"
-msgstr "Livraison en lien avec la Cuisine "
+msgid "Cook Delivery"
+msgstr "Livraison pour la Cuisine"
 
 #. STRINGS.MISC.TAGS.COOKINGINGREDIENT
 msgctxt "STRINGS.MISC.TAGS.COOKINGINGREDIENT"
@@ -21662,8 +21698,8 @@ msgstr "Décoration"
 
 #. STRINGS.MISC.TAGS.DOCTORING
 msgctxt "STRINGS.MISC.TAGS.DOCTORING"
-msgid "Medicine-related delivery"
-msgstr "Livraison en lien avec la Médecine"
+msgid "Care Delivery"
+msgstr "Livraison pour les Soins"
 
 #. STRINGS.MISC.TAGS.EDIBLE
 msgctxt "STRINGS.MISC.TAGS.EDIBLE"
@@ -21682,8 +21718,8 @@ msgstr "Extrudable"
 
 #. STRINGS.MISC.TAGS.FABRICATING
 msgctxt "STRINGS.MISC.TAGS.FABRICATING"
-msgid "Fabrication-related delivery"
-msgstr "Livraison en lien avec la Fabrication"
+msgid "Fabricate Delivery"
+msgstr "Livraison pour la Fabrication"
 
 #. STRINGS.MISC.TAGS.FARMABLE
 msgctxt "STRINGS.MISC.TAGS.FARMABLE"
@@ -21692,8 +21728,8 @@ msgstr "Sol cultivable"
 
 #. STRINGS.MISC.TAGS.FARMING
 msgctxt "STRINGS.MISC.TAGS.FARMING"
-msgid "Farming-related building and delivery"
-msgstr "Livraison et construction en lien avec l'agriculture"
+msgid "Farm Build-Delivery"
+msgstr "Livraison pour l'agriculture"
 
 #. STRINGS.MISC.TAGS.FARMSTATION
 msgctxt "STRINGS.MISC.TAGS.FARMSTATION"
@@ -21828,8 +21864,8 @@ msgstr "Plombable"
 
 #. STRINGS.MISC.TAGS.POWER
 msgctxt "STRINGS.MISC.TAGS.POWER"
-msgid "Power-related delivery"
-msgstr "Livraison en lien avec l'Énergie"
+msgid "Generator Delivery"
+msgstr "Livraison pour le Générateur"
 
 #. STRINGS.MISC.TAGS.POWERSTATION
 msgctxt "STRINGS.MISC.TAGS.POWERSTATION"
@@ -21858,8 +21894,8 @@ msgstr "Salle de Pause"
 
 #. STRINGS.MISC.TAGS.RESEARCH
 msgctxt "STRINGS.MISC.TAGS.RESEARCH"
-msgid "Research-related delivery"
-msgstr "Livraison en lien avec la Recherche"
+msgid "Research Delivery"
+msgstr "Livraison pour la Recherche"
 
 #. STRINGS.MISC.TAGS.SEED
 msgctxt "STRINGS.MISC.TAGS.SEED"
@@ -21908,8 +21944,8 @@ msgstr "Instable"
 
 #. STRINGS.MISC.TAGS.WIRING
 msgctxt "STRINGS.MISC.TAGS.WIRING"
-msgid "Wiring-related delivery and building"
-msgstr "Livraison et construction en lien avec le Câblage"
+msgid "Wire Build-Delivery"
+msgstr "Livraison pour la construction de Câbles"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.ACIDIC
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.ACIDIC"
@@ -27797,9 +27833,8 @@ msgid ""
 "Your colony lost {0} of <style=\"power\">Power</style> today due to "
 "overproduction and battery loss"
 msgstr ""
-"Votre colonie a perdu {0} d'<style=\"power\">Énergie</style> aujourd'hui à"
-" cause "
-"de la surproduction et la perte de charge des batteries"
+"Votre colonie a perdu {0} d'<style=\"power\">Énergie</style> aujourd'hui à "
+"cause de la surproduction et la perte de charge des batteries"
 
 #. STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.NAME"
@@ -31899,9 +31934,9 @@ msgstr "MISSIONS"
 
 #. STRINGS.UI.ROLES_SCREEN.NO_JOB_STATION_WARNING
 msgctxt "STRINGS.UI.ROLES_SCREEN.NO_JOB_STATION_WARNING"
-msgid "Build a Jobs Desk to unlock Job Assignments"
+msgid "Build a Jobs Board to unlock Job Assignments"
 msgstr ""
-"Construisez un Bureau de Recrutement pour accéder à l'assignation des "
+"Construisez un Bureau de Recrutement pour débloquer l'assignation des "
 "missions"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.ADVANCED_RESEARCH.DESCRIPTION
@@ -32773,6 +32808,11 @@ msgctxt "STRINGS.UI.TOOLTIPS.DISMISSMESSAGE"
 msgid "Dismiss message"
 msgstr "Supprimer le message"
 
+#. STRINGS.UI.TOOLTIPS.EDITCREATURENAME
+msgctxt "STRINGS.UI.TOOLTIPS.EDITCREATURENAME"
+msgid "Give this lil' creature a new name"
+msgstr "Donnez un nouveau nom à cette petite créature"
+
 #. STRINGS.UI.TOOLTIPS.EDITNAME
 msgctxt "STRINGS.UI.TOOLTIPS.EDITNAME"
 msgid "Give this Duplicant a new name"
@@ -33087,6 +33127,11 @@ msgstr "Affiche les valeurs de priorité des tâches"
 msgctxt "STRINGS.UI.TOOLTIPS.PRIORITIZEBUTTON"
 msgid "Drag to reprioritize errands"
 msgstr "Faîtes glisser pour changer la priorité des tâches"
+
+#. STRINGS.UI.TOOLTIPS.RANDOMIZECREATURENAME
+msgctxt "STRINGS.UI.TOOLTIPS.RANDOMIZECREATURENAME"
+msgid "Randomize this creature's name"
+msgstr "Nom aléatoire pour cette créature"
 
 #. STRINGS.UI.TOOLTIPS.RANDOMIZENAME
 msgctxt "STRINGS.UI.TOOLTIPS.RANDOMIZENAME"
@@ -36013,4 +36058,115 @@ msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT9"
 msgid "Sprinkling sand..."
 msgstr "Aspersion de sable..."
 
+#~ msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_TEMPERATURE.NAME"
+#~ msgid "Too Cold"
+#~ msgstr "Trop Froid"
 
+#~ msgctxt ""
+#~ "STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_TEMPERATURE.TOOLTIP"
+#~ msgid ""
+#~ "The {ELEMENT} used to power the turbine must be at least {TEMPERATURE}"
+#~ msgstr ""
+#~ "L'{ELEMENT} utilisé pour alimenter la turbine doit être au moins à "
+#~ "{TEMPERATURE}."
+
+#~ msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_SPINNING_UP.TOOLTIP"
+#~ msgid "The turbine needs more time to spin up"
+#~ msgstr "Cette turbine a besoin de plus de temps pour tourner"
+
+#~ msgctxt "STRINGS.BUILDINGS.PREFABS.WIREREFINEDBRIDGE.EFFECT"
+#~ msgid ""
+#~ "Runs one wire section over another without joining them.\n"
+#~ "\n"
+#~ "Can be run through tiles."
+#~ msgstr ""
+#~ "Fait passer un câble par dessus un autre sans les relier.\n"
+#~ "\n"
+#~ "Peut traverser les dalles."
+
+#~ msgctxt "STRINGS.BUILDINGS.PREFABS.WIREREFINEDBRIDGEHIGHWATTAGE.EFFECT"
+#~ msgid ""
+#~ "Allows Heavi-Watt Wire to be run through wall and floor tiles.\n"
+#~ "\n"
+#~ "Functions as a regular tile."
+#~ msgstr ""
+#~ "Permet de faire passer les câbles Haute Tension à travers les dalles et "
+#~ "les cloisons.\n"
+#~ "\n"
+#~ "Fonctionne comme une dalle normale."
+
+#~ msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.HEADER"
+#~ msgid "Errands {Selected} could perform here:"
+#~ msgstr "Tâches que {Selected} peut effectuer ici:"
+
+#~ msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TIME_REMAINING"
+#~ msgid ""
+#~ "\n"
+#~ "Wears off in: {0}"
+#~ msgstr ""
+#~ "\n"
+#~ "Se dissipe dans: {0}"
+
+#~ msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TIME_TOTAL"
+#~ msgid ""
+#~ "\n"
+#~ "Effect duration: {0}"
+#~ msgstr ""
+#~ "\n"
+#~ "Durée de l'effet: {0}"
+
+#~ msgctxt "STRINGS.DUPLICANTS.ROLES.ARTIST.DESCRIPTION"
+#~ msgid "Artists make better art"
+#~ msgstr "Les Artistes expriment mieux l'Art"
+
+#~ msgctxt "STRINGS.DUPLICANTS.ROLES.BUILDER.DESCRIPTION"
+#~ msgid "Builders can build buildings faster"
+#~ msgstr "Les Constructeurs peuvent construire des équipements plus vite"
+
+#~ msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_ARTIST.DESCRIPTION"
+#~ msgid "Artists make better art"
+#~ msgstr "Les Artistes expriment mieux l'Art"
+
+#~ msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_BUILDER.DESCRIPTION"
+#~ msgid "Builders can build buildings faster"
+#~ msgstr "Les Bâtisseurs peuvent construire des équipements plus rapidement"
+
+#~ msgctxt "STRINGS.DUPLICANTS.ROLES.NO_ROLE.DESCRIPTION"
+#~ msgid "This Duplicant has not been assigned a job"
+#~ msgstr "Ce Duplicant n'a pas de mission assignée"
+
+#~ msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_BUILDER.DESCRIPTION"
+#~ msgid "Builders can build buildings faster"
+#~ msgstr "Les Constructeurs peuvent fabriquer les équipements plus vite"
+
+#~ msgctxt "STRINGS.MISC.TAGS.ART"
+#~ msgid "Wiring-related delivery and building"
+#~ msgstr "Livraison et fabrication en lien avec l'Art"
+
+#~ msgctxt "STRINGS.MISC.TAGS.BUILDING"
+#~ msgid "Build-related delivery and digging"
+#~ msgstr "Livraison et minage en lien avec la Construction"
+
+#~ msgctxt "STRINGS.MISC.TAGS.CONVEYOR"
+#~ msgid "Shipping-related building"
+#~ msgstr "Équipements liés aux Livraisons"
+
+#~ msgctxt "STRINGS.MISC.TAGS.COOKING"
+#~ msgid "Cooking-related delivery"
+#~ msgstr "Livraison en lien avec la Cuisine "
+
+#~ msgctxt "STRINGS.MISC.TAGS.DOCTORING"
+#~ msgid "Medicine-related delivery"
+#~ msgstr "Livraison en lien avec la Médecine"
+
+#~ msgctxt "STRINGS.MISC.TAGS.FARMING"
+#~ msgid "Farming-related building and delivery"
+#~ msgstr "Livraison et construction en lien avec l'agriculture"
+
+#~ msgctxt "STRINGS.MISC.TAGS.POWER"
+#~ msgid "Power-related delivery"
+#~ msgstr "Livraison en lien avec l'Énergie"
+
+#~ msgctxt "STRINGS.MISC.TAGS.WIRING"
+#~ msgid "Wiring-related delivery and building"
+#~ msgstr "Livraison et construction en lien avec le Câblage"
