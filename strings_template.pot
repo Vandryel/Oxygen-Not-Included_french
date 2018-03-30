@@ -4240,7 +4240,7 @@ msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.POLYMERIZER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.POLYMERIZER.EFFECT"
-msgid "Converts <link=\"CRUDEOIL\">Crude Oil</link> into raw <link=\"PETROLEUM\">Petroleum</link>."
+msgid "Converts <link=\"PETROLEUM\">Petroleum</link> into raw <link=\"POLYPROPYLENE\">Plastic</link>."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.POLYMERIZER.NAME
@@ -5571,6 +5571,16 @@ msgstr ""
 #. STRINGS.CREATURES.MODIFIERS.BASE_FERTILITY.TOOLTIP
 msgctxt "STRINGS.CREATURES.MODIFIERS.BASE_FERTILITY.TOOLTIP"
 msgid "This is the base speed with which critters produce new eggs"
+msgstr ""
+
+#. STRINGS.CREATURES.MODIFIERS.CONFINED.NAME
+msgctxt "STRINGS.CREATURES.MODIFIERS.CONFINED.NAME"
+msgid "Confined"
+msgstr ""
+
+#. STRINGS.CREATURES.MODIFIERS.CONFINED.TOOLTIP
+msgctxt "STRINGS.CREATURES.MODIFIERS.CONFINED.TOOLTIP"
+msgid "This critter is inside a door, tile, or confined space."
 msgstr ""
 
 #. STRINGS.CREATURES.MODIFIERS.DOMESTICATION_DECREASING.NAME
@@ -18200,7 +18210,7 @@ msgstr ""
 
 #. STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.TOOLTIP"
-msgid "<link=\"{0}\">research</link> research complete!"
+msgid "{0} research complete!"
 msgstr ""
 
 #. STRINGS.MISC.NOTIFICATIONS.RESOURCEMELTED.NAME
